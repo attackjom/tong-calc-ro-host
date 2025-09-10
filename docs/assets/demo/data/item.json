@@ -229332,5 +229332,395 @@
         "2---10"
       ]
     }
+  },
+  "1270142": {
+    "id": 1270142,
+    "aegisName": "S_BP8_Melee_W",
+    "flavorText": null,
+    "name": "Nebula Melee Shadow Weapon",
+    "unidName": "Nebula Melee Shadow Weapon",
+    "resName": "웨폰쉐도우2",
+    "unidResName": "웨폰쉐도우2",
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\n^ff0000ไม่สามารถอัพเกรดทั่วไปได้^000000\nทุก ๆ การอัพเกรด 2 ขั้น, ATK + 15\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางกายภาพระยะใกล้ 2%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 10%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพต่อมอนสเตอร์ประเภท Boss 10%\nเมื่ออัพเกรดถึงขั้น 10, เพิกเฉยต่อพลังป้องกันทางกายภาพของศัตรูทุกเผ่า 100% (ยกเว้น Player)\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Weapon^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 280,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": "Weapon",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "1---1",
+        "2---15"
+      ],
+      "matk": [
+        "1---1"
+      ],
+      "melee": [
+        "3---2"
+      ],
+      "p_race_all": [
+        "7===10"
+      ],
+      "p_class_boss": [
+        "9===10"
+      ],
+      "p_pene_race_all": [
+        "10===100"
+      ]
+    }
+  },
+  "1270144": {
+    "id": 1270144,
+    "aegisName": "S_BP8_Range_W",
+    "flavorText": null,
+    "name": "Nebula Range Shadow Weapon",
+    "unidName": "Nebula Range Shadow Weapon",
+    "resName": "낡은웨폰쉐도우",
+    "unidResName": "낡은웨폰쉐도우",
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\n^ff0000ไม่สามารถอัพเกรดทั่วไปได้^000000\nทุก ๆ การอัพเกรด 2 ขั้น, ATK + 15\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางกายภาพระยะไกล 2%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 10%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพต่อศัตรูมอนสเตอร์ประเภท Boss 10%\nเมื่ออัพเกรดถึงขั้น 10, เพิกเฉยต่อพลังป้องกันทางกายภาพของศัตรูทุกเผ่า 100% (ยกเว้น Player)\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Weapon^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 280,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": "Weapon",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "1---1",
+        "2---15"
+      ],
+      "matk": [
+        "1---1"
+      ],
+      "range": [
+        "3---2"
+      ],
+      "p_race_all": [
+        "7===10"
+      ],
+      "p_class_boss": [
+        "9===10"
+      ],
+      "p_pene_race_all": [
+        "10===100"
+      ]
+    }
+  },
+  "1270146": {
+    "id": 1270146,
+    "aegisName": "S_BP8_Magic_W",
+    "flavorText": null,
+    "name": "Nebula Magic Shadow Weapon",
+    "unidName": "Nebula Magic Shadow Weapon",
+    "resName": "웨폰쉐도우3",
+    "unidResName": "웨폰쉐도우3",
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\n^ff0000ไม่สามารถอัพเกรดทั่วไปได้^000000\nทุก ๆ การอัพเกรด 2 ขั้น, MATK + 15\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 2%.\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 10%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางเวทมนตร์ต่อมอนสเตอร์ประเภท Boss 10%\nเมื่ออัพเกรดถึงขั้น 10, เพิกเฉยต่อพลังป้องกันทางเวทมนตร์ของศัตรูทุกเผ่า 100% (ยกเว้น Player)\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Weapon^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 280,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": "Weapon",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "1---1"
+      ],
+      "matk": [
+        "1---1",
+        "2---15"
+      ],
+      "m_my_element_all": [
+        "3---2"
+      ],
+      "m_race_all": [
+        "7===10"
+      ],
+      "m_class_boss": [
+        "9===10"
+      ],
+      "m_pene_race_all": [
+        "10===100"
+      ]
+    }
+  },
+  "1270143": {
+    "id": 1270143,
+    "aegisName": "S_BP8_Melee_S",
+    "flavorText": null,
+    "name": "Nebula Melee Shadow Shield",
+    "unidName": "Nebula Melee Shadow Shield",
+    "resName": "쉴드쉐도우2",
+    "unidResName": "쉴드쉐도우2",
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\n^ff0000ไม่สามารถอัพเกรดทั่วไปได้^000000\nทุก ๆ การอัพเกรด 2 ขั้น, ลด Delay หลังใช้สกิล 1%\nทุก ๆ การอัพเกรด 3 ขั้น, ลดระยะเวลาร่ายแบบคงที่ 0.2 วินาที\nเมื่ออัพเกรดถึงขั้น 7, All Status + 4, All Trait Status + 4\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%\nเมื่ออัพเกรดถึงขั้น 10, MaxHP + 10%, MaxSP + 10%\n\nเมื่อสวมใส่ร่วมกับ Nebula Melee Shadow Weapon,\nP.ATK + 10\nเพิกเฉยต่อ RES ของศัตรูทุกเผ่า 30%\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Shield^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": "Shield",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "acd": [
+        "2---1"
+      ],
+      "fct": [
+        "3---0.2"
+      ],
+      "allStatus": [
+        "7===4"
+      ],
+      "allTrait": [
+        "7===4"
+      ],
+      "melee": [
+        "9===10"
+      ],
+      "hpPercent": [
+        "10===10"
+      ],
+      "spPercent": [
+        "10===10"
+      ],
+      "pAtk": [
+        "EQUIP[Nebula Melee Shadow Weapon]===10"
+      ],
+      "pene_res": [
+        "EQUIP[Nebula Melee Shadow Weapon]===30"
+      ]
+    }
+  },
+  "1270145": {
+    "id": 1270145,
+    "aegisName": "S_BP8_Range_S",
+    "flavorText": null,
+    "name": "Nebula Range Shadow Shield",
+    "unidName": "Nebula Range Shadow Shield",
+    "resName": "낡은쉴드쉐도우",
+    "unidResName": "낡은쉴드쉐도우",
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\n^ff0000ไม่สามารถอัพเกรดทั่วไปได้^000000\nทุก ๆ การอัพเกรด 2 ขั้น, ลด Delay หลังใช้สกิล 1%\nทุก ๆ การอัพเกรด 3 ขั้น, ลดระยะร่ายแบบคงที่ 0.2 วินาที\nเมื่ออัพเกรดถึงขั้น 7, All Status + 4, All Trait Status + 4\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพระยะไกล 10%\nเมื่ออัพเกรดถึงขั้น 10, MaxHP + 10%, MaxSP + 10%\n\nเมื่อสวมใส่ร่วมกับ Nebula Range Shadow Weapon,\nP.ATK + 10\nเพิกเฉยต่อ RES ของศัตรูทุกเผ่า 30%\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Shield^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": "Shield",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "acd": [
+        "2---1"
+      ],
+      "fct": [
+        "3---0.2"
+      ],
+      "allStatus": [
+        "7===4"
+      ],
+      "allTrait": [
+        "7===4"
+      ],
+      "range": [
+        "9===10"
+      ],
+      "hpPercent": [
+        "10===10"
+      ],
+      "spPercent": [
+        "10===10"
+      ],
+      "pAtk": [
+        "EQUIP[Nebula Range Shadow Weapon]===10"
+      ],
+      "pene_res": [
+        "EQUIP[Nebula Range Shadow Weapon]===30"
+      ]
+    }
+  },
+  "1270147": {
+    "id": 1270147,
+    "aegisName": "S_BP8_Magic_S",
+    "flavorText": null,
+    "name": "Nebula Magic Shadow Shield",
+    "unidName": "Nebula Magic Shadow Shield",
+    "resName": "쉴드쉐도우3",
+    "unidResName": "쉴드쉐도우3",
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\n^ff0000ไม่สามารถอัพเกรดทั่วไปได้^000000\nทุก ๆ การอัพเกรด 2 ขั้น, ลด Delay หลังใช้สกิล 1%\nทุก ๆ การอัพเกรด 3 ขั้น, ลดระยะร่ายแบบคงที่ 0.2 วินาที\nเมื่ออัพเกรดถึงขั้น 7, All Status + 4, All Trait Status + 4\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\nเมื่ออัพเกรดถึงขั้น 10, MaxHP + 10%, MaxSP + 10%\n\nเมื่อสวมใส่ร่วมกับ Nebula Magic Shadow Weapon,\nS.MATK + 10\nเพิกเฉยต่อ MRES ของศัตรูทุกเผ่า 30%\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Shield^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": "Shield",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "acd": [
+        "2---1"
+      ],
+      "fct": [
+        "3---0.2"
+      ],
+      "allStatus": [
+        "7===4"
+      ],
+      "allTrait": [
+        "7===4"
+      ],
+      "m_my_element_all": [
+        "9===10"
+      ],
+      "hpPercent": [
+        "10===10"
+      ],
+      "spPercent": [
+        "10===10"
+      ],
+      "sMatk": [
+        "EQUIP[Nebula Magic Shadow Weapon]===10"
+      ],
+      "pene_mres": [
+        "EQUIP[Nebula Magic Shadow Weapon]===30"
+      ]
+    }
+  },
+  "314380": {
+    "id": 314380,
+    "aegisName": "Star_Melee",
+    "flavorText": null,
+    "name": "Nebula of Melee",
+    "unidName": "Nebula of Melee",
+    "resName": "Nebula_Of_HL",
+    "unidResName": "Nebula_Of_HL",
+    "description": "CRI + 15\nMaxHP + 5%\nเพิ่ม Damage ทางกายภาพระยะใกล้ 5%\nทุก ๆ การอัพเกรด 2 ขั้น, \nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 1%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "script": {
+      "cri": [
+        "15"
+      ],
+      "hpPercent": [
+        "5"
+      ],
+      "melee": [
+        "5"
+      ],
+      "p_size_all": [
+        "2---1"
+      ]
+    }
+  },
+  "314382": {
+    "id": 314382,
+    "aegisName": "Star_Range",
+    "flavorText": null,
+    "name": "Nebula of Range",
+    "unidName": "Nebula of Range",
+    "resName": "Nebula_Of_FS",
+    "unidResName": "Nebula_Of_FS",
+    "description": "CRI + 15\nMaxHP + 5%\nเพิ่ม Damage ทางกายภาพระยะไกล 5%\nทุก ๆ การอัพเกรด 2 ขั้น, \nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 1%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "script": {
+      "cri": [
+        "15"
+      ],
+      "hpPercent": [
+        "5"
+      ],
+      "range": [
+        "5"
+      ],
+      "p_size_all": [
+        "2---1"
+      ]
+    }
+  },
+  "314383": {
+    "id": 314383,
+    "aegisName": "Star_Magic",
+    "flavorText": null,
+    "name": "Nebula of Magic",
+    "unidName": "Nebula of Magic",
+    "resName": "Nebula_Of_SP",
+    "unidResName": "Nebula_Of_SP",
+    "description": "ลดระยะเวลาร่ายแบบแปรผัน 10%\nMaxHP + 5%\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 5%\nทุก ๆ การอัพเกรด 2 ขั้น, \nเพิ่ม Damage ทางทางเวทมนตร์ต่อศัตรูทุกธาตุ 1%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "script": {
+      "vct": [
+        "10"
+      ],
+      "hpPercent": [
+        "5"
+      ],
+      "m_my_element_all": [
+        "5"
+      ],
+      "m_size_all": [
+        "2---1"
+      ]
+    }
   }
 }
