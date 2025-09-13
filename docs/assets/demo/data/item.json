@@ -70696,6 +70696,37 @@
       ]
     }
   },
+  "103694": {
+    "id": 103694,
+    "aegisName": "Razer_E_Drink_TH2",
+    "flavorText": null,
+    "name": "Razer Energy Coffee Drink",
+    "unidName": "Razer Energy Coffee Drink",
+    "resName": "릴리프포션_소",
+    "unidResName": "릴리프포션_소",
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nRazer Energy Coffee Drink\nเครื่องดื่มที่ช่วยเพิ่มความสดชื่นให้กับเหล่าเกมเมอร์ได้เป็นอย่างดี\n\nเมื่อใช้งาน จะได้รับผลลัพธ์ดังต่อไปนี้เป็นเวลา 15 นาที\nATK/MATK + 15%\nลดระยะเวลาร่ายแบบแปรผัน 10%\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 3,
+    "itemSubTypeId": 768,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "script": {
+      "vct": [
+        "10"
+      ],
+      "atkPercent": [
+        "15"
+      ],
+      "matkPercent": [
+        "15"
+      ]
+    }
+  },
   "102803": {
     "id": 102803,
     "aegisName": "Force_Booster",
