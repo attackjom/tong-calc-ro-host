@@ -172823,6 +172823,46 @@
       ]
     }
   },
+  "480603": {
+    "id": 480603,
+    "aegisName": "C_Starrysky_Fountainpen",
+    "flavorText": null,
+    "name": "Costume Starrysky Fountainpen",
+    "unidName": "Hood",
+    "resName": "C_Starrysky_Fountainpen",
+    "unidResName": "후드",
+    "description": "ปากกาหมึกซึมที่ได้รับแรงบันดาลใจจากดวงดาวและพระจันทร์เปล่งประกายราวกับท้องฟ้ายามค่ำคืนที่เต็มไปด้วยเวทมนตร์\nเหมาะสำหรับนักผจญภัยผู้หลงใหลในความงามของจักรวาล\n\nMHP + 15000, MSP + 2000\nเพิกเฉยต่อ RES, MRES ของศัตรูทุกเผ่า 20%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 20%\n(ความสามารถพิเศษจะถูกลบออกหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 3 ธันวาคม 2568)\n\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 522,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "script": {
+      "hp": [
+        "15000"
+      ],
+      "sp": [
+        "2000"
+      ],
+      "pene_res": [
+        "20"
+      ],
+      "pene_mres": [
+        "20"
+      ],
+      "p_element_all": [
+        "20"
+      ],
+      "m_element_all": [
+        "20"
+      ]
+    }
+  },
   "480303": {
     "id": 480303,
     "aegisName": null,
