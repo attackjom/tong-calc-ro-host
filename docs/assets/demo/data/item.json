@@ -231798,5 +231798,67 @@
         "20"
       ]
     }
+  },
+  "490802": {
+    "id": 490802,
+    "aegisName": "Temporal_Ring_LT_TH",
+    "flavorText": null,
+    "name": "Temporal Ring-LT [1]",
+    "unidName": "Temporal Ring-LT",
+    "resName": "Temporal_Ring_TW_LT",
+    "unidResName": "Temporal_Ring_TW_LT",
+    "description": "ATK, MATK + 7%\nAll Status + 5\n\nเมื่อสวมใส่ร่วมกับ Bear's Power,\nATK + 100\n\nเมื่อสวมใส่ร่วมกับ Speed Of Light,\nลด Delay หลังใช้สกิล 12%\n\nเมื่อสวมใส่ร่วมกับ Muscle Fool,\nMaxHP + 20%\n\nเมื่อสวมใส่ร่วมกับ Runaway Magic,\nMATK + 100\n\nเมื่อสวมใส่ร่วมกับ Hawkeye,\nเพิ่ม Damage ทางกายภาพระยะไกล 20%\n\nเมื่อสวมใส่ร่วมกับ Lucky Day,\nCritical Damage + 20%\n\nเมื่อสวมใส่ร่วมกับ Exotic Temporal Boots-LT,\nทุก ๆ การอัพเกรดรองเท้า 1 ขั้น, P.ATK, S.MATK + 1\nMaxHP, MaxSP + 2%\n\nเมื่อ Exotic Temporal Boots มีเกรด A, \nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 25%\nประเภท : ^777777Accessory (Left)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777730^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 511,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 30,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atkPercent": [
+        "7"
+      ],
+      "matkPercent": [
+        "7"
+      ],
+      "allStatus": [
+        "5"
+      ],
+      "atk": [
+        "EQUIP[Bear's Power]===100"
+      ],
+      "acd": [
+        "EQUIP[Speed Of Light]===12"
+      ],
+      "hpPercent": [
+        "EQUIP[Muscle Fool]===20",
+        "EQUIP[Exotic Temporal Boots-LT]REFINE[boot==1]---2"
+      ],
+      "matk": [
+        "EQUIP[Runaway Magic]===100"
+      ],
+      "range": [
+        "EQUIP[Hawkeye]===20"
+      ],
+      "criDmg": [
+        "EQUIP[Lucky Day]===20"
+      ],
+      "pAtk": [
+        "EQUIP[Exotic Temporal Boots-LT]REFINE[boot==1]---1"
+      ],
+      "sMatk": [
+        "EQUIP[Exotic Temporal Boots-LT]REFINE[boot==1]---1"
+      ],
+      "p_element_all": [
+        "EQUIP[Exotic Temporal Boots]GRADE[boot==A]===25"
+      ]
+    }
   }
 }
