@@ -231860,5 +231860,1294 @@
         "EQUIP[Exotic Temporal Boots]GRADE[boot==A]===25"
       ]
     }
+  },
+  "400715": {
+    "id": 400715,
+    "aegisName": "Rising_Circlet",
+    "flavorText": "",
+    "name": "Event Rising Circlet [1]",
+    "unidName": "Headgear",
+    "resName": "Rising_Circlet",
+    "unidResName": "리본",
+    "description": "MaxHP + 500, MaxSP + 200.\r\nEvery 15 base levels, Atk + 5, Matk + 5. (Applies up to level 250)\r\nIf the user's base level is 100 or higher, Atk + 5%, Matk + 5%.\r\nIf the user's base level is 110 or higher, reduces fixed casting time by 0.5 seconds.\r\nIf the user's base level is 120 or higher, reduces variable casting time by 10%, increases attack speed (reduces delay after attack by 10%).\r\nATK + 40, MATK +40,\r\nglobal cooldown reduced by 10%,\r\nmelee/ranged physical damage increased by 15%,\r\nall attribute magic damage increased by 15%,\r\nexperience gained from monsters + 15%,\r\nphysical/magical damage to monsters of all races increased by 15% (excluding players),\r\nphysical/magical damage to enemies of all attributes and sizes increased by 15%.\r\n(Event-limited options will be deleted when the event ends.)\r\nClass: ^777777Headgear^000000 Defense: ^77777710^000000\r\nLocation: ^777777Upper^000000 Weight: ^7777770^000000\r\nArmor Level: ^7777771^000000\r\nRequired Level: ^777777100^000000\r\nJobs: ^777777All Jobs^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "attack": null,
+    "defense": 10,
+    "weight": 10,
+    "requiredLevel": 100,
+    "location": "Upper",
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "hp": [
+        "500"
+      ],
+      "sp": [
+        "200"
+      ],
+      "atk": [
+        "level:15---5",
+        "40"
+      ],
+      "matk": [
+        "level:15---5",
+        "40"
+      ],
+      "atkPercent": [
+        "level:100===5"
+      ],
+      "matkPercent": [
+        "level:100===5"
+      ],
+      "fct": [
+        "level:110===0.5"
+      ],
+      "vct": [
+        "level:120===10"
+      ],
+      "aspdPercent": [
+        "level:120===10"
+      ],
+      "acd": [
+        "10"
+      ],
+      "melee": [
+        "15"
+      ],
+      "range": [
+        "15"
+      ],
+      "m_my_element_all": [
+        "15"
+      ],
+      "m_race_all": [
+        "15"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "m_element_all": [
+        "15"
+      ],
+      "p_element_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "15"
+      ],
+      "m_size_all": [
+        "15"
+      ]
+    }
+  },
+  "9400715": {
+    "id": 9400715,
+    "aegisName": "Rising_Circlet",
+    "flavorText": "",
+    "name": "Rising Circlet [1]",
+    "unidName": "Headgear",
+    "resName": "Rising_Circlet",
+    "unidResName": "리본",
+    "description": "MaxHP + 500, MaxSP + 200.\r\nEvery 15 base levels, Atk + 5, Matk + 5. (Applies up to level 250)\r\nIf the user's base level is 100 or higher, Atk + 5%, Matk + 5%.\r\nIf the user's base level is 110 or higher, reduces fixed casting time by 0.5 seconds.\r\nIf the user's base level is 120 or higher, reduces variable casting time by 10%, increases attack speed (reduces delay after attack by 10%).\r\nClass: ^777777Headgear^000000 Defense: ^77777710^000000\r\nLocation: ^777777Upper^000000 Weight: ^7777770^000000\r\nArmor Level: ^7777771^000000\r\nRequired Level: ^777777100^000000\r\nJobs: ^777777All Jobs^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "attack": null,
+    "defense": 10,
+    "weight": 10,
+    "requiredLevel": 100,
+    "location": "Upper",
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "hp": [
+        "500"
+      ],
+      "sp": [
+        "200"
+      ],
+      "atk": [
+        "level:15---5"
+      ],
+      "matk": [
+        "level:15---5"
+      ],
+      "atkPercent": [
+        "level:100===5"
+      ],
+      "matkPercent": [
+        "level:100===5"
+      ],
+      "fct": [
+        "level:110===0.5"
+      ],
+      "vct": [
+        "level:120===10"
+      ],
+      "aspdPercent": [
+        "level:120===10"
+      ]
+    }
+  },
+  "400699": {
+    "id": 400699,
+    "aegisName": "Astraea_Helm_LT",
+    "flavorText": null,
+    "name": "Astraea Helm-LT [1]",
+    "unidName": "Helm",
+    "resName": "Astraea_Helm_LT",
+    "unidResName": "헬름",
+    "description": "MaxHP + 5%\nทุก ๆ การอัพเกรด 2 ขั้น ATK, MATK + 15\nทุก ๆ การอัพเกรด 4 ขั้น ลด Damage ที่ได้รับจากศัตรูทุกประเภท/เผ่า/ธาตุ 2%, ลด Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากศัตรูทุกขนาด 2%\nเมื่ออัพเกรดถึงขั้น 7, MaxHP + 7%\nเมื่ออัพเกรดถึงขั้น 9, ลดระยะเวลาร่ายแบบแปรผัน 15%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%\nเมื่ออัพเกรดถึงขั้น 13, ลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที\n\nเมื่อสวมใส่ร่วมกับ Astraea Shoes-LT,\nMaxHP + 7000,\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที, \nPerfect Dodge + 12\n\nเมื่อสวมใส่ร่วมกับ Astraea Manteau-LT,\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 15%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%,\nลด Damage ทางกายภาพระยะไกลที่ได้รับ 15%,\nลด Damage ทางกายภาพ/เวทมนตร์ทุกธาตุที่ได้รับ 5%\n\nเมื่อสวมใส่ร่วมกับ Astraea Armor-LT,\nเมื่อได้รับการโจมตีทางกายภาพ มีโอกาส 3% ที่จะ VIT+200 เป็นเวลา 10 วินาที,\nเพิ่มผลของไอเท็มสายฟื้นฟูและ Heal 20%\nเมื่อผู้สวมใส่มีอาชีพ Arch Bishop จะสามารถใช้งาน Energy Coat ได้\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^77777720^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^77777720^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777150^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 20,
+    "weight": 20,
+    "requiredLevel": 150,
+    "location": "Upper",
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "hpPercent": [
+        "5",
+        "7===7"
+      ],
+      "atk": [
+        "2---15"
+      ],
+      "matk": [
+        "2---15"
+      ],
+      "vct": [
+        "9===15"
+      ],
+      "p_size_all": [
+        "11===10"
+      ],
+      "m_size_all": [
+        "11===10"
+      ],
+      "fct": [
+        "13===0.3",
+        "EQUIP[Astraea Shoes-LT]===0.5"
+      ],
+      "hp": [
+        "EQUIP[Astraea Shoes-LT]===7000"
+      ],
+      "perfectDodge": [
+        "EQUIP[Astraea Shoes-LT]===12"
+      ],
+      "melee": [
+        "EQUIP[Astraea Manteau-LT]===15"
+      ],
+      "range": [
+        "EQUIP[Astraea Manteau-LT]===15"
+      ],
+      "m_my_element_all": [
+        "EQUIP[Astraea Manteau-LT]===15"
+      ],
+      "chance__vit": [
+        "EQUIP[Astraea Armor-LT]===200"
+      ]
+    }
+  },
+  "450385": {
+    "id": 450385,
+    "aegisName": "Astraea_Armor_LT",
+    "flavorText": null,
+    "name": "Astraea Armor-LT [1]",
+    "unidName": "Silver Robe",
+    "resName": "Astraea_Armor_LT",
+    "unidResName": "실버로브",
+    "description": "MDEF + 10\nลด Damage ที่ได้รับจากศัตรูทุกขนาด 5%\nMaxHP + 20%\nทุก ๆ การอัพเกรด 2 ขั้น VIT + 6, ATK, MATK + 20\nทุก ๆ การอัพเกรด 3 ขั้น MaxHP + 1200\nเมื่ออัพเกรดถึงขั้น 7, ลด Delay หลังใช้สกิล 12%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 15%\nเมื่ออัพเกรดถึงขั้น 11, \nเมื่อ WIS 90 ขึ้นไป, ลด Damage ทางกายภาพระยะใกล้ที่ได้รับ 18%\nเมื่อ STA 90 ขึ้นไป, ลด Damage ทางกายภาพระยะไกลที่ได้รับ 18%\nเมื่อทั้ง WIS, STA 90 ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะใกล้ที่ได้รับ 10%, เพิ่ม Damage ทางกายภาพระยะไกลที่ได้รับ 10%\nเมื่ออัพเกรดถึงขั้น 13, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 15%\n\nเมื่อสวมใส่ร่วมกับ Evil Druid Card, \nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 15%,\nทุก ๆ การอัพเกรด Armor 2 ขั้น MaxHP + 8% (สูงสูง +14)\n\nเมื่อสวมใส่ร่วมกับ Arch Bishop Margaretha Card, \nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 25%,\nเมื่อขั้นอัพเกรดของ Armor ตั้งแต่ 10 ขึ้นไป เพิ่ม MaxHP [(ขั้นอัพเกรด - 4)*(ขั้นอัพเกรด - 4)]% (สูงสุด +14)\n\nเมื่อสวมใส่ร่วมกับ Astraea Shoes-LT และ Astraea Manteau-LT, \nAll state+3, MaxHP+15%\nลด Damage ทางกายภาพที่ได้รับจากศัตรูทุกขนาด 10%\nเมื่อ Shoes, Manteau มี Grade A, ไม่ติดสถานะ Frozen, Stone, Stun, Sleep, Curse\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] ทุก ๆ การอัพเกรด 2 ขั้น VIT+2, MaxHP+500.\n[Grade C] ลด Damage ทางกายภาพที่ได้รับจากศัตรูทุกขนาด 8%, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 15%\n[Grade B] เมื่อได้รับการโจมตีทางกายภาพ มีโอกาส 30% ที่จะทำให้เป้าหมายติดสถานะ Stone\n[Grade A] เมื่อได้รับการโจมตีทางกายภาพ มีโอกาส 10% ที่จะทำให้เป้าหมายติดสถานะผิด Lex Aeterna\nประเภท : ^777777Armor^000000  พลังป้องกัน : ^777777100^000000\nน้ำหนัก : ^77777750^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777150^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 100,
+    "weight": 50,
+    "requiredLevel": 150,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "mdef": [
+        "10"
+      ],
+      "hpPercent": [
+        "20",
+        "EQUIP[Evil Druid Card]REFINE[armor==2]===8",
+        "EQUIP[Evil Druid Card]REFINE[armor==4]===8",
+        "EQUIP[Evil Druid Card]REFINE[armor==6]===8",
+        "EQUIP[Evil Druid Card]REFINE[armor==8]===8",
+        "EQUIP[Evil Druid Card]REFINE[armor==10]===8",
+        "EQUIP[Evil Druid Card]REFINE[armor==12]===8",
+        "EQUIP[Evil Druid Card]REFINE[armor==14]===8",
+        "EQUIP[Arch Bishop Margaretha Card]REFINE[armor==10]===36",
+        "EQUIP[Arch Bishop Margaretha Card]REFINE[armor==11]===13",
+        "EQUIP[Arch Bishop Margaretha Card]REFINE[armor==12]===15",
+        "EQUIP[Arch Bishop Margaretha Card]REFINE[armor==13]===17",
+        "EQUIP[Arch Bishop Margaretha Card]REFINE[armor==14]===19",
+        "EQUIP[Astraea Shoes-LT&&Astraea Manteau-LT]===15"
+      ],
+      "vit": [
+        "2---6",
+        "GRADE[armor==D]2---2"
+      ],
+      "atk": [
+        "2---20"
+      ],
+      "matk": [
+        "2---20"
+      ],
+      "hp": [
+        "3--1200",
+        "GRADE[armor==D]2---2"
+      ],
+      "acd": [
+        "7===12"
+      ],
+      "p_element_all": [
+        "9===15"
+      ],
+      "m_element_all": [
+        "9===15"
+      ],
+      "p_size_all": [
+        "13===15"
+      ],
+      "m_size_all": [
+        "13===15"
+      ],
+      "p_class_all": [
+        "EQUIP[Evil Druid Card]===15",
+        "EQUIP[Arch Bishop Margaretha Card]===25"
+      ],
+      "m_class_all": [
+        "EQUIP[Evil Druid Card]===15",
+        "EQUIP[Arch Bishop Margaretha Card]===25"
+      ],
+      "allStatus": [
+        "EQUIP[Astraea Shoes-LT&&Astraea Manteau-LT]===3"
+      ],
+      "p_race_all": [
+        "GRADE[armor==C]===15"
+      ],
+      "m_race_all": [
+        "GRADE[armor==C]===15"
+      ]
+    }
+  },
+  "4141": {
+    "id": 4141,
+    "aegisName": "Evil_Druid_Card",
+    "flavorText": null,
+    "name": "Evil Druid Card",
+    "unidName": "Card",
+    "resName": "이름없는카드",
+    "unidResName": "이름없는카드",
+    "description": "เปลี่ยนชุดเกราะให้เป็น ธาตุ Undead\nINT + 1\nDEF + 1\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Armor^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 16,
+    "cardPrefix": "Deadly",
+    "script": {
+      "def": [
+        "1"
+      ],
+      "int": [
+        "1"
+      ]
+    }
+  },
+  "4363": {
+    "id": 4363,
+    "aegisName": "B_Magaleta_Card",
+    "flavorText": null,
+    "name": "High Priest Card",
+    "unidName": "High Priest Card",
+    "resName": "이름없는카드",
+    "unidResName": "이름없는카드",
+    "description": "มีโอกาสร่ายสกิล\nAssumptio Lv.1\nโดยอัตโนมัติ\nเมื่อได้รับการโจมตี\nทางกายภาพหรือ\nเวทมนตร์\n(โอกาส 50%)\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Armor^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 16,
+    "cardPrefix": "Protection",
+    "script": {}
+  },
+  "470205": {
+    "id": 470205,
+    "aegisName": "Astraea_Shoes_LT",
+    "flavorText": null,
+    "name": "Astraea Shoes-LT [1]",
+    "unidName": "Sandal",
+    "resName": "Astraea_Shoes_LT",
+    "unidResName": "샌들",
+    "description": "All State + 3\nMDEF + 10\nเมื่อขั้นอัพเกรดถึงขั้น 10, \nเมื่อ Base STR 100, MaxHP + 10%, MaxSP + 10%\nเมื่อ Base INT 100, ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเมื่อ Base VIT 100, ลด Damage ทางกายภาพที่ได้รับจากศัตรูขนาดกลาง 15%\nเมื่อ Base AGI 100, ASPD + 15%\nเมื่อ Base DEX 100, ลด Delay หลังใช้สกิล 7%\nเมื่อ Base LUK 100, Cri + 10, Perfect Dodge + 5\n\nเมื่อขั้นอัพเกรดถึงขั้น 13, \nเมื่อ Pow 60 ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะใกล้ 15%\nเมื่อ Sta 60 ขึ้นไป, ลด Delay หลังใช้สกิล 8%, RES + 30\nเมื่อ Wis 60 ขึ้นไป, ลด Delay หลังใช้สกิล 8%, MRES + 30\nเมื่อ Spl 60 ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%\nเมื่อ Con 60 ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะไกล 15%\nเมื่อ Crt 60 ขึ้นไป, H.Plus + 10, C.Rate + 10\n[Option เพิ่มเติมตาม Grade]\n[Grade D] RES + 30, MRES + 30\n[Grade C] P.ATK, S.MATK + 5\n[Grade B] เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 15%\n[Grade A] เมื่อขั้นอัพเกรดถึงขั้น 13, ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nประเภท : ^777777Shoes^000000  พลังป้องกัน : ^77777725^000000\nน้ำหนัก : ^77777725^000000\nเลเวล Armor : ^7777771^000000\nเลเวลที่ต้องการ : ^777777190^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 516,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 25,
+    "weight": 25,
+    "requiredLevel": 190,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "mdef": [
+        "10"
+      ],
+      "allStatus": [
+        "3"
+      ],
+      "hpPercent": [
+        "REFINE[10]SUM[str==100]===10"
+      ],
+      "spPercent": [
+        "REFINE[10]SUM[str==100]===10"
+      ],
+      "fct": [
+        "REFINE[10]SUM[int==100]===0.5",
+        "GRADE[boot==A]13===0.5"
+      ],
+      "aspdPercent": [
+        "REFINE[10]SUM[agi==100]===15"
+      ],
+      "acd": [
+        "REFINE[10]SUM[dex==100]===7",
+        "REFINE[13]SUM[sta==60]===8",
+        "REFINE[13]SUM[wis==60]===8"
+      ],
+      "cri": [
+        "REFINE[10]SUM[luk==100]===10"
+      ],
+      "perfectDodge": [
+        "REFINE[10]SUM[luk==100]===5"
+      ],
+      "melee": [
+        "REFINE[13]SUM[pow==60]===15"
+      ],
+      "res": [
+        "REFINE[13]SUM[sta==60]===30",
+        "GRADE[boot==D]===30"
+      ],
+      "mres": [
+        "REFINE[13]SUM[wis==60]===30",
+        "GRADE[boot==D]===30"
+      ],
+      "m_my_element_all": [
+        "REFINE[13]SUM[spl==60]===15"
+      ],
+      "range": [
+        "REFINE[13]SUM[con==60]===15"
+      ],
+      "hplus": [
+        "REFINE[13]SUM[crt==60]===15"
+      ],
+      "cRate": [
+        "REFINE[13]SUM[crt==60]===15"
+      ],
+      "pAtk": [
+        "GRADE[boot==C]===5"
+      ],
+      "sMatk": [
+        "GRADE[boot==C]===5"
+      ],
+      "p_size_all": [
+        "GRADE[boot==B]===15"
+      ],
+      "m_size_all": [
+        "GRADE[boot==B]===15"
+      ]
+    }
+  },
+  "480338": {
+    "id": 480338,
+    "aegisName": "Astraea_Cape_LT",
+    "flavorText": null,
+    "name": "Astraea Manteau-LT [1]",
+    "unidName": "Hood",
+    "resName": "Astraea_Cape_LT",
+    "unidResName": "후드",
+    "description": "All state + 2\nMaxHP, MaxSP + 10%\nทุก ๆ การอัพเกรด 2 ขั้น ATK, MATK + 10\nทุก ๆ การอัพเกรด 3 ขั้น เพิ่มความต้านทานธาตุ Neutral 3%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\nเมื่ออัพเกรดถึงขั้น 13, ลด Delay หลังใช้สกิล 10%\n\nเมื่อสวมใส่ร่วมกับ Astrea Shoes-LT, \nเพิ่มความต้านทานต่อศัตรูทุกเผ่า 10%,\nMaxHP, MaxSP + 10%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] \nRES, MRES + 30\n[Grade C]\nP.ATK, S.MATK + 5\n[Grade B]\nMaxHP + 10000\n[Grade A]\nเพิ่มความต้านทานต่อศัตรูทุกเผ่า 5%\nประเภท : ^777777Garment^000000  พลังป้องกัน : ^77777715^000000\nน้ำหนัก : ^77777740^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 15,
+    "weight": 40,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "allStatus": [
+        "2"
+      ],
+      "hpPercent": [
+        "10",
+        "EQUIP[Astrea Shoes-LT]===10"
+      ],
+      "spPercent": [
+        "10",
+        "EQUIP[Astrea Shoes-LT]===10"
+      ],
+      "atk": [
+        "2---10"
+      ],
+      "matk": [
+        "2---10"
+      ],
+      "p_size_all": [
+        "9===10"
+      ],
+      "m_size_all": [
+        "9===10"
+      ],
+      "melee": [
+        "11===10"
+      ],
+      "range": [
+        "11===10"
+      ],
+      "m_my_element_all": [
+        "11===10"
+      ],
+      "acd": [
+        "13===10"
+      ],
+      "res": [
+        "GRADE[garment==D]===30"
+      ],
+      "mres": [
+        "GRADE[garment==D]===30"
+      ],
+      "pAtk": [
+        "GRADE[garment==C]===5"
+      ],
+      "sMatk": [
+        "GRADE[garment==C]===5"
+      ],
+      "hp": [
+        "GRADE[garment==B]===10000"
+      ]
+    }
+  },
+  "490595": {
+    "id": 490595,
+    "aegisName": "Astraea_Ring_LT",
+    "flavorText": null,
+    "name": "Astraea Ring-LT [1]",
+    "unidName": "Ring",
+    "resName": "Astraea_Ring_LT",
+    "unidResName": "링",
+    "description": "MDEF +10\nPOW, CON, STA, WIS, SPL, CRT + 1\nสามารถใช้สกิล Secrament Lv.5 ได้\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 8%\nเพิกเฉยต่อพลังป้องกันทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 10%\n\nเมื่อสวมใส่ร่วมกับ High Priest Card, \nจะไม่ร่าย Assumptio อัตโนมัติ\nแต่จะเปลี่ยน Armor เป็นธาตุ Ghost\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 20%\n\nเมื่อสวมใส่ร่วมกับ Astraea Shoes-LT, \nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\nลด Delay หลังใช้สกิล 8%, MaxHP/MaxSP + 8%\nเมื่ออัพเกรด Shoes ถึงขั้น 13, ลด Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากศัตรูทุกขนาด 5%, ลด Damage ที่ได้รับจากศัตรูเผ่า Demi-Human และ Player 3% \n\nเมื่อสวมใส่ร่วมกับ Astraea Helm-LT,\nAll State + 5,\nลด Delay หลังใช้สกิล 7%\nประเภท : ^777777Accessory (Left)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777771^000000\nเลเวลที่ต้องการ : ^777777150^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 511,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 150,
+    "location": null,
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "mdef": [
+        "10"
+      ],
+      "allTrait": [
+        "1"
+      ],
+      "allStatus": [
+        "EQUIP[Astraea Helm-LT]===5"
+      ],
+      "p_class_all": [
+        "8",
+        "EQUIP[High Priest Card]===20"
+      ],
+      "m_class_all": [
+        "8",
+        "EQUIP[High Priest Card]===20"
+      ],
+      "p_pene_race_all": [
+        "10"
+      ],
+      "m_pene_race_all": [
+        "10"
+      ],
+      "melee": [
+        "EQUIP[Astraea Shoes-LT]===10"
+      ],
+      "range": [
+        "EQUIP[Astraea Shoes-LT]===10"
+      ],
+      "m_my_element_all": [
+        "EQUIP[Astraea Shoes-LT]===10"
+      ],
+      "acd": [
+        "EQUIP[Astraea Shoes-LT]===8",
+        "EQUIP[Astraea Helm-LT]===7"
+      ],
+      "hpPercent": [
+        "EQUIP[Astraea Shoes-LT]===8"
+      ],
+      "spPercent": [
+        "EQUIP[Astraea Shoes-LT]===8"
+      ]
+    }
+  },
+  "410254": {
+    "id": 410254,
+    "aegisName": "Old_Moroc_Acc",
+    "flavorText": null,
+    "name": "Ancient Morocc Noble Jewelry [1]",
+    "unidName": "Helm",
+    "resName": "다이아뎀",
+    "unidResName": "헬름",
+    "description": "ทุก ๆ Base STR 8, ATK + 5\nทุก ๆ Base AGI 8, ATK + 3\nทุก ๆ Base VIT 8, ATK + 2, MATK + 2\nทุก ๆ Base INT 8, MATK + 5\nทุก ๆ Base DEX 8, ATK + 2, MATK + 2\nทุก ๆ Base LUK 8, MATK + 3\n\nเมื่อสวมใส่ร่วมกับ Marduk Card, ลด Delay หลังใช้สกิล 8%, \nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 12%\n\nเมื่อสวมใส่ร่วมกับ Pharaoh Card, สามารถเห็นศัตรูที่ซ่อนตัวอยู่ได้, \nลด Delay หลังใช้สกิล 15%, \nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 25%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777771^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 100,
+    "location": "Middle",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "str:8---5",
+        "agi:8---3",
+        "vit:8---2",
+        "dex:8---2"
+      ],
+      "matk": [
+        "vit:8---2",
+        "int:8---5",
+        "luk:8---3",
+        "dex:8---2"
+      ],
+      "acd": [
+        "EQUIP[Marduk Card]===8",
+        "EQUIP[Pharaoh Card]===15"
+      ],
+      "p_element_all": [
+        "EQUIP[Marduk Card]===12",
+        "EQUIP[Pharaoh Card]===25"
+      ],
+      "m_element_all": [
+        "EQUIP[Marduk Card]===12",
+        "EQUIP[Pharaoh Card]===25"
+      ]
+    }
+  },
+  "4112": {
+    "id": 4112,
+    "aegisName": "Marduk_Card",
+    "flavorText": null,
+    "name": "Marduk Card",
+    "unidName": "Card",
+    "resName": "이름없는카드",
+    "unidResName": "이름없는카드",
+    "description": "ป้องกันอาการ Silence 100%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Headgear^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 769,
+    "cardPrefix": "Fearless",
+    "script": {}
+  },
+  "4148": {
+    "id": 4148,
+    "aegisName": "Pharaoh_Card",
+    "flavorText": null,
+    "name": "Pharaoh Card",
+    "unidName": "Card",
+    "resName": "이름없는카드",
+    "unidResName": "이름없는카드",
+    "description": "ลด SP สำหรับใช้ Skill ทุกชนิด 30%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Headgear^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 769,
+    "cardPrefix": "of Kirin",
+    "script": {}
+  },
+  "460128": {
+    "id": 460128,
+    "aegisName": "Guardian_Shield_TH_LT",
+    "flavorText": null,
+    "name": "Guardian's Shield-LT [1]",
+    "unidName": "Guardian's Shield-LT",
+    "resName": "킹스가드",
+    "unidResName": "킹스가드",
+    "description": "โล่ของหน่วยองครักษ์ขั้นสูง\n\nไม่สามารถทำลายได้\nMaxHP + 10% , MaxSP + 10%\nทุก ๆ การอัพเกรด 2 ขั้น, ATK + 15\n\nเมื่อขั้นอัพเกรดตั้งแต่ 7 ขึ้นไป,\nเมื่อใช้งานสกิล Shield Spell, ATK + 150 เป็นเวลา 90 วินาที\n\nเมื่อขั้นอัพเกรดตั้งแต่ 9 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 15%\nลด Delay หลังใช้สกิล 10%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 11 ขึ้นไป,\nลด Cooldown สกิล Cannon Spear 1.5 วินาที\nลด Cooldown สกิล Overslash 0.4 วินาที\n\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป,\nSTR + 40,\nCri + 20, C.RATE + 8\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 10%\n[Grade C] เพิ่ม Damage สกิล Cannon Spear 100%, เพิ่ม Damage สกิล Overslash 20%\n[Grade B] POW + 10, All Status + 15\n[Grade A] เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 20%, P.ATK + 8\nประเภท : ^777777Shield^000000  พลังป้องกัน : ^777777250^000000\nน้ำหนัก : ^777777300^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Royal Guard^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 250,
+    "weight": 300,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "RoyalGuard"
+    ],
+    "script": {
+      "hpPercent": [
+        "10"
+      ],
+      "spPercent": [
+        "10"
+      ],
+      "atk": [
+        "2---15",
+        "ACTIVE_SKILL[Shield Spell]7===150"
+      ],
+      "range": [
+        "9===15"
+      ],
+      "melee": [
+        "9===15"
+      ],
+      "acd": [
+        "9===10"
+      ],
+      "cd__Cannon Spear": [
+        "11===1.5"
+      ],
+      "cd__Over Slash": [
+        "11===0.4"
+      ],
+      "str": [
+        "12===40"
+      ],
+      "cri": [
+        "12===20"
+      ],
+      "cRate": [
+        "12===8"
+      ],
+      "p_element_all": [
+        "GRADE[shield==D]===10"
+      ],
+      "p_size_all": [
+        "GRADE[shield==A]===20"
+      ],
+      "pAtk": [
+        "GRADE[shield==A]===8"
+      ],
+      "pow": [
+        "GRADE[shield==B]===10"
+      ],
+      "allStatus": [
+        "GRADE[shield==B]===15"
+      ],
+      "Cannon Spear": [
+        "GRADE[shield==C]===100"
+      ],
+      "Over Slash": [
+        "GRADE[shield==C]===20"
+      ]
+    }
+  },
+  "460126": {
+    "id": 460126,
+    "aegisName": "Abyss_Shield_TH",
+    "flavorText": null,
+    "name": "Abyssal Snake Shield [1]",
+    "unidName": "Abyssal Snake Shield",
+    "resName": "도적의조언제1권",
+    "unidResName": "도적의조언제1권",
+    "description": "ASPD + 10%\nทุก ๆ การอัพเกรด 1 ขั้น, MaxHP + 100\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 4%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 7 ขึ้นไป,\nASPD + 2\n\nเมื่อขั้นอัพเกรดตั้งแต่ 9 ขึ้นไป,\nเมื่อโจมตีทางกายภาพระยะใกล้ มีโอกาส 10% ที่จะใช้งานสกิล Abyss Square Lv.1 อัตโนมัติ\n(เมื่อเรียนรู้ในเลเวลที่สูงขึ้น จะเกิดตามเลเวลสกิลที่เรียนรู้)\n\nเมื่อขั้นอัพเกรดตั้งแต่ 11 ขึ้นไป,\nเมื่อโจมตีทางเวทมนตร์ มีโอกาส 4% ที่จะ INT + 150 เป็นเวลา 10 วินาที\nแต่จะสูญเสีย HP 100, SP 100 หน่วยต่อวินาที\n\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป,\nเพิ่ม Damage สกิล Abyss Square 15%\nประเภท : ^777777Shield^000000  พลังป้องกัน : ^77777725^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 25,
+    "weight": 20,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "usableClass": [
+      "ShadowChaser"
+    ],
+    "script": {
+      "aspdPercent": [
+        "10"
+      ],
+      "hp": [
+        "1---100"
+      ],
+      "m_my_element_all": [
+        "3---4"
+      ],
+      "aspd": [
+        "7===2"
+      ],
+      "Abyss Square": [
+        "12===15"
+      ],
+      "chance__int": [
+        "11===150"
+      ]
+    }
+  },
+  "460127": {
+    "id": 460127,
+    "aegisName": "Abyss_Shield_TH_LT",
+    "flavorText": null,
+    "name": "Abyssal Snake Shield-LT [1]",
+    "unidName": "Abyssal Snake Shield-LT",
+    "resName": "도적의조언제1권",
+    "unidResName": "도적의조언제1권",
+    "description": "ASPD + 3\nเมื่อกำจัดมอนสเตอร์ด้วยการโจมตีทางเวทมนตร์, ฟื้นฟู HP 500\n\nทุก ๆ การอัพเกรด 1 ขั้น, MaxHP + 500\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 8%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 9 ขึ้นไป,\nเมื่อโจมตีทางกายภาพระยะใกล้ มีโอกาส 15% ที่จะใช้งานสกิล Abyss Square Lv.1 อัตโนมัติ\n(เมื่อเรียนรู้ในเลเวลที่สูงขึ้น จะเกิดตามเลเวลสกิลที่เรียนรู้)\n\nเมื่อขั้นอัพเกรดตั้งแต่ 11 ขึ้นไป, \nเมื่อโจมตีทางเวทมนตร์ มีโอกาส 4% ที่จะได้รับสถานะ [Abyssal Mind] เป็นเวลา 10 วินาที\n\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป, \nเพิ่ม Damage สกิล Abyss Square 20%\n\nผลเอฟเฟกต์ [Abyssal Mind]\nSPL + 50\nS.MATK + 10\nสูญเสีย HP 500 หน่วยต่อวินาที\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] เมื่อโจมตีทางกายภาพ มีโอกาส 10% ที่จะร่ายสกิล Earth Strain Lv.5 ใส่ศัตรูอัตโนมัติ\n[Grade C] ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\n[Grade B] เพิ่มผลเอฟเฟกต์ [Abyssal Mind] SPL + 50, S.MATK + 10 เพิ่มเติม\n[Grade A] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 30%, Perfect Hit + 100%\nประเภท : ^777777Shield^000000  พลังป้องกัน : ^77777725^000000\nน้ำหนัก : ^77777720^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 25,
+    "weight": 20,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ShadowChaser"
+    ],
+    "script": {
+      "hp": [
+        "1---500"
+      ],
+      "m_my_element_all": [
+        "3---8"
+      ],
+      "aspd": [
+        "3"
+      ],
+      "Abyss Square": [
+        "12===20"
+      ],
+      "fct": [
+        "GRADE[me==C]===0.5"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]===30"
+      ],
+      "perfectHit": [
+        "GRADE[me==A]===100"
+      ],
+      "chance__spl": [
+        "11===50",
+        "GRADE[me==B]===50"
+      ],
+      "chance__sMatk": [
+        "11===10",
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "490807": {
+    "id": 490807,
+    "aegisName": "CA_Evil_Ring_TH",
+    "flavorText": null,
+    "name": "Ring of Evil (Cardinal) [1]",
+    "unidName": "Ring of Evil (Cardinal)",
+    "resName": "Scorpio_Ring_J",
+    "unidResName": "Scorpio_Ring_J",
+    "description": "ATK + 100\nลด Delay หลังใช้สกิล 10%\nPOW + 10\nCRI + 15\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n \nเมื่อสวมใส่ร่วมกับ Sealed Bible, \nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%\nเพิ่ม Damage สกิล Petitio 15%\n\nเมื่อ Sealed Bible มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%\nเพิ่ม Damage สกิล Petitio 15%\n\nเมื่อ Sealed Bible มี Grade C ขึ้นไป, \nCRI + 30\nCritical Damage + 20%\nเพิ่ม Damage สกิล Petitio 20%\n\nเมื่อสวมใส่ร่วมกับ Evil Spell,\nสามารถใช้งานสกิล Unlucky Rush Lv.3 ได้\nเพิ่ม Damage ทางกายภาพระยะใกล้ 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Cardinal^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 215,
+    "location": null,
+    "compositionPos": null,
+    "usableClass": [
+      "Cardinal"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "cri": [
+        "15",
+        "EQUIP[Sealed Bible]GRADE[weapon==C]===30"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Sealed Bible]===15"
+      ],
+      "Petitio": [
+        "EQUIP[Sealed Bible]===15",
+        "EQUIP[Sealed Bible]REFINE[weapon==10]===15",
+        "EQUIP[Sealed Bible]GRADE[weapon==C]===20"
+      ],
+      "p_element_all": [
+        "EQUIP[Sealed Bible]REFINE[weapon==10]===15"
+      ],
+      "cri_dmg": [
+        "EQUIP[Sealed Bible]GRADE[weapon==C]===20"
+      ],
+      "melee": [
+        "EQUIP[Evil Spell]===20"
+      ]
+    }
+  },
+  "490808": {
+    "id": 490808,
+    "aegisName": "WH_Good_Ring_TH",
+    "flavorText": null,
+    "name": "Ring of Good (Windhawk) [1]",
+    "unidName": "Ring of Good (Windhawk)",
+    "resName": "RK은반지",
+    "unidResName": "RK은반지",
+    "description": "ATK + 100\nลด Delay หลังใช้สกิล 10%\nCON + 10\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n \nเมื่อสวมใส่ร่วมกับ Angel Wing Bow, \nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%\nเพิ่ม Damage สกิล Crescive Bolt, Gale Storm 15%\n\nเมื่อ Angel Wing Bow มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%\nเพิ่ม Damage สกิล Crescive Bolt, Gale Storm 15%\n\nเมื่อ Angel Wing Bow มี Grade C ขึ้นไป,\nCRI + 30\nลด Cooldown สกิล Crescive Bolt 0.2 วินาที\nลด Cooldown สกิล Gale Storm 1.3 วินาที\nเพิ่ม Damage สกิล Crescive Bolt, Gale Storm 20%\n\nเมื่อสวมใส่ร่วมกับ Good Spell,\nเมื่อใช้งานสกิล Gale Storm มีโอกาส 40% ที่จะใช้งาน Crescive Bolt Lv.1 อัตโนมัติ\n(เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด และจะใช้งานกับเฉพาะเป้าหมายที่เลือกโจมตีเท่านั้น)\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Windhawk^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 215,
+    "location": null,
+    "compositionPos": null,
+    "usableClass": [
+      "Windhawk"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "con": [
+        "10"
+      ],
+      "fct": [
+        "0.5"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Angel Wing Bow]===15"
+      ],
+      "Crescive Bolt": [
+        "EQUIP[Angel Wing Bow]===15",
+        "EQUIP[Angel Wing Bow]REFINE[weapon==10]===15",
+        "EQUIP[Angel Wing Bow]GRADE[weapon==C]===20"
+      ],
+      "Gale Storm": [
+        "EQUIP[Angel Wing Bow]===15",
+        "EQUIP[Angel Wing Bow]REFINE[weapon==10]===15",
+        "EQUIP[Angel Wing Bow]GRADE[weapon==C]===20"
+      ],
+      "p_element_all": [
+        "EQUIP[Angel Wing Bow]REFINE[weapon==10]===15"
+      ],
+      "cri": [
+        "EQUIP[Angel Wing Bow]GRADE[weapon==C]===30"
+      ],
+      "cd__Crescive Bolt": [
+        "EQUIP[Angel Wing Bow]GRADE[weapon==C]===0.2"
+      ],
+      "cd__Gale Storm": [
+        "EQUIP[Angel Wing Bow]GRADE[weapon==C]===1.3"
+      ]
+    }
+  },
+  "1270148": {
+    "id": 1270148,
+    "aegisName": "S_Boost_Armor",
+    "flavorText": null,
+    "name": "Fortune Boost Shadow Armor",
+    "unidName": "Shadow Armor",
+    "resName": "아머쉐도우",
+    "unidResName": "아머쉐도우",
+    "description": "ทุก ๆ การอัพเกรด 5 ขั้น, เพิ่มอัตรา Drop 1%\n\nเมื่อสวมใส่ Fortune Boost Shadow Armor, \nFortune Boost Shadow Shoes, \nFortune Boost Shadow Earring, \nFortune Boost Shadow Pendant พร้อมกันทั้งหมด,\nเมื่อขั้นอัพเกรดรวมกันทุก ๆ 10 ขั้น, All Status + 1\nเมื่อขั้นอัพเกรดรวมกันเป็น 40, All Status + 3 เพิ่มเติม\n\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Armor^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 526,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": "Armor",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "allStatus": [
+        "EQUIP[Fortune Boost Shadow Shoes&&Fortune Boost Shadow Earring&&Fortune Boost Shadow Pendant]REFINE[shadowArmor,shadowBoot,shadowEarring,shadowPendant==10]---1",
+        "EQUIP[Fortune Boost Shadow Shoes&&Fortune Boost Shadow Earring&&Fortune Boost Shadow Pendant]REFINE[shadowArmor,shadowBoot,shadowEarring,shadowPendant==40]===3"
+      ]
+    }
+  },
+  "1270149": {
+    "id": 1270149,
+    "aegisName": "S_Boost_Shoes",
+    "flavorText": null,
+    "name": "Fortune Boost Shadow Shoes",
+    "unidName": "Shadow Shoes",
+    "resName": "슈즈쉐도우",
+    "unidResName": "슈즈쉐도우",
+    "description": "ทุก ๆ การอัพเกรด 5 ขั้น, เพิ่มอัตรา Drop 1%\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Shoes^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 528,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": "Shoes",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
+  },
+  "1270150": {
+    "id": 1270150,
+    "aegisName": "S_Boost_Earring",
+    "flavorText": null,
+    "name": "Fortune Boost Shadow Earring",
+    "unidName": "Shadow Earring",
+    "resName": "이어링쉐도우",
+    "unidResName": "이어링쉐도우",
+    "description": "ทุก ๆ การอัพเกรด 5 ขั้น, เพิ่มอัตรา Drop 1%\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Earring^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 529,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": "Accessory",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
+  },
+  "1270151": {
+    "id": 1270151,
+    "aegisName": "S_Boost_Pendant",
+    "flavorText": null,
+    "name": "Fortune Boost Shadow Pendant",
+    "unidName": "Shadow Pendant",
+    "resName": "펜던트쉐도우",
+    "unidResName": "펜던트쉐도우",
+    "description": "ทุก ๆ การอัพเกรด 5 ขั้น, เพิ่มอัตรา Drop 1%\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Pendant^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 530,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": "Accessory",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
+  },
+  "1270152": {
+    "id": 1270152,
+    "aegisName": "S_Double_Weapon_P",
+    "flavorText": null,
+    "name": "Double Fortune Boost Shadow Weapon (Physical)",
+    "unidName": "Shadow Weapon",
+    "resName": "웨폰쉐도우3",
+    "unidResName": "웨폰쉐도우3",
+    "description": "ทุก ๆ การอัพเกรด 3 ขั้น, เพิ่มอัตรา Drop 1%\n\nเมื่อสวมใส่ร่วมกับ Double Fortune Boost Shadow Shield (Physical),\nเมื่อขั้นอัพเกรดรวมกันเป็น 20\nPOW + 5, STA + 5\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Weapon^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 280,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": "Weapon",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "pow": [
+        "EQUIP[Double Fortune Boost Shadow Shield (Physical)]REFINE[shadowWeapon,shadowShield==20]===5"
+      ],
+      "sta": [
+        "EQUIP[Double Fortune Boost Shadow Shield (Physical)]REFINE[shadowWeapon,shadowShield==20]===5"
+      ]
+    }
+  },
+  "1270153": {
+    "id": 1270153,
+    "aegisName": "S_Double_Shield_P",
+    "flavorText": null,
+    "name": "Double Fortune Boost Shadow Shield (Physical)",
+    "unidName": "Shadow Shield",
+    "resName": "쉴드쉐도우3",
+    "unidResName": "쉴드쉐도우3",
+    "description": "ทุก ๆ การอัพเกรด 3 ขั้น, เพิ่มอัตรา Drop 1%\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Shield^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": "Shield",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
+  },
+  "1270154": {
+    "id": 1270154,
+    "aegisName": "S_Double_Weapon_M",
+    "flavorText": null,
+    "name": "Double Fortune Boost Shadow Weapon (Magic)",
+    "unidName": "Shadow Weapon",
+    "resName": "웨폰쉐도우3",
+    "unidResName": "웨폰쉐도우3",
+    "description": "ทุก ๆ การอัพเกรด 3 ขั้น, เพิ่มอัตรา Drop 1%\n\nเมื่อสวมใส่ร่วมกับ Double Fortune Boost Shadow Shield (Magic),\nเมื่อขั้นอัพเกรดรวมกันเป็น 20\nSPL + 5, WIS + 5\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Weapon^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 280,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": "Weapon",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "spl": [
+        "EQUIP[Double Fortune Boost Shadow Shield (Magic)]REFINE[shadowWeapon,shadowShield==20]===5"
+      ],
+      "wis": [
+        "EQUIP[Double Fortune Boost Shadow Shield (Magic)]REFINE[shadowWeapon,shadowShield==20]===5"
+      ]
+    }
+  },
+  "1270155": {
+    "id": 1270155,
+    "aegisName": "S_Double_Shield_M",
+    "flavorText": null,
+    "name": "Double Fortune Boost Shadow Shield (Magic)",
+    "unidName": "Shadow Shield",
+    "resName": "쉴드쉐도우3",
+    "unidResName": "쉴드쉐도우3",
+    "description": "ทุก ๆ การอัพเกรด 3 ขั้น, เพิ่มอัตรา Drop 1%\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Shield^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": "Shield",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
+  },
+  "1270156": {
+    "id": 1270156,
+    "aegisName": "S_Max_Armor_P",
+    "flavorText": null,
+    "name": "Max Fortune Boost Shadow Armor (Physical)",
+    "unidName": "Shadow Armor",
+    "resName": "BK_Armor_Shadow",
+    "unidResName": "BK_Armor_Shadow",
+    "description": "ทุก ๆ การอัพเกรด 2 ขั้น, เพิ่มอัตรา Drop 1%, P.ATK + 2\n\nเมื่อสวมใส่ร่วมกับ Max Fortune Boost Shadow Shoes (Physical),\nเมื่อขั้นอัพเกรดรวมกันเป็น 20 \nเพิ่มอัตรา Drop ขึ้นอีก 10%\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Armor^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 526,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": "Armor",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "pAtk": [
+        "2---2"
+      ]
+    }
+  },
+  "1270157": {
+    "id": 1270157,
+    "aegisName": "S_Max_Shoes_P",
+    "flavorText": null,
+    "name": "Max Fortune Boost Shadow Shoes (Physical)",
+    "unidName": "Shadow Shoes",
+    "resName": "BK_Shoes_Shadow",
+    "unidResName": "BK_Shoes_Shadow",
+    "description": "ทุก ๆ การอัพเกรด 2 ขั้น, เพิ่มอัตรา Drop 1%, RES + 2\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Shoes^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 528,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": "Shoes",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
+  },
+  "1270158": {
+    "id": 1270158,
+    "aegisName": "S_Max_Armor_M",
+    "flavorText": null,
+    "name": "Max Fortune Boost Shadow Armor (Magic)",
+    "unidName": "Shadow Armor",
+    "resName": "BK_Armor_Shadow",
+    "unidResName": "BK_Armor_Shadow",
+    "description": "ทุก ๆ การอัพเกรด 2 ขั้น, เพิ่มอัตรา Drop 1%, S.MATK + 2\n\nเมื่อสวมใส่ร่วมกับ Max Fortune Boost Shadow Shoes (Magical),\nเมื่อขั้นอัพเกรดรวมกันเป็น 20, \nเพิ่มอัตรา Drop ขึ้นอีก 10%\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Armor^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 526,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": "Armor",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "sMatk": [
+        "2---2"
+      ]
+    }
+  },
+  "1270159": {
+    "id": 1270159,
+    "aegisName": "S_Max_Shoes_M",
+    "flavorText": null,
+    "name": "Max Fortune Boost Shadow Shoes (Magic)",
+    "unidName": "Shadow Shoes",
+    "resName": "BK_Shoes_Shadow",
+    "unidResName": "BK_Shoes_Shadow",
+    "description": "ทุก ๆ การอัพเกรด 2 ขั้น, เพิ่มอัตรา Drop 1%, MRES + 2\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Shoes^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 528,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": "Shoes",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
   }
 }
