@@ -241022,16 +241022,16 @@
     ],
     "script": {
       "def": [
-        "GRADE[me==D]==100"
+        "GRADE[me==D]===100"
       ],
       "mdef": [
         "10",
-        "GRADE[me==D]==20"
+        "GRADE[me==D]===20"
       ],
       "melee": [
         "10",
         "7===10",
-        "GRADE[me==B]==10"
+        "GRADE[me==B]===10"
       ],
       "atk": [
         "2---10"
@@ -241060,13 +241060,13 @@
         "EQUIP[Flame Rune Manteau]GRADE[garment==A]===10"
       ],
       "pow": [
-        "GRADE[me==C]==8"
+        "GRADE[me==C]===8"
       ],
       "con": [
-        "GRADE[me==C]==3"
+        "GRADE[me==C]===3"
       ],
       "p_class_boss": [
-        "GRADE[me==A]==15"
+        "GRADE[me==A]===15"
       ]
     }
   },
@@ -241095,16 +241095,16 @@
     ],
     "script": {
       "def": [
-        "GRADE[me==D]==100"
+        "GRADE[me==D]===100"
       ],
       "mdef": [
         "10",
-        "GRADE[me==D]==20"
+        "GRADE[me==D]===20"
       ],
       "range": [
         "10",
         "7===10",
-        "GRADE[me==B]==10"
+        "GRADE[me==B]===10"
       ],
       "atk": [
         "2---10"
@@ -241133,13 +241133,13 @@
         "EQUIP[Ice Rune Manteau]GRADE[garment==A]===10"
       ],
       "pow": [
-        "GRADE[me==C]==3"
+        "GRADE[me==C]===3"
       ],
       "con": [
-        "GRADE[me==C]==8"
+        "GRADE[me==C]===8"
       ],
       "p_class_boss": [
-        "GRADE[me==A]==15"
+        "GRADE[me==A]===15"
       ]
     }
   },
@@ -241168,16 +241168,16 @@
     ],
     "script": {
       "def": [
-        "GRADE[me==D]==100"
+        "GRADE[me==D]===100"
       ],
       "mdef": [
         "10",
-        "GRADE[me==D]==20"
+        "GRADE[me==D]===20"
       ],
       "m_my_element_all": [
         "10",
         "7===10",
-        "GRADE[me==B]==10"
+        "GRADE[me==B]===10"
       ],
       "matk": [
         "2---10"
@@ -241206,13 +241206,13 @@
         "EQUIP[Death Rune Manteau]GRADE[garment==A]===10"
       ],
       "spl": [
-        "GRADE[me==C]==8"
+        "GRADE[me==C]===8"
       ],
       "con": [
-        "GRADE[me==C]==3"
+        "GRADE[me==C]===3"
       ],
       "m_class_boss": [
-        "GRADE[me==A]==15"
+        "GRADE[me==A]===15"
       ]
     }
   },
@@ -241241,21 +241241,21 @@
     ],
     "script": {
       "def": [
-        "GRADE[me==D]==100"
+        "GRADE[me==D]===100"
       ],
       "mdef": [
         "10",
-        "GRADE[me==D]==20"
+        "GRADE[me==D]===20"
       ],
       "range": [
         "8",
         "7===8",
-        "GRADE[me==B]==10"
+        "GRADE[me==B]===10"
       ],
       "melee": [
         "8",
         "7===8",
-        "GRADE[me==B]==10"
+        "GRADE[me==B]===10"
       ],
       "atk": [
         "2---10"
@@ -241281,13 +241281,13 @@
         "EQUIP[Plain Rune Manteau]GRADE[garment==A]===10"
       ],
       "patk": [
-        "GRADE[me==C]==5"
+        "GRADE[me==C]===5"
       ],
       "hp": [
-        "GRADE[me==C]==10000"
+        "GRADE[me==C]===10000"
       ],
       "p_class_boss": [
-        "GRADE[me==A]==15"
+        "GRADE[me==A]===15"
       ]
     }
   }
