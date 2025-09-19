@@ -186344,7 +186344,7 @@
     "name": "Poenitentia Ring(Hyper Novice) [1]",
     "unidName": "Poenitentia Ring(Hyper Novice)",
     "resName": "Into_The_Abyss",
-    "description": "MATK + 100\nลดระยะเวลาร่ายแบบแปรผัน 15%\nลด Delay หลังใช้สกิล 10%\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%\nเพิ่ม Damage สกิล Meteor Storm Buster, Jack Frost Nova 25%\n\nเมื่อสวมใส่ร่วมกับ Poenitentia Ferrum ที่มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nลด Cooldown สกิล Meteor Storm Buster, Jack Frost Nova 2 วินาที\nประเภท : ^777777Accessory(Left)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Hyper Novice^000000",
+    "description": "MATK + 100\nลดระยะเวลาร่ายแบบแปรผัน 15%\nลด Delay หลังใช้สกิล 10%\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%\nเพิ่ม Damage สกิล Meteor Storm Buster, Jack Frost Nova 25%\n\nเมื่อสวมใส่ร่วมกับ Poenitentia Furrum ที่มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nลด Cooldown สกิล Meteor Storm Buster 2 วินาที, Jack Frost Nova 2.5 วินาที\nประเภท : ^777777Accessory(Left)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Hyper Novice^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 511,
@@ -186381,7 +186381,7 @@
         "EQUIP[Poenitentia Ferrum]REFINE[weapon==10]===2"
       ],
       "cd__Jack Frost Nova": [
-        "EQUIP[Poenitentia Ferrum]REFINE[weapon==10]===2"
+        "EQUIP[Poenitentia Ferrum]REFINE[weapon==10]===2.5"
       ]
     }
   },
@@ -232761,7 +232761,7 @@
       "fct": [
         "GRADE[me==C]===0.5"
       ],
-      "p_size_all": [
+      "m_size_all": [
         "GRADE[me==A]===30"
       ],
       "perfectHit": [
