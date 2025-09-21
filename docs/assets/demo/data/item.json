@@ -241290,5 +241290,3174 @@
         "GRADE[me==A]===15"
       ]
     }
+  },
+  "400975": {
+    "id": 400975,
+    "aegisName": "Frontier_R_Crown_DK",
+    "flavorText": null,
+    "name": "Frontier Rune Crown (Dragon Knight) [1]",
+    "unidName": null,
+    "resName": "Frontier_R_Crown",
+    "unidResName": null,
+    "description": "Every 3 refine rate, ATK + 4%.,\r\nEvery 4 refine rate, increases Servant Weapon and Hack and Slasher damage by 5%.,\r\nIf refine rate is 7 or higher, increases melee physical damage by 10%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases physical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, CRI + 15, increases critical damage by 15%.,\r\n\r\nWhen equipped with Frontier Dragon Sword, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher.,\r\nreduces skill cooldown of Hack and Slasher by 0.2 seconds.,\r\nwhen using Hack and Slasher or Servant Weapon - Phantom, auto-cast an additional attack corresponding to Servant Weapon level 4 (auto-cast when Servant Weapon is learned at level 4 or higher).,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases melee physical damage by 10%.,\r\n[Grade A] Increases physical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Dragon Knight^000000", 
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 60,
+    "weight": 100,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "DragonKnight"
+    ],
+    "script": {
+      "atkPercent": [
+        "3---4"
+      ],
+      "Servant Weapon": [
+        "4---5"
+      ],
+      "Hack and Slasher": [
+        "4---5"
+      ],
+      "melee": [
+        "7===10",
+        "GRADE[me==B]===10"
+      ],
+      "pAtk": [
+        "9===7",
+        "GRADE[me==D]===5"
+      ],
+      "p_race_all": [
+        "9===15"
+      ],
+      "cri": [
+        "12===15"
+      ],
+      "criDmg": [
+        "12===15"
+      ],
+      "cd__Hack and Slasher": [
+        "EQUIP[Frontier Dragon Sword]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===0.2"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "400976": {
+    "id": 400976,
+    "aegisName": "Frontier_R_Crown_IG",
+    "flavorText": null,
+    "name": "Frontier Rune Crown (Imperial Guard) [1]",
+    "unidName": null,
+    "resName": "Frontier_R_Crown",
+    "unidResName": null,
+    "description": "Every 3 refine rate, ATK + 4%.,\r\nEvery 4 refine rate, increases Imperial Cross and Overslash damage by 7%.,\r\nIf refine rate is 7 or higher, increases melee physical damage by 10%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases physical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, ATK + 50, Fix cast time reduce by 0.5 seconds, increases hit physical damage by 15%.,\r\n\r\nWhen equipped with Frontier Imperial Spear, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher.,\r\nwhen using Imperial Cross, auto-cast Overslash level 10 (auto-cast when Overslash is learned at level 10 or higher).,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases melee physical damage by 10%.,\r\n[Grade A] Increases physical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Imperial Guard^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 60,
+    "weight": 100,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ImperialGuard"
+    ],
+    "script": {
+      "atkPercent": [
+        "3---4"
+      ],
+      "Imperial Cross": [
+        "4---7"
+      ],
+      "Over Slash": [
+        "4---7"
+      ],
+      "melee": [
+        "7===10",
+        "GRADE[me==B]===10"
+      ],
+      "pAtk": [
+        "9===7",
+        "GRADE[me==D]===5"
+      ],
+      "p_race_all": [
+        "9===15"
+      ],
+      "atk": [
+        "12===50"
+      ],
+      "fct": [
+        "12===0.5"
+      ],
+      "hitDmg": [
+        "12===15"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "400977": {
+    "id": 400977,
+    "aegisName": "Frontier_R_Crown_MT",
+    "flavorText": null,
+    "name": "Frontier Rune Crown (Meister) [1]",
+    "unidName": null,
+    "resName": "Frontier_R_Crown",
+    "unidResName": null,
+    "description": "Every 3 refine rate, ATK + 4%.,\r\nEvery 4 refine rate, increases Rush Strike and Powerful Swing damage by 7%.,\r\nIf refine rate is 7 or higher, increases melee physical damage by 10%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases physical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, ATK + 50, reduces global cooldown by 5%, increases hit physical damage by 15%.,\r\n\r\nWhen equipped with Frontier Mechanical Axe, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher.,\r\nreduces skill cooldown of Rush Strike by 0.15 seconds.,\r\nwhen using Rush Strike, auto-cast Powerful Swing level 5 (auto-cast when Powerful Swing is learned at level 5 or higher).,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases melee physical damage by 10%.,\r\n[Grade A] Increases physical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Meister^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 60,
+    "weight": 100,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Meister"
+    ],
+    "script": {
+      "atkPercent": [
+        "3---4"
+      ],
+      "Rush Strike": [
+        "4---7"
+      ],
+      "Powerful Swing": [
+        "4---7"
+      ],
+      "melee": [
+        "7===10",
+        "GRADE[me==B]===10"
+      ],
+      "pAtk": [
+        "9===7",
+        "GRADE[me==D]===5"
+      ],
+      "p_race_all": [
+        "9===15"
+      ],
+      "atk": [
+        "12===50"
+      ],
+      "acd": [
+        "12===5"
+      ],
+      "hitDmg": [
+        "12===15"
+      ],
+      "cd__Hack and Slasher": [
+        "EQUIP[Frontier Mechanical Axe]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===0.15"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "400978": {
+    "id": 400978,
+    "aegisName": "Frontier_R_Crown_BO",
+    "flavorText": null,
+    "name": "Frontier Rune Crown (Biolo) [1]",
+    "unidName": null,
+    "resName": "Frontier_R_Crown",
+    "unidResName": null,
+    "description": "Every 3 refine rate, ATK + 4%.,\r\nEvery 4 refine rate, increases Explosive Powder and Dust Explosion damage by 7%.,\r\nIf refine rate is 7 or higher, increases melee physical damage by 10%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases physical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, ATK + 75, increases hit physical damage by 15%.,\r\n\r\nWhen equipped with Frontier Biologic Scepter, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher, and Explosive Powder is learned at level 5 or higher.,\r\nUsing Research Report grants an additional effects for 150 seconds.,\r\n[additional effects],\r\nEvery refine rate of weapon, increases hit physical damage by 2%, increases melee physical damage by 8%.,\r\nwhen using Dust Explosion, auto-cast Explosive Powder level 5 (Explosive Powder is centered on the user).,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases melee physical damage by 10%.,\r\n[Grade A] Increases physical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Biolo^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 60,
+    "weight": 100,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Biolo"
+    ],
+    "script": {
+      "atkPercent": [
+        "3---4"
+      ],
+      "Explosive Powder": [
+        "4---7"
+      ],
+      "Dust Explosion": [
+        "4---7"
+      ],
+      "melee": [
+        "7===10",
+        "GRADE[me==B]===10"
+      ],
+      "pAtk": [
+        "9===7",
+        "GRADE[me==D]===5"
+      ],
+      "p_race_all": [
+        "9===15"
+      ],
+      "atk": [
+        "12===75"
+      ],
+      "hitDmg": [
+        "12===15"
+      ],
+      "chance__hitDmg": [
+        "EQUIP[Frontier Biologic Scepter]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---2"
+      ],
+      "chance__melee": [
+        "EQUIP[Frontier Biologic Scepter]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---8"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "400979": {
+    "id": 400979,
+    "aegisName": "Frontier_R_Crown_SHC",
+    "flavorText": null,
+    "name": "Frontier Rune Crown (Shadow Cross) [1]",
+    "unidName": null,
+    "resName": "Frontier_R_Crown",
+    "unidResName": null,
+    "description": "Every 3 refine rate, ATK + 4%.,\r\nEvery 4 refine rate, increases Savage Impact and Cross Slash damage by 5%.,\r\nIf refine rate is 7 or higher, increases melee physical damage by 10%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases physical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, CRI + 15, increases critical damage by 15%.,\r\n\r\nWhen equipped with Frontier Shadow Katar, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher.,\r\nreduces skill cooldown of Savage Impact by 0.2 seconds.,\r\nwhen using Savage Impact, auto-cast Cross Slash level 4 (auto-cast when Cross Slash is learned at level 4 or higher).,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases melee physical damage by 10%.,\r\n[Grade A] Increases physical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Shadow Cross^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 60,
+    "weight": 100,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ShadowCross"
+    ],
+    "script": {
+      "atkPercent": [
+        "3---4"
+      ],
+      "Savage Impact": [
+        "4---5"
+      ],
+      "Cross Slash SHC": [
+        "4---5"
+      ],
+      "melee": [
+        "7===10",
+        "GRADE[me==B]===10"
+      ],
+      "pAtk": [
+        "9===7",
+        "GRADE[me==D]===5"
+      ],
+      "p_race_all": [
+        "9===15"
+      ],
+      "cri": [
+        "12===15"
+      ],
+      "criDmg": [
+        "12===15"
+      ],
+      "cd__Savage Impact": [
+        "EQUIP[Frontier Shadow Katar]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===0.2"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "400980": {
+    "id": 400980,
+    "aegisName": "Frontier_R_Crown_ABC",
+    "flavorText": null,
+    "name": "Frontier Rune Crown (Abyss Chaser) [1]",
+    "unidName": null,
+    "resName": "Frontier_R_Crown",
+    "unidResName": null,
+    "description": "Every 3 refine rate, MATK + 4%.,\r\nEvery 4 refine rate, increases From the Abyss and Abyss Flame damage by 5%.,\r\nIf refine rate is 7 or higher, increases neutral and fire property magical damage by 10%.,\r\nIf refine rate is 9 or higher, S.MATK + 7, increases magical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, MATK + 50, ASPD + 2, increases neutral and fire property magical damage by 15%.,\r\n\r\nWhen equipped with Frontier Abyss Dagger, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher, and Abyss Flame is learned at level 5 or higher.,\r\nUsing Abyss Slayer grants an additional effects for 150 seconds.,\r\n[additional effects],\r\nWhen dealing normal melee physical damage, has a 8% chance to auto-cast Abyss Flame level 5.,\r\nevery refine rate of weapon, increases Abyss Flame and Abyss Square damage by 3%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases neutral and fire property magical damage by 10%.,\r\n[Grade A] Increases magical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Abyss Chaser^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 60,
+    "weight": 100,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "AbyssChaser"
+    ],
+    "script": {
+      "matkPercent": [
+        "3---4"
+      ],
+      "From the Abyss": [
+        "4---5"
+      ],
+      "Abyss Flame": [
+        "4---5"
+      ],
+      "m_my_element_fire": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_neutral": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "sMatk": [
+        "9===7",
+        "GRADE[me==D]===5"
+      ],
+      "m_race_all": [
+        "9===15"
+      ],
+      "matk": [
+        "12===75"
+      ],
+      "aspd": [
+        "12===2"
+      ],
+      "chance__Abyss Flame": [
+        "EQUIP[Frontier Abyss Dagger]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---3"
+      ],
+      "chance__Abyss Square": [
+        "EQUIP[Frontier Abyss Dagger]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---3"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "m_size_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "400981": {
+    "id": 400981,
+    "aegisName": "Frontier_R_Crown_AG",
+    "flavorText": null,
+    "name": "Frontier Rune Crown (Arch Mage) [1]",
+    "unidName": null,
+    "resName": "Frontier_R_Crown",
+    "unidResName": null,
+    "description": "Every 3 refine rate, MATK + 4%.,\r\nEvery 4 refine rate, increases Crimson Arrow and Rock Down damage by 5%.,\r\nIf refine rate is 7 or higher, increases earth and fire property magical damage by 10%.,\r\nIf refine rate is 9 or higher, S.MATK + 7, increases magical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, MATK + 50, reduces fixed casting time by 0.5 seconds, increases earth and fire property magical damage by 15%.,\r\n\r\nWhen equipped with Frontier Arch Staff, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher.,\r\nWhen dealing magical damage, has a 5% chance to grants an additional effects for 15 seconds.,\r\n[additional effects],\r\nIncreases earth and fire property magical damage by 15%.,\r\nincreases magical damage against wind and water property enemies by 15%.,\r\nignores magical resistance of all race monsters (except players) by 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases earth and fire property magical damage by 10%.,\r\n[Grade A] Increases magical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Arch Mage^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 60,
+    "weight": 100,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ArchMage"
+    ],
+    "script": {
+      "matkPercent": [
+        "3---4"
+      ],
+      "Crimson Arrow": [
+        "4---5"
+      ],
+      "Rock Down": [
+        "4---5"
+      ],
+      "m_my_element_fire": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_earth": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "sMatk": [
+        "9===7",
+        "GRADE[me==D]===5"
+      ],
+      "m_race_all": [
+        "9===15"
+      ],
+      "matk": [
+        "12===75"
+      ],
+      "fct": [
+        "12===0.5"
+      ],
+      "chance__m_my_element_fire": [
+        "EQUIP[Frontier Arch Staff]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===15"
+      ],
+      "chance__m_my_element_earth": [
+        "EQUIP[Frontier Arch Staff]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===15"
+      ],
+      "chance__m_element_water": [
+        "EQUIP[Frontier Arch Staff]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===15"
+      ],
+      "chance__m_element_wind": [
+        "EQUIP[Frontier Arch Staff]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===15"
+      ],
+      "chance__pene_mres": [
+        "EQUIP[Frontier Arch Staff]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===15"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "m_size_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "400982": {
+    "id": 400982,
+    "aegisName": "Frontier_R_Crown_EM",
+    "flavorText": null,
+    "name": "Frontier Rune Crown (Elemental Master) [1]",
+    "unidName": null,
+    "resName": "Frontier_R_Crown",
+    "unidResName": null,
+    "description": "Every 3 refine rate, MATK + 4%.,\r\nEvery 4 refine rate, increases Fire Bolt, Cold Bolt, Lightning Bolt damage by 35% and Soul Strike damage by 50%.,\r\nIf refine rate is 7 or higher, increases fire, water, wind and ghost property magical damage by 10%.,\r\nIf refine rate is 9 or higher, S.MATK + 7, increases magical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, MATK + 50, ASPD + 2, increases fire, water, wind and ghost property magical damage by 15%.,\r\n\r\nWhen equipped with Frontier Elemental Book, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher, and Soul Strike is learned at level 10 or higher.,\r\nUsing Spell Fist grants an additional effects for 150 seconds.,\r\n[additional effects],\r\nIncreases skill cooldown of Soul Strike by 2 seconds.,\r\nwhen using Soul Strike, has a 60% chance to auto-cast Soul Vulcan Strike level 5.,\r\nevery refine rate of weapon, increases Soul Strike damage by 75% and Soul Vulcan Strike damage by 7%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases fire, water, wind and ghost property magical damage by 10%.,\r\n[Grade A] Increases magical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Elemental Master^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 60,
+    "weight": 100,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ElementalMaster"
+    ],
+    "script": {
+      "matkPercent": [
+        "3---4"
+      ],
+      "Fire Bolt": [
+        "4---35"
+      ],
+      "Cold Bolt": [
+        "4---35"
+      ],
+      "Lightning Bolt": [
+        "4---35"
+      ],
+      "Soul Strike": [
+        "4---50"
+      ],
+      "m_my_element_fire": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_water": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_wind": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_ghost": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "sMatk": [
+        "9===7",
+        "GRADE[me==D]===5"
+      ],
+      "m_race_all": [
+        "9===15"
+      ],
+      "matk": [
+        "12===75"
+      ],
+      "aspd": [
+        "12===2"
+      ],
+      "chance__Soul Strike": [
+        "EQUIP[Frontier Elemental Book]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---75"
+      ],
+      "chance__Soul Vulcan Strike": [
+        "EQUIP[Frontier Elemental Book]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---7"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "m_size_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "400983": {
+    "id": 400983,
+    "aegisName": "Frontier_R_Crown_CD",
+    "flavorText": null,
+    "name": "Frontier Rune Crown (Cardinal) [1]",
+    "unidName": null,
+    "resName": "Frontier_R_Crown",
+    "unidResName": null,
+    "description": "Every 3 refine rate, MATK + 4%.,\r\nEvery 4 refine rate, increases Divinus Flos damage by 5%.,\r\nIf refine rate is 7 or higher, increases neutral and holy property magical damage by 10%.,\r\nIf refine rate is 9 or higher, S.MATK + 7, increases magical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, MATK + 50, reduces fixed casting time by 0.5 seconds, increases neutral and holy property magical damage by 15%.,\r\n\r\nWhen equipped with Frontier Saint Rod, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher, and Adoramus is learned at level 10 or higher.,\r\nUsing Reparatio grants an additional effects for 60 seconds.,\r\n[additional effects],\r\nevery refine rate of weapon, increases Adoramus damage by 35%.,\r\nwhen using Divinus Flos, auto-cast Adoramus level 10 (consumes Blue Gemstone).,\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases neutral and holy property magical damage by 10%.,\r\n[Grade A] Increases magical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Cardinal^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 60,
+    "weight": 100,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Cardinal"
+    ],
+    "script": {
+      "matkPercent": [
+        "3---4"
+      ],
+      "Divinus Flos": [
+        "4---5"
+      ],
+      "m_my_element_neutral": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_holy": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "sMatk": [
+        "9===7",
+        "GRADE[me==D]===5"
+      ],
+      "m_race_all": [
+        "9===15"
+      ],
+      "matk": [
+        "12===75"
+      ],
+      "fct": [
+        "12===0.5"
+      ],
+      "chance__Adoramus": [
+        "EQUIP[Frontier Saint Rod]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---35"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "m_size_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "400984": {
+    "id": 400984,
+    "aegisName": "Frontier_R_Crown_IQ",
+    "flavorText": null,
+    "name": "Frontier Rune Crown (Inquisitor) [1]",
+    "unidName": null,
+    "resName": "Frontier_R_Crown",
+    "unidResName": null,
+    "description": "Every 3 refine rate, ATK + 4%.,\r\nEvery 4 refine rate, increases Blazing Flame Blast and Explosion Blaster damage by 5%.,\r\nIf refine rate is 7 or higher, increases long ranged physical damage by 10%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases physical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, CRI + 10, reduces fixed casting time by 0.5 seconds, increases critical damage by 15%.,\r\n\r\nWhen equipped with Frontier Judgment Claw, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher.,\r\nUsing Massive Flame Blaster grants an additional effects for 15 seconds.,\r\n[additional effects],\r\nreduces skill cooldown of Explosion Blaster by 0.2 seconds.,\r\nreduces skill cooldown of Blazing Flame Blast by 0.3 seconds.,\r\nevery refine rate of weapon, CRI + 2, C.RATE + 1, increases long-ranged physical damage by 5%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases long-ranged physical damage by 10%.,\r\n[Grade A] Increases physical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Inquisitor^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 60,
+    "weight": 100,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Inquisitor"
+    ],
+    "script": {
+      "atkPercent": [
+        "3---4"
+      ],
+      "Blazing Flame Blast": [
+        "4---5"
+      ],
+      "Explosion Blaster": [
+        "4---5"
+      ],
+      "range": [
+        "7===10",
+        "GRADE[me==B]===10"
+      ],
+      "pAtk": [
+        "9===7",
+        "GRADE[me==D]===5"
+      ],
+      "p_race_all": [
+        "9===15"
+      ],
+      "cri": [
+        "12===10"
+      ],
+      "fct": [
+        "12===0.5"
+      ],
+      "criDmg": [
+        "12===15"
+      ],
+      "chance__cd__Blazing Flame Blast": [
+        "EQUIP[Frontier Judgment Claw]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===0.3"
+      ],
+      "chance__cd__Explosion Blaster": [
+        "EQUIP[Frontier Judgment Claw]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===0.2"
+      ],
+      "chance__cri": [
+        "EQUIP[Frontier Judgment Claw]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---2"
+      ],
+      "chance__cRate": [
+        "EQUIP[Frontier Judgment Claw]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---1"
+      ],
+      "chance__range": [
+        "EQUIP[Frontier Judgment Claw]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---5"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "400985": {
+    "id": 400985,
+    "aegisName": "Frontier_R_Crown_WH",
+    "flavorText": null,
+    "name": "Frontier Rune Crown (Windhawk) [1]",
+    "unidName": null,
+    "resName": "Frontier_R_Crown",
+    "unidResName": null,
+    "description": "Every 3 refine rate, ATK + 4%.,\r\nEvery 4 refine rate, increases Gale Storm and Crescive Bolt damage by 5%.,\r\nIf refine rate is 7 or higher, increases long ranged physical damage by 10%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases physical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, CRI + 10, reduces fixed casting time by 0.5 seconds, increases critical damage by 15%.,\r\n\r\nWhen equipped with Frontier Wind Bow, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher.,\r\nUsing Wild Walk grants an additional effects for 30 seconds.,\r\n[additional effects],\r\nreduces skill cooldown of Gale Storm by 0.15 seconds.,\r\nevery refine rate of weapon, CRI + 3, C.RATE + 1, increases critical damage by 4%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases long-ranged physical damage by 10%.,\r\n[Grade A] Increases physical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Windhawk^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 60,
+    "weight": 100,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Windhawk"
+    ],
+    "script": {
+      "atkPercent": [
+        "3---4"
+      ],
+      "Gale Storm": [
+        "4---5"
+      ],
+      "Crescive Bolt": [
+        "4---5"
+      ],
+      "range": [
+        "7===10",
+        "GRADE[me==B]===10"
+      ],
+      "pAtk": [
+        "9===7",
+        "GRADE[me==D]===5"
+      ],
+      "p_race_all": [
+        "9===15"
+      ],
+      "cri": [
+        "12===10"
+      ],
+      "fct": [
+        "12===0.5"
+      ],
+      "criDmg": [
+        "12===15"
+      ],
+      "chance__cd__Gale Storm": [
+        "EQUIP[Frontier Wind Bow]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===0.15"
+      ],
+      "chance__cri": [
+        "EQUIP[Frontier Wind Bow]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---3"
+      ],
+      "chance__cRate": [
+        "EQUIP[Frontier Wind Bow]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---1"
+      ],
+      "chance__criDmg": [
+        "EQUIP[Frontier Wind Bow]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---4"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "400986": {
+    "id": 400986,
+    "aegisName": "Frontier_R_Crown_TR",
+    "flavorText": null,
+    "name": "Frontier Rune Crown (Troubadour & Trouvere) [1]",
+    "unidName": null,
+    "resName": "Frontier_R_Crown",
+    "unidResName": null,
+    "description": "Every 3 refine rate, ATK + 4%.,\r\nEvery 4 refine rate, increases Rhythm Shooting and Rose Blossom damage by 7%.,\r\nIf refine rate is 7 or higher, increases long-ranged physical damage by 10%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases physical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, ATK + 50, reduces variable casting time by 10%, increases hit physical damage by 15%.,\r\n\r\nWhen equipped with Frontier Musical Violin or Frontier Musical Rope, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher.,\r\nUsing Mystic Symphony grants an additional effects for 150 seconds.,\r\n[additional effects],\r\nReduces skill cooldown of Severe Rainstorm by 1.5 seconds.,\r\nincreases Rose Blossom damage by 20% and Severe Rainstorm damage by 150%.,\r\nevery refine rate of weapon, increases hit physical damage by 2%, increases long-ranged physical damage by 8%, increases Severe Rainstorm damage by 75%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases long-ranged physical damage by 10%.,\r\n[Grade A] Increases physical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Troubadour, Trouvere^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 60,
+    "weight": 100,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Troubadour",
+      "Trouvere"
+    ],
+    "script": {
+      "atkPercent": [
+        "3---4"
+      ],
+      "Rhythm Shooting": [
+        "4---7"
+      ],
+      "Rose Blossom": [
+        "4---7"
+      ],
+      "range": [
+        "7===10",
+        "GRADE[me==B]===10"
+      ],
+      "pAtk": [
+        "9===7",
+        "GRADE[me==D]===5"
+      ],
+      "p_race_all": [
+        "9===15"
+      ],
+      "atk": [
+        "12===50"
+      ],
+      "vct": [
+        "12===10"
+      ],
+      "hitDmg": [
+        "12===15"
+      ],
+      "chance__cd__Severe Rainstorm": [
+        "EQUIP[Frontier Musical Violin||Frontier Musical Rope]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===1.5"
+      ],
+      "chance__Rose Blossom": [
+        "EQUIP[Frontier Musical Violin||Frontier Musical Rope]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===20"
+      ],
+      "chance__Severe Rainstorm": [
+        "EQUIP[Frontier Musical Violin||Frontier Musical Rope]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===150",
+        "EQUIP[Frontier Musical Violin||Frontier Musical Rope]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---75"
+      ],
+      "chance__hitDmg": [
+        "EQUIP[Frontier Musical Violin||Frontier Musical Rope]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---2"
+      ],
+      "chance__range": [
+        "EQUIP[Frontier Musical Violin||Frontier Musical Rope]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---8"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "400987": {
+    "id": 400987,
+    "aegisName": "Frontier_R_Crown_SS",
+    "flavorText": null,
+    "name": "Frontier Rune Crown (Shinkiro & Shiranui) [1]",
+    "unidName": null,
+    "resName": "Frontier_R_Crown",
+    "unidResName": null,
+    "description": "Every 3 refine rate, ATK + 4%.,\r\nEvery 4 refine rate, increases Kunai - Rotation and Huuma Shuriken - Construct damage by 7%.,\r\nIf refine rate is 7 or higher, increases long-ranged physical damage by 10%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases physical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, ATK + 75, increases hit physical damage by 15%.,\r\n\r\nWhen equipped with Frontier Moonlight Huuma Shuriken, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher, and Huuma Shuriken - Construct is learned at level 10 or higher.,\r\nUsing Kunai - Nightmare grants an additional effects for 90 seconds.,\r\n[additional effects],\r\nIncreases Huuma Shuriken - Construct damage by 25% and Swirling Petal damage by 125%.,\r\nreduces skill cooldown of Swirling Petal by 2.5 seconds.,\r\nwhen using Swirling Petal, auto-cast Huuma Shuriken - Construct level 10.,\r\nevery refine rate of weapon, increases hit physical damage by 2%, increases long-ranged physical damage by 8%, increases Swirling Petal damage by 85%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases long-ranged physical damage by 10%.,\r\n[Grade A] Increases physical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Shinkiro, Shiranui^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 60,
+    "weight": 100,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Shinkiro",
+      "Shiranui"
+    ],
+    "script": {
+      "atkPercent": [
+        "3---4"
+      ],
+      "Kunai - Rotation": [
+        "4---7"
+      ],
+      "Huuma Shuriken - Construct": [
+        "4---7"
+      ],
+      "range": [
+        "7===10",
+        "GRADE[me==B]===10"
+      ],
+      "pAtk": [
+        "9===7",
+        "GRADE[me==D]===5"
+      ],
+      "p_race_all": [
+        "9===15"
+      ],
+      "atk": [
+        "12===75"
+      ],
+      "hitDmg": [
+        "12===15"
+      ],
+      "chance__Huuma Shuriken - Construct": [
+        "EQUIP[Frontier Moonlight Huuma Shuriken]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===25"
+      ],
+      "chance__Swirling Petal": [
+        "EQUIP[Frontier Moonlight Huuma Shuriken]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===125",
+        "EQUIP[Frontier Moonlight Huuma Shuriken]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---85"
+      ],
+      "chance__cd__Swirling Petal": [
+        "EQUIP[Frontier Moonlight Huuma Shuriken]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===2.5"
+      ],
+      "chance__hitDmg": [
+        "EQUIP[Frontier Moonlight Huuma Shuriken]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---2"
+      ],
+      "chance__range": [
+        "EQUIP[Frontier Moonlight Huuma Shuriken]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---8"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "400988": {
+    "id": 400988,
+    "aegisName": "Frontier_R_Crown_NW",
+    "flavorText": null,
+    "name": "Frontier Rune Crown (Night Watch) [1]",
+    "unidName": null,
+    "resName": "Frontier_R_Crown",
+    "unidResName": null,
+    "description": "Every 3 refine rate, ATK + 4%.,\r\nEvery 4 refine rate, increases Spiral Shooting and Wild Shot damage by 5%.,\r\nIf refine rate is 7 or higher, increases long ranged physical damage by 10%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases physical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, CRI + 10, reduces fixed casting time by 0.5 seconds, increases critical damage by 15%.,\r\n\r\nWhen equipped with Frontier Night Rifle, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher.,\r\nwhen using Spiral Shooting, auto-cast Wild Shot level 4 (auto-cast when Wild Shot is learned at level 4 or higher).,\r\nusing Hidden Card grants an additional effects for 150 seconds.,\r\n[additional effects],\r\nCRI + 25, C.RATE + 15.,\r\nignores physical resistance of all race monsters (except players) by 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases long-ranged physical damage by 10%.,\r\n[Grade A] Increases physical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Night Watch^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 60,
+    "weight": 100,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "NightWatch"
+    ],
+    "script": {
+      "atkPercent": [
+        "3---4"
+      ],
+      "Spiral Shooting": [
+        "4---5"
+      ],
+      "Wild Shot": [
+        "4---5"
+      ],
+      "range": [
+        "7===10",
+        "GRADE[me==B]===10"
+      ],
+      "pAtk": [
+        "9===7",
+        "GRADE[me==D]===5"
+      ],
+      "p_race_all": [
+        "9===15"
+      ],
+      "cri": [
+        "12===10"
+      ],
+      "fct": [
+        "12===0.5"
+      ],
+      "criDmg": [
+        "12===15"
+      ],
+      "chance__cri": [
+        "EQUIP[Frontier Night Rifle]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===25"
+      ],
+      "chance__cRate": [
+        "EQUIP[Frontier Night Rifle]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===15"
+      ],
+      "chance__pene_res": [
+        "EQUIP[Frontier Night Rifle]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===15"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "400989": {
+    "id": 400989,
+    "aegisName": "Frontier_R_Crown_SKE",
+    "flavorText": null,
+    "name": "Frontier Rune Crown (Sky Emperor) [1]",
+    "unidName": null,
+    "resName": "Frontier_R_Crown",
+    "unidResName": null,
+    "description": "Every 3 refine rate, ATK + 4%.,\r\nEvery 4 refine rate, increases Sunset Blast and Sky Sun damage by 5%.,\r\nIf refine rate is 7 or higher, increases melee physical damage by 10%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases physical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, CRI + 15, increases critical damage by 15%.,\r\n\r\nWhen equipped with Frontier Emperor Battle Book, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher, and both Sunset Blast and Sky Sun are learned level 5 or higher.,\r\nusing Enchanting Sky grants an additional effects for 150 seconds.,\r\n[additional effects],\r\nCRI + 15, C.RATE + 10.,\r\nwhen using Noon Blast, auto-cast Sky Sun level 5 and Sunset Blast level 5.,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases melee physical damage by 10%.,\r\n[Grade A] Increases physical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Sky Emperor^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 60,
+    "weight": 100,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "SkyEmperor"
+    ],
+    "script": {
+      "atkPercent": [
+        "3---4"
+      ],
+      "Sunset Blast": [
+        "4---5"
+      ],
+      "Sky Sun": [
+        "4---5"
+      ],
+      "melee": [
+        "7===10",
+        "GRADE[me==B]===10"
+      ],
+      "pAtk": [
+        "9===7",
+        "GRADE[me==D]===5"
+      ],
+      "p_race_all": [
+        "9===15"
+      ],
+      "cri": [
+        "12===15"
+      ],
+      "criDmg": [
+        "12===15"
+      ],
+      "chance__cri": [
+        "EQUIP[Frontier Emperor Battle Book]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===25"
+      ],
+      "chance__cRate": [
+        "EQUIP[Frontier Emperor Battle Book]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===15"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "400990": {
+    "id": 400990,
+    "aegisName": "Frontier_R_Crown_SOA",
+    "flavorText": null,
+    "name": "Frontier Rune Crown (Soul Ascetic) [1]",
+    "unidName": null,
+    "resName": "Frontier_R_Crown",
+    "unidResName": null,
+    "description": "Every 3 refine rate, MATK + 4%.,\r\nEvery 4 refine rate, increases Talisman of Blue Dragon and Talisman of Red Phoenix damage by 5%.,\r\nIf refine rate is 7 or higher, increases neutral, water, wind, earth, fire, ghost, shadow and holy property magical damage by 10%.,\r\nIf refine rate is 9 or higher, S.MATK + 7, increases magical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, MATK + 50, reduces fixed casting time by 0.5 seconds, increases neutral, water, wind, earth, fire, ghost, shadow and holy property magical damage by 15%.,\r\n\r\nWhen equipped with Frontier Soul Staff, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher, and both Talisman of White Tiger and Talisman of Black Tortoise are learned level 5 or higher.,\r\nUsing Circle of Directions and Elementals grants an additional effects for 60 seconds.,\r\n[additional effects],\r\nWhen using Talisman of Blue Dragon, auto-cast Talisman of White Tiger level 5 (Talisman of White Tiger is centered on the user).,\r\nwhen using Talisman of Red Phoenix, auto-cast Talisman of Black Tortoise level 5.,\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases neutral, water, wind, earth, fire, ghost, shadow and holy property magical damage by 10%.,\r\n[Grade A] Increases magical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Soul Ascetic^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 60,
+    "weight": 100,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "SoulAscetic"
+    ],
+    "script": {
+      "matkPercent": [
+        "3---4"
+      ],
+      "Talisman of Blue Dragon": [
+        "4---5"
+      ],
+      "Talisman of Red Phoenix": [
+        "4---5"
+      ],
+      "m_my_element_neutral": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_water": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_earth": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_fire": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_ghost": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_dark": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_holy": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "sMatk": [
+        "9===7",
+        "GRADE[me==D]===5"
+      ],
+      "m_race_all": [
+        "9===15"
+      ],
+      "matk": [
+        "12===75"
+      ],
+      "fct": [
+        "12===0.5"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "m_size_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "400991": {
+    "id": 400991,
+    "aegisName": "Frontier_R_Crown_HN",
+    "flavorText": null,
+    "name": "Frontier Rune Crown (Hyper Novice) [1]",
+    "unidName": null,
+    "resName": "Frontier_R_Crown",
+    "unidResName": null,
+    "description": "Every 3 refine rate, MATK + 4%.,\r\nEvery 4 refine rate, increases Jupitel Thunderstorm and Jack Frost Nova damage by 5%.,\r\nIf refine rate is 7 or higher, increases water and wind property magical damage by 10%.,\r\nIf refine rate is 9 or higher, S.MATK + 7, increases magical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, MATK + 50, reduces fixed casting time by 0.5 seconds, increases water and wind property magical damage by 15%.,\r\n\r\nWhen equipped with Frontier Hyper Rod, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher.,\r\nUsing Rule Break grants an additional effects for 150 seconds.,\r\n[additional effects],\r\nevery refine rate of weapon, increases Tornado Storm and Rain of Crystal damage by 7%.,\r\nwhen using Jupitel Thunderstorm, auto-cast Tornado Storm level 5.,\r\nwhen using Jack Frost Nova, auto-cast Rain of Crystal level 5 (Rain of Crystal is centered on the user).,\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases water and wind property magical damage by 10%.,\r\n[Grade A] Increases magical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Hyper Novice^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 60,
+    "weight": 100,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "HyperNovice"
+    ],
+    "script": {
+      "matkPercent": [
+        "3---4"
+      ],
+      "Jupitel Thunderstorm": [
+        "4---5"
+      ],
+      "Jack Frost Nova": [
+        "4---5"
+      ],
+      "m_my_element_water": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_wind": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "sMatk": [
+        "9===7",
+        "GRADE[me==D]===5"
+      ],
+      "m_race_all": [
+        "9===15"
+      ],
+      "matk": [
+        "12===75"
+      ],
+      "fct": [
+        "12===0.5"
+      ],
+      "chance__Tornado Storm": [
+        "EQUIP[Frontier Hyper Rod]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---7"
+      ],
+      "chance__Rain of Crystal": [
+        "EQUIP[Frontier Hyper Rod]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]REFINE[weapon==1]---7"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "m_size_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "400992": {
+    "id": 400992,
+    "aegisName": "Frontier_R_Crown_SH",
+    "flavorText": null,
+    "name": "Frontier Rune Crown (Spirit Handler) [1]",
+    "unidName": null,
+    "resName": "Frontier_R_Crown",
+    "unidResName": null,
+    "description": "Every 3 refine rate, MATK + 4%.,\r\nEvery 4 refine rate, increases Hyunrok Breeze and Hyunrok Spirit Power damage by 5%.,\r\nIf refine rate is 7 or higher, increases neutral, water, wind, earth, fire, shadow and holy property magical damage by 10%.,\r\nIf refine rate is 9 or higher, S.MATK + 7, increases magical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, MATK + 50, reduces fixed casting time by 0.5 seconds, increases neutral, water, wind, earth, fire, shadow and holy property magical damage by 15%.,\r\n\r\nWhen equipped with Frontier Spirit Foxtail, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher, and Hyunrok Breeze is learned at level 7 or higher.,\r\nUsing Temporary Communion grants an additional effects for 150 seconds.,\r\n[additional effects],\r\nReduces skill cooldown of Hyunrok Spirit Power by 0.2 seconds.,\r\nwhen using Hyunrok Spirit Power, has a 40% chance to auto-cast Hyunrok Breeze level 7.,\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases neutral, water, wind, earth, fire, shadow and holy property magical damage by 10%.,\r\n[Grade A] Increases magical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Spirit Handler^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 60,
+    "weight": 100,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "SpiritHandler"
+    ],
+    "script": {
+      "matkPercent": [
+        "3---4"
+      ],
+      "Hyunrok Breeze": [
+        "4---5"
+      ],
+      "Hyunrok Spirit Power": [
+        "4---5"
+      ],
+      "m_my_element_neutral": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_water": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_earth": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_fire": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_ghost": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_dark": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_holy": [
+        "7===10",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "sMatk": [
+        "9===7",
+        "GRADE[me==D]===5"
+      ],
+      "m_race_all": [
+        "9===15"
+      ],
+      "matk": [
+        "12===75"
+      ],
+      "fct": [
+        "12===0.5"
+      ],
+      "chance__cd__Hyunrok Spirit Power": [
+        "EQUIP[Frontier Spirit Foxtail]REFINE[weapon,headUpper==24]GRADE[headUpper==A]GRADE[weapon==A]===0.2"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "m_size_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "500120": {
+    "id": 500120,
+    "aegisName": "Falx",
+    "flavorText": null,
+    "name": "Falx [2]",
+    "unidName": null,
+    "resName": "Falx",
+    "unidResName": null,
+    "description": "Increases Mayhemic Thorns damage by 15%.,\r\nEvery 2 refine rate, ATK + 20, ATK + 1%, increases Mayhemic Thorns damage by 4%.,\r\nIf refine rate is 7 or higher, CRI + 15, increases Mayhemic Thorns damage by additional 15%.,\r\nIf refine rate is 9 or higher, C.RATE + 7, reduces variable casting time by 10%.,\r\nIf refine rate is 12 or higher, increases critical damage by 15%, increases Mayhemic Thorns damage by additional 10%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] CRI + 5, increases critical damage by 10%.,\r\n[Grade C] Increases long ranged physical damage by 20%, reduces variable casting time by 5%.,\r\n[Grade B] Increases Mayhemic Thorns damage by 15%.,\r\n[Grade A] P.ATK + 15, if refine rate is 12 or higher, increases Mayhemic Thorns damage by additional 15%, reduces skill cooldown of Mayhemic Thorns by 0.2 seconds.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Sword^000000,\r\nAttack: ^777777260^000000,\r\nWeight: ^777777270^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Biolo^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 257,
+    "itemLevel": 5,
+    "attack": 260,
+    "defense": null,
+    "weight": 270,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Biolo"
+    ],
+    "script": {
+      "Mayhemic Thorns": [
+        "15",
+        "2---4",
+        "7===15",
+        "12===10",
+        "GRADE[me==B]===15",
+        "GRADE[me==A]12===15"
+      ],
+      "atk": [
+        "2===20"
+      ],
+      "atkPercent":[
+        "2===1"
+      ],
+      "cri": [
+        "7===15",
+        "GRADE[me==D]===5"
+      ],
+      "cRate": [
+        "9===7"
+      ],
+      "vct": [
+        "9===10",
+        "GRADE[me==C]===5"
+      ],
+      "criDmg": [
+        "12===15",
+        "GRADE[me==D]===10"
+      ],
+      "cd__Mayhemic Thorns": [
+        "GRADE[me==A]12===0.2"
+      ],
+      "range": [
+        "GRADE[me==C]===20"
+      ],
+      "pAtk": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "510192": {
+    "id": 510192,
+    "aegisName": "Frontier_ABC_Dagger",
+    "flavorText": null,
+    "name": "Frontier Abyss Dagger [2]",
+    "unidName": null,
+    "resName": "Frontier_ABC_Dagger",
+    "unidResName": null,
+    "description": "MATK + 250.,\r\nS.MATK + 5, increases From the Abyss damage by 5%.,\r\nEvery 2 refine rate, MATK + 25, MATK + 1%.,\r\nEvery 3 refine rate, increases From the Abyss damage by 5%.,\r\nIf refine rate is 9 or higher, S.MATK + 7, increases neutral and fire property magical damage by 15%.,\r\nIf refine rate is 11 or higher, increases From the Abyss damage by additional 25%.,\r\nIf refine rate is 12 or higher, and From the Abyss is learned at level 5 or higher.,\r\nwhen dealing normal melee physical damage, has a 8% chance to auto-cast an additional attack corresponding to From the Abyss level 5 (auto-cast even without Abyss sphere).,\r\n\r\nWhen equipped with Frontier Rune Crown (Abyss Chaser), increases Abyss Flame and Abyss Square damage by 35%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 7, increases neutral and fire property magical damage by 10%.,\r\n[Grade C] Increases From the Abyss damage by 10%.,\r\n[Grade B] Increases neutral and fire property magical damage by 10%.,\r\n[Grade A] Every 2 refine rate, S.MATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Dagger^000000,\r\nAttack: ^777777150^000000,\r\nWeight: ^777777220^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Abyss Chaser^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 256,
+    "itemLevel": 5,
+    "attack": 150,
+    "defense": null,
+    "weight": 220,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "AbyssChaser"
+    ],
+    "script": {
+      "matk": [
+        "250",
+        "2---25",
+        "2===1"
+      ],
+      "sMatk": [
+        "5",
+        "9===7",
+        "GRADE[me==D]===7",
+        "GRADE[me==A]2---3"
+      ],
+      "matkPercent": [
+        "2---1"
+      ],
+      "From the Abyss": [
+        "5",
+        "3---5",
+        "11===25",
+        "GRADE[me==C]===10"
+      ],
+      "m_my_element_neutral": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_fire": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10"
+      ],
+      "Abyss Flame": [
+        "EQUIP[Frontier Rune Crown (Abyss Chaser)]===35"
+      ],
+      "Abyss Square": [
+        "EQUIP[Frontier Rune Crown (Abyss Chaser)]===35"
+      ]
+    }
+  },
+  "530072": {
+    "id": 530072,
+    "aegisName": "Frontier_IG_Spear",
+    "flavorText": null,
+    "name": "Frontier Imperial Spear [2]",
+    "unidName": null,
+    "resName": "Frontier_IG_Spear",
+    "unidResName": null,
+    "description": "P.ATK + 5, increases Imperial Cross damage by 5%.,\r\nEvery 2 refine rate, ATK + 25, ATK + 1%.,\r\nEvery 3 refine rate, increases Imperial Cross damage by 5%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases melee physical damage by 15%.,\r\nIf refine rate is 11 or higher, increases Imperial Cross damage by additional 15%.,\r\nIf refine rate is 12 or higher, increases Imperial Cross damage by additional 20%, increases Overslash damage by 25%.,\r\n\r\nWhen equipped with Frontier Rune Crown (Imperial Guard), increases Overslash damage by 25%, increases hit physical damage by 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 7, increases melee physical damage by 10%.,\r\n[Grade C] Increases Imperial Cross damage by 10%.,\r\n[Grade B] Increases hit physical damage by 15%.,\r\n[Grade A] Every 2 refine rate, P.ATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777One-handed Spear^000000,\r\nAttack: ^777777260^000000,\r\nWeight: ^777777270^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Imperial Guard^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 259,
+    "itemLevel": 5,
+    "attack": 260,
+    "defense": null,
+    "weight": 270,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ImperialGuard"
+    ],
+    "script": {
+      "Imperial Cross": [
+        "5",
+        "3---5",
+        "11===15",
+        "12===20",
+        "GRADE[me==C]===10"
+      ],
+      "Overslash": [
+        "12===25",
+        "EQUIP[Frontier Rune Crown (Imperial Guard)]===25"
+      ],
+      "atk": [
+        "2===25"
+      ],
+      "atkPercent":[
+        "2===1"
+      ],
+      "pAtk": [
+        "5",
+        "9===7",
+        "GRADE[me==D]===7",
+        "GRADE[me==A]2---3"
+      ],
+      "melee": [
+        "9===15",
+        "GRADE[me==D]===10"
+      ],
+      "hitDmg": [
+        "EQUIP[Frontier Rune Crown (Imperial Guard)]===15",
+        "GRADE[me==B]===15"
+      ]
+    }
+  },
+  "530074": {
+    "id": 530074,
+    "aegisName": "Espetar",
+    "flavorText": null,
+    "name": "Espetar [2]",
+    "unidName": null,
+    "resName": "Espetar",
+    "unidResName": null,
+    "description": "Increases Radiant Spear damage by 20%.,\r\nEvery 3 refine rate, ATK + 25, ATK + 1%, increases Radiant Spear damage by 5%.,\r\nIf refine rate is 7 or higher, increases Radiant Spear damage by additional 25%.,\r\nIf refine rate is 9 or higher, CRI + 15, increases critical damage by 15%.,\r\nIf refine rate is 12 or higher, increases Radiant Spear damage by 15%, if Cannon Spear is learned at level 5 or higher.,\r\nusing Grand Judgement grants an additional effects for 60 seconds.,\r\n[additional effects],\r\nIgnores physical resistance of all race monsters (except players) by 15%.,\r\nwhen using Radiant Spear, auto-cast Cannon Spear level 5.,\r\nevery refine rate of weapon, STR + 7, increases long-ranged physical damage by 3%, increases Cannon Spear damage by 65%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] Reduces variable casting time by 10%, CRI + 5.,\r\n[Grade C] Increases long ranged physical damage by 15%, increases critical damage by 10%.,\r\n[Grade B] C.RATE + 5, increases Radiant Spear damage by 10%.,\r\n[Grade A] P.ATK + 15, if refine rate is 12 or higher, reduces skill cooldown of Radiant Spear by 0.3 seconds.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777One-handed Spear^000000,\r\nAttack: ^777777260^000000,\r\nWeight: ^777777270^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Imperial Guard^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 259,
+    "itemLevel": 5,
+    "attack": 260,
+    "defense": null,
+    "weight": 270,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ImperialGuard"
+    ],
+    "script": {
+      "Radiant Spear": [
+        "20",
+        "3---5",
+        "7===25",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "atk": [
+        "3---25"
+      ],
+      "atkPercent":[
+        "3---1"
+      ],
+      "cri": [
+        "9===15",
+        "GRADE[me==D]===5"
+      ],
+      "criDmg": [
+        "9===15",
+        "GRADE[me==C]===10"
+      ],
+      "cRate": [
+        "GRADE[me==B]===5"
+      ],
+      "vct": [
+        "GRADE[me==D]===10"
+      ],
+      "chance__pene_res": [
+        "12===15"
+      ],
+      "chance__str": [
+        "REFINE[12]1---7"
+      ],
+      "chance__range": [
+        "REFINE[12]1---3"
+      ],
+      "chance__Cannon Spear": [
+        "REFINE[12]1---65"
+      ],
+      "pAtk": [
+        "GRADE[me==A]===15"
+      ],
+      "cd__Radiant Spear": [
+        "GRADE[me==A]12===0.3"
+      ]
+    }
+  },
+  "540110": {
+    "id": 540110,
+    "aegisName": "Frontier_EM_Book",
+    "flavorText": null,
+    "name": "Frontier Elemental Book [2]",
+    "unidName": null,
+    "resName": "Frontier_EM_Book",
+    "unidResName": null,
+    "description": "MATK + 260.,\r\nS.MATK + 5, increases Fire Bolt, Cold Bolt and Lightning Bolt damage by 100%.,\r\nIncreases fixed casting time of Fire Bolt, Cold Bolt and Lightning Bolt by 2.5 seconds.,\r\nEvery 2 refine rate, MATK + 25, MATK + 1%.,\r\nEvery 3 refine rate, increases Fire Bolt, Cold Bolt and Lightning Bolt damage by 35%.,\r\nIf refine rate is 9 or higher, S.MATK + 7, increases fire, water, wind and ghost property magical damage by 15%.,\r\nIf refine rate is 11 or higher, increases Fire Bolt, Cold Bolt and Lightning Bolt damage by additional 30%.,\r\nIf refine rate is 12 or higher, increases Fire Bolt, Cold Bolt and Lightning Bolt damage by additional 35%, increases Soul Strike damage by 45%.,\r\n\r\nWhen equipped with Frontier Rune Crown (Elemental Master), increases Soul Strike damage by 45%, increases fire, water, wind and ghost property magical damage by 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 7, increases fire, water, wind and ghost property magical damage by 10%.,\r\n[Grade C] Increases Soul Strike damage by 45%.,\r\n[Grade B] ASPD + 2, increases attack speed (reduces delay after attack by 10%).,\r\n[Grade A] Every 2 refine rate, S.MATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Book^000000,\r\nAttack: ^777777100^000000,\r\nWeight: ^777777200^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Elemental Master^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 271,
+    "itemLevel": 5,
+    "attack": 100,
+    "defense": null,
+    "weight": 200,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ElementalMaster"
+    ],
+    "script": {
+      "matk": [
+        "260",
+        "2---25",
+        "2===1"
+      ],
+      "sMatk": [
+        "5",
+        "9===7",
+        "GRADE[me==D]===7",
+        "GRADE[me==A]2---3"
+      ],
+      "matkPercent": [
+        "2---1"
+      ],
+      "Fire Bolt": [
+        "100",
+        "3---35",
+        "11===30",
+        "12===35"
+      ],
+      "Cold Bolt": [
+        "100",
+        "3---35",
+        "11===30",
+        "12===35"
+      ],
+      "Lightning Bolt": [
+        "100",
+        "3---35",
+        "11===30",
+        "12===35"
+      ],
+      "fct__Fire Bolt": [
+        "-2.5"
+      ],
+      "fct__Cold Bolt": [
+        "-2.5"
+      ],
+      "fct__Lightning Bolt": [
+        "-2.5"
+      ],
+      "m_my_element_fire": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "EQUIP[Frontier Rune Crown (Elemental Master)]===15"
+      ],
+      "m_my_element_water": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "EQUIP[Frontier Rune Crown (Elemental Master)]===15"
+      ],
+      "m_my_element_wind": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "EQUIP[Frontier Rune Crown (Elemental Master)]===15"
+      ],
+      "m_my_element_ghost": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "EQUIP[Frontier Rune Crown (Elemental Master)]===15"
+      ],
+      "Soul Strike": [
+        "12===45",
+        "EQUIP[Frontier Rune Crown (Elemental Master)]===45",
+        "GRADE[me==C]===45"
+      ],
+      "aspd": [
+        "GRADE[me==B]===2"
+      ],
+      "aspdPercent": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "540111": {
+    "id": 540111,
+    "aegisName": "Frontier_SKE_Book",
+    "flavorText": null,
+    "name": "Frontier Emperor Battle Book [2]",
+    "unidName": null,
+    "resName": "Frontier_SKE_Book",
+    "unidResName": null,
+    "description": "CRI + 5, increases Sky Sun damage by 5%.,\r\nEvery 2 refine rate, ATK + 25, ATK + 1%.,\r\nEvery 3 refine rate, increases Sky Sun damage by 5%.,\r\nIf refine rate is 9 or higher, CRI + 15, C.RATE + 5.,\r\nIf refine rate is 11 or higher, increases Sky Sun damage by additional 15%.,\r\nIf refine rate is 12 or higher, increases Sky Sun damage by additional 20%, increases Sunset Blast damage by 25%.,\r\n\r\nWhen equipped with Frontier Rune Crown (Sky Emperor), increases Sunset Blast damage by 25%, increases critical damage by 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] CRI + 5, P.ATK + 5.,\r\n[Grade C] Increases Sky Sun damage by 10%.,\r\n[Grade B] Increases melee physical damage by 15%.,\r\n[Grade A] Every 2 refine rate, P.ATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Book^000000,\r\nAttack: ^777777250^000000,\r\nWeight: ^777777240^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Sky Emperor^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 271,
+    "itemLevel": 5,
+    "attack": 250,
+    "defense": null,
+    "weight": 240,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "SkyEmperor"
+    ],
+    "script": {
+      "Sky Sun": [
+        "5",
+        "3---5",
+        "11===15",
+        "12===20",
+        "GRADE[me==C]===10"
+      ],
+      "Sunset Blast": [
+        "12===25",
+        "EQUIP[Frontier Rune Crown (Sky Emperor)]===25"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "atkPercent":[
+        "2---1"
+      ],
+      "cri": [
+        "5",
+        "9===15",
+        "GRADE[me==D]===5"
+      ],
+      "cRate": [
+        "9===5",
+        "GRADE[me==B]===5"
+      ],
+      "criDmg": [
+        "EQUIP[Frontier Rune Crown (Sky Emperor)]===15"
+      ],
+      "melee": [
+        "GRADE[me==B]===15"
+      ],
+      "pAtk": [
+        "GRADE[me==D]===5",
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "540114": {
+    "id": 540114,
+    "aegisName": "Elemental_Spirits",
+    "flavorText": null,
+    "name": "Elemental Spirits [2]",
+    "unidName": null,
+    "resName": "Elemental_Spirits",
+    "unidResName": null,
+    "description": "MATK + 260.,\r\nIncreases Diamond Storm and Terra Drive damage by 20%.,\r\nEvery 3 refine rate, MATK + 25, MATK + 1%, increases Diamond Storm and Terra Drive damage by 5%.,\r\nIf refine rate is 7 or higher, increases earth and water property magical damage by 10%, increases Diamond Storm damage by additional 20%.,\r\nIf refine rate is 9 or higher, S.MATK + 7, increases Terra Drive damage by additional 20%.,\r\nIf refine rate is 12 or higher, increases Diamond Storm and Terra Drive damage by additional 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 7, increases earth and water property magical damage by 10%.,\r\n[Grade C] Increases Diamond Storm and Terra Drive damage by 15%.,\r\n[Grade B] Increases earth and water property magical damage by additional 10%.,\r\n[Grade A] S.MATK + 15, increases Elemental Buster damage by 25%, if refine rate is 12 or higher, and Elemental Buster is learned at level 10 or higher.,\r\nwhen using Diamond Storm and Terra Drive, auto-cast Elemental Buster level 10 (auto-cast when high elemental spirit is summoned and is centered on the user).,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Book^000000,\r\nAttack: ^777777100^000000,\r\nWeight: ^777777200^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Elemental Master^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 271,
+    "itemLevel": 5,
+    "attack": 100,
+    "defense": null,
+    "weight": 200,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ElementalMaster"
+    ],
+    "script": {
+      "matk": [
+        "260",
+        "3---25"
+      ],
+      "matkPercent": [
+        "3---1"
+      ],
+      "Diamond Storm": [
+        "20",
+        "3---5",
+        "7===20",
+        "12===15",
+        "GRADE[me==C]===15"
+      ],
+      "Terra Drive": [
+        "20",
+        "3---5",
+        "9===20",
+        "12===15",
+        "GRADE[me==C]===15"
+      ],
+      "m_my_element_earth": [
+        "7===10",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_water": [
+        "7===10",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10"
+      ],
+      "sMatk": [
+        "9===7",
+        "GRADE[me==D]===7"
+      ],
+      "Elemental Buster": [
+        "GRADE[me==A]===25"
+      ],
+      "chance__Elemental Buster": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "540115": {
+    "id": 540115,
+    "aegisName": "Book_Of_Crimson_M",
+    "flavorText": null,
+    "name": "Book of Crimson Moon [2]",
+    "unidName": null,
+    "resName": "Book_Of_Crimson_M",
+    "unidResName": null,
+    "description": "Increases Sky Moon damage by 20%.,\r\nEvery 3 refine rate, ATK + 25, ATK + 1%, increases Sky Moon damage by 5%.,\r\nIf refine rate is 7 or higher, reduces variable casting time by 10%, increases hit physical damage by 15%.,\r\nIf refine rate is 9 or higher, increases Sky Moon damage by additional 20%.,\r\nIf refine rate is 12 or higher, increases melee physical damage by 10%, if grade is A or higher, and both Midnight Kick and Dawn Break are learned at level 5 or higher.,\r\nusing Enchaning Sky grants an additional effects for 150 seconds.,\r\n[additional effects],\r\nIncreases hit physical damage by 15%.,\r\nwhen using Sky Moon, auto-cast Dawn Break level 5.,\r\nwhen using Dawn Break, auto-cast Midnight Kick level 5.,\r\nevery refine rate of weapon, increases Midnight Kick and Dawn Break damage by 4%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] Increases hit physical damage by 10%.,\r\n[Grade C] Increases Sky Moon damage by 15%.,\r\n[Grade B] Reduces variable casting time by 5%, increases melee physical damage by 15%.,\r\n[Grade A] P.ATK + 15, if refine rate is 12 or higher, reduces skill cooldown of Sky Moon by 0.3 seconds.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Book^000000,\r\nAttack: ^777777260^000000,\r\nWeight: ^777777240^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Sky Emperor^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 271,
+    "itemLevel": 5,
+    "attack": 260,
+    "defense": null,
+    "weight": 240,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "SkyEmperor"
+    ],
+    "script": {
+      "Sky Moon": [
+        "20",
+        "3---5",
+        "9===20",
+        "GRADE[me==C]===15"
+      ],
+      "atk": [
+        "3---25"
+      ],
+      "atkPercent":[
+        "3---1"
+      ],
+      "vct": [
+        "7===10",
+        "GRADE[me==B]===5"
+      ],
+      "hitDmg": [
+        "7===15",
+        "GRADE[me==D]===10"
+      ],
+      "criDmg": [
+        "7===15"
+      ],
+      "melee": [
+        "12===10",
+        "GRADE[me==B]===15"
+      ],
+      "chance__hitDmg": [
+        "12===15"
+      ],
+      "chance__Dawn Break": [
+        "REFINE[12]1---4"
+      ],
+      "chance__Midnight Kick": [
+        "REFINE[12]1---4"
+      ],
+      "chance__Midnight Kick and Dawn Break": [
+        "REFINE[12]1---4"
+      ],
+      "pAtk": [
+        "GRADE[me==A]===15"
+      ],
+      "cd__Sky Moon": [
+        "GRADE[me==A]12===0.3"
+      ]
+    }
+  },
+  "550176": {
+    "id": 550176,
+    "aegisName": "Frontier_CD_Rod",
+    "flavorText": null,
+    "name": "Frontier Saint Rod [2]",
+    "unidName": null,
+    "resName": "Frontier_CD_Rod",
+    "unidResName": null,
+    "description": "MATK + 260, Can't be destroyed.,\r\nS.MATK + 5, increases Divinus Flos damage by 5%.,\r\nEvery 2 refine rate, MATK + 25, MATK + 1%.,\r\nEvery 3 refine rate, increases Divinus Flos damage by 5%.,\r\nIf refine rate is 9 or higher, S.MATK + 7, increases neutral and holy property magical damage by 15%.,\r\nIf refine rate is 11 or higher, increases Divinus Flos damage by additional 15%.,\r\nIf refine rate is 12 or higher, increases Divinus Flos damage by additional 20%, increases Pneumaticus Procella damage by 25%.,\r\n\r\nWhen equipped with Frontier Rune Crown (Cardinal), increases Pneumaticus Procella damage by 25%, increases neutral and holy property magical damage by 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 7, increases neutral and holy property magical damage by 10%.,\r\n[Grade C] Increases Divinus Flos damage by 10%.,\r\n[Grade B] Increases neutral and holy property magical damage by 10%.,\r\n[Grade A] Every 2 refine rate, S.MATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777One-handed Staff^000000,\r\nAttack: ^777777100^000000,\r\nWeight: ^777777220^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Cardinal^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 265,
+    "itemLevel": 5,
+    "attack": 100,
+    "defense": null,
+    "weight": 220,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Cardinal"
+    ],
+    "script": {
+      "matk": [
+        "260",
+        "2---25",
+        "2===1"
+      ],
+      "sMatk": [
+        "5",
+        "9===7",
+        "GRADE[me==D]===7",
+        "GRADE[me==A]2---3"
+      ],
+      "matkPercent": [
+        "2---1"
+      ],
+      "Divinus Flos": [
+        "5",
+        "3---5",
+        "11===15",
+        "12===20",
+        "GRADE[me==C]===10"
+      ],
+      "Pneumaticus Procella": [
+        "12===25",
+        "EQUIP[Frontier Rune Crown (Cardinal)]===25"
+      ],
+      "m_my_element_neutral": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10",
+        "EQUIP[Frontier Rune Crown (Cardinal)]===15"
+      ],
+      "m_my_element_holy": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10",
+        "EQUIP[Frontier Rune Crown (Cardinal)]===15"
+      ]
+    }
+  },
+  "550177": {
+    "id": 550177,
+    "aegisName": "Frontier_HN_Rod",
+    "flavorText": null,
+    "name": "Frontier Hyper Rod [2]",
+    "unidName": null,
+    "resName": "Frontier_HN_Rod",
+    "unidResName": null,
+    "description": "MATK + 250, Can't be destroyed.,\r\nS.MATK + 5, increases Jack Frost Nova damage by 5%.,\r\nEvery 2 refine rate, MATK + 25, MATK + 1%.,\r\nEvery 3 refine rate, increases Jack Frost Nova damage by 5%.,\r\nIf refine rate is 9 or higher, S.MATK + 7, increases water and wind property magical damage by 15%.,\r\nIf refine rate is 11 or higher, increases Jack Frost Nova damage by additional 15%.,\r\nIf refine rate is 12 or higher, increases Jack Frost Nova damage by additional 20%, increases Jupitel Thunderstorm damage by 25%.,\r\n\r\nWhen equipped with Frontier Rune Crown (Hyper Novice), increases Jupitel Thunderstorm damage by 25%, increases water and wind property magical damage by 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 7, increases water and wind property magical damage by 10%.,\r\n[Grade C] Increases Jack Frost Nova damage by 10%.,\r\n[Grade B] Increases water and wind property magical damage by 10%.,\r\n[Grade A] Every 2 refine rate, S.MATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777One-handed Staff^000000,\r\nAttack: ^777777100^000000,\r\nWeight: ^777777200^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Hyper Novice^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 265,
+    "itemLevel": 5,
+    "attack": 100,
+    "defense": null,
+    "weight": 200,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "HyperNovice"
+    ],
+    "script": {
+      "matk": [
+        "250",
+        "2---25",
+        "2===1"
+      ],
+      "sMatk": [
+        "5",
+        "9===7",
+        "GRADE[me==D]===7",
+        "GRADE[me==A]2---3"
+      ],
+      "matkPercent": [
+        "2---1"
+      ],
+      "Jack Frost Nova": [
+        "5",
+        "3---5",
+        "11===15",
+        "12===20",
+        "GRADE[me==C]===10"
+      ],
+      "Jupitel Thunderstorm": [
+        "12===25",
+        "EQUIP[Frontier Rune Crown (Hyper Novice)]===25"
+      ],
+      "m_my_element_water": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10",
+        "EQUIP[Frontier Rune Crown (Hyper Novice)]===15"
+      ],
+      "m_my_element_wind": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10",
+        "EQUIP[Frontier Rune Crown (Hyper Novice)]===15"
+      ]
+    }
+  },
+  "550178": {
+    "id": 550178,
+    "aegisName": "Frontier_SH_Foxtail",
+    "flavorText": null,
+    "name": "Frontier Spirit Foxtail [2]",
+    "unidName": null,
+    "resName": "Frontier_SH_Foxtail",
+    "unidResName": null,
+    "description": "MATK + 450, Can't be destroyed.,\r\nS.MATK + 5, increases Hyunrok Spirit Power damage by 5%.,\r\nEvery 2 refine rate, MATK + 25, MATK + 1%.,\r\nEvery 3 refine rate, increases Hyunrok Spirit Power damage by 5%.,\r\nIf refine rate is 9 or higher, S.MATK + 7, increases neutral, water, wind, earth, fire, shadow and holy property magical damage by 15%.,\r\nIf refine rate is 11 or higher, increases Hyunrok Spirit Power damage by additional 15%.,\r\nIf refine rate is 12 or higher, increases Hyunrok Spirit Power damage by additional 20%, increases Hyunrok Breeze damage by 25%.,\r\n\r\nWhen equipped with Frontier Rune Crown (Spirit Handler), increases Hyunrok Breeze damage by 25%, increases neutral, water, wind, earth, fire, shadow and holy property magical damage by 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 7, increases neutral, water, wind, earth, fire, shadow and holy property magical damage by 10%.,\r\n[Grade C] Increases Hyunrok Spirit Power damage by 10%.,\r\n[Grade B] Increases neutral, water, wind, earth, fire, shadow and holy property magical damage by 10%.,\r\n[Grade A] Every 2 refine rate, S.MATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777One-handed Staff^000000,\r\nAttack: ^777777100^000000,\r\nWeight: ^777777200^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Spirit Handler^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 265,
+    "itemLevel": 5,
+    "attack": 100,
+    "defense": null,
+    "weight": 200,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "SpiritHandler"
+    ],
+    "script": {
+      "matk": [
+        "450",
+        "2---25",
+        "2===1"
+      ],
+      "sMatk": [
+        "5",
+        "9===7",
+        "GRADE[me==D]===7",
+        "GRADE[me==A]2---3"
+      ],
+      "matkPercent": [
+        "2---1"
+      ],
+      "Hyunrok Spirit Power": [
+        "5",
+        "3---5",
+        "11===15",
+        "12===20",
+        "GRADE[me==C]===10"
+      ],
+      "Hyunrok Breeze": [
+        "12===25",
+        "EQUIP[Frontier Rune Crown (Spirit Handler)]===25"
+      ],
+      "m_my_element_neutral": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10",
+        "EQUIP[Frontier Rune Crown (Spirit Handler)]===15"
+      ],
+      "m_my_element_water": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10",
+        "EQUIP[Frontier Rune Crown (Spirit Handler)]===15"
+      ],
+      "m_my_element_wind": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10",
+        "EQUIP[Frontier Rune Crown (Spirit Handler)]===15"
+      ],
+      "m_my_element_earth": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10",
+        "EQUIP[Frontier Rune Crown (Spirit Handler)]===15"
+      ],
+      "m_my_element_fire": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10",
+        "EQUIP[Frontier Rune Crown (Spirit Handler)]===15"
+      ],
+      "m_my_element_dark": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10",
+        "EQUIP[Frontier Rune Crown (Spirit Handler)]===15"
+      ],
+      "m_my_element_holy": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10",
+        "EQUIP[Frontier Rune Crown (Spirit Handler)]===15"
+      ]
+    }
+  },
+  "560081": {
+    "id": 560081,
+    "aegisName": "Frontier_IQ_Claw",
+    "flavorText": null,
+    "name": "Frontier Judgment Claw [2]",
+    "unidName": null,
+    "resName": "Frontier_IQ_Claw",
+    "unidResName": null,
+    "description": "CRI + 5, increases Blazing Flame Blast damage by 5%.,\r\nEvery 2 refine rate, ATK + 25, ATK + 1%.,\r\nEvery 3 refine rate, increases Blazing Flame Blast damage by 5%.,\r\nIf refine rate is 9 or higher, CRI + 15, C.RATE + 5.,\r\nIf refine rate is 11 or higher, increases Blazing Flame Blast damage by additional 15%.,\r\nIf refine rate is 12 or higher, increases Blazing Flame Blast damage by additional 20%, increases Explosion Blaster damage by 25%.,\r\n\r\nWhen equipped with Frontier Rune Crown (Inquisitor), increases Explosion Blaster damage by 25%, increases critical damage by 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] CRI + 5, P.ATK + 5.,\r\n[Grade C] Increases Blazing Flame Blast damage by 10%.,\r\n[Grade B] Increases long-ranged physical damage by 15%.,\r\n[Grade A] Every 2 refine rate, P.ATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Knuckle^000000,\r\nAttack: ^777777260^000000,\r\nWeight: ^777777270^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Inquisitor^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 268,
+    "itemLevel": 5,
+    "attack": 260,
+    "defense": null,
+    "weight": 270,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Inquisitor"
+    ],
+    "script": {
+      "Blazing Flame Blast": [
+        "5",
+        "3---5",
+        "11===15",
+        "12===20",
+        "GRADE[me==C]===10"
+      ],
+      "Explosion Blaster": [
+        "12===25",
+        "EQUIP[Frontier Rune Crown (Inquisitor)]===25"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "atkPercent":[
+        "2---1"
+      ],
+      "cri": [
+        "5",
+        "9===15",
+        "GRADE[me==D]===5"
+      ],
+      "cRate": [
+        "9===5",
+        "GRADE[me==B]===5"
+      ],
+      "criDmg": [
+        "EQUIP[Frontier Rune Crown (Inquisitor)]===15"
+      ],
+      "range": [
+        "GRADE[me==B]===15"
+      ],
+      "pAtk": [
+        "GRADE[me==D]===5",
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "570087": {
+    "id": 570087,
+    "aegisName": "Frontier_TR_Vilolin",
+    "flavorText": null,
+    "name": "Frontier Musical Violin [2]",
+    "unidName": null,
+    "resName": "Frontier_TR_Vilolin",
+    "unidResName": null,
+    "description": "P.ATK + 5, increases Rhythm Shooting damage by 5%.,\r\nEvery 2 refine rate, ATK + 25, ATK + 1%.,\r\nEvery 3 refine rate, increases Rhythm Shooting damage by 5%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases long-ranged physical damage by 15%.,\r\nIf refine rate is 11 or higher, increases Rhythm Shooting damage by additional 15%.,\r\nIf refine rate is 12 or higher, increases Rhythm Shooting damage by additional 20%, increases Rose Blossom damage by 25%.,\r\n\r\nWhen equipped with Frontier Rune Crown (Troubadour & Trouvere), increases Rose Blossom damage by 25%, increases hit physical damage by 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 7, increases long-ranged physical damage by 10%.,\r\n[Grade C] Increases Rhythm Shooting damage by 10%.,\r\n[Grade B] Increases hit physical damage by 15%.,\r\n[Grade A] Every 2 refine rate, P.ATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Musical Instrument^000000,\r\nAttack: ^777777250^000000,\r\nWeight: ^777777200^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Troubadour^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 269,
+    "itemLevel": 5,
+    "attack": 250,
+    "defense": null,
+    "weight": 200,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Troubadour"
+    ],
+    "script": {
+      "Rhythm Shooting": [
+        "5",
+        "3---5",
+        "11===15",
+        "12===20",
+        "GRADE[me==C]===10"
+      ],
+      "Rose Blossom": [
+        "12===25",
+        "EQUIP[Frontier Rune Crown (Troubadour & Trouvere)]===25"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "atkPercent":[
+        "2---1"
+      ],
+      "hitDmg": [
+        "EQUIP[Frontier Rune Crown (Troubadour & Trouvere)]===15",
+        "GRADE[me==B]===15"
+      ],
+      "range": [
+        "9===15",
+        "GRADE[me==D]===10"
+      ],
+      "pAtk": [
+        "5",
+        "9===7",
+        "GRADE[me==D]===7",
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "580087": {
+    "id": 580087,
+    "aegisName": "Frontier_TR_Rope",
+    "flavorText": null,
+    "name": "Frontier Musical Rope [2]",
+    "unidName": null,
+    "resName": "Frontier_TR_Rope",
+    "unidResName": null,
+    "description": "P.ATK + 5, increases Rhythm Shooting damage by 5%.,\r\nEvery 2 refine rate, ATK + 25, ATK + 1%.,\r\nEvery 3 refine rate, increases Rhythm Shooting damage by 5%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases long-ranged physical damage by 15%.,\r\nIf refine rate is 11 or higher, increases Rhythm Shooting damage by additional 15%.,\r\nIf refine rate is 12 or higher, increases Rhythm Shooting damage by additional 20%, increases Rose Blossom damage by 25%.,\r\n\r\nWhen equipped with Frontier Rune Crown (Troubadour & Trouvere), increases Rose Blossom damage by 25%, increases hit physical damage by 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 7, increases long-ranged physical damage by 10%.,\r\n[Grade C] Increases Rhythm Shooting damage by 10%.,\r\n[Grade B] Increases hit physical damage by 15%.,\r\n[Grade A] Every 2 refine rate, P.ATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Whip^000000,\r\nAttack: ^777777250^000000,\r\nWeight: ^777777200^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Trouvere^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 270,
+    "itemLevel": 5,
+    "attack": 250,
+    "defense": null,
+    "weight": 200,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Trouvere"
+    ],
+    "script": {
+      "Rhythm Shooting": [
+        "5",
+        "3---5",
+        "11===15",
+        "12===20",
+        "GRADE[me==C]===10"
+      ],
+      "Rose Blossom": [
+        "12===25",
+        "EQUIP[Frontier Rune Crown (Troubadour & Trouvere)]===25"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "atkPercent":[
+        "2---1"
+      ],
+      "hitDmg": [
+        "EQUIP[Frontier Rune Crown (Troubadour & Trouvere)]===15",
+        "GRADE[me==B]===15"
+      ],
+      "range": [
+        "9===15",
+        "GRADE[me==D]===10"
+      ],
+      "pAtk": [
+        "5",
+        "9===7",
+        "GRADE[me==D]===7",
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "590107": {
+    "id": 590107,
+    "aegisName": "Frontier_BO_Hall",
+    "flavorText": null,
+    "name": "Frontier Biologic Scepter [2]",
+    "unidName": null,
+    "resName": "Frontier_BO_Hall",
+    "unidResName": null,
+    "description": "Can't be destroyed, P.ATK + 5, increases Dust Explosion damage by 5%.,\r\nEvery 2 refine rate, ATK + 25, ATK + 1%.,\r\nEvery 3 refine rate, increases Dust Explosion damage by 5%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases melee physical damage by 15%.,\r\nIf refine rate is 11 or higher, increases Dust Explosion damage by additional 15%.,\r\nIf refine rate is 12 or higher, increases Dust Explosion damage by additional 20%, increases Explosive Powder damage by 25%.,\r\n\r\nWhen equipped with Frontier Rune Crown (Biolo), increases Explosive Powder damage by 25%, increases hit physical damage by 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 7, increases melee physical damage by 10%.,\r\n[Grade C] Increases Rhythm Shooting damage by 10%.,\r\n[Grade B] Increases hit physical damage by 15%.,\r\n[Grade A] Every 2 refine rate, P.ATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Mace^000000,\r\nAttack: ^777777260^000000,\r\nWeight: ^777777270^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Biolo^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 263,
+    "itemLevel": 5,
+    "attack": 260,
+    "defense": null,
+    "weight": 270,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Biolo"
+    ],
+    "script": {
+      "Dust Explosion": [
+        "5",
+        "3---5",
+        "11===15",
+        "12===20",
+        "GRADE[me==C]===10"
+      ],
+      "Explosive Powder": [
+        "12===25",
+        "EQUIP[Frontier Rune Crown (Biolo)]===25"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "atkPercent":[
+        "2---1"
+      ],
+      "hitDmg": [
+        "EQUIP[Frontier Rune Crown (Biolo)]===15",
+        "GRADE[me==B]===15"
+      ],
+      "melee": [
+        "9===15",
+        "GRADE[me==D]===10"
+      ],
+      "pAtk": [
+        "5",
+        "9===7",
+        "GRADE[me==D]===7",
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "600071": {
+    "id": 600071,
+    "aegisName": "Frontier_DK_T_Sword",
+    "flavorText": null,
+    "name": "Frontier Dragon Sword [3]",
+    "unidName": null,
+    "resName": "Frontier_DK_T_Sword",
+    "unidResName": null,
+    "description": "CRI + 5, increases Servant Weapon damage by 5%.,\r\nEvery 2 refine rate, ATK + 25, ATK + 1%.,\r\nEvery 3 refine rate, increases Servant Weapon damage by 5%.,\r\nIf refine rate is 9 or higher, CRI + 15, C.RATE + 5.,\r\nIf refine rate is 11 or higher, increases Servant Weapon damage by additional 25%.,\r\nIf refine rate is 12 or higher, and Servant Weapon is learned at level 5 or higher.,\r\nwhen dealing normal melee physical damage, has a 8% chance to auto-cast an additional attack corresponding to Servant Weapon level 5 (auto-cast even without Servant Weapon).,\r\n\r\nWhen equipped with Frontier Rune Crown (Dragon Knight), increases Hack and Slasher damage by 45%, increases critical damage by 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] CRI + 5, P.ATK + 5.,\r\n[Grade C] Increases Servant Weapon damage by 15%.,\r\n[Grade B] Increases melee physical damage by 15%.,\r\n[Grade A] Every 2 refine rate, P.ATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Two-handed Sword^000000,\r\nAttack: ^777777400^000000,\r\nWeight: ^777777380^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Dragon Knight^000000",
+    "slots": 3,
+    "itemTypeId": 1,
+    "itemSubTypeId": 258,
+    "itemLevel": 5,
+    "attack": 400,
+    "defense": null,
+    "weight": 380,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "DragonKnight"
+    ],
+    "script": {
+      "Servant Weapon": [
+        "5",
+        "3---5",
+        "11===25",
+        "GRADE[me==C]===15"
+      ],
+      "Hack and Slasher": [
+        "EQUIP[Frontier Rune Crown (Dragon Knight)]===45"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "atkPercent":[
+        "2---1"
+      ],
+      "cri": [
+        "5",
+        "9===15",
+        "GRADE[me==D]===5"
+      ],
+      "cRate": [
+        "9===5"
+      ],
+      "criDmg": [
+        "EQUIP[Frontier Rune Crown (Dragon Knight)]===15"
+      ],
+      "melee": [
+        "9===15",
+        "GRADE[me==D]===15"
+      ],
+      "pAtk": [
+        "GRADE[me==D]===5",
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "610085": {
+    "id": 610085,
+    "aegisName": "Frontier_SHC_Katar",
+    "flavorText": null,
+    "name": "Frontier Shadow Katar [3]",
+    "unidName": null,
+    "resName": "Frontier_SHC_Katar",
+    "unidResName": null,
+    "description": "CRI + 5, increases Savage Impact damage by 5%.,\r\nEvery 2 refine rate, ATK + 25, ATK + 1%.,\r\nEvery 3 refine rate, increases Savage Impact damage by 5%.,\r\nIf refine rate is 9 or higher, CRI + 15, C.RATE + 5.,\r\nIf refine rate is 11 or higher, increases Savage Impact damage by additional 15%.,\r\nIf refine rate is 12 or higher, increases Savage Impact damage by additional 20%, increases Cross Slash damage by 35%.,\r\n\r\nWhen equipped with Frontier Rune Crown (Shadow Cross), increases Eternal Slash damage by 45%, increases critical damage by 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] CRI + 5, P.ATK + 5.,\r\n[Grade C] Increases Savage Impact damage by 15%.,\r\n[Grade B] Increases melee physical damage by 15%.,\r\n[Grade A] Every 2 refine rate, P.ATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Katar^000000,\r\nAttack: ^777777400^000000,\r\nWeight: ^777777380^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Shadow Cross^000000",
+    "slots": 3,
+    "itemTypeId": 1,
+    "itemSubTypeId": 272,
+    "itemLevel": 5,
+    "attack": 370,
+    "defense": null,
+    "weight": 250,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ShadowCross"
+    ],
+    "script": {
+      "Savage Impact": [
+        "5",
+        "3---5",
+        "11===15",
+        "12===20",
+        "GRADE[me==C]===15"
+      ],
+      "Cross Slash SHC": [
+        "12===35"
+      ],
+      "Eternal Slash": [
+        "EQUIP[Frontier Rune Crown (Shadow Cross)]===45"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "atkPercent":[
+        "2---1"
+      ],
+      "cri": [
+        "5",
+        "9===15",
+        "GRADE[me==D]===5"
+      ],
+      "cRate": [
+        "9===5"
+      ],
+      "criDmg": [
+        "EQUIP[Frontier Rune Crown (Shadow Cross)]===15"
+      ],
+      "melee": [
+        "GRADE[me==B]===15"
+      ],
+      "pAtk": [
+        "GRADE[me==D]===5",
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "620058": {
+    "id": 620058,
+    "aegisName": "Frontier_MT_T_Axe",
+    "flavorText": null,
+    "name": "Frontier Mechanical Axe [3]",
+    "unidName": null,
+    "resName": "Frontier_MT_T_Axe",
+    "unidResName": null,
+    "description": "P.ATK + 5, increases Powerful Swing damage by 5%.,\r\nEvery 2 refine rate, ATK + 25, ATK + 1%.,\r\nEvery 3 refine rate, increases Powerful Swing damage by 5%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases melee physical damage by 15%.,\r\nIf refine rate is 11 or higher, increases Powerful Swing damage by additional 15%.,\r\nIf refine rate is 12 or higher, increases Powerful Swing damage by additional 20%, increases Rush Strike damage by 25%.,\r\n\r\nWhen equipped with Frontier Rune Crown (Meister), increases Rush Strike damage by 25%, increases hit physical damage by 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 7, increases melee physical damage by 10%.,\r\n[Grade C] Increases Powerful Swing damage by 10%.,\r\n[Grade B] Increases hit physical damage by 15%.,\r\n[Grade A] Every 2 refine rate, P.ATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Two-handed Axe^000000,\r\nAttack: ^777777430^000000,\r\nWeight: ^777777480^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Meister^000000",
+    "slots": 3,
+    "itemTypeId": 1,
+    "itemSubTypeId": 262,
+    "itemLevel": 5,
+    "attack": 430,
+    "defense": null,
+    "weight": 480,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Meister"
+    ],
+    "script": {
+      "Powerful Swing": [
+        "5",
+        "3---5",
+        "11===15",
+        "12===20",
+        "GRADE[me==C]===10"
+      ],
+      "Rush Strike": [
+        "12===25",
+        "EQUIP[Frontier Rune Crown (Meister)]===25"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "atkPercent":[
+        "2---1"
+      ],
+      "hitDmg": [
+        "EQUIP[Frontier Rune Crown (Meister)]===15",
+        "GRADE[me==B]===15"
+      ],
+      "melee": [
+        "9===15",
+        "GRADE[me==D]===10"
+      ],
+      "pAtk": [
+        "5",
+        "9===7",
+        "GRADE[me==D]===7",
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "630060": {
+    "id": 630060,
+    "aegisName": "Face_W_Q_Horn",
+    "flavorText": null,
+    "name": "Faceworm Queen Horn [3]",
+    "unidName": null,
+    "resName": "FaceWormQueen_Horn",
+    "unidResName": null,
+    "description": "Increases Madness Crusher damage by 15%.,\r\nEvery 2 refine rate, ATK + 20, ATK + 1%, increases Madness Crusher damage by 4%.,\r\nIf refine rate is 7 or higher, MaxHP + 7%, increases hit physical damage by 15%.,\r\nIf refine rate is 9 or higher, reduces variable casting time by 10%, increases Madness Crusher damage by additional 15%.,\r\nIf refine rate is 12 or higher, increases long-ranged physical damage by 15%, increases Madness Crusher damage by additional 15%.,\r\n\r\nWhen equipped with Giant Snake Breath.,\r\nMaxHP + 5%, increases long-ranged physical damage by 8%, increases Dragonic Breath damage by 20%.,\r\nevery 2 refine rate of weapon, increases Dragonic Breath damage by 8%.,\r\nif refine rate of weapon is 9 or higher, increases Dragonic Breath damage by additional 20%.,\r\nif refine rate of weapon is 12 or higher, and grade is A or higher, MaxHP + 3%, MaxSP + 5%, reduces skill cooldown of Dragonic Breath by 0.15 seconds.,\r\n\r\n[Bonus by grade],\r\n[Grade D] Reduces variable casting time by 5%, increases long-ranged physical damage by 15%.,\r\n[Grade C] Increases Madness Crusher damage by 15%.,\r\n[Grade B] P.ATK + 5, MaxHP + 5%.,\r\n[Grade A] P.ATK + 15.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Two-handed Spear^000000,\r\nAttack: ^777777390^000000,\r\nWeight: ^777777800^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Dragon Knight^000000",
+    "slots": 3,
+    "itemTypeId": 1,
+    "itemSubTypeId": 260,
+    "itemLevel": 5,
+    "attack": 390,
+    "defense": null,
+    "weight": 800,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "DragonKnight"
+    ],
+    "script": {
+      "Madness Crusher": [
+        "15",
+        "2---4",
+        "9===15",
+        "12===15",
+        "GRADE[me==C]===15"
+      ],
+      "atk": [
+        "2---20"
+      ],
+      "atkPercent": [
+        "2---1"
+      ],
+      "hpPercent": [
+        "7===7",
+        "EQUIP[Giant Snake Breath]===5",
+        "EQUIP[Giant Snake Breath]GRADE[me==A]12===3",
+        "GRADE[me==B]===5"
+      ],
+      "spPercent": [
+        "EQUIP[Giant Snake Breath]GRADE[me==A]12===5"
+      ],
+      "hitDmg": [
+        "7===15"
+      ],
+      "vct": [
+        "9===10",
+        "GRADE[me==D]===5"
+      ],
+      "range": [
+        "12===15",
+        "EQUIP[Giant Snake Breath]===8",
+        "GRADE[me==D]===15"
+      ],
+      "Dragonic Breath": [
+        "EQUIP[Giant Snake Breath]===20",
+        "EQUIP[Giant Snake Breath]2---8",
+        "EQUIP[Giant Snake Breath]9===20"
+      ],
+      "cd__Dragonic Breath": [
+        "EQUIP[Giant Snake Breath]GRADE[me==A]12===0.15"
+      ],
+      "pAtk": [
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "640064": {
+    "id": 640064,
+    "aegisName": "Frontier_AG_Staff",
+    "flavorText": null,
+    "name": "Frontier Arch Staff [3]",
+    "unidName": null,
+    "resName": "Frontier_AG_Staff",
+    "unidResName": null,
+    "description": "MATK + 380, Can't be destroyed.,\r\nS.MATK + 5, increases Crimson Arrow and Rock Down damage by 5%.,\r\nEvery 2 refine rate, MATK + 25, MATK + 1%.,\r\nEvery 3 refine rate, increases Crimson Arrow and Rock Down damage by 5%.,\r\nIf refine rate is 9 or higher, S.MATK + 7, increases earth and fire property magical damage by 15%.,\r\nIf refine rate is 11 or higher, increases Crimson Arrow and Rock Down damage by additional 15%.,\r\nIf refine rate is 12 or higher, increases Crimson Arrow and Rock Down damage by additional 20%, increases All Bloom and Violent Quake damage by 25%.,\r\n\r\nWhen equipped with Frontier Rune Crown (Arch Mage), increases All Bloom and Violent Quake damage by 35%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 7, increases earth and fire property magical damage by 10%.,\r\n[Grade C] Increases Crimson Arrow and Rock Down damage by 15%.,\r\n[Grade B] Increases earth and fire property magical damage by 10%.,\r\n[Grade A] Every 2 refine rate, S.MATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Two-handed Staff^000000,\r\nAttack: ^777777120^000000,\r\nWeight: ^777777230^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Arch Mage^000000",
+    "slots": 3,
+    "itemTypeId": 1,
+    "itemSubTypeId": 266,
+    "itemLevel": 5,
+    "attack": 120,
+    "defense": null,
+    "weight": 230,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ArchMage"
+    ],
+    "script": {
+      "Crimson Arrow": [
+        "5",
+        "3---5",
+        "11===15",
+        "12===20",
+        "GRADE[me==C]===15"
+      ],
+      "Rock Down": [
+        "5",
+        "3---5",
+        "11===15",
+        "12===20",
+        "GRADE[me==C]===15"
+      ],
+      "All Bloom": [
+        "12===25",
+        "EQUIP[Frontier Rune Crown (Arch Mage)]===35"
+      ],
+      "Violent Quake": [
+        "12===25",
+        "EQUIP[Frontier Rune Crown (Arch Mage)]===35"
+      ],
+      "matk": [
+        "380",
+        "2---25"
+      ],
+      "matkPercent":[
+        "2---1"
+      ],
+      "m_my_element_earth": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_fire": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10"
+      ],
+      "sMatk": [
+        "9===7",
+        "GRADE[me==D]===7",
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "640065": {
+    "id": 640065,
+    "aegisName": "Frontier_SOA_Staff",
+    "flavorText": null,
+    "name": "Frontier Soul Staff [3]",
+    "unidName": null,
+    "resName": "Frontier_SOA_Staff",
+    "unidResName": null,
+    "description": "MATK + 380, Can't be destroyed.,\r\nS.MATK + 5, increases Talisman of Blue Dragon and Talisman of Red Phoenix damage by 5%.,\r\nEvery 2 refine rate, MATK + 25, MATK + 1%.,\r\nEvery 3 refine rate, increases Talisman of Blue Dragon and Talisman of Red Phoenix damage by 5%.,\r\nIf refine rate is 9 or higher, S.MATK + 7, increases neutral, water, wind, earth, fire, ghost, shadow and holy property magical damage by 15%.,\r\nIf refine rate is 11 or higher, increases Talisman of Blue Dragon and Talisman of Red Phoenix damage by additional 15%.,\r\nIf refine rate is 12 or higher, increases Talisman of Blue Dragon and Talisman of Red Phoenix damage by additional 20%, increases Talisman of White Tiger and Talisman of Black Tortoise damage by 25%.,\r\n\r\nWhen equipped with Frontier Rune Crown (Soul Ascetic), increases Talisman of White Tiger and Talisman of Black Tortoise damage by 35%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 7, increases neutral, water, wind, earth, fire, ghost, shadow and holy property magical damage by 10%.,\r\n[Grade C] Increases Talisman of Blue Dragon and Talisman of Red Phoenix damage by 15%.,\r\n[Grade B] Increases neutral, water, wind, earth, fire, ghost, shadow and holy property magical damage by 10%.,\r\n[Grade A] Every 2 refine rate, S.MATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Two-handed Staff^000000,\r\nAttack: ^777777120^000000,\r\nWeight: ^777777230^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Soul Ascetic^000000",
+    "slots": 3,
+    "itemTypeId": 1,
+    "itemSubTypeId": 266,
+    "itemLevel": 5,
+    "attack": 120,
+    "defense": null,
+    "weight": 230,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "SoulAscetic"
+    ],
+    "script": {
+      "Talisman of Blue Dragon": [
+        "5",
+        "3---5",
+        "11===15",
+        "12===20",
+        "GRADE[me==C]===15"
+      ],
+      "Talisman of Red Phoenix": [
+        "5",
+        "3---5",
+        "11===15",
+        "12===20",
+        "GRADE[me==C]===15"
+      ],
+      "Talisman of White Tiger": [
+        "12===25",
+        "EQUIP[Frontier Rune Crown (Soul Ascetic)]===35"
+      ],
+      "Talisman of Black Tortoise": [
+        "12===25",
+        "EQUIP[Frontier Rune Crown (Soul Ascetic)]===35"
+      ],
+      "matk": [
+        "380",
+        "2---25"
+      ],
+      "matkPercent":[
+        "2---1"
+      ],
+      "m_my_element_neutral": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_water": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_wind": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_earth": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_fire": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_ghost": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_dark": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_holy": [
+        "9===15",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10"
+      ],
+      "sMatk": [
+        "9===7",
+        "GRADE[me==D]===7",
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "640067": {
+    "id": 640067,
+    "aegisName": "Wepawet",
+    "flavorText": null,
+    "name": "Wepawet [3]",
+    "unidName": null,
+    "resName": "Wepawet",
+    "unidResName": null,
+    "description": "MATK + 380, Can't be destroyed.,\r\nIncreases Mystery Illusion and Soul Vulcan Strike damage by 15%.,\r\nEvery 2 refine rate, MATK + 20, MATK + 1%, increases Mystery Illusion and Soul Vulcan Strike damage by 4%.,\r\nIf refine rate is 7 or higher, increases shadow and ghost property magical damage by 10%, increases Mystery Illusion damage by additional 15%.,\r\nIf refine rate is 9 or higher, S.MATK + 7, increases Soul Vulcan Strike damage by additional 15%.,\r\nIf refine rate is 12 or higher, increases Soul Vulcan Strike damage by additional 10%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 7, increases shadow and ghost property magical damage by 10%.,\r\n[Grade C] Increases Soul Vulcan Strike damage by 15%.,\r\n[Grade B] Increases shadow and ghost property magical damage by additional 10%.,\r\n[Grade A] S.MATK + 15, if refine rate is 12 or higher, increases Mystery Illusion damage by 15%, reduces skill cooldown of Soul Vulcan Strike by 0.2 seconds, reduces skill cooldown of Intensification by 30 seconds.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Two-handed Staff^000000,\r\nAttack: ^777777120^000000,\r\nWeight: ^777777230^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Arch Mage^000000",
+    "slots": 3,
+    "itemTypeId": 1,
+    "itemSubTypeId": 266,
+    "itemLevel": 5,
+    "attack": 120,
+    "defense": null,
+    "weight": 230,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ArchMage"
+    ],
+    "script": {
+      "matk": [
+        "380",
+        "2---20"
+      ],
+      "Mystery Illusion": [
+        "15",
+        "2---4",
+        "7===15",
+        "GRADE[me==A]12===15"
+      ],
+      "Soul Vulcan Strike": [
+        "15",
+        "2---4",
+        "9===15",
+        "12===10",
+        "GRADE[me==C]===15"
+      ],
+      "matkPercent": [
+        "2---1"
+      ],
+      "sMatk": [
+        "9===7",
+        "GRADE[me==D]===7",
+        "GRADE[me==A]===15"
+      ],
+      "m_my_element_dark": [
+        "7===10",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10"
+      ],
+      "m_my_element_ghost": [
+        "7===10",
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===10"
+      ],
+      "cd__Soul Vulcan Strike": [
+        "GRADE[me==A]12===0.2"
+      ],
+      "cd__Intensification": [
+        "GRADE[me==A]12===30"
+      ]
+    }
+  },
+  "650058": {
+    "id": 650058,
+    "aegisName": "Frontier_SS_Humma",
+    "flavorText": null,
+    "name": "Frontier Moonlight Huuma Shuriken [3]",
+    "unidName": null,
+    "resName": "Frontier_SS_Humma",
+    "unidResName": null,
+    "description": "P.ATK + 5, increases Kunai - Rotation damage by 5%.,\r\nEvery 2 refine rate, ATK + 25, ATK + 1%.,\r\nEvery 3 refine rate, increases Kunai - Rotation damage by 5%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases long-ranged physical damage by 15%.,\r\nIf refine rate is 11 or higher, increases Kunai - Rotation damage by additional 30%.,\r\nIf refine rate is 12 or higher, increases Kunai - Refraction damage by additional 25%, when using Infiltrate, auto-cast Kunai - Rotation level 5 (auto-cast when Kunai - Rotation is learned at level 5 or higher).,\r\n\r\nWhen equipped with Frontier Rune Crown (Shinkiro & Shiranui), increases Kunai - Refraction damage by 25%, increases hit physical damage by 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 7, increases long-ranged physical damage by 10%.,\r\n[Grade C] Increases Kunai - Rotation damage by 15%.,\r\n[Grade B] Increases hit physical damage by 15%.,\r\n[Grade A] Every 2 refine rate, P.ATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Huuma Shuriken^000000,\r\nAttack: ^777777420^000000,\r\nWeight: ^777777350^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Shinkiro, Shiranui^000000",
+    "slots": 3,
+    "itemTypeId": 1,
+    "itemSubTypeId": 278,
+    "itemLevel": 5,
+    "attack": 420,
+    "defense": null,
+    "weight": 350,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Shinkiro",
+      "Shiranui"
+    ],
+    "script": {
+      "Kunai - Rotation": [
+        "5",
+        "3---5",
+        "11===30",
+        "GRADE[me==C]===15"
+      ],
+      "Kunai - Refraction": [
+        "12===25",
+        "EQUIP[Frontier Rune Crown (Shinkiro & Shiranui)]===25"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "atkPercent":[
+        "2---1"
+      ],
+      "hitDmg": [
+        "EQUIP[Frontier Rune Crown (Shinkiro & Shiranui)]===15",
+        "GRADE[me==B]===15"
+      ],
+      "range": [
+        "9===15",
+        "GRADE[me==D]===10"
+      ],
+      "pAtk": [
+        "5",
+        "9===7",
+        "GRADE[me==D]===7",
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "700119": {
+    "id": 700119,
+    "aegisName": "Frontier_WH_Bow",
+    "flavorText": null,
+    "name": "Frontier Wind Bow [3]",
+    "unidName": null,
+    "resName": "Frontier_WH_Bow",
+    "unidResName": null,
+    "description": "CRI + 5, increases Gale Storm damage by 5%.,\r\nEvery 2 refine rate, ATK + 25, ATK + 1%.,\r\nEvery 3 refine rate, increases Gale Storm damage by 5%.,\r\nIf refine rate is 9 or higher, CRI + 15, C.RATE + 5.,\r\nIf refine rate is 11 or higher, increases Gale Storm damage by additional 15%.,\r\nIf refine rate is 12 or higher, increases Gale Storm damage by additional 20%, increases Crescive Bolt damage by 25%.,\r\n\r\nWhen equipped with Frontier Rune Crown (Windhawk), increases Crescive Bolt damage by 25%, increases critical damage by 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] CRI + 5, P.ATK + 5.,\r\n[Grade C] Increases Gale Storm damage by 15%.,\r\n[Grade B] Increases long-ranged physical damage by 15%.,\r\n[Grade A] Every 2 refine rate, P.ATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Katar^000000,\r\nAttack: ^777777370^000000,\r\nWeight: ^777777240^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Windhawk^000000",
+    "slots": 3,
+    "itemTypeId": 1,
+    "itemSubTypeId": 267,
+    "itemLevel": 5,
+    "attack": 370,
+    "defense": null,
+    "weight": 240,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Windhawk"
+    ],
+    "script": {
+      "Gale Storm": [
+        "5",
+        "3---5",
+        "11===15",
+        "12===20",
+        "GRADE[me==C]===15"
+      ],
+      "Crescive Bolt": [
+        "12===25",
+        "EQUIP[Frontier Rune Crown (Windhawk)]===25"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "atkPercent":[
+        "2---1"
+      ],
+      "cri": [
+        "5",
+        "9===15",
+        "GRADE[me==D]===5"
+      ],
+      "cRate": [
+        "9===5"
+      ],
+      "criDmg": [
+        "EQUIP[Frontier Rune Crown (Windhawk)]===15"
+      ],
+      "range": [
+        "GRADE[me==B]===15"
+      ],
+      "pAtk": [
+        "GRADE[me==D]===5",
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "700121": {
+    "id": 700121,
+    "aegisName": "Beargun_Crossbow",
+    "flavorText": null,
+    "name": "Beargun Crossbow [3]",
+    "unidName": null,
+    "resName": "Beargun_Crossbow",
+    "unidResName": null,
+    "description": "Increases Chasing Shot damage by 15%.,\r\nEvery 2 refine rate, ATK + 20, ATK + 1%, increases Chasing Shot damage by 4%.,\r\nIf refine rate is 7 or higher, CRI + 15, increases Chasing Shot damage by additional 20%.,\r\nIf refine rate is 9 or higher, C.RATE + 7, increases critical damage by 15%.,\r\nIf refine rate is 12 or higher, increases Chasing Shot damage by additional 15%.,\r\nusing Hit and Sliding grants an additional effects for 30 seconds.,\r\n[additional effects],\r\nIgnores physical resistance of all race monsters (except players) by 15%, C.RATE + 12.,\r\nevery refine rate of weapon, CRI + 3, increases long-ranged physical damage by 5%, increases Frenzy Shot damage by 3%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] Reduces variable casting time by 10%, increases Chasing Shot damage by 15%.,\r\n[Grade C] Increases long ranged physical damage by 15%, increases Frenzy Shot damage by 15%.,\r\n[Grade B] Increases Frenzy Shot damage by additional 20%.,\r\n[Grade A] P.ATK + 15, if refine rate is 12 or higher, increases Frenzy Shot damage by additional 15%, reduces skill cooldown of Chasing Shot by 0.3 seconds.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Bow^000000,\r\nAttack: ^777777370^000000,\r\nWeight: ^777777240^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Abyss Chaser^000000",
+    "slots": 3,
+    "itemTypeId": 1,
+    "itemSubTypeId": 267,
+    "itemLevel": 5,
+    "attack": 370,
+    "defense": null,
+    "weight": 240,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "AbyssChaser"
+    ],
+    "script": {
+      "Chasing Shot": [
+        "15",
+        "2---4",
+        "7===20",
+        "12===15",
+        "GRADE[me==D]===15"
+      ],
+      "atk": [
+        "2---20"
+      ],
+      "atkPercent": [
+        "2---1"
+      ],
+      "cri": [
+        "7===15"
+      ],
+      "cRate": [
+        "9===7"
+      ],
+      "criDmg": [
+        "9===15"
+      ],
+      "vct": [
+        "GRADE[me==D]===10"
+      ],
+      "range": [
+        "GRADE[me==C]===15"
+      ],
+      "Frenzy Shot": [
+        "GRADE[me==C]===15",
+        "GRADE[me==B]===20",
+        "GRADE[me==A]12===15"
+      ],
+      "pAtk": [
+        "GRADE[me==A]===15"
+      ],
+      "cd__Chasing Shot": [
+        "GRADE[me==A]12===0.3"
+      ],
+      "chance__pene_res": [
+        "12===15"
+      ],
+      "chance__cRate": [
+        "12===12"
+      ],
+      "chance__cri": [
+        "REFINE[12]1---3"
+      ],
+      "chance__range": [
+        "REFINE[12]1---5"
+      ],
+      "chance__Frenzy Shot": [
+        "REFINE[12]1---3"
+      ]
+    }
+  },
+  "810049": {
+    "id": 810049,
+    "aegisName": "Frontier_NW_Rifle",
+    "flavorText": null,
+    "name": "Frontier Night Rifle [3]",
+    "unidName": null,
+    "resName": "Frontier_NW_Rifle",
+    "unidResName": null,
+    "description": "CRI + 5, increases Wild Shot damage by 5%.,\r\nEvery 2 refine rate, ATK + 25, ATK + 1%.,\r\nEvery 3 refine rate, increases Wild Shot damage by 5%.,\r\nIf refine rate is 9 or higher, CRI + 15, C.RATE + 5.,\r\nIf refine rate is 11 or higher, increases Wild Shot damage by additional 15%.,\r\nIf refine rate is 12 or higher, increases Wild Shot damage by additional 20%, increases Spiral Shooting damage by 25%.,\r\n\r\nWhen equipped with Frontier Rune Crown (Night Watch), increases Spiral Shooting damage by 25%, increases critical damage by 15%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] CRI + 5, P.ATK + 5.,\r\n[Grade C] Increases Wild Shot damage by 15%.,\r\n[Grade B] Increases long-ranged physical damage by 15%.,\r\n[Grade A] Every 2 refine rate, P.ATK + 3.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Rifle^000000,\r\nAttack: ^777777370^000000,\r\nWeight: ^777777260^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Night Watch^000000",
+    "slots": 3,
+    "itemTypeId": 1,
+    "itemSubTypeId": 274,
+    "itemLevel": 5,
+    "attack": 370,
+    "defense": null,
+    "weight": 260,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "NightWatch"
+    ],
+    "script": {
+      "Wild Shot": [
+        "5",
+        "3---5",
+        "11===15",
+        "12===20",
+        "GRADE[me==C]===15"
+      ],
+      "Spiral Shooting": [
+        "12===25",
+        "EQUIP[Frontier Rune Crown (Night Watch)]===25"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "atkPercent":[
+        "2---1"
+      ],
+      "cri": [
+        "5",
+        "9===15",
+        "GRADE[me==D]===5"
+      ],
+      "cRate": [
+        "9===5"
+      ],
+      "criDmg": [
+        "EQUIP[Frontier Rune Crown (Night Watch)]===15"
+      ],
+      "range": [
+        "GRADE[me==B]===15"
+      ],
+      "pAtk": [
+        "GRADE[me==D]===5",
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "840039": {
+    "id": 840039,
+    "aegisName": "Agent_Launcher",
+    "flavorText": null,
+    "name": "Agent Launcher [3]",
+    "unidName": null,
+    "resName": "Agent_Launcher",
+    "unidResName": null,
+    "description": "Increases Midnight Fallen damage by 20%.,\r\nEvery 3 refine rate, ATK + 25, ATK + 1%, increases Midnight Fallen damage by 5%.,\r\nIf refine rate is 7 or higher, increases Midnight Fallen damage by additional 15%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases hit physical damage by 15%.,\r\nIf refine rate is 12 or higher, increases Midnight Fallen damage by 15%, if grade is A or higher, and Wild Fire is learned at level 5 or higher.,\r\nusing Hidden Card grants an additional effects for 150 seconds.,\r\n[additional effects],\r\nIncreases hit physical damage by 15%.,\r\nwhen using Spiral Shooting, auto-cast Wild Fire level 5.,\r\nevery refine rate of weapon, increases Spiral Shooting and Wild Fire damage by 5%.,\r\n\r\n[Bonus by grade],\r\n[Grade D] Reduce variable casting time by 10%.,\r\n[Grade C] Increases long-ranged physical damage by 15%, increases hit physical damage by 10%.,\r\n[Grade B] Reduces variable casting time by additional 5%, increases Midnight Fallen damage by 10%.,\r\n[Grade A] P.ATK + 15, if refine rate is 12 or higher, reduces skill cooldown of Midnight Fallen by 0.2 seconds.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Grenade Launcher^000000,\r\nAttack: ^777777420^000000,\r\nWeight: ^777777320^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Night Watch^000000",
+    "slots": 3,
+    "itemTypeId": 1,
+    "itemSubTypeId": 277,
+    "itemLevel": 5,
+    "attack": 420,
+    "defense": null,
+    "weight": 320,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "NightWatch"
+    ],
+    "script": {
+      "Midnight Fallen": [
+        "20",
+        "3---5",
+        "7===15",
+        "12===15",
+        "GRADE[me==B]===10"
+      ],
+      "atk": [
+        "3---25"
+      ],
+      "atkPercent": [
+        "3---1"
+      ],
+      "pAtk": [
+        "9===7",
+        "GRADE[me==A]===15"
+      ],
+      "hitDmg": [
+        "9===15",
+        "GRADE[me==C]===10"
+      ],
+      "vct": [
+        "GRADE[me==D]===10",
+        "GRADE[me==B]===5"
+      ],
+      "range": [
+        "GRADE[me==C]===15"
+      ],
+      "cd__Midnight Fallen": [
+        "GRADE[me==A]12===0.2"
+      ],
+      "chance__hitDmg": [
+        "REFINE[12]GRADE[me==A]===15"
+      ],
+      "chance__Spiral Shooting": [
+        "REFINE[12]GRADE[me==A]1---5"
+      ],
+      "chance__Wild Fire": [
+        "REFINE[12]GRADE[me==A]1---5"
+      ]
+    }
   }
 }
