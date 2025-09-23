@@ -243113,7 +243113,8 @@
       ],
       "sMatk": [
         "9===7",
-        "GRADE[me==D]===7"
+        "GRADE[me==D]===7",
+        "GRADE[me==A]===15"
       ],
       "Elemental Buster": [
         "GRADE[me==A]===25"
