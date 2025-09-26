@@ -229786,7 +229786,7 @@
       "melee": [
         "5"
       ],
-      "p_size_all": [
+      "p_element_all": [
         "2---1"
       ]
     }
@@ -229820,7 +229820,7 @@
       "range": [
         "5"
       ],
-      "p_size_all": [
+      "p_element_all": [
         "2---1"
       ]
     }
@@ -229854,7 +229854,7 @@
       "m_my_element_all": [
         "5"
       ],
-      "m_size_all": [
+      "m_element_all": [
         "2---1"
       ]
     }
@@ -243118,9 +243118,6 @@
       ],
       "Elemental Buster": [
         "GRADE[me==A]===25"
-      ],
-      "chance__Elemental Buster": [
-        "GRADE[me==A]===10"
       ]
     }
   },
