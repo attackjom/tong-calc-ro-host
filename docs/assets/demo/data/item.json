@@ -231925,10 +231925,10 @@
         "EQUIP[Exotic Temporal Boots-LT]REFINE[boot==1]---1"
       ],
       "p_element_all": [
-        "EQUIP[Exotic Temporal Boots]GRADE[boot==A]===25"
+        "EQUIP[Exotic Temporal Boots-LT]GRADE[boot==A]===25"
       ],
       "m_element_all": [
-        "EQUIP[Exotic Temporal Boots]GRADE[boot==A]===25"
+        "EQUIP[Exotic Temporal Boots-LT]GRADE[boot==A]===25"
       ]
     }
   },
