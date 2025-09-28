@@ -231906,6 +231906,9 @@
         "EQUIP[Muscle Fool]===20",
         "EQUIP[Exotic Temporal Boots-LT]REFINE[boot==1]---2"
       ],
+      "spPercent": [
+        "EQUIP[Exotic Temporal Boots-LT]REFINE[boot==1]---2"
+      ],
       "matk": [
         "EQUIP[Runaway Magic]===100"
       ],
@@ -231922,6 +231925,9 @@
         "EQUIP[Exotic Temporal Boots-LT]REFINE[boot==1]---1"
       ],
       "p_element_all": [
+        "EQUIP[Exotic Temporal Boots]GRADE[boot==A]===25"
+      ],
+      "m_element_all": [
         "EQUIP[Exotic Temporal Boots]GRADE[boot==A]===25"
       ]
     }
