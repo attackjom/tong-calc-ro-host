@@ -241305,7 +241305,7 @@
     "unidName": null,
     "resName": "Frontier_R_Crown",
     "unidResName": null,
-    "description": "Every 3 refine rate, ATK + 4%.,\r\nEvery 4 refine rate, increases Servant Weapon and Hack and Slasher damage by 5%.,\r\nIf refine rate is 7 or higher, increases melee physical damage by 10%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases physical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, CRI + 15, increases critical damage by 15%.,\r\n\r\nWhen equipped with Frontier Dragon Sword, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher.,\r\nreduces skill cooldown of Hack and Slasher by 0.2 seconds.,\r\nwhen using Hack and Slasher or Servant Weapon - Phantom, auto-cast an additional attack corresponding to Servant Weapon level 4 (auto-cast when Servant Weapon is learned at level 4 or higher).,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases melee physical damage by 10%.,\r\n[Grade A] Increases physical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Dragon Knight^000000", 
+    "description": "Every 3 refine rate, ATK + 4%.,\r\nEvery 4 refine rate, increases Servant Weapon and Hack and Slasher damage by 5%.,\r\nIf refine rate is 7 or higher, increases melee physical damage by 10%.,\r\nIf refine rate is 9 or higher, P.ATK + 7, increases physical damage against all race monsters (except players) by 15%.,\r\nIf refine rate is 12 or higher, CRI + 15, increases critical damage by 15%.,\r\n\r\nWhen equipped with Frontier Dragon Sword, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher.,\r\nreduces skill cooldown of Hack and Slasher by 0.2 seconds.,\r\nwhen using Hack and Slasher or Servant Weapon - Phantom, auto-cast an additional attack corresponding to Servant Weapon level 4 (auto-cast when Servant Weapon is learned at level 4 or higher).,\r\n\r\n[Bonus by grade],\r\n[Grade D] P.ATK + 5.,\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.,\r\n[Grade B] Increases melee physical damage by 10%.,\r\n[Grade A] Increases physical damage against all size enemies by 15%.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Dragon Knight^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 512,
@@ -242683,7 +242683,7 @@
       "atk": [
         "2===20"
       ],
-      "atkPercent":[
+      "atkPercent": [
         "2===1"
       ],
       "cri": [
@@ -242812,7 +242812,7 @@
       "atk": [
         "2===25"
       ],
-      "atkPercent":[
+      "atkPercent": [
         "2===1"
       ],
       "pAtk": [
@@ -242865,7 +242865,7 @@
       "atk": [
         "3---25"
       ],
-      "atkPercent":[
+      "atkPercent": [
         "3---1"
       ],
       "cri": [
@@ -243038,7 +243038,7 @@
       "atk": [
         "2---25"
       ],
-      "atkPercent":[
+      "atkPercent": [
         "2---1"
       ],
       "cri": [
@@ -243160,7 +243160,7 @@
       "atk": [
         "3---25"
       ],
-      "atkPercent":[
+      "atkPercent": [
         "3---1"
       ],
       "vct": [
@@ -243455,7 +243455,7 @@
       "atk": [
         "2---25"
       ],
-      "atkPercent":[
+      "atkPercent": [
         "2---1"
       ],
       "cri": [
@@ -243517,7 +243517,7 @@
       "atk": [
         "2---25"
       ],
-      "atkPercent":[
+      "atkPercent": [
         "2---1"
       ],
       "hitDmg": [
@@ -243574,7 +243574,7 @@
       "atk": [
         "2---25"
       ],
-      "atkPercent":[
+      "atkPercent": [
         "2---1"
       ],
       "hitDmg": [
@@ -243631,7 +243631,7 @@
       "atk": [
         "2---25"
       ],
-      "atkPercent":[
+      "atkPercent": [
         "2---1"
       ],
       "hitDmg": [
@@ -243686,7 +243686,7 @@
       "atk": [
         "2---25"
       ],
-      "atkPercent":[
+      "atkPercent": [
         "2---1"
       ],
       "cri": [
@@ -243750,7 +243750,7 @@
       "atk": [
         "2---25"
       ],
-      "atkPercent":[
+      "atkPercent": [
         "2---1"
       ],
       "cri": [
@@ -243811,7 +243811,7 @@
       "atk": [
         "2---25"
       ],
-      "atkPercent":[
+      "atkPercent": [
         "2---1"
       ],
       "hitDmg": [
@@ -243952,7 +243952,7 @@
         "380",
         "2---25"
       ],
-      "matkPercent":[
+      "matkPercent": [
         "2---1"
       ],
       "m_my_element_earth": [
@@ -244022,7 +244022,7 @@
         "380",
         "2---25"
       ],
-      "matkPercent":[
+      "matkPercent": [
         "2---1"
       ],
       "m_my_element_neutral": [
@@ -244177,7 +244177,7 @@
       "atk": [
         "2---25"
       ],
-      "atkPercent":[
+      "atkPercent": [
         "2---1"
       ],
       "hitDmg": [
@@ -244234,7 +244234,7 @@
       "atk": [
         "2---25"
       ],
-      "atkPercent":[
+      "atkPercent": [
         "2---1"
       ],
       "cri": [
@@ -244375,7 +244375,7 @@
       "atk": [
         "2---25"
       ],
-      "atkPercent":[
+      "atkPercent": [
         "2---1"
       ],
       "cri": [
@@ -244461,6 +244461,249 @@
       ],
       "chance__Wild Fire": [
         "REFINE[12]GRADE[me==A]1---5"
+      ]
+    }
+  },
+  "420601": {
+    "id": 420601,
+    "aegisName": "WL_Security_LT_TH",
+    "flavorText": null,
+    "name": "Wireless Security Drone-LT",
+    "unidName": null,
+    "resName": "C_Mobile_Pursuit_System",
+    "unidResName": null,
+    "description": "เมื่อโจมตีทางกายภาพ มีโอกาส 4% ที่จะฟื้นฟู HP 4% ของ Damage ที่ทำ\nเมื่อโจมตีทางกายภาพ มีโอกาส 2% ที่จะฟื้นฟู SP 2% ของ Damage ที่ทำ\n\nเมื่อกำจัดมอนสเตอร์ด้วยการโจมตีทางเวทมนตร์, \nฟื้นฟู HP 600 หน่วย, SP 10 หน่วย\n\nลด Delay หลังใช้สกิล 10%\nเพิ่ม EXP ที่ได้รับจากมอนสเตอร์ 10%\nเพิ่มอัตราดรอปของไอเท็ม 10%\n\nเมื่อสวมใส่ร่วมกับ Automatic Engine Wing C-Type-LT,\nเพิ่ม EXP ที่ได้รับจากมอนสเตอร์ขึ้นอีก 8%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 10%\n\nทุก ๆ การอัพเกรด Garment 1 ขั้น All Status + 1\nทุก ๆ การอัพเกรด Garment 2 ขั้น เพิ่ม EXP ที่ได้รับจากมอนสเตอร์ขึ้นอีก 1%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^77777745^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 0,
+    "weight": 45,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "acd": [
+        "10"
+      ],
+      "p_race_all": [
+        "EQUIP[Automatic Engine Wing C-Type-LT]===10"
+      ],
+      "m_race_all": [
+        "EQUIP[Automatic Engine Wing C-Type-LT]===10"
+      ],
+      "allStatus": [
+        "EQUIP[Automatic Engine Wing C-Type-LT]REFINE[garment==1]---1"
+      ]
+    }
+  },
+  "480647": {
+    "id": 480647,
+    "aegisName": "Auto_E_WingC_TH_LT",
+    "flavorText": null,
+    "name": "Automatic Engine Wing C-Type-LT [1]",
+    "unidName": null,
+    "resName": "메카닉윙",
+    "unidResName": null,
+    "description": "สามารถใช้สกิล Greed Lv.1,\nMaxHP + 5000, MaxSP + 500\n\nทุก ๆ การอัพเกรด 2 ขั้น, ATK/MATK + 20\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 3%\nเมื่ออัพเกรดถึงขั้น 7, ASPD + 15%, ลดระยะเวลาร่ายแบบแปรผัน 20%, CRI + 20\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกลขึ้นอีก 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุขึ้นอีก 10%\nเมื่ออัพเกรดถึงขั้น 12, ลด Delay หลังใช้สกิล 10%, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 15%\n\n[Option เพิ่มเติมตาม Grade]]\n[Grade D] เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 12%\n[Grade C] ลด Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากศัตรูทุกขนาด 10%\n[Grade B] P.ATK, S.MATK + 7\n[Grade A] ยกเลิกการลงโทษขนาดของอาวุธ, MATK + 10%\nประเภท : ^777777Garment^000000  พลังป้องกัน : ^77777735^000000\nน้ำหนัก : ^77777780^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 35,
+    "weight": 80,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "hp": [
+        "5000"
+      ],
+      "sp": [
+        "500"
+      ],
+      "atk": [
+        "2---20"
+      ],
+      "matk": [
+        "2---20"
+      ],
+      "p_size_all": [
+        "3---3"
+      ],
+      "m_size_all": [
+        "3---3"
+      ],
+      "aspdPercent": [
+        "7===15"
+      ],
+      "vct": [
+        "7===20"
+      ],
+      "cri": [
+        "7===20"
+      ],
+      "melee": [
+        "9===10",
+        "11===10"
+      ],
+      "range": [
+        "9===10",
+        "11===10"
+      ],
+      "m_my_element_all": [
+        "9===10",
+        "11===10"
+      ],
+      "acd": [
+        "12===10"
+      ],
+      "p_class_all": [
+        "12===15"
+      ],
+      "m_class_all": [
+        "12===15"
+      ],
+      "p_element_all": [
+        "GRADE[me==D]===12"
+      ],
+      "m_element_all": [
+        "GRADE[me==D]===12"
+      ],
+      "pAtk": [
+        "GRADE[me==B]===7"
+      ],
+      "sMatk": [
+        "GRADE[me==B]===7"
+      ],
+      "matkPercent": [
+        "GRADE[me==A]===10"
+      ],
+      "ignore_size_penalty": [
+        "GRADE[me==A]===1"
+      ]
+    }
+  },
+  "490809": {
+    "id": 490809,
+    "aegisName": "Nebula_Nec_LT_TH",
+    "flavorText": null,
+    "name": "Nebula Pendant-LT [1]",
+    "unidName": null,
+    "resName": "Signet_Of_Star",
+    "unidResName": null,
+    "description": "ATK, MATK + 100,\nลด Delay หลังใช้สกิล 10%,\nAll Status + 10\n\nเมื่อสวมใส่ร่วมกับ Nebula Armor of Power,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%\nเมื่อ Armor มี Grade D ขึ้นไป, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%\nเมื่อ Armor มี Grade B ขึ้นไป, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 15%\n\nเมื่อสวมใส่ร่วมกับ Nebula Armor of Stamina,\nลด Damage ทางกายภาพระยะไกลที่ได้รับ 10%\nเมื่อ Armor มี Grade D ขึ้นไป, ลด Damage ทางกายภาพระยะไกลที่ได้รับลงอีก 15%\nเมื่อ Armor มี Grade B ขึ้นไป, ลด Damage ทางกายภาพระยะไกลที่ได้รับลงอีก 15%\n\nเมื่อสวมใส่ร่วมกับ Nebula Suit of Concentration,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%,\nเมื่อ Armor มี Grade D ขึ้นไป, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%\nเมื่อ Armor มี Grade B ขึ้นไป, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 15%\n\nเมื่อสวมใส่ร่วมกับ Nebula Suit of Creative,\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 15%,\nเมื่อ Armor มี Grade D ขึ้นไป, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%,\nเมื่อ Armor มี Grade B ขึ้นไป, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 15%\n\nเมื่อสวมใส่ร่วมกับ Nebula Robe of Wisdom,\nลด Damage ทางกายภาพระยะใกล้ที่ได้รับ 10%\nเมื่อ Armor มี Grade D ขึ้นไป, ลด Damage ทางกายภาพระยะใกล้ที่ได้รับลงอีก 15%\nเมื่อ Armor มี Grade B ขึ้นไป, ลด Damage ทางกายภาพระยะใกล้ที่ได้รับลงอีก 15%\n\nเมื่อสวมใส่ร่วมกับ Nebula Robe of Spell,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเมื่อ Armor มี Grade D ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเมื่อ Armor มี Grade B ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 15%\nประเภท : ^777777Accessory (Left)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 511,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "allstat": [
+        "10"
+      ],
+      "p_element_all": [
+        "EQUIP[Nebula Armor of Power]GRADE[armor==D]===15",
+        "EQUIP[Nebula Suit of Concentration]GRADE[armor==D]===15",
+        "EQUIP[Nebula Suit of Creative]GRADE[armor==D]===15"
+      ],
+      "p_race_all": [
+        "EQUIP[Nebula Armor of Power]GRADE[armor==B]===15",
+        "EQUIP[Nebula Suit of Concentration]GRADE[armor==B]===15",
+        "EQUIP[Nebula Suit of Creative]GRADE[armor==B]===15"
+      ],
+      "p_size_all": [
+        "EQUIP[Nebula Armor of Power]===15",
+        "EQUIP[Nebula Suit of Concentration]===15"
+      ],
+      "melee": [
+        "EQUIP[Nebula Suit of Creative]===15"
+      ],
+      "range": [
+        "EQUIP[Nebula Suit of Creative]===15"
+      ],
+      "m_size_all": [
+        "EQUIP[Nebula Robe of Spell]===15"
+      ],
+      "m_element_all": [
+        "EQUIP[Nebula Robe of Spell]GRADE[armor==D]===15"
+      ],
+      "m_race_all": [
+        "EQUIP[Nebula Robe of Spell]GRADE[armor==B]===15"
+      ]
+    }
+  },
+  "400956": {
+    "id": 400956,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[KRO] Costume Bamtoli Mask",
+    "unidName": "액세서리",
+    "resName": "C_Chestnut_Helmet",
+    "unidResName": "리본",
+    "description": "A holiday costume specially made for the harvest season.,\r\n\r\n^ffffff^4D4DFF[Event Limited Options]^000000^000000,\r\nATK + 40, MATK + 40.,\r\nCRI + 10, variable casting time reduced by 10%.,\r\nExperience gained from hunting monsters + 15%.,\r\nPhysical/magical damage to monsters of all races increased by 10% (excluding players).,\r\nPhysical/magical damage to enemies of all sizes increased by 10%.,\r\n(Event limited options will be removed when the event ends.),\r\n\r\nClass: ^777777Costume Equipment^000000,\r\nDefense: ^7777770^000000,\r\nLocation: ^777777Top^000000,\r\nWeight: ^7777770^000000,\r\nRequired Level: ^7777771^000000,\r\nJobs: ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "script": {
+      "atk": [
+        "40"
+      ],
+      "matk": [
+        "40"
+      ],
+      "cri": [
+        "10"
+      ],
+      "vct": [
+        "10"
+      ],
+      "p_race_all": [
+        "10"
+      ],
+      "m_race_all": [
+        "10"
+      ],
+      "p_size_all": [
+        "10"
+      ],
+      "m_size_all": [
+        "10"
       ]
     }
   }
