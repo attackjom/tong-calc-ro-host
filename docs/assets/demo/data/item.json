@@ -244481,7 +244481,7 @@
     "defense": 0,
     "weight": 45,
     "requiredLevel": 1,
-    "location": null,
+    "location": "Lower",
     "compositionPos": null,
     "canGrade": false,
     "usableClass": [
