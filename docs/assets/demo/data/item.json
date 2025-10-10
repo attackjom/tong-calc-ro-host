@@ -70756,6 +70756,34 @@
       ]
     }
   },
+  "105522": {
+    "id": 105522,
+    "aegisName": "aegis105522",
+    "flavorText": null,
+    "name": "OneOne Deep-fried Chicken",
+    "unidName": "OneOne Deep-fried Chicken",
+    "resName": "Fried_Chicken_1",
+    "unidResName": "Fried_Chicken_1",
+    "description": "^ff0000ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nOneOne Deep-fried Chicken\nเมื่อกินเข้าไปคุณจะอิ่มและรู้สึกคลั่งถึงความอร่อยของไก่ทอด\nจะใช้งานสกิล Provoke ใส่ตัวเอง และยังได้รับผลลัพธ์ดังต่อไปนี้ เป็นเวลา 5 นาทีเป็นโบนัสเพิ่มเติม\nเพิ่มพลังโจมตีทางกายภาพและเวทมนตร์ต่อ Betelgeuse 20%\nลดพลังโจมตีทางกายภาพและเวทมนตร์ที่ได้รับจาก Betelgeuse 20%\n^ff0000※ เมื่อตัวละครตาย ความสามารถของไอเทมก็จะไม่หายไป^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 3,
+    "itemSubTypeId": 768,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "script": {
+      "p_final": [
+        "10020"
+      ],
+      "m_final": [
+        "10020"
+      ]
+    }
+  },
   "102985": {
     "id": 102985,
     "aegisName": "Speed_Booster",
@@ -108301,7 +108329,7 @@
     "name": "Star Emperor Stone (Upper)",
     "unidName": "Star Emperor Stone (Upper)",
     "resName": "푸른야광석",
-    "description": "Increases Full Moon Kick damage by 3% per each level of Blessing of Moon user learned.\r\nWhen equipped with Star Emperor Stone (Garment), increases New Moon Kick damage by 15%.",
+    "description": "ทุก ๆ การเรียนรู้ Blessing of Moon 1 เลเวล เพิ่ม Damage สกิล Full Moon Kick 3%\nเมื่อใช้งานร่วมกับ Star Emperor Stone (Garment), เพิ่ม Damage สกิล New Moon Kick 15%",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 71,
@@ -108327,7 +108355,7 @@
     "name": "Star Emperor Stone (Middle)",
     "unidName": "Star Emperor Stone (Middle)",
     "resName": "푸른야광석",
-    "description": "Increases melee physical damage by 2% per each level of Blessing of Sun user learned.\r\nWhen equipped with Star Emperor Stone (Garment), increases Solar Burst damage by 15%.",
+    "description": "ทุก ๆ การเรียนรู้ Blessing of Sun 1 เลเวล เพิ่ม Damage ทางกายภาพระยะใกล้ 2%\nเมื่อใช้งานร่วมกับ Star Emperor Stone (Garment), เพิ่ม Damage สกิล Solar Explosion 15%",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 72,
@@ -108353,7 +108381,7 @@
     "name": "Star Emperor Stone (Lower)",
     "unidName": "Star Emperor Stone (Lower)",
     "resName": "푸른야광석",
-    "description": "Increases Falling Star damage by 4% per each level of Blessing of Star user learned.\r\nWhen equipped with Star Emperor Stone (Garment), has a 2% chance to restore 1% of damage as SP when dealing physical damage.",
+    "description": "ทุก ๆ การเรียนรู้ Blessing of Star 1 เลเวล เพิ่ม Damage สกิล Falling Stars 4%\nเมื่อใช้งานร่วมกับ Star Emperor Stone (Garment), เมื่อโจมตีทางกายภาพ มีโอกาส 2% ที่จะฟื้นฟู SP 1% ของ Damage ที่ทำ",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 73,
@@ -108376,7 +108404,7 @@
     "name": "Rebellion Stone (Upper)",
     "unidName": "Rebellion Stone (Upper)",
     "resName": "정화탄",
-    "description": "Increases physical damage against all size enemies by 2% and increases Dragon Tail damage by 4% per each level of Platinum Altar user learned.\r\nWhen equipped with Rebellion Stone (Garment), increases Vanishing Buster damage by 15%.",
+    "description": "ทุก ๆ การเรียนรู้ Platinum Altar 1 เลเวล เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 2% และสกิล Dragon Tail 4%\nเมื่อใช้งานร่วมกับ Rebellion Stone (Garment), เพิ่ม Damage สกิล Vanishing Buster 15%",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 71,
@@ -108405,7 +108433,7 @@
     "name": "Rebellion Stone (Middle)",
     "unidName": "Rebellion Stone (Middle)",
     "resName": "정화탄",
-    "description": "Increases longed ranged physical damage by 2% per each level of Fire Rain user learned.\r\nWhen equipped with Rebellion Stone (Garment), increases Round Trip damage by 15%.",
+    "description": "ทุก ๆ การเรียนรู้ Fire Rain 1 เลเวล เพิ่ม Damage ทางกายภาพระยะไกล 2%\nเมื่อใช้งานร่วมกับ Rebellion Stone (Garment), เพิ่ม Damage สกิล Round Trip 15%",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 72,
@@ -108431,7 +108459,7 @@
     "name": "Rebellion Stone (Lower)",
     "unidName": "Rebellion Stone (Lower)",
     "resName": "정화탄",
-    "description": "Increases Fire Dance and Hammer of God damage by 4% per each level of Heat Barrel user learned.\r\nWhen equipped with Rebellion Stone (Garment), reduces fixed casting time by 0.5 seconds.",
+    "description": "ทุก ๆ การเรียนรู้ Hot Barrel 1 เลเวล เพิ่ม Damage สกิล Fire Dance, God's Hammer 4%\nเมื่อใช้งานร่วมกับ Rebellion Stone (Garment), ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 73,
@@ -108460,7 +108488,7 @@
     "name": "Soul Reaper Stone (Upper)",
     "unidName": "Soul Reaper Stone (Upper)",
     "resName": "도깨비불",
-    "description": "Increases all property magical damage by 1% per each level of Espa user learned.\r\nWhen equipped with Soul Reaper Stone (Garment), reduces SP consumption of Espa by 15%.",
+    "description": "ทุก ๆ การเรียนรู้ Espa 1 เลเวล เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 1%\nเมื่อใช้งานร่วมกับ Soul Reaper Stone (Garment), ลดปริมาณ SP ที่ใช้ของสกิล Espa 15%",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 71,
@@ -108483,7 +108511,7 @@
     "name": "Soul Reaper Stone (Middle)",
     "unidName": "Soul Reaper Stone (Middle)",
     "resName": "도깨비불",
-    "description": "Increases magical damage against all size enemies by 1% per each level of Eswhoo user learned.\r\nWhen equipped with Soul Reaper Stone (Garment), increases Eswhoo damage by 15%.",
+    "description": "ทุก ๆ การเรียนรู้ Eswhoo 1 เลเวล เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 1%\nเมื่อใช้งานร่วมกับ Soul Reaper Stone (Garment), เพิ่ม Damage สกิล Eswhoo 15%",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 72,
@@ -108509,7 +108537,7 @@
     "name": "Soul Reaper Stone (Lower)",
     "unidName": "Soul Reaper Stone (Lower)",
     "resName": "도깨비불",
-    "description": "Reduces skill cooldown of Curse Explosion by 0.1 seconds per each level of Evil Spirit's Curse user learned.\r\nWhen equipped with Soul Reaper Stone (Garment), reduces fixed casting time by 0.5 seconds.",
+    "description": "ทุก ๆ การเรียนรู้ Evil Soul Curse 1 เลเวล ลด Cooldown สกิล Curse Explosion 0.1 วินาที\nเมื่อใช้งานร่วมกับ Soul Reaper Stone (Garment), ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 73,
@@ -229892,7 +229920,7 @@
     "unidName": "Spell Magic Attack Stone (Garment)",
     "resName": "Barmund_Spl",
     "unidResName": "Barmund_Spl",
-    "description": "S.MATK + 3.\n------------------------\n^FF0000Set Bonus^000000\n^4D4DFFSpell Magic Attack Stone (Garment)^000000\n^4D4DFFMagic Power Stone (Upper)^000000\n \nS.MATK + 1, SPL + 1.\n------------------------\n^FF0000Set Bonus^000000\n^4D4DFFSpell Magic Attack Stone (Garment)^000000\n^4D4DFFMagic Power Stone (Middle)^000000\n \nS.MATK + 1, SPL + 1.\n------------------------\n^FF0000Set Bonus^000000\n^4D4DFFSpell Magic Attack Stone (Garment)^000000\n^4D4DFFMagic Power Stone (Lower)^000000\n \nS.MATK + 1, SPL + 1.\n------------------------\n^FF0000Set Bonus^000000\n^4D4DFFSpell Magic Attack Stone (Garment)^000000\n^4D4DFFSpell Stone (Dual)^000000\n \nS.MATK + 5, SPL + 3.",
+    "description": "S.Matk + 3.\nเมื่อใช้งานร่วมกับ Magic Power Stone (Upper), S.Matk + 1, SPL + 1.\nเมื่อใช้งานร่วมกับ Magic Power Stone (Middle), S.Matk + 1, SPL + 1.\nเมื่อใช้งานร่วมกับ Magic Power Stone (Lower), S.Matk + 1, SPL + 1.\nเมื่อใช้งานร่วมกับ Spell Stone (Dual), S.Matk + 5, SPL + 3.",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 74,
@@ -229927,7 +229955,7 @@
     "unidName": "Melee Physical Attack Stone (Garment)",
     "resName": "Barmund_Pow",
     "unidResName": "Barmund_Pow",
-    "description": "P.ATK + 3\n------------------------\n^FF0000Set Bonus:^000000\n^4D4DFFMelee Physical Attack Stone (Garment)^000000\n^4D4DFFMelee Stone (Upper)^000000\n          \nP.ATK + 1, POW + 1.\n------------------------\n^FF0000Set Bonus:^000000\n^4D4DFFMelee Physical Attack Stone (Garment)^000000\n^4D4DFFMelee Stone (Middle)^000000\n          \nP.ATK + 1, POW + 1.\n------------------------\n^FF0000Set Bonus:^000000\n^4D4DFFMelee Physical Attack Stone (Garment)^000000\n^4D4DFFMelee Stone (Lower)^000000\n          \nP.ATK + 1, POW + 1.\n------------------------\n^FF0000Set Bonus:^000000\n^4D4DFFMelee Physical Attack Stone (Garment)^000000\n^4D4DFFPower Stone (Dual)^000000\n          \nP.ATK + 5, POW + 3.",
+    "description": "P.ATK + 3\nเมื่อใช้งานร่วมกับ Melee Stone (Upper), P.ATK + 1, POW + 1\nเมื่อใช้งานร่วมกับ Melee Stone (Middle), P.ATK + 1, POW + 1\nเมื่อใช้งานร่วมกับ Melee Stone (Lower), P.ATK + 1, POW + 1\nเมื่อใช้งานร่วมกับ Power Stone (Dual), P.ATK + 5, POW + 3",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 74,
@@ -229962,7 +229990,7 @@
     "unidName": "Range Physical Attack Stone (Garment)",
     "resName": "Barmund_Con",
     "unidResName": "Barmund_Con",
-    "description": "P.ATK + 3\n------------------------\n^FF0000Set Bonus:^000000\n^4D4DFFRange Physical Attack Stone (Garment)^000000\n^4D4DFFRange Stone (Upper)^000000\n          \nP.ATK + 1, CON + 1.\n------------------------\n^FF0000Set Bonus:^000000\n^4D4DFFRange Physical Attack Stone (Garment)^000000\n^4D4DFFRange Stone (Middle)^000000\n          \nP.ATK + 1, CON + 1.\n------------------------\n^FF0000Set Bonus:^000000\n^4D4DFFRange Physical Attack Stone (Garment)^000000\n^4D4DFFRange Stone (Lower)^000000\n          \nP.ATK + 1, CON + 1.\n------------------------\n^FF0000Set Bonus:^000000\n^4D4DFFRange Physical Attack Stone (Garment)^000000\n^4D4DFFConcentration Stone (Dual)^000000\n          \nP.ATK + 5, CON + 3.",
+    "description": "P.ATK + 3\nเมื่อใช้งานร่วมกับ Range Stone (Upper), P.ATK + 1, CON + 1\nเมื่อใช้งานร่วมกับ Range Stone (Middle), P.ATK + 1, CON + 1\nเมื่อใช้งานร่วมกับ Range Stone (Lower), P.ATK + 1, CON + 1\nเมื่อใช้งานร่วมกับ Concentration Stone (Dual), P.ATK + 5, CON + 3",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 74,
@@ -244704,6 +244732,37 @@
       ],
       "m_size_all": [
         "10"
+      ]
+    }
+  },
+  "400789": {
+    "id": 400789,
+    "aegisName": "C_C_F_Aureola_RD",
+    "flavorText": null,
+    "name": "Costume Sacred Fides of Aurora",
+    "unidName": "Ribbon",
+    "resName": "C_Consecrate_F_Aureola_RD",
+    "unidResName": "리본",
+    "description": "สัญลักษณ์ศักดิ์สิทธิ์ของเทพี ที่พลังแห่งศรัทธาแท้จริงจางหายไปเพราะการลบหลู่\n\nAll Status + 20, All Trait Status + 20,\nสามารถใช้งานสกิล Cross Rain Lv.5 ได้, ลด Cooldown สกิล Cross Rain 2 วินาที\n\n^ff0000(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 5 พฤศจิกายน 2568)^000000\n\n^ffffff^4D4DFF[Designer Heidam]^000000^000000\n^b4b4b4สามารถแลกเปลี่ยนเป็น Costume Enchant Stone Box 28 ได้^000000\n\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "script": {
+      "allStatus": [
+        "20"
+      ],
+      "allTrait": [
+        "20"
+      ],
+      "cd__Cross Rain": [
+        "2"
       ]
     }
   }
