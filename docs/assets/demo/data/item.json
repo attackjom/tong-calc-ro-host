@@ -232678,7 +232678,7 @@
       "cd__Cannon Spear": [
         "11===1.5"
       ],
-      "cd__Over Slash": [
+      "cd__Overslash": [
         "11===0.4"
       ],
       "str": [
@@ -232708,7 +232708,7 @@
       "Cannon Spear": [
         "GRADE[shield==C]===100"
       ],
-      "Over Slash": [
+      "Overslash": [
         "GRADE[shield==C]===20"
       ]
     }
@@ -241419,7 +241419,7 @@
       "Imperial Cross": [
         "4---7"
       ],
-      "Over Slash": [
+      "Overslash": [
         "4---7"
       ],
       "melee": [
@@ -244921,14 +244921,14 @@
       "p_element_all": [
         "EQUIP[Holy Light Spear]REFINE[weapon==10]===15"
       ],
-      "Over Slash": [
+      "Overslash": [
         "EQUIP[Holy Light Spear]===15",
         "EQUIP[Holy Light Spear]REFINE[weapon==10]===15"
       ],
       "melee": [
         "EQUIP[Holy Light Spear]GRADE[weapon==C]===20"
       ],
-      "cd__Over Slash": [
+      "cd__Overslash": [
         "EQUIP[Holy Light Spear]GRADE[weapon==C]===0.2"
       ]
     }
