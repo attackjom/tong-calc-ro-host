@@ -244697,7 +244697,7 @@
     "description": "A holiday costume specially made for the harvest season.\r\n\r\n^ffffff^4D4DFF[Event Limited Options]^000000^000000,\r\nATK + 40, MATK + 40.\r\nCRI + 10, variable casting time reduced by 10%.\r\nExperience gained from hunting monsters + 15%.\r\nPhysical/magical damage to monsters of all races increased by 10% (excluding players).\r\nPhysical/magical damage to enemies of all sizes increased by 10%.\r\n(Event limited options will be removed when the event ends.),\r\n\r\nClass: ^777777Costume Equipment^000000,\r\nDefense: ^7777770^000000,\r\nLocation: ^777777Top^000000,\r\nWeight: ^7777770^000000,\r\nRequired Level: ^7777771^000000,\r\nJobs: ^777777All Classes^000000",
     "slots": 0,
     "itemTypeId": 9,
-    "itemSubTypeId": 519,
+    "itemSubTypeId": 9519,
     "itemLevel": null,
     "attack": null,
     "defense": 0,
@@ -244774,7 +244774,7 @@
     "description": "ผ้าคาดศีรษะที่ว่ากันว่ามักสวมบนศีรษะของผู้ตายในเกาะเล็ก ๆ ทางตะวันออก โดยมีผ้าสามเหลี่ยมชิ้นเล็กติดอยู่\n\nEXP +10%, DROP + 10%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อมอนสเตอร์เผ่า Demon, Undead, Formless, Angel 40%\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 12 พฤศจิกายน 2568)\n\nประเภท : ^777777Costume^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
     "slots": 0,
     "itemTypeId": 9,
-    "itemSubTypeId": 519,
+    "itemSubTypeId": 9519,
     "itemLevel": null,
     "attack": null,
     "defense": 0,
@@ -246806,6 +246806,259 @@
       ],
       "p_race_all": [
         "EQUIP[Good Spell]===15"
+      ]
+    }
+  },
+  "19757": {
+    "id": 19757,
+    "aegisName": "C_Water_Lily_Crown",
+    "flavorText": null,
+    "name": "Costume Water Lily Crown",
+    "unidName": null,
+    "resName": "수련왕관",
+    "unidResName": null,
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nหมวกที่ทำรูปทรงเลียนแบบดอกบัวสีชมพูที่ดูสวยงาม\n\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 20%,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 20%\n^ff0000(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังสิ้นสุดระยะเวลากิจกรรม)^000000\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "melee": [
+        "20"
+      ],
+      "range": [
+        "20"
+      ],
+      "m_my_element_all": [
+        "20"
+      ]
+    }
+  },
+  "420427": {
+    "id": 420427,
+    "aegisName": "C_Lunatic_Kamakura",
+    "flavorText": null,
+    "name": "Costume Lunatic Igloo",
+    "unidName": null,
+    "resName": "C_Lunatic_Kamakura",
+    "unidResName": null,
+    "description": "คอสตูมกระท่อมหิมะ ที่จะปรากฏขึ้นเมื่อคุณนั่งพักหรือล้มลง\nให้ความรู้สึกผ่อนคลาย พักกายได้ทุกที่\n\nเพิ่ม Damage ทางกายภาพ/เวทมตร์ต่อศัตรูเผ่า Formless 40%,\nเพิ่ม Damage ทางกายภาพ/เวทมตร์ต่อศัตรูธาตุ Neutral 40% 증가.\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 9 ธันวาคม 2568)\n\n^ffffff^4D4DFF[Designer Heidam]^000000^000000\n^b4b4b4สามารถแลกเปลี่ยนเป็น Costume Enchant Stone Box 28 ได้^000000\n\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 522,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "p_race_formless": [
+        "40"
+      ],
+      "m_race_formless": [
+        "40"
+      ],
+      "p_element_neutral": [
+        "40"
+      ],
+      "m_element_neutral": [
+        "40"
+      ]
+    }
+  },
+  "420428": {
+    "id": 420428,
+    "aegisName": "Snow_Aura",
+    "flavorText": null,
+    "name": "Snow Aura",
+    "unidName": null,
+    "resName": "냉기입김",
+    "unidResName": null,
+    "description": "All State + 5\nเมื่อสวมใส่ร่วมกับ Snow Flower Armor,\nATK + 120\nเมื่อสวมใส่ร่วมกับ Snow Flower Robe,\nMATK + 120\nเมื่อสวมใส่ร่วมกับ Snow Flower Boots,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%, ลด Delay หลังใช้สกิล 5%, ASPD + 15%\nเมื่อสวมใส่ร่วมกับ Snow Flower Shoes,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 10%, ลด Delay หลังใช้สกิล 5%, ลดระยะเวลาร่ายแบบแปรผัน 15%\nเมื่อสวมใส่ร่วมกับ Snow Flower Manteau,\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%\nเมื่อสวมใส่ร่วมกับ Snow Flower Muffler,\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777771^000000\nเลเวลที่ต้องการ : ^777777210^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 210,
+    "location": "Lower",
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "allStatus": [
+        "5"
+      ],
+      "atk": [
+        "EQUIP[Snow Flower Armor]===120"
+      ],
+      "matk": [
+        "EQUIP[Snow Flower Robe]===120"
+      ],
+      "p_size_all": [
+        "EQUIP[Snow Flower Boots]===10"
+      ],
+      "m_size_all": [
+        "EQUIP[Snow Flower Shoes]===10"
+      ],
+      "melee": [
+        "EQUIP[Snow Flower Manteau]===10"
+      ],
+      "range": [
+        "EQUIP[Snow Flower Manteau]===10"
+      ],
+      "m_my_element_all": [
+        "EQUIP[Snow Flower Muffler]===15"
+      ],
+      "acd": [
+        "EQUIP[Snow Flower Boots]===5",
+        "EQUIP[Snow Flower Shoes]===5"
+      ],
+      "aspdPercent": [
+        "EQUIP[Snow Flower Boots]===15"
+      ],
+      "vct": [
+        "EQUIP[Snow Flower Shoes]===15"
+      ]
+    }
+  },
+  "480522": {
+    "id": 480522,
+    "aegisName": "Dual_SW_Cape_LT",
+    "flavorText": null,
+    "name": "Dual Shadow World Cloak-LT [1]",
+    "unidName": "Hood",
+    "resName": "Dual_SW_Cape_LT",
+    "unidResName": "후드",
+    "description": "All State + 5\nทุก ๆ การอัพเกรด 2 ขั้น All State + 1\nทุก ๆ การอัพเกรด 3 ขั้น ATK + 15, MATK + 15, ATK + 1%, MATK + 1%\nทุก ๆ การอัพเกรด 4 ขั้น เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 4%\nเมื่ออัพเกรดถึงขั้น 9, ATK + 5%, MATK + 5%, ลด Delay หลังใช้สกิล 7%, ลดระยะเวลาร่ายแบบแปรผัน 15%\nเมื่ออัพเกรดถึงขั้น 11, ATK + 50, MATK + 50, ATK + 7%, MATK + 7%, ASPD + 15%\n\nเมื่อใช้งานร่วมกับ Petal Card, POW + 5, Critical Damage + 30%\nเมื่อใช้งานร่วมกับ Ancient Stone Shooter Card, CRT + 5, เพิ่ม Damage ทางกายภาพระยะใกล้ 35%\nเมื่อใช้งานร่วมกับ Menblatt Card, CRT + 5, เพิ่ม Damage ทางกายภาพระยะไกล 35%\nเมื่อใช้งานร่วมกับ Ancient Wootan Shooter Card, CON + 5, Critical Damage + 30%\nเมื่อใช้งานร่วมกับ Cenere Card, CON + 5, ASPD + 15%\nเมื่อใช้งานร่วมกับ Sinister Dwelling Obsidian Card, WIS + 5, ลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที\nเมื่อใช้งานร่วมกับ Antique Book Card, SPL + 5, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 25%\nเมื่อใช้งานร่วมกับ Marsh Arclouse Card, SPL + 5, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 40%\nเมื่อใช้งานร่วมกับ Wakwak Card, STA + 5, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 25%\nเมื่อใช้งานร่วมกับ Brown Rat Card, POW + 5, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 30%\nเมื่อใช้งานร่วมกับ Jejeling Card, WIS + 5, MHP + 20%\nเมื่อใช้งานร่วมกับ Ancient Stalactic Golem Card, STA + 5, MHP + 8000\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] ATK + 50, MATK + 50\n[Grade C] All State + 5\n[Grade B] เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อมอนสเตอร์ทุกเผ่า 10%\n[Grade A] เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 10%\nประเภท : ^777777Garment^000000  พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777130^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 130,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "allStatus": [
+        "5",
+        "2---1",
+        "GRADE[me==C]===5"
+      ],
+      "atk": [
+        "3---15",
+        "11===50",
+        "GRADE[me==D]===50"
+      ],
+      "atkPercent": [
+        "3---1",
+        "9===5",
+        "11===7"
+      ],
+      "matk": [
+        "3---15",
+        "11===50",
+        "GRADE[me==D]===50"
+      ],
+      "matkPercent": [
+        "3---1",
+        "9===5",
+        "11===7"
+      ],
+      "p_element_all": [
+        "4---4",
+        "EQUIP[Wakwak Card]===25"
+      ],
+      "m_element_all": [
+        "4---4",
+        "EQUIP[Antique Book Card]===25"
+      ],
+      "acd": [
+        "9===7"
+      ],
+      "vct": [
+        "9===15"
+      ],
+      "aspdPercent": [
+        "11===15",
+        "EQUIP[Cenere Card]===15"
+      ],
+      "pow": [
+        "EQUIP[Petal Card]===5",
+        "EQUIP[Brown Rat Card]===5"
+      ],
+      "criDmg": [
+        "EQUIP[Petal Card]===30",
+        "EQUIP[Ancient Wootan Shooter Card]===30"
+      ],
+      "crt": [
+        "EQUIP[Menblatt Card]===5",
+        "EQUIP[Ancient Stone Shooter Card]===5"
+      ],
+      "melee": [
+        "EQUIP[Ancient Stone Shooter Card]===35",
+        "EQUIP[Brown Rat Card]===30"
+      ],
+      "range": [
+        "EQUIP[Menblatt Card]===35",
+        "EQUIP[Brown Rat Card]===30"
+      ],
+      "con": [
+        "EQUIP[Cenere Card]===5",
+        "EQUIP[Ancient Wootan Shooter Card]===5"
+      ],
+      "spl": [
+        "EQUIP[Antique Book Card]===5",
+        "EQUIP[Marsh Arclouse Card]===5"
+      ],
+      "m_my_element_all": [
+        "EQUIP[Marsh Arclouse Card]===40"
+      ],
+      "sta": [
+        "EQUIP[Wakwak Card]===5",
+        "EQUIP[Ancient Stalactic Golem Card]===5"
+      ],
+      "wis": [
+        "EQUIP[Jejeling Card]===5",
+        "EQUIP[Sinister Dwelling Obsidian Card]===5"
+      ],
+      "fct": [
+        "EQUIP[Sinister Dwelling Obsidian Card]===0.3"
+      ],
+      "hpPercent": [
+        "EQUIP[Jejeling Card]===20"
+      ],
+      "hp": [
+        "EQUIP[Ancient Stalactic Golem Card]===8000"
+      ],
+      "p_race_all": [
+        "GRADE[me==B]===10"
+      ],
+      "m_race_all": [
+        "GRADE[me==B]===10"
+      ],
+      "p_class_all": [
+        "GRADE[me==A]===10"
+      ],
+      "m_class_all": [
+        "GRADE[me==A]===10"
       ]
     }
   }
