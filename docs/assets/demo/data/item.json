@@ -247061,5 +247061,58 @@
         "GRADE[me==A]===10"
       ]
     }
+  },
+  "420603": {
+    "id": 420603,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Event] New Adventure Clover",
+    "unidName": null,
+    "resName": "핑크클로버",
+    "unidResName": null,
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nใบโคลเวอร์ที่จะนำโชคดีมาสู่นักผจญภัย\nMaxHP +250, MaxSP +150\n\nเมื่อตัวละครมี Base Lv. ต่ำกว่า 200,\nเพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 10%, ลด Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากมอนสเตอร์ประเภททั่วไป 10%\n\nเมื่อสวมใส่ร่วมกับ Eden Group Boots หรือ Eden Group Shoes,\nเพิ่มความเร็วในการเคลื่อนที่, ASPD +10%, ลดระยะเวลาร่ายแบบแปรผัน 10%\nทุก ๆ Base Lv.1, ATK +1, MATK +1, MaxHP +10, MaxSP +2 (มีผลจนถึง Lv.100)\n\nเมื่อสวมใส่ร่วมกับ Eden Group Advanced Boots หรือ Eden Group Advanced Shoes,\nเพิ่มความเร็วในการเคลื่อนที่, ASPD +20%, ลดระยะเวลาร่ายแบบแปรผัน 20%\nทุก ๆ Base Lv.1, ATK +1, MATK +1, MaxHP +25, MaxSP +5 (มีผลจนถึง Lv.200)\n\n(ไอเท็มนี้จะถูกลบออกหลังสิ้นสุดระยะเวลากิจกรรม)\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": "Lower",
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "hp": [
+        "250",
+        "EQUIP[Eden Group Boots]level:1(1-200)---10",
+        "EQUIP[Eden Group Advanced Boots]level:1(1-200)---25"
+      ],
+      "sp": [
+        "150",
+        "EQUIP[Eden Group Shoes]level:1(1-200)---2",
+        "EQUIP[Eden Group Advanced Shoes]level:1(1-200)---5"
+      ],
+      "aspdPercent": [
+        "EQUIP[Eden Group Boots]===10",
+        "EQUIP[Eden Group Shoes]===10",
+        "EQUIP[Eden Group Advanced Boots]===20",
+        "EQUIP[Eden Group Advanced Shoes]===20"
+      ],
+      "vct": [
+        "EQUIP[Eden Group Boots]===10",
+        "EQUIP[Eden Group Shoes]===10",
+        "EQUIP[Eden Group Advanced Boots]===20",
+        "EQUIP[Eden Group Advanced Shoes]===20"
+      ],
+      "atk": [
+        "EQUIP[Eden Group Boots]level:1(1-200)---1",
+        "EQUIP[Eden Group Advanced Boots]level:1(1-200)---1"
+      ],
+      "matk": [
+        "EQUIP[Eden Group Shoes]level:1(1-200)---1",
+        "EQUIP[Eden Group Advanced Shoes]level:1(1-200)---1"
+      ]
+    }
   }
 }
