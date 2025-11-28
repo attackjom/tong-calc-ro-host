@@ -247871,5 +247871,48 @@
         "100"
       ]
     }
+  },
+  "9068": {
+    "id": 9068,
+    "aegisName": "Blue_Unicorn_Egg",
+    "flavorText": null,
+    "name": "Blue Unicorn Egg",
+    "unidName": "Blue Unicorn Egg",
+    "resName": "수속성알",
+    "unidResName": "수속성알",
+    "description": "ไข่ที่มี Q-Pet Blue Unicorn Egg อยู่ภายใน สามารถปลุกให้ตื่นขึ้นมาได้ด้วย [Pet Incubator]\n\nหากความสัมพันธ์อยู่ระดับไม่คุ้นเคยหรือเขินอาย P.ATK + 1, S.MATK + 1\nหากความสัมพันธ์อยู่ระดับปกติ P.ATK + 2, S.MATK + 2, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 1%\nหากความสัมพันธ์อยู่ระดับเป็นมิตร P.ATK + 3, S.MATK + 3, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 3%\nหากความสัมพันธ์อยู่ระดับสนิทสนม P.ATK + 5, S.MATK + 5, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 5%\n\n[ความสามารถจำกัดเวลา]\nสามารถใช้งานสกิล Back Slide Lv.1 ได้,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภท Boss 20%\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 25 กุมภาพันธ์ 2569)\nประเภท : Monster Egg",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 518,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "pAtk": [
+        "5"
+      ],
+      "sMatk": [
+        "5"
+      ],
+      "p_race_all": [
+        "5"
+      ],
+      "m_race_all": [
+        "5"
+      ],
+      "p_class_boss": [
+        "20"
+      ],
+      "m_class_boss": [
+        "20"
+      ]
+    }
   }
 }
