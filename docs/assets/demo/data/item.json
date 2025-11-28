@@ -246203,7 +246203,7 @@
     "unidName": "Kafra Uniform-LT",
     "resName": "카프라제복",
     "unidResName": "카프라제복",
-    "description": "ชุด Uniform ที่พนักงาน Kafra สวมใส่\nถึงจะดูเหมือนชุด maid ธรรมดา แต่เพราะทำขึ้นด้วยความใส่ใจเป็นพิเศษจึงทำให้สวมใส่สบาย\n\nทุก ๆ การอัพเกรด 1 ขั้น, MaxHP + 200, MaxSP + 40\n\nเมื่อตัวละครมีเลเวลน้อยกว่า 99,\nATK, MATK + 200,\nเพิ่มความเร็วในการเคลื่อนที่ตลอดเวลา,\nเพิ่มค่าประสบการณ์ที่ได้รับจากมอนสเตอร์ 50%\n\nเมื่อตัวละครมีเลเวลน้อยกว่า 199,\nATK, MATK + 100,\nเพิ่มความเร็วในการเคลื่อนที่ตลอดเวลา,\nเพิ่มค่าประสบการณ์ที่ได้รับจากมอนสเตอร์ 30%\n\nเมื่อตัวละครมีเลเวล 200 หรือมากกว่า,\nP.ATK, S.MATK + 10,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่มค่าประสบการณ์ที่ได้รับจากมอนสเตอร์ 30%,\nเพิ่มอัตรา Drop ไอเท็ม 5%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] เพิ่มค่าประสบการณ์ที่ได้รับจากมอนสเตอร์ 5%\n[Grade C] MaxHP + 5000, MaxSP + 500\n[Grade B] มีโอกาส 2% ที่จะนำ 4% ของ Damage ทางกายภาพต่อศัตรู มาเป็น SP ของตนเอง\nเมื่อโจมตีทางเวทมนตร์ มีโอกาส 5% ที่จะฟื้นฟู SP 200 หน่วย 9 ครั้งเป็นเวลา 10 วินาที\n[Grade A] เพิ่มอัตรา Drop ไอเท็ม 5%, MaxHP + 50%, MaxSP + 50%\nประเภท : ^777777Armor^000000  พลังป้องกัน : ^77777740^000000\nน้ำหนัก : ^77777750^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "description": "ชุด Uniform ที่พนักงาน Kafra สวมใส่\nถึงจะดูเหมือนชุด maid ธรรมดา แต่เพราะทำขึ้นด้วยความใส่ใจเป็นพิเศษจึงทำให้สวมใส่สบาย\n\nทุก ๆ การอัพเกรด 1 ขั้น, MaxHP + 200, MaxSP + 40\n\nเมื่อตัวละครมีเลเวลน้อยกว่า 99,\nATK, MATK + 200,\nเพิ่มความเร็วในการเคลื่อนที่ตลอดเวลา,\nเพิ่มค่าประสบการณ์ที่ได้รับจากมอนสเตอร์ 50%\n\nเมื่อตัวละครมีเลเวลอยู่ในช่วง 100-199,\nATK, MATK + 100,\nเพิ่มความเร็วในการเคลื่อนที่ตลอดเวลา,\nเพิ่มค่าประสบการณ์ที่ได้รับจากมอนสเตอร์ 30%\n\nเมื่อตัวละครมีเลเวล 200 หรือมากกว่า,\nP.ATK, S.MATK + 10,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่มค่าประสบการณ์ที่ได้รับจากมอนสเตอร์ 30%,\nเพิ่มอัตรา Drop ไอเท็ม 5%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] เพิ่มค่าประสบการณ์ที่ได้รับจากมอนสเตอร์ 5%\n[Grade C] MaxHP + 5000, MaxSP + 500\n[Grade B] มีโอกาส 2% ที่จะนำ 4% ของ Damage ทางกายภาพต่อศัตรู มาเป็น SP ของตนเอง\nเมื่อโจมตีทางเวทมนตร์ มีโอกาส 5% ที่จะฟื้นฟู SP 200 หน่วย 9 ครั้งเป็นเวลา 10 วินาที\n[Grade A] เพิ่มอัตรา Drop ไอเท็ม 5%, MaxHP + 50%, MaxSP + 50%\nประเภท : ^777777Armor^000000  พลังป้องกัน : ^77777740^000000\nน้ำหนัก : ^77777750^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 513,
@@ -246229,11 +246229,11 @@
       ],
       "atk": [
         "LEVEL[1-99]===200",
-        "LEVEL[1-199]===100"
+        "LEVEL[100-199]===100"
       ],
       "matk": [
         "LEVEL[1-199]===200",
-        "LEVEL[1-199]===100"
+        "LEVEL[100-199]===100"
       ],
       "pAtk": [
         "LEVEL[200]===10"
@@ -247512,6 +247512,363 @@
       ],
       "Mayhemic Thorns": [
         "EQUIP[Evil Spell]===30"
+      ]
+    }
+  },
+  "401114": {
+    "id": 401114,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Costume Asgard Wing Hairband",
+    "unidName": null,
+    "resName": "C_Asgard_Circlet_TW",
+    "unidResName": null,
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nที่คาดผมจาก \"แดนต้องห้าม\" เป็นสัญลักษณ์แห่งการดำรงอยู่ที่สูงสุดและก้าวข้ามทุกสิ่ง\n\nเมื่อผู้สวมใส่มีเลเวล 200 หรือน้อยกว่า,\nEXP + 30%\nATK, MATK + 150\nสามารถใช้งานสกิล Increase AGI, Blessing Lv.10 ได้\nเมื่อกำจัดมอนสเตอร์ด้วยการโจมตีทางเวทมนตร์/กายภาพ ฟื้นฟู HP + 200, SP + 20\n\nเมื่อผู้สวมใส่มีเลเวล 201 หรือมากกว่า,\nEXP + 10%\nATK, MATK + 50\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 21 มกราคม 2569)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "LEVEL[1-200]===150",
+        "LEVEL[201]===50"
+      ],
+      "matk": [
+        "LEVEL[1-200]===150",
+        "LEVEL[201]===50"
+      ]
+    }
+  },
+  "300736": {
+    "id": 300736,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Year of The Unicorn 2026 Card",
+    "unidName": "Year of The Unicorn 2026 Card",
+    "resName": "이름없는카드",
+    "unidResName": "이름없는카드",
+    "description": "All Status + 6,\nMaxHP + 2026,\nเพิกเฉยต่อพลังป้องกันทางกายภาพ/เวทมนตร์ของมอนสเตอร์เผ่า Brute, Insect, Formless 30%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Headgear^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 769,
+    "script": {
+      "allStatus": [
+        "6"
+      ],
+      "hp": [
+        "2026"
+      ],
+      "p_pene_race_brute": [
+        "30"
+      ],
+      "p_pene_race_insect": [
+        "30"
+      ],
+      "p_pene_race_formless": [
+        "30"
+      ],
+      "m_pene_race_brute": [
+        "30"
+      ],
+      "m_pene_race_insect": [
+        "30"
+      ],
+      "m_pene_race_formless": [
+        "30"
+      ]
+    }
+  },
+  "410549": {
+    "id": 410549,
+    "aegisName": "Snow_Fox_TH",
+    "flavorText": null,
+    "name": "Snow Fox [1]",
+    "unidName": null,
+    "resName": "Snow_Fox",
+    "unidResName": null,
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nAll Trait + 2\n\nเมื่อสวมใส่ร่วมกับอาวุธ Glacier Weapon Series,\nลด Global Cooldown 5%,\nAll Trait + 3,\nATK, MATK + 100\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": "Middle",
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "allTrait": [
+        "2",
+        "EQUIP[Glacier Sword]===3",
+        "EQUIP[Glacier Basic Sword]===3",
+        "EQUIP[Glacier Rogue Knife]===3",
+        "EQUIP[Glacier Basic Knife]===3",
+        "EQUIP[Glacier Axe]===3",
+        "EQUIP[Glacier Spear]===3",
+        "EQUIP[Glacier Book]===3",
+        "EQUIP[Glacier Wand]===3",
+        "EQUIP[Glacier Foxtail]===3",
+        "EQUIP[Glacier Knuckle]===3",
+        "EQUIP[Glacier Violin]===3",
+        "EQUIP[Glacier Whip]===3",
+        "EQUIP[Glacier Mace]===3",
+        "EQUIP[Glacier Mechanic Mace]===3",
+        "EQUIP[Glacier Two-handed Sword]===3",
+        "EQUIP[Glacier Katar]===3",
+        "EQUIP[Glacier Mechanic Axe]===3",
+        "EQUIP[Glacier Lance]===3",
+        "EQUIP[Glacier Staff]===3",
+        "EQUIP[Glacier Huuma Shuriken]===3",
+        "EQUIP[Glacier Bow]===3",
+        "EQUIP[Glacier Revolver]===3",
+        "EQUIP[Glacier Rifle]===3",
+        "EQUIP[Glacier Shotgun]===3",
+        "EQUIP[Glacier Gatling]===3",
+        "EQUIP[Glacier Launcher]===3",
+        "EQUIP[Glacier Shotgun]===3"
+      ],
+      "acd": [
+        "EQUIP[Glacier Sword]===5",
+        "EQUIP[Glacier Basic Sword]===5",
+        "EQUIP[Glacier Rogue Knife]===5",
+        "EQUIP[Glacier Basic Knife]===5",
+        "EQUIP[Glacier Axe]===5",
+        "EQUIP[Glacier Spear]===5",
+        "EQUIP[Glacier Book]===5",
+        "EQUIP[Glacier Wand]===5",
+        "EQUIP[Glacier Foxtail]===5",
+        "EQUIP[Glacier Knuckle]===5",
+        "EQUIP[Glacier Violin]===5",
+        "EQUIP[Glacier Whip]===5",
+        "EQUIP[Glacier Mace]===5",
+        "EQUIP[Glacier Mechanic Mace]===5",
+        "EQUIP[Glacier Two-handed Sword]===5",
+        "EQUIP[Glacier Katar]===5",
+        "EQUIP[Glacier Mechanic Axe]===5",
+        "EQUIP[Glacier Lance]===5",
+        "EQUIP[Glacier Staff]===5",
+        "EQUIP[Glacier Huuma Shuriken]===5",
+        "EQUIP[Glacier Bow]===5",
+        "EQUIP[Glacier Revolver]===5",
+        "EQUIP[Glacier Rifle]===5",
+        "EQUIP[Glacier Shotgun]===5",
+        "EQUIP[Glacier Gatling]===5",
+        "EQUIP[Glacier Launcher]===5",
+        "EQUIP[Glacier Shotgun]===5"
+      ],
+      "atk": [
+        "EQUIP[Glacier Sword]===100",
+        "EQUIP[Glacier Basic Sword]===100",
+        "EQUIP[Glacier Rogue Knife]===100",
+        "EQUIP[Glacier Basic Knife]===100",
+        "EQUIP[Glacier Axe]===100",
+        "EQUIP[Glacier Spear]===100",
+        "EQUIP[Glacier Book]===100",
+        "EQUIP[Glacier Wand]===100",
+        "EQUIP[Glacier Foxtail]===100",
+        "EQUIP[Glacier Knuckle]===100",
+        "EQUIP[Glacier Violin]===100",
+        "EQUIP[Glacier Whip]===100",
+        "EQUIP[Glacier Mace]===100",
+        "EQUIP[Glacier Mechanic Mace]===100",
+        "EQUIP[Glacier Two-handed Sword]===100",
+        "EQUIP[Glacier Katar]===100",
+        "EQUIP[Glacier Mechanic Axe]===100",
+        "EQUIP[Glacier Lance]===100",
+        "EQUIP[Glacier Staff]===100",
+        "EQUIP[Glacier Huuma Shuriken]===100",
+        "EQUIP[Glacier Bow]===100",
+        "EQUIP[Glacier Revolver]===100",
+        "EQUIP[Glacier Rifle]===100",
+        "EQUIP[Glacier Shotgun]===100",
+        "EQUIP[Glacier Gatling]===100",
+        "EQUIP[Glacier Launcher]===100",
+        "EQUIP[Glacier Shotgun]===100"
+      ],
+      "matk": [
+        "EQUIP[Glacier Sword]===100",
+        "EQUIP[Glacier Basic Sword]===100",
+        "EQUIP[Glacier Rogue Knife]===100",
+        "EQUIP[Glacier Basic Knife]===100",
+        "EQUIP[Glacier Axe]===100",
+        "EQUIP[Glacier Spear]===100",
+        "EQUIP[Glacier Book]===100",
+        "EQUIP[Glacier Wand]===100",
+        "EQUIP[Glacier Foxtail]===100",
+        "EQUIP[Glacier Knuckle]===100",
+        "EQUIP[Glacier Violin]===100",
+        "EQUIP[Glacier Whip]===100",
+        "EQUIP[Glacier Mace]===100",
+        "EQUIP[Glacier Mechanic Mace]===100",
+        "EQUIP[Glacier Two-handed Sword]===100",
+        "EQUIP[Glacier Katar]===100",
+        "EQUIP[Glacier Mechanic Axe]===100",
+        "EQUIP[Glacier Lance]===100",
+        "EQUIP[Glacier Staff]===100",
+        "EQUIP[Glacier Huuma Shuriken]===100",
+        "EQUIP[Glacier Bow]===100",
+        "EQUIP[Glacier Revolver]===100",
+        "EQUIP[Glacier Rifle]===100",
+        "EQUIP[Glacier Shotgun]===100",
+        "EQUIP[Glacier Gatling]===100",
+        "EQUIP[Glacier Launcher]===100",
+        "EQUIP[Glacier Shotgun]===100"
+      ]
+    }
+  },
+  "314786": {
+    "id": 314786,
+    "aegisName": "NY_Enchant_2026",
+    "flavorText": null,
+    "name": "Snow Energy Booster",
+    "unidName": null,
+    "resName": "Bar_D_Ic_Energy",
+    "unidResName": null,
+    "description": "P.ATK + 30, S.MATK + 30\nเพิ่ม Damage สกิล Hack and Slash, Dragonic Breath, Cross Rain, Overslash, Soul Vulcan Strike, Crystal Impact, Conflagration, Lightning Land, Petitio, Arbitrium, Explosion Blaster, Third Flame Bomb, Triple Laser, Mighty Smash, Mayhemic Thorns, Explosive Powder, Impact Crater, Savage Impact, Frenzy Shot, Abyss Square, Crescive Bolt, Gale Storm, Metallic Fury, Rose Blossom, Darkening Cannon, Huuma Shuriken - Construct, Midnight Kick, Noon Blast, Exorcism of Malicious Soul, Talisman of Red Phoenix, Napalm Vulcan Strike, Mega Sonic Blow, Hyunrok Breeze, Hogogong Strike, Spiral Shooting, Only One Bullet, The Vigilante at Night 100%\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 25 กุมภาพันธ์ 2569)\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Slot 1 (Enchant)^000000\nน้ำหนัก : ^7777770^000000",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "pAtk": [
+        "30"
+      ],
+      "sMatk": [
+        "30"
+      ],
+      "Hack and Slash": [
+        "100"
+      ],
+      "Dragonic Breath": [
+        "100"
+      ],
+      "Cross Rain": [
+        "100"
+      ],
+      "Overslash": [
+        "100"
+      ],
+      "Soul Vulcan Strike": [
+        "100"
+      ],
+      "Crystal Impact": [
+        "100"
+      ],
+      "Conflagration": [
+        "100"
+      ],
+      "Lightning Land": [
+        "100"
+      ],
+      "Petitio": [
+        "100"
+      ],
+      "Arbitrium": [
+        "100"
+      ],
+      "Explosion Blaster": [
+        "100"
+      ],
+      "Third Flame Bomb": [
+        "100"
+      ],
+      "Triple Laser": [
+        "100"
+      ],
+      "Mighty Smash": [
+        "100"
+      ],
+      "Mayhemic Thorns": [
+        "100"
+      ],
+      "Explosive Powder": [
+        "100"
+      ],
+      "Impact Crater": [
+        "100"
+      ],
+      "Savage Impact": [
+        "100"
+      ],
+      "Frenzy Shot": [
+        "100"
+      ],
+      "Abyss Square": [
+        "100"
+      ],
+      "Crescive Bolt": [
+        "100"
+      ],
+      "Gale Storm": [
+        "100"
+      ],
+      "Metallic Fury": [
+        "100"
+      ],
+      "Rose Blossom": [
+        "100"
+      ],
+      "Darkening Cannon": [
+        "100"
+      ],
+      "Huuma Shuriken - Construct": [
+        "100"
+      ],
+      "Midnight Kick": [
+        "100"
+      ],
+      "Noon Blast": [
+        "100"
+      ],
+      "Exorcism of Malicious Soul": [
+        "100"
+      ],
+      "Talisman of Red Phoenix": [
+        "100"
+      ],
+      "Napalm Vulcan Strike": [
+        "100"
+      ],
+      "Mega Sonic Blow": [
+        "100"
+      ],
+      "Hyunrok Breeze": [
+        "100"
+      ],
+      "Hogogong Strike": [
+        "100"
+      ],
+      "Spiral Shooting": [
+        "100"
+      ],
+      "Only One Bullet": [
+        "100"
+      ],
+      "The Vigilante at Night": [
+        "100"
       ]
     }
   }
