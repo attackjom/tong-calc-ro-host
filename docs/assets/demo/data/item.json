@@ -247932,7 +247932,7 @@
     "defense": 0,
     "weight": 1,
     "requiredLevel": 100,
-    "location": "Lower",
+    "location": "Middle",
     "compositionPos": null,
     "canGrade": false,
     "script": {
