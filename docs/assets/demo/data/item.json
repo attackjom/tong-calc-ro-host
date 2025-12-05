@@ -247759,7 +247759,7 @@
       "sMatk": [
         "30"
       ],
-      "Hack and Slash": [
+      "Hack and Slasher": [
         "100"
       ],
       "Dragonic Breath": [
@@ -248517,7 +248517,7 @@
         "EQUIP[Punish Scepter]GRADE[weapon==C]===20"
       ],
       "cd__First Brand": [
-        "EQUIP[Good Spell]===1.5"
+        "EQUIP[Good Spell]===-1.5"
       ]
     }
   },
