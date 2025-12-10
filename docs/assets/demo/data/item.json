@@ -230128,7 +230128,7 @@
     "location": null,
     "compositionPos": null,
     "script": {
-      "cri_dmg": [
+      "criDmg": [
         "LEARN_SKILL[Shadow Sense==2]---4"
       ],
       "Impact Crater": [
@@ -230902,7 +230902,7 @@
     "location": null,
     "compositionPos": null,
     "script": {
-      "cri_dmg": [
+      "criDmg": [
         "LEARN_SKILL[Enchant Blade==1]---1"
       ],
       "hpPercent": [
@@ -231129,7 +231129,7 @@
       "cri": [
         "LEARN_SKILL[Cross Impact==1]---1"
       ],
-      "cri_dmg": [
+      "criDmg": [
         "LEARN_SKILL[Cross Impact==1]---2"
       ],
       "Rolling Cutter": [
@@ -232861,7 +232861,7 @@
       "p_element_all": [
         "EQUIP[Sealed Bible]REFINE[weapon==10]===15"
       ],
-      "cri_dmg": [
+      "criDmg": [
         "EQUIP[Sealed Bible]GRADE[weapon==C]===20"
       ],
       "melee": [
@@ -246851,7 +246851,7 @@
     "description": "คอสตูมกระท่อมหิมะ ที่จะปรากฏขึ้นเมื่อคุณนั่งพักหรือล้มลง\nให้ความรู้สึกผ่อนคลาย พักกายได้ทุกที่\n\nเพิ่ม Damage ทางกายภาพ/เวทมตร์ต่อศัตรูเผ่า Formless 40%,\nเพิ่ม Damage ทางกายภาพ/เวทมตร์ต่อศัตรูธาตุ Neutral 40% 증가.\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 9 ธันวาคม 2568)\n\n^ffffff^4D4DFF[Designer Heidam]^000000^000000\n^b4b4b4สามารถแลกเปลี่ยนเป็น Costume Enchant Stone Box 28 ได้^000000\n\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
     "slots": 0,
     "itemTypeId": 9,
-    "itemSubTypeId": 522,
+    "itemSubTypeId": 9522,
     "itemLevel": null,
     "attack": null,
     "defense": 0,
@@ -248016,6 +248016,9 @@
     "script": {
       "cd__Comet": [
         "20"
+      ],
+      "fct": [
+        "1"
       ]
     }
   },
@@ -248588,6 +248591,308 @@
         "SPAWN[bl_lava]===30",
         "SPAWN[bl_ice]===30",
         "SPAWN[bl_death]===30"
+      ]
+    }
+  },
+  "410491": {
+    "id": 410491,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Costume Violet Starlight",
+    "unidName": null,
+    "resName": "C_Violet_Starlight",
+    "unidResName": null,
+    "description": "แสงระยิบระยับของดวงดาวสีม่วง ที่พร้อมเปล่งประกายตลอดเวลา\n\nทุก ๆ Base Lv. 1 ATK +1, MATK +1\nP.ATK , S.MATK + 20\nยิ่งเป้าหมายมี DEF สูง ความเสียหายที่ทำได้ยิ่งเพิ่มขึ้น\n(ความสามารถจะถูกลบออกวันที่ 7 มกราคม 2569)\n^ffffff^4D4DFF[Designer Heidam]^000000^000000\n^b4b4b4สามารถแลกเปลี่ยนเป็น Costume Enchant Stone Box 28 ได้^000000\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 520,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": "Middle",
+    "canGrade": false,
+    "script": {
+      "pAtk": [
+        "20"
+      ],
+      "sMatk": [
+        "20"
+      ],
+      "atk": [
+        "level:1---1"
+      ],
+      "matk": [
+        "level:1---1"
+      ],
+      "p_infiltration": [
+        "1"
+      ]
+    }
+  },
+  "314795": {
+    "id": 314795,
+    "aegisName": null,
+    "name": "Ragnarok Festa WIS (Upper)",
+    "unidName": "Ragnarok Festa WIS (Upper)",
+    "resName": "Dragenergy_Purple",
+    "unidResName": "Dragenergy_Purple",
+    "description": "WIS + 5,\nP.ATK, S.MATK + 5,\nลด Global Cooldown 5%,\nMRES + 25, MSP + 5%",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 77,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "script": {
+      "wis": [
+        "5"
+      ],
+      "pAtk": [
+        "5"
+      ],
+      "sMatk": [
+        "5"
+      ],
+      "acd": [
+        "5"
+      ],
+      "mres": [
+        "25"
+      ],
+      "spPercent": [
+        "5"
+      ]
+    }
+  },
+  "314796": {
+    "id": 314796,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Ragnarok Festa Supreme (Upper)",
+    "unidName": "Ragnarok Festa Supreme (Upper)",
+    "resName": "Auto_Orb_Merchant",
+    "unidResName": "Auto_Orb_Merchant",
+    "description": "All Trait + 10,\nP.ATK, S.MATK + 10,\nลด Global Cooldown 10%,\nMHP, MSP + 10%,\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%,\nMATK +10%,\nสามารถใช้งานสกิล Greed Lv.1 ได้",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 77,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "script": {
+      "allTrait": [
+        "10"
+      ],
+      "pAtk": [
+        "10"
+      ],
+      "sMatk": [
+        "10"
+      ],
+      "acd": [
+        "10"
+      ],
+      "hpPercent": [
+        "10"
+      ],
+      "spPercent": [
+        "10"
+      ],
+      "melee": [
+        "10"
+      ],
+      "range": [
+        "10"
+      ],
+      "matkPercent": [
+        "10"
+      ]
+    }
+  },
+  "314797": {
+    "id": 314797,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Ragnarok Festa POW (Upper)",
+    "unidName": "Ragnarok Festa POW (Upper)",
+    "resName": "Dragenergy_Red",
+    "unidResName": "Dragenergy_Red",
+    "description": "POW + 5,\nP.ATK + 5,\nลด Global Cooldown 5%,\nเพิ่ม Damage ทางภายระยะใกล้ 10%",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 77,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "script": {
+      "pow": [
+        "5"
+      ],
+      "pAtk": [
+        "5"
+      ],
+      "acd": [
+        "5"
+      ],
+      "melee": [
+        "10"
+      ]
+    }
+  },
+  "314798": {
+    "id": 314798,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Ragnarok Festa STA (Upper)",
+    "unidName": "Ragnarok Festa STA (Upper)",
+    "resName": "Dragenergy_Gold",
+    "unidResName": "Dragenergy_Gold",
+    "description": "STA + 5,\nP.ATK, S.MATK + 5,\nลด Global Cooldown 5%,\nRES + 25, MHP + 5%",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 77,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "script": {
+      "sta": [
+        "5"
+      ],
+      "pAtk": [
+        "5"
+      ],
+      "sMatk": [
+        "5"
+      ],
+      "acd": [
+        "5"
+      ],
+      "res": [
+        "25"
+      ],
+      "hpPercent": [
+        "5"
+      ]
+    }
+  },
+  "314799": {
+    "id": 314799,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Ragnarok Festa SPL (Upper)",
+    "unidName": "Ragnarok Festa SPL (Upper)",
+    "resName": "Dragenergy_Blue",
+    "unidResName": "Dragenergy_Blue",
+    "description": "SPL + 5,\nS.MATK +5,\nลด Global Cooldown 5%,\nMATK + 10%",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 77,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "script": {
+      "spl": [
+        "5"
+      ],
+      "sMatk": [
+        "5"
+      ],
+      "acd": [
+        "5"
+      ],
+      "matkPercent": [
+        "10"
+      ]
+    }
+  },
+  "314800": {
+    "id": 314800,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Ragnarok Festa CON (Upper)",
+    "unidName": "Ragnarok Festa CON (Upper)",
+    "resName": "Dragenergy_Green",
+    "unidResName": "Dragenergy_Green",
+    "description": "CON + 5,\nP.ATK +5,\nลด Global Cooldown 5%,\nเพิ่ม Damage ทางกายภาพระยะไกล 10%",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 77,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "script": {
+      "con": [
+        "5"
+      ],
+      "pAtk": [
+        "5"
+      ],
+      "acd": [
+        "5"
+      ],
+      "range": [
+        "10"
+      ]
+    }
+  },
+  "314801": {
+    "id": 314801,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Ragnarok Festa CRT (Upper)",
+    "unidName": "Ragnarok Festa CRT (Upper)",
+    "resName": "Dragenergy_Silver",
+    "unidResName": "Dragenergy_Silver",
+    "description": "CRT + 5,\nP.ATK +5,\nลด Global Cooldown 5%,\nCritical Damage + 10%",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 77,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "script": {
+      "crt": [
+        "5"
+      ],
+      "pAtk": [
+        "5"
+      ],
+      "acd": [
+        "5"
+      ],
+      "criDmg": [
+        "10"
       ]
     }
   }
