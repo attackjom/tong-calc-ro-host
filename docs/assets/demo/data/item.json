@@ -111640,11 +111640,13 @@
   },
   "311912": {
     "id": 311912,
-    "aegisName": null,
+    "aegisName": "Kagerou_Top3",
+    "flavorText": "",
     "name": "Kagerou Stone (Upper)",
     "unidName": "Kagerou Stone (Upper)",
     "resName": "불의부적",
-    "description": "Increases physical damage against all size enemies by 2% per each level of Kagerou & Oboro's Righthand Mastery user learned.\r\nWhen equipped with Kagerou Stone (Garment), increases Swirling Petal damage by 25%.",
+    "unidResName": "불의부적",
+    "description": "ทุก ๆ การเรียนรู้ Righthand Mastery ของ Kagerou & Oboro 1 เลเวล เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 2%\nเมื่อใช้กับ Kagerou Stone (Garment), เพิ่ม Damage สกิล Swirling Petal 25%",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 71,
@@ -111666,11 +111668,13 @@
   },
   "311913": {
     "id": 311913,
-    "aegisName": null,
+    "aegisName": "Kagerou_Middle3",
+    "flavorText": "",
     "name": "Kagerou Stone (Middle)",
     "unidName": "Kagerou Stone (Middle)",
     "resName": "불의부적",
-    "description": "Increases long ranged physical damage by 2% per each level of 16th Night user learned.\r\nWhen equipped with Kagerou Stone (Garment), increases Cross Slash damage by 25%.",
+    "unidResName": "불의부적",
+    "description": "ทุก ๆ การเรียนรู้ 16th Night 1 เลเวล เพิ่ม Damage ทางกายภาพระยะไกล 2%\nเมื่อใช้กับ Kagerou Stone (Garment), เพิ่ม Damage สกิล Cross Slash 25%",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 72,
@@ -111692,11 +111696,13 @@
   },
   "311914": {
     "id": 311914,
-    "aegisName": null,
+    "aegisName": "Kagerou_Bottom3",
+    "flavorText": "",
     "name": "Kagerou Stone (Lower)",
     "unidName": "Kagerou Stone (Lower)",
     "resName": "불의부적",
-    "description": "Increases Kunai Splash damage by 5% per each level of Pure Soul user learned.\r\nWhen equipped with Kagerou Stone (Garment), increases Kunai Splash damage by 25%.",
+    "unidResName": "불의부적",
+    "description": "ทุก ๆ การเรียนรู้ Pure Soul 1 เลเวล เพิ่ม Damage สกิล Kunai Splash 5%\nเมื่อใช้กับ Kagerou Stone (Garment), เพิ่ม Damage สกิล Kunai Splash 25%",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 73,
@@ -111716,11 +111722,13 @@
   },
   "311915": {
     "id": 311915,
-    "aegisName": null,
+    "aegisName": "Oboro_Top3",
+    "flavorText": "",
     "name": "Oboro Stone (Upper)",
     "unidName": "Oboro Stone (Upper)",
     "resName": "불의부적",
-    "description": "Increases magical damage against all size enemies by 2% per each level of Kagerou & Oboro's Righthand Mastery user learned.\r\nWhen equipped with Oboro Stone (Garment), increases Freezing Spear and Wind Blade damage by 25%.",
+    "unidResName": "불의부적",
+    "description": "ทุก ๆ การเรียนรู้ Righthand Mastery ของ Kagerou & Oboro 1 เลเวล เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 2%\nเมื่อใช้กับ Oboro Stone (Garment), เพิ่ม Damage สกิล Freezing Spear, Wind Blade 25%",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 71,
@@ -111745,11 +111753,13 @@
   },
   "311916": {
     "id": 311916,
-    "aegisName": null,
+    "aegisName": "Oboro_Middle3",
+    "flavorText": "",
     "name": "Oboro Stone (Middle)",
     "unidName": "Oboro Stone (Middle)",
     "resName": "불의부적",
-    "description": "Increases MaxSP by 3% per each level of Pure Soul user learned.\r\nWhen equipped with Oboro Stone (Garment), increases Exploding Dragon, Snow Flake Draft and First Wind damage by 30%.",
+    "unidResName": "불의부적",
+    "description": "ทุก ๆ การเรียนรู้ Pure Soul 1 เลเวล MSP + 3%\nเมื่อใช้กับ Oboro Stone (Garment), เพิ่ม Damage สกิล Exploding Dragon, Snow Flake Draft, First Wind 30%",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 72,
@@ -111777,11 +111787,13 @@
   },
   "311917": {
     "id": 311917,
-    "aegisName": null,
+    "aegisName": "Oboro_Bottom3",
+    "flavorText": "",
     "name": "Oboro Stone (Lower)",
     "unidName": "Oboro Stone (Lower)",
     "resName": "불의부적",
-    "description": "Increases Flaming Petals, Freezing Spear and Wind Blade damage by 4% per each level of 16th Night user learned.\r\nWhen equipped with Oboro Stone (Garment), reduces variable casting time by 15%.",
+    "unidResName": "불의부적",
+    "description": "ทุก ๆ การเรียนรู้ 16th Night 1 เลเวล เพิ่ม Damage สกิล Flaming Petals, Freezing Spear, Wind Blade 4%\nเมื่อใช้กับ Oboro Stone (Garment), ลดระยะเวลาร่ายแบบแปรผัน 15%",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 73,
@@ -111809,11 +111821,13 @@
   },
   "311918": {
     "id": 311918,
-    "aegisName": null,
+    "aegisName": "Doram_Top3",
+    "flavorText": "",
     "name": "Summoner Stone (Upper)",
     "unidName": "Summoner Stone (Upper)",
     "resName": "블랙캣",
-    "description": "Increases Lunatic Carrot Beat damage by 5% per each level of Picky Peck user learned.\r\nIncreases Catnip Meteor damage by 5% per each level of Silvervine Stem Spear user learned.\r\nWhen equipped with Doram Stone (Garment), reduces fixed casting time by 0.5 seconds.",
+    "unidResName": "블랙캣",
+    "description": "ทุก ๆ การเรียนรู้ Picky Peck 1 เลเวล เพิ่ม Damage สกิล Lunatic Carrot Beat 5%\nทุก ๆ การเรียนรู้ Silvervine Stem Spear 1 เลเวล เพิ่ม Damage สกิล Catnip Meteor 5%\nเมื่อใช้กับ Doram Stone (Garment), ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 71,
@@ -111838,11 +111852,13 @@
   },
   "311919": {
     "id": 311919,
-    "aegisName": null,
+    "aegisName": "Doram_Middle3",
+    "flavorText": "",
     "name": "Summoner Stone (Middle)",
     "unidName": "Summoner Stone (Middle)",
     "resName": "블랙캣",
-    "description": "Reduces variable casting time by 2% per each level of Fresh Shrimp user learned.\r\nWhen equipped with Doram Stone (Garment), increases Catnip Meteor damage by 25%.",
+    "unidResName": "블랙캣",
+    "description": "ทุก ๆ การเรียนรู้ Frash Shrimp 1 เลเวล ลดระยะเวลาร่ายแบบแปรผัน 2%\nเมื่อใช้กับ Doram Stone (Garment), เพิ่ม Damage สกิล Catnip Meteor 25%",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 72,
@@ -111864,11 +111880,13 @@
   },
   "311920": {
     "id": 311920,
-    "aegisName": null,
+    "aegisName": "Doram_Bottom3",
+    "flavorText": "",
     "name": "Summoner Stone (Lower)",
     "unidName": "Summoner Stone (Lower)",
     "resName": "블랙캣",
-    "description": "Increases long ranged physical damage by 2% per each level of Arclouse Dash user learned.\r\nWhen equipped with Doram Stone (Garment), increases Lunatic Carrot Beat damage by 25%.",
+    "unidResName": "블랙캣",
+    "description": "ทุก ๆ การเรียนรู้ Arclouse Dash 1 เลเวล เพิ่ม Damage ทางกายภาพระยะไกล 2%\nเมื่อใช้กับ Doram Stone (Garment), เพิ่ม Damage สกิล Lunatic Carrot Beat 25%",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 73,
@@ -248905,6 +248923,494 @@
       ],
       "criDmg": [
         "10"
+      ]
+    }
+  },
+  "490868": {
+    "id": 490868,
+    "aegisName": null,
+    "name": "Ring of Good (Soul Ascetic) [1]",
+    "unidName": "Ring of Good (Soul Ascetic)",
+    "resName": "RK은반지",
+    "description": "MATK + 100\nลด Global Cooldown 10%\nSPL + 10\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n \nเมื่อสวมใส่ร่วมกับ Soul Liberator,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Talisman of Four Bearing God, Talisman of Red Phoenix 15%\n\nเมื่อ Soul Liberator มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Talisman of Four Bearing God, Talisman of Red Phoenix 15%\n\nเมื่อ Soul Liberator มี Grade C ขึ้นไป,\nMATK + 15%,\nลด Cooldown สกิล Talisman of Four Bearing God 0.5 วินาที,\nเพิ่ม Damage สกิล Talisman of Four Bearing God, Talisman of Red Phoenix 20%\n\nเมื่อสวมใส่ร่วมกับ Good Spell,\nเมื่อใช้งานสกิล Talisman of Four Bearing God มีโอกาส 30% ที่จะ Autospell สกิล Talisman of Four Bearing God Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด)\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Soul Ascetic^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 215,
+    "location": null,
+    "compositionPos": null,
+    "usableClass": [
+      "SoulAscetic"
+    ],
+    "script": {
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "fct": [
+        "0.5"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "m_size_all": [
+        "EQUIP[Soul Liberator]===15"
+      ],
+      "m_element_all": [
+        "EQUIP[Soul Liberator]REFINE[weapon==10]===15"
+      ],
+      "Talisman of Four Bearing God": [
+        "EQUIP[Soul Liberator]===15",
+        "EQUIP[Soul Liberator]REFINE[weapon==10]===15",
+        "EQUIP[Soul Liberator]GRADE[weapon==C]===20"
+      ],
+      "Talisman of Red Phoenix": [
+        "EQUIP[Soul Liberator]===15",
+        "EQUIP[Soul Liberator]REFINE[weapon==10]===15",
+        "EQUIP[Soul Liberator]GRADE[weapon==C]===20"
+      ],
+      "matkPercent": [
+        "EQUIP[Soul Liberator]GRADE[weapon==C]===15"
+      ],
+      "cd__Talisman of Four Bearing God": [
+        "EQUIP[Soul Liberator]GRADE[weapon==C]===0.5"
+      ]
+    }
+  },
+  "490869": {
+    "id": 490869,
+    "aegisName": null,
+    "name": "Ring of Evil (Sky Emperor) [1]",
+    "unidName": "Ring of Evil (Sky Emperor)",
+    "resName": "Scorpio_Ring_J",
+    "description": "ATK + 100\nลด Global Cooldown 10%\nPOW + 10\nATK + 6%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n \nเมื่อสวมใส่ร่วมกับ Darkness Table,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Midnight Kick, Dawn Break 15%\n\nเมื่อ Darkness Table มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Midnight Kick, Dawn Break 15%\n\nเมื่อ Darkness Table มี Grade C ขึ้นไป,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 20%,\nลด Cooldown สกิล Midnight Kick 0.5 วินาที,\nเพิ่ม Damage สกิล Midnight Kick, Dawn Break 20%\n\nเมื่อสวมใส่ร่วมกับ Evil Spell,\nเมื่อใช้งานสกิล Midnight Kick มีโอกาส 40% ที่จะ Auto Spell สกิล Dawn Break Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด)\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Sky Emperor^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 215,
+    "location": null,
+    "compositionPos": null,
+    "usableClass": [
+      "SkyEmperor"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "atkPercent": [
+        "6"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Darkness Tablet]===15"
+      ],
+      "p_element_all": [
+        "EQUIP[Darkness Tablet]REFINE[weapon==10]===15"
+      ],
+      "Midnight Kick": [
+        "EQUIP[Darkness Tablet]===15",
+        "EQUIP[Darkness Tablet]REFINE[weapon==10]===15",
+        "EQUIP[Darkness Tablet]GRADE[weapon==C]===20"
+      ],
+      "Dawn Break": [
+        "EQUIP[Darkness Tablet]===15",
+        "EQUIP[Darkness Tablet]REFINE[weapon==10]===15",
+        "EQUIP[Darkness Tablet]GRADE[weapon==C]===20"
+      ],
+      "melee": [
+        "EQUIP[Darkness Tablet]GRADE[weapon==C]===20"
+      ],
+      "cd__Midnight Kick": [
+        "EQUIP[Darkness Tablet]GRADE[weapon==C]===0.5"
+      ]
+    }
+  },
+  "490870": {
+    "id": 490870,
+    "aegisName": null,
+    "name": "Ring of Good (Biolo) [1]",
+    "unidName": "Ring of Good (Biolo)",
+    "resName": "RK은반지",
+    "description": "ATK + 100\nลด Global Cooldown 10%\nPOW +10\nATK + 6%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Victory Sword,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Explosive Powder 15%\n\nเมื่อ Victory Sword มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป, \nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Explosive Powder 15%\n\nเมื่อ Victory Sword มี Grade C ขึ้นไป,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 20%,\nลด Cooldown สกิล Explosive Powder 0.5 วินาที,\nเพิ่ม Damage สกิล Explosive Powder 20%\n\nเมื่อสวมใส่ร่วมกับ Good Spell,\nPerfect Hit + 90%,\nสามารถใช้งานสกิล Power Lv.4 ได้\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Biolo^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 215,
+    "location": null,
+    "compositionPos": null,
+    "usableClass": [
+      "Biolo"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "atkPercent": [
+        "6"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Victory Sword]===15"
+      ],
+      "p_element_all": [
+        "EQUIP[Victory Sword]REFINE[weapon==10]===15"
+      ],
+      "Explosive Powder": [
+        "EQUIP[Victory Sword]===15",
+        "EQUIP[Victory Sword]REFINE[weapon==10]===15",
+        "EQUIP[Victory Sword]GRADE[weapon==C]===20"
+      ],
+      "melee": [
+        "EQUIP[Victory Sword]GRADE[weapon==C]===20"
+      ],
+      "cd__Explosive Powder": [
+        "EQUIP[Victory Sword]GRADE[weapon==C]===0.5"
+      ],
+      "perfectHit": [
+        "EQUIP[Good Spell]===90"
+      ]
+    }
+  },
+  "490871": {
+    "id": 490871,
+    "aegisName": null,
+    "name": "Ring of Good (Spirit Handler) [1]",
+    "unidName": "Ring of Good (Spirit Handler)",
+    "resName": "RK은반지",
+    "description": "ATK + 100\nลด Global Cooldown 10%\nPOW + 10\nCRI + 15\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Lightforce Foxtail Wand,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Chulho Sonic Claw, Hogogong Strike 15%\n \nเมื่อ  Lightforce Foxtail Wand มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Chulho Sonic Claw, Hogogong Strike 15%\n \nเมื่อ  Lightforce Foxtail Wand มี Grade C ขึ้นไป,\nCRI + 30,\nลด Cooldown สกิล Howling of Chulho 1 วินาที,\nเพิ่ม Damage สกิล Chulho Sonic Claw, Hogogong Strike 20%\n\nเมื่อสวมใส่ร่วมกับ Good Spell,\nเมื่อโจมตีทางกายภาพมีโอกาส 3% ที่จะได้รับสถานะ [Good Spell Power] เป็นเวลา 10 วินาที,\nเมื่อใช้งานสกิล Howling of Chulho จะ Auto Spell สกิล Hogogong Strike Lv.1 โดยอัติโนมัติ (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด)\nเมื่อใช้งานสกิล Chulho Sonic Claw มีโอกาส 30% ที่จะ Auto Spell สกิล Chulho Sonic Claw Lv.1 โดยอัติโนมัติ (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด)\n\nผลเอฟเฟกต์ [Good Spell Power]\nPOW + 50,\nP.ATK + 10,\nสูญเสีย HP 500 หน่วยต่อวินาที\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Spirit Handler^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 215,
+    "location": null,
+    "compositionPos": null,
+    "usableClass": [
+      "SpiritHandler"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "cri": [
+        "15",
+        "EQUIP[Lightforce Foxtail Wand]GRADE[weapon==C]===30"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Lightforce Foxtail Wand]===15"
+      ],
+      "p_element_all": [
+        "EQUIP[Lightforce Foxtail Wand]REFINE[weapon==10]===15"
+      ],
+      "Chulho Sonic Claw": [
+        "EQUIP[Lightforce Foxtail Wand]===15",
+        "EQUIP[Lightforce Foxtail Wand]REFINE[weapon==10]===15",
+        "EQUIP[Lightforce Foxtail Wand]GRADE[weapon==C]===20"
+      ],
+      "Hogogong Strike": [
+        "EQUIP[Lightforce Foxtail Wand]===15",
+        "EQUIP[Lightforce Foxtail Wand]REFINE[weapon==10]===15",
+        "EQUIP[Lightforce Foxtail Wand]GRADE[weapon==C]===20"
+      ],
+      "cd__Howling of Chulho": [
+        "EQUIP[Lightforce Foxtail Wand]GRADE[weapon==C]===1"
+      ],
+      "chance__pow": [
+        "EQUIP[Good Spell]===50"
+      ],
+      "chance__pAtk": [
+        "EQUIP[Good Spell]===10"
+      ]
+    }
+  },
+  "490872": {
+    "id": 490872,
+    "aegisName": null,
+    "name": "Ring of Evil (Night Watch) [1]",
+    "unidName": "Ring of Evil (Night Watch)",
+    "resName": "Scorpio_Ring_J",
+    "description": "ATK + 100\nลด Global Cooldown 10%\nCON + 10\nATK + 6%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ RG-5649 หรือ Outlaw Cursed Shotgun,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล The Vigilante at Night, Wild Fire 15%\n \nเมื่อ RG-5649 หรือ Outlaw Cursed Shotgun มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%, \nเพิ่ม Damage สกิล The Vigilante at Night, Wild Fire 15%\n \nเมื่อ RG-5649 หรือ Outlaw Cursed Shotgun มี Grade C ขึ้นไป,\nเพิ่ม Damage ทางกายภาพระยะไกล 20%, \nลด Cooldown สกิล The Vigilante at Night 0.5 วินาที,\nลด Cooldown สกิล Wild Fire 0.35 วินาที,\nเพิ่ม Damage สกิล The Vigilante at Night, Wild Fire 20%\n\n——————————————————————————————————————————————————\n\nเมื่อสวมใส่ร่วมกับ Devil Lord Launcher หรือ Screaming Rifle,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Spiral Shooting, Hasty Fire in the Hole, Grenades Dropping 15%\n \nเมื่อ Devil Lord Launcher หรือ Screaming Rifle มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Spiral Shooting, Hasty Fire in the Hole, Grenades Dropping 15%\n \nเมื่อ Devil Lord Launcher หรือ Screaming Rifle มี Grade C ขึ้นไป,\nเพิ่ม Damage ทางกายภาพระยะไกล 20%, \nลด Cooldown สกิล Spiral Shooting 0.35 วินาที, \nลด Cooldown สกิล Hasty Fire in the Hole 0.5 วินาที, \nลด Cooldown สกิล Grenades Dropping 2 วินาที, \nเพิ่ม Damage สกิล Spiral Shooting, Hasty Fire in the Hole, Grenades Dropping 20%\n\nเมื่อสวมใส่ร่วมกับ Evil Spell,\nเมื่อโจมตีทางกายภาพ มีโอกาส 3% ที่จะได้รับสถานะ [Evil Spell Power] เป็นเวลา 10 วินาที,\nสามารถใช้งานสกิล Power Lv.4 ได้\n\nผลเอฟเฟกต์ [Evil Spell Power]\nCON + 50\nP.ATK + 10\nสูญเสีย HP 500 หน่วยต่อวินาที\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Night Watch^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 215,
+    "location": null,
+    "compositionPos": null,
+    "usableClass": [
+      "NightWatch"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "con": [
+        "10"
+      ],
+      "atkPercent": [
+        "6"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[RG-5649||Outlaw Cursed Shotgun]===15",
+        "EQUIP[Devil Lord Launcher||Screaming Rifle]===15"
+      ],
+      "The Vigilante at Night": [
+        "EQUIP[RG-5649||Outlaw Cursed Shotgun]===15",
+        "EQUIP[RG-5649||Outlaw Cursed Shotgun]REFINE[weapon==10]===15",
+        "EQUIP[RG-5649||Outlaw Cursed Shotgun]GRADE[weapon==C]===20"
+      ],
+      "Wild Fire": [
+        "EQUIP[RG-5649||Outlaw Cursed Shotgun]===15",
+        "EQUIP[RG-5649||Outlaw Cursed Shotgun]REFINE[weapon==10]===15",
+        "EQUIP[RG-5649||Outlaw Cursed Shotgun]GRADE[weapon==C]===20"
+      ],
+      "p_element_all": [
+        "EQUIP[RG-5649||Outlaw Cursed Shotgun]REFINE[weapon==10]===15",
+        "EQUIP[Devil Lord Launcher||Screaming Rifle]REFINE[weapon==10]===15"
+      ],
+      "range": [
+        "EQUIP[RG-5649||Outlaw Cursed Shotgun]GRADE[weapon==C]===20",
+        "EQUIP[Devil Lord Launcher||Screaming Rifle]GRADE[weapon==C]===20"
+      ],
+      "cd__The Vigilante at Night": [
+        "EQUIP[RG-5649||Outlaw Cursed Shotgun]GRADE[weapon==C]===0.5"
+      ],
+      "cd__Wild Fire": [
+        "EQUIP[RG-5649||Outlaw Cursed Shotgun]GRADE[weapon==C]===0.35"
+      ],
+      "Spiral Shooting": [
+        "EQUIP[Devil Lord Launcher||Screaming Rifle]===15",
+        "EQUIP[Devil Lord Launcher||Screaming Rifle]REFINE[weapon==10]===15",
+        "EQUIP[Devil Lord Launcher||Screaming Rifle]GRADE[weapon==C]===20"
+      ],
+      "Hasty Fire in the Hole": [
+        "EQUIP[Devil Lord Launcher||Screaming Rifle]===15",
+        "EQUIP[Devil Lord Launcher||Screaming Rifle]REFINE[weapon==10]===15",
+        "EQUIP[Devil Lord Launcher||Screaming Rifle]GRADE[weapon==C]===20"
+      ],
+      "Grenade Dropping": [
+        "EQUIP[Devil Lord Launcher||Screaming Rifle]===15",
+        "EQUIP[Devil Lord Launcher||Screaming Rifle]REFINE[weapon==10]===15",
+        "EQUIP[Devil Lord Launcher||Screaming Rifle]GRADE[weapon==C]===20"
+      ],
+      "cd__Spiral Shooting": [
+        "EQUIP[Devil Lord Launcher||Screaming Rifle]GRADE[weapon==C]===0.35"
+      ],
+      "cd__Hasty Fire in the Hole": [
+        "EQUIP[Devil Lord Launcher||Screaming Rifle]GRADE[weapon==C]===0.5"
+      ],
+      "cd__Grenade Dropping": [
+        "EQUIP[Devil Lord Launcher||Screaming Rifle]GRADE[weapon==C]===2"
+      ],
+      "chance__con": [
+        "EQUIP[Evil Spell]===50"
+      ],
+      "chance__pAtk": [
+        "EQUIP[Evil Spell]===10"
+      ]
+    }
+  },
+  "490873": {
+    "id": 490873,
+    "aegisName": null,
+    "name": "Ring of Evil (Night Watch II) [1]",
+    "unidName": "Ring of Evil (Night Watch II)",
+    "resName": "Scorpio_Ring_J",
+    "description": "ATK + 100\nลด Global Cooldown 10%\nCON + 10\nCRI + 15\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Devil's Bullet,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Only One Bullet 15%\n\nเมื่อ Devil's Bullet มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Only One Bullet 15%\n\nเมื่อ Devil's Bullet มี Grade C ขึ้นไป,\nCRI + 30,\nลด Cooldown สกิล Only One Bullet 0.35 วินาที,\nเพิ่ม Damage สกิล Only One Bullet 20%\n\nเมื่อสวมใส่ร่วมกับ Evil Spell,\nเมื่อโจมตีทางกายภาพ มีโอกาส 3% ที่จะได้รับสถานะ [Evil Spell Power] เป็นเวลา 10 วินาที,\nเมื่อใช้งานสกิล Only One Bullet มีโอกาส 30% ที่จะใช้งานสกิล Only One Bullet Lv.1 อัตโนมัติ (เมื่อเรียนรู้สกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด)\n\nผลเอฟเฟกต์ [Evil Spell Power]\nCON + 50\nP.ATK + 10\nสูญเสีย HP 500 หน่วยต่อวินาที\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Night Watch^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 215,
+    "location": null,
+    "compositionPos": null,
+    "usableClass": [
+      "NightWatch"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "con": [
+        "10"
+      ],
+      "cri": [
+        "15",
+        "EQUIP[Devil's Bullet]GRADE[weapon==C]===30"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Devil's Bullet]===15"
+      ],
+      "p_element_all": [
+        "EQUIP[Devil's Bullet]REFINE[weapon==10]===15"
+      ],
+      "Only One Bullet": [
+        "EQUIP[Devil's Bullet]===15",
+        "EQUIP[Devil's Bullet]REFINE[weapon==10]===15",
+        "EQUIP[Devil's Bullet]GRADE[weapon==C]===20"
+      ],
+      "cd__Only One Bullet": [
+        "EQUIP[Devil's Bullet]GRADE[weapon==C]===0.35"
+      ],
+      "chance__con": [
+        "EQUIP[Evil Spell]===50"
+      ],
+      "chance__pAtk": [
+        "EQUIP[Evil Spell]===10"
+      ]
+    }
+  },
+  "490874": {
+    "id": 490874,
+    "aegisName": null,
+    "name": "Ring of Evil (Arch Mage) [1]",
+    "unidName": "Ring of Evil (Arch Mage)",
+    "resName": "Scorpio_Ring_J",
+    "description": "MATK + 100\nลด Global Cooldown 10%\nSPL + 10\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n \nเมื่อสวมใส่ร่วมกับ Devil Wing Staff,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Soul Vulcan Strike, Mystery Illusion 15%\n\nเมื่อ Devil Wing Staff มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Soul Vulcan Strik, Mystery Illusion 15%\n\nเมื่อ Devil Wing Staff มี Grade C ขึ้นไป,\nMATK + 15%,\nลด Cooldown สกิล Soul Vulcan Strike 0.5 วินาที,\nลด Cooldown สกิล Mystery Illusion 1.5 วินาที,\nเพิ่ม Damage สกิล Soul Vulcan Strik, Mystery Illusion 20%\n\nเมื่อสวมใส่ร่วมกับ Evil Spell,\nเมื่อใช้งานสกิล Soul Vulcan Strike มีโอกาส 40% ที่จะ Autospell สกิล Mystery Illusion Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด)\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Arch Mage^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 215,
+    "location": null,
+    "compositionPos": null,
+    "usableClass": [
+      "ArchMage"
+    ],
+    "script": {
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "fct": [
+        "0.5"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "m_size_all": [
+        "EQUIP[Devil Wing Staff]===15"
+      ],
+      "m_element_all": [
+        "EQUIP[Devil Wing Staff]REFINE[weapon==10]===15"
+      ],
+      "Soul Vulcan Strike": [
+        "EQUIP[Devil Wing Staff]===15",
+        "EQUIP[Devil Wing Staff]REFINE[weapon==10]===15",
+        "EQUIP[Devil Wing Staff]GRADE[weapon==C]===20"
+      ],
+      "Mystery Illusion": [
+        "EQUIP[Devil Wing Staff]===15",
+        "EQUIP[Devil Wing Staff]REFINE[weapon==10]===15",
+        "EQUIP[Devil Wing Staff]GRADE[weapon==C]===20"
+      ],
+      "matkPercent": [
+        "EQUIP[Devil Wing Staff]GRADE[weapon==C]===15"
+      ],
+      "cd__Soul Vulcan Strike": [
+        "EQUIP[Devil Wing Staff]GRADE[weapon==C]===0.5"
+      ],
+      "cd__Mystery Illusion": [
+        "EQUIP[Devil Wing Staff]GRADE[weapon==C]===1.5"
+      ]
+    }
+  },
+  "400558": {
+    "id": 400558,
+    "aegisName": "C_Snow_Head",
+    "flavorText": null,
+    "name": "Costume Snowman Experience",
+    "unidName": "Hairband",
+    "resName": "C_Snow_Head",
+    "unidResName": "머리띠",
+    "description": "ของที่ระลึกจากเทศกาล Snow Flower Festival ปีนี้\nมันทำขึ้นมาเลียนแบบตุ๊กตาหิมะ แค่มองก็รู้สึกถึงความหนาวเย็นแล้ว\n\n^CC3D3D[ความสามารถในช่วงเวลากิจกรรม]^000000\nATK + 12%, MATK +12%, Drop + 5%\n^ff0000(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังสิ้นสุดระยะเวลากิจกรรม) ^000000\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Upper^000000น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": "Upper",
+    "compositionPos": null,
+    "script": {
+      "atkPercent": [
+        "12"
+      ],
+      "matkPercent": [
+        "12"
       ]
     }
   }
