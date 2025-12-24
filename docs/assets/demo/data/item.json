@@ -93663,10 +93663,12 @@
   "310697": {
     "id": 310697,
     "aegisName": "Star_Of_MasterArcher1",
-    "name": "Star of Master Archer Lv1",
-    "unidName": "Star of Master Archer Lv1",
+    "flavorText": "",
+    "name": "Star of Master Archer Lv.1",
+    "unidName": "Star of Master Archer Lv.1",
     "resName": "Star_Of_MasterArcher",
-    "description": "Increases long ranged physical damage by 2%.\nIncreases bow damage by 3%.",
+    "unidResName": "Star_Of_MasterArcher",
+    "description": "เพิ่ม Damage ทางกายภาพระยะไกล 2%\nATK + 2%.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93681,18 +93683,20 @@
       "range": [
         "2"
       ],
-      "bowRange": [
-        "3"
+      "atkPercent": [
+        "2"
       ]
     }
   },
   "310698": {
     "id": 310698,
     "aegisName": "Star_Of_MasterArcher2",
-    "name": "Star of Master Archer Lv2",
-    "unidName": "Star of Master Archer Lv2",
+    "flavorText": "",
+    "name": "Star of Master Archer Lv.2",
+    "unidName": "Star of Master Archer Lv.2",
     "resName": "Star_Of_MasterArcher",
-    "description": "Increases long ranged physical damage by 3%.\nIncreases bow damage by 4%.",
+    "unidResName": "Star_Of_MasterArcher",
+    "description": "เพิ่ม Damage ทางกายภาพระยะไกล 3%\nATK + 3%.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93707,18 +93711,20 @@
       "range": [
         "3"
       ],
-      "bowRange": [
-        "4"
+      "atkPercent": [
+        "3"
       ]
     }
   },
   "310699": {
     "id": 310699,
     "aegisName": "Star_Of_MasterArcher3",
-    "name": "Star of Master Archer Lv3",
-    "unidName": "Star of Master Archer Lv3",
+    "flavorText": "",
+    "name": "Star of Master Archer Lv.3",
+    "unidName": "Star of Master Archer Lv.3",
     "resName": "Star_Of_MasterArcher",
-    "description": "Increases long ranged physical damage by 5%.\nIncreases bow damage by 5%.\nP.Atk + 1.",
+    "unidResName": "Star_Of_MasterArcher",
+    "description": "เพิ่ม Damage ทางกายภาพระยะไกล 5%\nATK + 5%.\nP.ATK + 1.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93733,7 +93739,7 @@
       "range": [
         "5"
       ],
-      "bowRange": [
+      "atkPercent": [
         "5"
       ],
       "pAtk": [
@@ -93744,10 +93750,12 @@
   "310700": {
     "id": 310700,
     "aegisName": "Star_Of_MasterArcher4",
-    "name": "Star of Master Archer Lv4",
-    "unidName": "Star of Master Archer Lv4",
+    "flavorText": "",
+    "name": "Star of Master Archer Lv.4",
+    "unidName": "Star of Master Archer Lv.4",
     "resName": "Star_Of_MasterArcher",
-    "description": "Increases long ranged physical damage by 7%.\nIncreases bow damage by 7%.\nP.Atk + 2.",
+    "unidResName": "Star_Of_MasterArcher",
+    "description": "เพิ่ม Damage ทางกายภาพระยะไกล 7%\nATK + 6%.\nP.ATK + 2.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93762,8 +93770,8 @@
       "range": [
         "7"
       ],
-      "bowRange": [
-        "7"
+      "atkPercent": [
+        "6"
       ],
       "pAtk": [
         "2"
@@ -93773,10 +93781,12 @@
   "310701": {
     "id": 310701,
     "aegisName": "Star_Of_MasterArcher5",
-    "name": "Star of Master Archer Lv5",
-    "unidName": "Star of Master Archer Lv5",
+    "flavorText": "",
+    "name": "Star of Master Archer Lv.5",
+    "unidName": "Star of Master Archer Lv.5",
     "resName": "Star_Of_MasterArcher",
-    "description": "Increases long ranged physical damage by 10%.\nIncreases bow damage by 10%.\nP.Atk + 4.",
+    "unidResName": "Star_Of_MasterArcher",
+    "description": "เพิ่ม Damage ทางกายภาพระยะไกล 10%\nATK + 7%.\nP.ATK + 4.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93791,8 +93801,8 @@
       "range": [
         "10"
       ],
-      "bowRange": [
-        "10"
+      "atkPercent": [
+        "7"
       ],
       "pAtk": [
         "4"
