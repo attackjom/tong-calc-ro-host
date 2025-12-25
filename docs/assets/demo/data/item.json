@@ -249777,11 +249777,13 @@
     "canGrade": false,
     "script": {
       "cri": [
-        "50",
-        "level:5---1"
+        "50"
       ],
       "p_class_all": [
         "10"
+      ],
+      "criDmg": [
+        "level:5---1"
       ]
     }
   }
