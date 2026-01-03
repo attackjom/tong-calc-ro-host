@@ -248494,10 +248494,10 @@
         "EQUIP[Blessed Bible]GRADE[weapon==C]===0.5"
       ],
       "sMatk": [
-        "EQUIP[Evil Spell]===10"
+        "EQUIP[Good Spell]===10"
       ],
       "m_race_all": [
-        "EQUIP[Evil Spell]===20"
+        "EQUIP[Good Spell]===20"
       ]
     }
   },
