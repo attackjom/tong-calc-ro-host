@@ -249835,11 +249835,11 @@
         "EQUIP[Dim Glacier Rogue Knife]===5"
       ],
       "Abyss Square": [
-        "EQUIP[Dim Glacier Rogue Knife]2---4",
+        "EQUIP[Dim Glacier Rogue Knife]REFINE[weapon==2]---4",
         "EQUIP[Dim Glacier Rogue Knife]GRADE[weapon==C]REFINE[weapon==12]===15"
       ],
       "Jack Frost Nova": [
-        "EQUIP[Dim Glacier Rogue Knife]2---4",
+        "EQUIP[Dim Glacier Rogue Knife]REFINE[weapon==2]---4",
         "EQUIP[Dim Glacier Rogue Knife]GRADE[weapon==C]REFINE[weapon==12]===15"
       ],
       "cd__Abyss Square": [
@@ -249871,7 +249871,7 @@
         "EQUIP[Dim Glacier Knuckle]===5"
       ],
       "Third Flame Bomb": [
-        "EQUIP[Dim Glacier Knuckle]2---4",
+        "EQUIP[Dim Glacier Knuckle]REFINE[weapon==2]---4",
         "EQUIP[Dim Glacier Knuckle]GRADE[weapon==C]REFINE[weapon==12]===15"
       ],
       "hpPercent": [
