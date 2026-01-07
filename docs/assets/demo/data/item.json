@@ -92909,10 +92909,12 @@
   "310674": {
     "id": 310674,
     "aegisName": "Star_Cluster_Of_Pow1",
-    "name": "Star Cluster of Power Lv1",
-    "unidName": "Star Cluster of Power Lv1",
+    "flavorText": null,
+    "name": "Star Cluster of Power Lv.1",
+    "unidName": "Star Cluster of Power Lv.1",
     "resName": "Star_Cluster_Of_Pow",
-    "description": "Atk + 5 and increases melee physical damage by 1% per 15 base POW of the user.\nIf the enchanted armor is grade D, P.Atk + 1 and increases melee physical damage by additional 1% per 15 base POW.\nIf the enchanted armor is grade C, additional P.Atk + 1 and increases melee physical damage by additional 1% per 15 base POW.\nIf the enchanted armor is grade B, additional P.Atk + 1 and increases melee physical damage by additional 1% per 15 base POW.\nIf the enchanted armor is grade A, additional P.Atk + 1 and increases melee physical damage by additional 1% per 15 base POW.",
+    "unidResName": "Star_Cluster_Of_Pow",
+    "description": "กลุ่มดาวที่เสริมพลังให้กับผู้สวมใส่\nทุก ๆ Base POW 15 ของผู้สวมใส่ ATK + 5, เพิ่ม Damage ทางกายภาพระยะใกล้ 1%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ D ขึ้นไป ทุก ๆ Base POW 15 P.ATK + 1 เพิ่มเติม, เพิ่ม Damage ทางกายภาพระยะใกล้ขึ้นอีก 1%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ C ขึ้นไป ทุก ๆ Base POW 15 P.ATK + 1 เพิ่มเติม, เพิ่ม Damage ทางกายภาพระยะใกล้ขึ้นอีก 1%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ B ขึ้นไป ทุก ๆ Base POW 15 P.ATK + 1 เพิ่มเติม, เพิ่ม Damage ทางกายภาพระยะใกล้ขึ้นอีก 1%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ A ขึ้นไป ทุก ๆ Base POW 15 P.ATK + 1 เพิ่มเติม, เพิ่ม Damage ทางกายภาพระยะใกล้ขึ้นอีก 1%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -92945,10 +92947,12 @@
   "310675": {
     "id": 310675,
     "aegisName": "Star_Cluster_Of_Pow2",
-    "name": "Star Cluster of Power Lv2",
-    "unidName": "Star Cluster of Power Lv2",
+    "flavorText": null,
+    "name": "Star Cluster of Power Lv.2",
+    "unidName": "Star Cluster of Power Lv.2",
     "resName": "Star_Cluster_Of_Pow",
-    "description": "Atk + 7 and increases melee physical damage by 1% per 15 base POW of the user.\nIf the enchanted armor is grade D, P.Atk + 1 and increases melee physical damage by additional 1% per 15 base POW.\nIf the enchanted armor is grade C, additional P.Atk + 1 and increases melee physical damage by additional 1% per 15 base POW.\nIf the enchanted armor is grade B, additional P.Atk + 2 and increases melee physical damage by additional 1% per 15 base POW.\nIf the enchanted armor is grade A, additional P.Atk + 2 and increases melee physical damage by additional 2% per 15 base POW.",
+    "unidResName": "Star_Cluster_Of_Pow",
+    "description": "กลุ่มดาวที่เสริมพลังให้กับผู้สวมใส่\nทุก ๆ Base POW 15 ของผู้สวมใส่ ATK + 7, เพิ่ม Damage ทางกายภาพระยะใกล้ 1%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ D ขึ้นไป ทุก ๆ Base POW 15 P.ATK + 1 เพิ่มเติม, เพิ่ม Damage ทางกายภาพระยะใกล้ขึ้นอีก 1%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ C ขึ้นไป ทุก ๆ Base POW 15 P.ATK + 1 เพิ่มเติม, เพิ่ม Damage ทางกายภาพระยะใกล้ขึ้นอีก 1%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ B ขึ้นไป ทุก ๆ Base POW 15 P.ATK + 2 เพิ่มเติม, เพิ่ม Damage ทางกายภาพระยะใกล้ขึ้นอีก 1%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ A ขึ้นไป ทุก ๆ Base POW 15 P.ATK + 2 เพิ่มเติม, เพิ่ม Damage ทางกายภาพระยะใกล้ขึ้นอีก 2%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -92981,10 +92985,12 @@
   "310676": {
     "id": 310676,
     "aegisName": "Star_Cluster_Of_Pow3",
-    "name": "Star Cluster of Power Lv3",
-    "unidName": "Star Cluster of Power Lv3",
+    "flavorText": null,
+    "name": "Star Cluster of Power Lv.3",
+    "unidName": "Star Cluster of Power Lv.3",
     "resName": "Star_Cluster_Of_Pow",
-    "description": "Atk + 15 and increases melee physical damage by 2% per 15 base POW of the user.\nIf the enchanted armor is grade D, P.Atk + 1 and increases melee physical damage by additional 1% per 15 base POW.\nIf the enchanted armor is grade C, additional P.Atk + 2 and increases melee physical damage by additional 1% per 15 base POW.\nIf the enchanted armor is grade B, additional P.Atk + 2 and increases melee physical damage by additional 2% per 15 base POW.\nIf the enchanted armor is grade A, additional P.Atk + 3 and increases melee physical damage by additional 3% per 15 base POW.",
+    "unidResName": "Star_Cluster_Of_Pow",
+    "description": "กลุ่มดาวที่เสริมพลังให้กับผู้สวมใส่\nทุก ๆ Base POW 15 ของผู้สวมใส่ ATK + 15, เพิ่ม Damage ทางกายภาพระยะใกล้ 2%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ D ขึ้นไป ทุก ๆ Base POW 15 P.ATK + 1 เพิ่มเติม, เพิ่ม Damage ทางกายภาพระยะใกล้ขึ้นอีก 1%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ C ขึ้นไป ทุก ๆ Base POW 15 P.ATK + 2 เพิ่มเติม, เพิ่ม Damage ทางกายภาพระยะใกล้ขึ้นอีก 1%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ B ขึ้นไป ทุก ๆ Base POW 15 P.ATK + 2 เพิ่มเติม, เพิ่ม Damage ทางกายภาพระยะใกล้ขึ้นอีก 2%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ A ขึ้นไป ทุก ๆ Base POW 15 P.ATK + 3 เพิ่มเติม, เพิ่ม Damage ทางกายภาพระยะใกล้ขึ้นอีก 3%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93017,10 +93023,12 @@
   "310677": {
     "id": 310677,
     "aegisName": "Star_Cluster_Of_Sta1",
-    "name": "Star Cluster of Stamina Lv1",
-    "unidName": "Star Cluster of Stamina Lv1",
+    "flavorText": null,
+    "name": "Star Cluster of Stamina Lv.1",
+    "unidName": "Star Cluster of Stamina Lv.1",
     "resName": "Star_Cluster_Of_Sta",
-    "description": "MaxHP + 1% and Res + 1 per 15 base STA of the user.\nIf the enchanted armor is grade D, additional MaxHP + 1% and Res + 1 per 15 base STA. \nIf the enchanted armor is grade C, additional MaxHP + 1% and additional Res + 1 per 15 base STA. \nIf the enchanted armor is grade B, additional MaxHP + 1% and additional Res + 1 per 15 base STA. \nIf the enchanted armor is grade A, additional MaxHP + 1% and additional Res + 2 per 15 base STA.",
+    "unidResName": "Star_Cluster_Of_Sta",
+    "description": "กลุ่มดาวที่เสริมพลังให้กับผู้สวมใส่\nทุก ๆ Base STA 15 ของผู้สวมใส่ MHP + 1%, RES + 1\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ D ขึ้นไป ทุก ๆ Base STA 15 MHP + 1% เพิ่มเติม, RES + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ C ขึ้นไป ทุก ๆ Base STA 15 MHP + 1% เพิ่มเติม, RES + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ B ขึ้นไป ทุก ๆ Base STA 15 MHP + 1% เพิ่มเติม, RES + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ A ขึ้นไป ทุก ๆ Base STA 15 MHP + 1% เพิ่มเติม, RES + 2 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93051,10 +93059,12 @@
   "310678": {
     "id": 310678,
     "aegisName": "Star_Cluster_Of_Sta2",
-    "name": "Star Cluster of Stamina Lv2",
-    "unidName": "Star Cluster of Stamina Lv2",
+    "flavorText": null,
+    "name": "Star Cluster of Stamina Lv.2",
+    "unidName": "Star Cluster of Stamina Lv.2",
     "resName": "Star_Cluster_Of_Sta",
-    "description": "MaxHP + 2% and Res + 2 per 15 base STA of the user.\nIf the enchanted armor is grade D, additional MaxHP + 1% and Res + 1 per 15 base STA. \nIf the enchanted armor is grade C, additional MaxHP + 1% and additional Res + 1 per 15 base STA. \nIf the enchanted armor is grade B, additional MaxHP + 2% and additional Res + 1 per 15 base STA. \nIf the enchanted armor is grade A, additional MaxHP + 2% and additional Res + 2 per 15 base STA.",
+    "unidResName": "Star_Cluster_Of_Sta",
+    "description": "กลุ่มดาวที่เสริมพลังให้กับผู้สวมใส่\nทุก ๆ Base STA 15 ของผู้สวมใส่ MHP + 2%, RES + 2\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ D ขึ้นไป ทุก ๆ Base STA 15 MHP + 1% เพิ่มเติม, RES + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ C ขึ้นไป ทุก ๆ Base STA 15 MHP + 1% เพิ่มเติม, RES + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ B ขึ้นไป ทุก ๆ Base STA 15 MHP + 2% เพิ่มเติม, RES + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ A ขึ้นไป ทุก ๆ Base STA 15 MHP + 2% เพิ่มเติม, RES + 2 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93085,10 +93095,12 @@
   "310679": {
     "id": 310679,
     "aegisName": "Star_Cluster_Of_Sta3",
-    "name": "Star Cluster of Stamina Lv3",
-    "unidName": "Star Cluster of Stamina Lv3",
+    "flavorText": null,
+    "name": "Star Cluster of Stamina Lv.3",
+    "unidName": "Star Cluster of Stamina Lv.3",
     "resName": "Star_Cluster_Of_Sta",
-    "description": "MaxHP + 3% and Res + 4 per 15 base STA of the user.\nIf the enchanted armor is grade D, additional MaxHP + 1% and Res + 1 per 15 base STA. \nIf the enchanted armor is grade C, additional MaxHP + 2% and additional Res + 2 per 15 base STA. \nIf the enchanted armor is grade B, additional MaxHP + 2% and additional Res + 2 per 15 base STA.\nIf the enchanted armor is grade A, additional MaxHP + 3% and additional Res + 3 per 15 base STA.",
+    "unidResName": "Star_Cluster_Of_Sta",
+    "description": "กลุ่มดาวที่เสริมพลังให้กับผู้สวมใส่\nทุก ๆ Base STA 15 ของผู้สวมใส่ MHP + 3%, RES + 4\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ D ขึ้นไป ทุก ๆ Base STA 15 MHP + 1% เพิ่มเติม, RES + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ C ขึ้นไป ทุก ๆ Base STA 15 MHP + 2% เพิ่มเติม, RES + 2 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ B ขึ้นไป ทุก ๆ Base STA 15 MHP + 2% เพิ่มเติม, RES + 2 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ A ขึ้นไป ทุก ๆ Base STA 15 MHP + 3% เพิ่มเติม, RES + 3 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93122,7 +93134,7 @@
     "name": "Star Cluster of Concentration Lv1",
     "unidName": "Star Cluster of Concentration Lv1",
     "resName": "Star_Cluster_Of_Con",
-    "description": "Increases long ranged physical damage by 1% and Atk + 5 per 15 base CON of the user.\r\nIf the enchanted armor is grade D, increases long ranged physical damage by additional 1% and P.Atk + 1 per 15 base CON.\r\nIf the enchanted armor is grade C, increases long ranged physical damage by additional 1% and additional P.Atk + 1 per 15 base CON.\r\nIf the enchanted armor is grade B, increases long ranged physical damage by additional 1% and additional P.Atk + 1 per 15 base CON.\r\nIf the enchanted armor is grade A, increases long ranged physical damage by additional 1% and additional P.Atk + 2 per 15 base CON.",
+    "description": "กลุ่มดาวที่เสริมพลังให้กับผู้สวมใส่\nทุก ๆ Base CON 15 ของผู้สวมใส่ เพิ่ม Damage ทางกายภาพระยะไกล 1%, ATK + 5\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ D ขึ้นไป ทุก ๆ Base CON 15 เพิ่ม Damage ทางกายภาพระยะไกล 1%, P.ATK + 1\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ C ขึ้นไป ทุก ๆ Base CON 15 เพิ่ม Damage ทางกายภาพระยะไกล 1%, P.ATK + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ B ขึ้นไป ทุก ๆ Base CON 15 เพิ่ม Damage ทางกายภาพระยะไกล 1%, P.ATK + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ A ขึ้นไป ทุก ๆ Base CON 15 เพิ่ม Damage ทางกายภาพระยะไกล 1%, P.ATK + 2 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93158,7 +93170,7 @@
     "name": "Star Cluster of Concentration Lv2",
     "unidName": "Star Cluster of Concentration Lv2",
     "resName": "Star_Cluster_Of_Con",
-    "description": "Increases long ranged physical damage by 2% and Atk + 7 per 15 base CON of the user.\r\nIf the enchanted armor is grade D, increases long ranged physical damage by additional 1% and P.Atk + 1 per 15 base CON.\r\nIf the enchanted armor is grade C, increases long ranged physical damage by additional 1% and additional P.Atk + 1 per 15 base CON.\r\nIf the enchanted armor is grade B, increases long ranged physical damage by additional 1% and additional P.Atk + 2 per 15 base CON.\r\nIf the enchanted armor is grade A, increases long ranged physical damage by additional 2% and additional P.Atk + 2 per 15 base CON.",
+    "description": "กลุ่มดาวที่เสริมพลังให้กับผู้สวมใส่\nทุก ๆ Base CON 15 ของผู้สวมใส่ เพิ่ม Damage ทางกายภาพระยะไกล 2%, ATK + 7\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ D ขึ้นไป ทุก ๆ Base CON 15 เพิ่ม Damage ทางกายภาพระยะไกลขึ้นอีก 1%, P.ATK + 1\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ C ขึ้นไป ทุก ๆ Base CON 15 เพิ่ม Damage ทางกายภาพระยะไกลขึ้นอีก 1%, P.ATK + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ B ขึ้นไป ทุก ๆ Base CON 15 เพิ่ม Damage ทางกายภาพระยะไกลขึ้นอีก 1%, P.ATK + 2 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ A ขึ้นไป ทุก ๆ Base CON 15 เพิ่ม Damage ทางกายภาพระยะไกลขึ้นอีก 2%, P.ATK + 2 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93194,7 +93206,7 @@
     "name": "Star Cluster of Concentration Lv3",
     "unidName": "Star Cluster of Concentration Lv3",
     "resName": "Star_Cluster_Of_Con",
-    "description": "Increases long ranged physical damage by 2% and Atk + 15 per 15 base CON of the user.\r\nIf the enchanted armor is grade D, increases long ranged physical damage by additional 1% and P.Atk + 1 per 15 base CON.\r\nIf the enchanted armor is grade C, increases long ranged physical damage by additional 2% and additional P.Atk + 2 per 15 base CON.\r\nIf the enchanted armor is grade B, increases long ranged physical damage by additional 2% and additional P.Atk + 2 per 15 base CON.\r\nIf the enchanted armor is grade A, increases long ranged physical damage by additional 3% and additional P.Atk + 3 per 15 base CON.",
+    "description": "กลุ่มดาวที่เสริมพลังให้กับผู้สวมใส่\nทุก ๆ Base CON 15 ของผู้สวมใส่ เพิ่ม Damage ทางกายภาพระยะไกล 2%, ATK + 15\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ D ขึ้นไป ทุก ๆ Base CON 15 เพิ่ม Damage ทางกายภาพระยะไกลขึ้นอีก 1%, P.ATK + 1\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ C ขึ้นไป ทุก ๆ Base CON 15 เพิ่ม Damage ทางกายภาพระยะไกลขึ้นอีก 2%, P.ATK + 2 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ B ขึ้นไป ทุก ๆ Base CON 15 เพิ่ม Damage ทางกายภาพระยะไกลขึ้นอีก 2%, P.ATK + 2 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ A ขึ้นไป ทุก ๆ Base CON 15 เพิ่ม Damage ทางกายภาพระยะไกลขึ้นอีก 3%, P.ATK + 3 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93227,10 +93239,12 @@
   "310683": {
     "id": 310683,
     "aegisName": "Star_Cluster_Of_Crt1",
-    "name": "Star Cluster of Creative Lv1",
-    "unidName": "Star Cluster of Creative Lv1",
+    "flavorText": null,
+    "name": "Star Cluster of Creative Lv.1",
+    "unidName": "Star Cluster of Creative Lv.1",
     "resName": "Star_Cluster_Of_Crt",
-    "description": "Increases critical damage by 1% and Atk + 5 per 15 base CRT of the user.\nIf the enchanted armor is grade D, increases critical damage by additional 1% and P.Atk + 1 per 15 base CRT.\nIf the enchanted armor is grade C, increases critical damage by additional 1% and additional P.Atk + 1 per 15 base CRT.\nIf the enchanted armor is grade B, increases critical damage by additional 1% and additional P.Atk + 1 per 15 base CRT.\nIf the enchanted armor is grade A, increases critical damage by additional 1% and additional P.Atk + 1 per 15 base CRT.",
+    "unidResName": "Star_Cluster_Of_Crt",
+    "description": "กลุ่มดาวที่เสริมพลังให้กับผู้สวมใส่\nทุก ๆ Base CRT 15 ของผู้สวมใส่ เพิ่ม Critical Damage 1%, ATK + 5\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ D ขึ้นไป ทุก ๆ Base CRT 15 เพิ่ม Critical Damage ขึ้นอีก 1%, P.ATK + 1\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ C ขึ้นไป ทุก ๆ Base CRT 15 เพิ่ม Critical Damage ขึ้นอีก 1%, P.ATK + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ B ขึ้นไป ทุก ๆ Base CRT 15 เพิ่ม Critical Damage ขึ้นอีก 1%, P.ATK + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ A ขึ้นไป ทุก ๆ Base CRT 15 เพิ่ม Critical Damage ขึ้นอีก 1%, P.ATK + 1 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93263,10 +93277,12 @@
   "310684": {
     "id": 310684,
     "aegisName": "Star_Cluster_Of_Crt2",
-    "name": "Star Cluster of Creative Lv2",
-    "unidName": "Star Cluster of Creative Lv2",
+    "flavorText": null,
+    "name": "Star Cluster of Creative Lv.2",
+    "unidName": "Star Cluster of Creative Lv.2",
     "resName": "Star_Cluster_Of_Crt",
-    "description": "Increases critical damage by 2% and Atk + 7 per 15 base CRT of the user.\nIf the enchanted armor is grade D, increases critical damage by additional 1% and P.Atk + 1 per 15 base CRT.\nIf the enchanted armor is grade C, increases critical damage by additional 1% and additional P.Atk + 1 per 15 base CRT.\nIf the enchanted armor is grade B, increases critical damage by additional 1% and additional P.Atk + 2 per 15 base CRT.\nIf the enchanted armor is grade A, increases critical damage by additional 2% and additional P.Atk + 2 per 15 base CRT.",
+    "unidResName": "Star_Cluster_Of_Crt",
+    "description": "กลุ่มดาวที่เสริมพลังให้กับผู้สวมใส่\nทุก ๆ Base CRT 15 ของผู้สวมใส่ เพิ่ม Critical Damage 2%, ATK + 7\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ D ขึ้นไป ทุก ๆ Base CRT 15 เพิ่ม Critical Damage ขึ้นอีก 1%, P.ATK + 1\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ C ขึ้นไป ทุก ๆ Base CRT 15 เพิ่ม Critical Damage ขึ้นอีก 1%, P.ATK + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ B ขึ้นไป ทุก ๆ Base CRT 15 เพิ่ม Critical Damage ขึ้นอีก 1%, P.ATK + 2 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ A ขึ้นไป ทุก ๆ Base CRT 15 เพิ่ม Critical Damage ขึ้นอีก 2%, P.ATK + 2 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93299,10 +93315,12 @@
   "310685": {
     "id": 310685,
     "aegisName": "Star_Cluster_Of_Crt3",
-    "name": "Star Cluster of Creative Lv3",
-    "unidName": "Star Cluster of Creative Lv3",
+    "flavorText": null,
+    "name": "Star Cluster of Creative Lv.3",
+    "unidName": "Star Cluster of Creative Lv.3",
     "resName": "Star_Cluster_Of_Crt",
-    "description": "Increases critical damage by 3% and Atk + 15 per 15 base CRT of the user.\r\nIf the enchanted armor is grade D, increases critical damage by additional 1% and P.Atk + 1 per 15 base CRT.\r\nIf the enchanted armor is grade C, increases critical damage by additional 1% and additional P.Atk + 1 per 15 base CRT.\r\nIf the enchanted armor is grade B, increases critical damage by additional 2% and additional P.Atk + 3 per 15 base CRT.\r\nIf the enchanted armor is grade A, increases critical damage by additional 3% and additional P.Atk + 3 per 15 base CRT.",
+    "unidResName": "Star_Cluster_Of_Crt",
+    "description": "กลุ่มดาวที่เสริมพลังให้กับผู้สวมใส่\nทุก ๆ Base CRT 15 ของผู้สวมใส่ เพิ่ม Critical Damage 3%, ATK + 15\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ D ขึ้นไป ทุก ๆ Base CRT 15 เพิ่ม Critical Damage ขึ้นอีก 1%, P.ATK + 1\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ C ขึ้นไป ทุก ๆ Base CRT 15 เพิ่ม Critical Damage ขึ้นอีก 1%, P.ATK + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ B ขึ้นไป ทุก ๆ Base CRT 15 เพิ่ม Critical Damage ขึ้นอีก 2%, P.ATK + 3 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ A ขึ้นไป ทุก ๆ Base CRT 15 เพิ่ม Critical Damage ขึ้นอีก 3%,  P.ATK + 3 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93338,7 +93356,7 @@
     "name": "Star Cluster of Spell Lv1",
     "unidName": "Star Cluster of Spell Lv1",
     "resName": "Star_Cluster_Of_Spl",
-    "description": "Increases all property magical damage by 1% and Matk + 5 per 15 base SPL of the user.\nIf the enchanted armor is grade D, increases all property magical damage by additional 1% and S.Matk + 1 per 15 base SPL.\nIf the enchanted armor is grade C, increases all property magical damage by additional 1% and additional S.Matk + 1 per 15 base SPL.\nIf the enchanted armor is grade B, increases all property magical damage by additional 1% and additional S.Matk + 1 per 15 base SPL.\nIf the enchanted armor is grade A, increases all property magical damage by additional 1% and additional S.Matk + 1 per 15 base SPL.",
+    "description": "กลุ่มดาวที่เสริมพลังให้กับผู้สวมใส่\nทุก ๆ Base SPL 15 ของผู้สวมใส่ MATK + 5, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 1%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ D ขึ้นไป ทุก ๆ Base SPL 15 เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 1%, S.MATK + 1\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ C ขึ้นไป ทุก ๆ Base SPL 15 เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 1%, S.MATK + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ B ขึ้นไป ทุก ๆ Base SPL 15 เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 1%, S.MATK + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ A ขึ้นไป ทุก ๆ Base SPL 15 เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 1%, S.MATK + 1 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93374,7 +93392,7 @@
     "name": "Star Cluster of Spell Lv2",
     "unidName": "Star Cluster of Spell Lv2",
     "resName": "Star_Cluster_Of_Spl",
-    "description": "Increases all property magical damage by 2% and Matk + 7 per 15 base SPL of the user.\nIf the enchanted armor is grade D, increases all property magical damage by additional 1% and S.Matk + 1 per 15 base SPL.\nIf the enchanted armor is grade C, increases all property magical damage by additional 1% and additional S.Matk + 1 per 15 base SPL.\nIf the enchanted armor is grade B, increases all property magical damage by additional 2% and additional S.Matk + 1 per 15 base SPL.\nIf the enchanted armor is grade A, increases all property magical damage by additional 2% and additional S.Matk + 2 per 15 base SPL.",
+    "description": "กลุ่มดาวที่เสริมพลังให้กับผู้สวมใส่\nทุก ๆ Base SPL 15 ของผู้สวมใส่ MATK + 7, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 2%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ D ขึ้นไป ทุก ๆ Base SPL 15 เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 1%, S.MATK + 1\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ C ขึ้นไป ทุก ๆ Base SPL 15 เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 1%, S.MATK + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ B ขึ้นไป ทุก ๆ Base SPL 15 เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 2%, S.MATK + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ A ขึ้นไป ทุก ๆ Base SPL 15 เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 2%, S.MATK + 2 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93410,7 +93428,7 @@
     "name": "Star Cluster of Spell Lv3",
     "unidName": "Star Cluster of Spell Lv3",
     "resName": "Star_Cluster_Of_Spl",
-    "description": "Increases all property magical damage by 3% and Matk + 15 per 15 base SPL of the user.\nIf the enchanted armor is grade D, increases all property magical damage by additional 1% and S.Matk + 1 per 15 base SPL.\nIf the enchanted armor is grade C, increases all property magical damage by additional 1% and additional S.Matk + 1 per 15 base SPL.\nIf the enchanted armor is grade B, increases all property magical damage by additional 2% and additional S.Matk + 2 per 15 base SPL.\nIf the enchanted armor is grade A, increases all property magical damage by additional 3% and additional S.Matk + 2 per 15 base SPL.",
+    "description": "กลุ่มดาวที่เสริมพลังให้กับผู้สวมใส่\nทุก ๆ Base SPL 15 ของผู้สวมใส่ MATK + 15, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 3%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ D ขึ้นไป ทุก ๆ Base SPL 15 เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 1%, S.MATK + 1\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ C ขึ้นไป ทุก ๆ Base SPL 15 เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 1%, S.MATK + 1 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ B ขึ้นไป ทุก ๆ Base SPL 15 เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 2%, S.MATK + 2 เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ A ขึ้นไป ทุก ๆ Base SPL 15 เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 3%, S.MATK + 2 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93446,7 +93464,7 @@
     "name": "Star Cluster of Wisdom Lv1",
     "unidName": "Star Cluster of Wisdom Lv1",
     "resName": "Star_Cluster_Of_Wis",
-    "description": "MaxSP + 1% and increases heal effectiveness by 1% per 15 base WIS of the user.\nIf the enchanted armor is grade D, additional MaxSP + 1% and increases heal effectiveness by additional 1% per 15 base WIS. \nIf the enchanted armor is grade C, additional MaxSP + 1%, increases heal effectiveness by additional 2% and increases SP recovery rate by 1% per 15 base WIS. \nIf the enchanted armor is grade B, additional MaxSP + 1%, increases heal effectiveness by additional 2% and increases SP recovery rate by additional 2% per 15 base WIS. \nIf the enchanted armor is grade A, additional MaxSP + 1% and H.Plus + 1 per 15 base WIS.",
+    "description": "กลุ่มดาวที่เสริมพลังให้กับผู้สวมใส่\nทุก ๆ Base WIS 15 ของผู้สวมใส่ MSP + 1%, เพิ่มปริมาณ Heal 1%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ D ขึ้นไป ทุก ๆ Base WIS 15 MSP + 1% เพิ่มเติม, เพิ่มปริมาณ Heal 1% เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ C ขึ้นไป ทุก ๆ Base WIS 15 MSP + 1% เพิ่มเติม, เพิ่มปริมาณ Heal 2% เพิ่มเติม, เพิ่มปริมาณฟื้นฟู SP 1%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ B ขึ้นไป ทุก ๆ Base WIS 15 MSP + 1% เพิ่มเติม, เพิ่มปริมาณ Heal 2% เพิ่มเติม, เพิ่มปริมาณฟื้นฟู SP 2% เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ A ขึ้นไป ทุก ๆ Base WIS 15 MSP + 1% เพิ่มเติม, H.PLUS + 1",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93473,7 +93491,7 @@
     "name": "Star Cluster of Wisdom Lv2",
     "unidName": "Star Cluster of Wisdom Lv2",
     "resName": "Star_Cluster_Of_Wis",
-    "description": "MaxSP + 1% and increases heal effectiveness by 3% per 15 base WIS of the user.\nIf the enchanted armor is grade D, additional MaxSP + 1% and increases heal effectiveness by additional 2% per 15 base WIS. \nIf the enchanted armor is grade C, additional MaxSP + 1%, increases heal effectiveness by additional 2% and increases SP recovery rate by 1% per 15 base WIS. \nIf the enchanted armor is grade B, additional MaxSP + 1%, H.Plus + 1 and increases SP recovery rate by additional 2% per 15 base WIS. \nIf the enchanted armor is grade A, additional MaxSP + 2% and additional H.Plus + 2 per 15 base WIS.",
+    "description": "กลุ่มดาวที่เสริมพลังให้กับผู้สวมใส่\nทุก ๆ Base WIS 15 ของผู้สวมใส่ MSP + 1%, เพิ่มปริมาณ Heal 3%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ D ขึ้นไป ทุก ๆ Base WIS 15 MSP + 1% เพิ่มเติม, เพิ่มปริมาณ Heal 2% เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ C ขึ้นไป ทุก ๆ Base WIS 15 MSP + 1% เพิ่มเติม, เพิ่มปริมาณ Heal 2% เพิ่มเติม, เพิ่มปริมาณฟื้นฟู SP 1%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ B ขึ้นไป ทุก ๆ Base WIS 15 MSP + 1% เพิ่มเติม, H.PLUS + 1, เพิ่มปริมาณฟื้นฟู SP ขึ้นอีก 2%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ A ขึ้นไป ทุก ๆ Base WIS 15 MSP + 2% เพิ่มเติม, H.PLUS + 2 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93500,7 +93518,7 @@
     "name": "Star Cluster of Wisdom Lv3",
     "unidName": "Star Cluster of Wisdom Lv3",
     "resName": "Star_Cluster_Of_Wis",
-    "description": "MaxSP + 2% and increases heal effectiveness by 5% per 15 base WIS of the user.\r\nIf the enchanted armor is grade D, additional MaxSP + 1% and increases heal effectiveness by additional 2% per 15 base WIS.\r\nIf the enchanted armor is grade C, additional MaxSP + 1%, increases heal effectiveness by additional 2% and increases SP recovery rate by 2% per 15 base WIS.\r\nIf the enchanted armor is grade B, additional MaxSP + 2%, H.Plus + 2 and increases SP recovery rate by additional 3% per 15 base WIS.\r\nIf the enchanted armor is grade A, additional MaxSP + 2% and additional H.Plus + 3 per 15 base WIS.",
+    "description": "กลุ่มดาวที่เสริมพลังให้กับผู้สวมใส่\nทุก ๆ Base WIS 15 ของผู้สวมใส่ MSP + 2%, เพิ่มปริมาณ Heal 5%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ D ขึ้นไป ทุก ๆ Base WIS 15 MSP + 1% เพิ่มเติม, เพิ่มปริมาณ Heal 2% เพิ่มเติม\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ C ขึ้นไป ทุก ๆ Base WIS 15 MSP + 1% เพิ่มเติม, เพิ่มปริมาณ Heal 2% เพิ่มเติม, เพิ่มปริมาณฟื้นฟู SP 2%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ B ขึ้นไป ทุก ๆ Base WIS 15 MSP + 2% เพิ่มเติม, H.PLUS + 2, เพิ่มปริมาณฟื้นฟู SP ขึ้นอีก 3%\nเมื่อ Armor ที่สวมใส่มีเกรดตั้งแต่ A ขึ้นไป ทุก ๆ Base WIS 15 MSP + 2% เพิ่มเติม, H.PLUS + 3 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93815,7 +93833,7 @@
     "name": "Star of Sharp Lv1",
     "unidName": "Star of Sharp Lv1",
     "resName": "Star_Of_Sharp",
-    "description": "Cri + 2, increases critical damage by 2%.",
+    "description": "CRI + 2, เพิ่ม Critical Damage 2%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93841,7 +93859,7 @@
     "name": "Star of Sharp Lv2",
     "unidName": "Star of Sharp Lv2",
     "resName": "Star_Of_Sharp",
-    "description": "Cri + 3, increases critical damage by 3%.",
+    "description": "CRI + 3, เพิ่ม Critical Damage 3%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93867,7 +93885,7 @@
     "name": "Star of Sharp Lv3",
     "unidName": "Star of Sharp Lv3",
     "resName": "Star_Of_Sharp",
-    "description": "Cri + 5, increases critical damage by 5%.\nP.Atk + 2.",
+    "description": "CRI + 5, เพิ่ม Critical Damage 5%\nP.ATK + 1.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93886,7 +93904,7 @@
         "5"
       ],
       "pAtk": [
-        "2"
+        "1"
       ]
     }
   },
@@ -93896,7 +93914,7 @@
     "name": "Star of Sharp Lv4",
     "unidName": "Star of Sharp Lv4",
     "resName": "Star_Of_Sharp",
-    "description": "Cri + 6, increases critical damage by 10%.\nP.Atk + 2.",
+    "description": "CRI + 6, เพิ่ม Critical Damage 10%\nP.ATK + 2.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93925,7 +93943,7 @@
     "name": "Star of Sharp Lv5",
     "unidName": "Star of Sharp Lv5",
     "resName": "Star_Of_Sharp",
-    "description": "Cri + 8, increases critical damage by 15%.\nP.Atk + 2, C.Rate + 1.",
+    "description": "CRI + 8, เพิ่ม Critical Damage 15%\nP.ATK + 2, C.Rate + 1.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93957,7 +93975,7 @@
     "name": "Star of Spell Lv1",
     "unidName": "Star of Spell Lv1",
     "resName": "Star_Of_Spell",
-    "description": "Matk + 5, reduces variable casting time by 5%.",
+    "description": "MATK + 5, ลดระยะเวลาร่ายแบบแปรผัน 5%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -93983,7 +94001,7 @@
     "name": "Star of Spell Lv2",
     "unidName": "Star of Spell Lv2",
     "resName": "Star_Of_Spell",
-    "description": "Matk + 7, reduces variable casting time by 5%.",
+    "description": "MATK + 7, ลดระยะเวลาร่ายแบบแปรผัน 5%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94009,7 +94027,7 @@
     "name": "Star of Spell Lv3",
     "unidName": "Star of Spell Lv3",
     "resName": "Star_Of_Spell",
-    "description": "Matk + 11, reduces variable casting time by 7%.\nS.Matk + 1.",
+    "description": "MATK + 11, ลดระยะเวลาร่ายแบบแปรผัน 7%\nS.MATK + 1.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94038,7 +94056,7 @@
     "name": "Star of Spell Lv4",
     "unidName": "Star of Spell Lv4",
     "resName": "Star_Of_Spell",
-    "description": "Matk + 17, reduces variable casting time by 10%.\nS.Matk + 2.",
+    "description": "MATK + 17, ลดระยะเวลาร่ายแบบแปรผัน 10%\nS.MATK + 2.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94067,7 +94085,7 @@
     "name": "Star of Spell Lv5",
     "unidName": "Star of Spell Lv5",
     "resName": "Star_Of_Spell",
-    "description": "Matk + 25, reduces variable casting time by 15%.\nS.Matk + 4.",
+    "description": "MATK + 25, ลดระยะเวลาร่ายแบบแปรผัน 15%\nS.MATK + 4.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94096,7 +94114,7 @@
     "name": "Star of Speed Lv1",
     "unidName": "Star of Speed Lv1",
     "resName": "Star_Of_Speed",
-    "description": "Flee + 5.\nIncreases attack speed (reduces delay after attack by 5%).",
+    "description": "FLEE + 5.\nASPD +5%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94122,7 +94140,7 @@
     "name": "Star of Speed Lv2",
     "unidName": "Star of Speed Lv2",
     "resName": "Star_Of_Speed",
-    "description": "Flee + 10.\nIncreases attack speed (reduces delay after attack by 7%).",
+    "description": "FLEE + 10.\nASPD +7%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94148,7 +94166,7 @@
     "name": "Star of Speed Lv3",
     "unidName": "Star of Speed Lv3",
     "resName": "Star_Of_Speed",
-    "description": "Flee + 15.\nIncreases attack speed (reduces delay after attack by 7%).",
+    "description": "FLEE + 15.\nASPD +7%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94174,7 +94192,7 @@
     "name": "Star of Speed Lv4",
     "unidName": "Star of Speed Lv4",
     "resName": "Star_Of_Speed",
-    "description": "Flee + 20.\nIncreases attack speed (reduces delay after attack by 10%).\nASPD + 1.",
+    "description": "FLEE + 20.\nASPD +10%\nASPD + 1.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94203,7 +94221,7 @@
     "name": "Star of Speed Lv5",
     "unidName": "Star of Speed Lv5",
     "resName": "Star_Of_Speed",
-    "description": "Flee + 30.\nIncreases attack speed (reduces delay after attack by 15%).\nASPD + 2.",
+    "description": "FLEE + 30.\nASPD +15%\nASPD + 2.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94501,7 +94519,7 @@
     "name": "Nebula of Fighting Spirit Lv1",
     "unidName": "Nebula of Fighting Spirit Lv1",
     "resName": "Nebula_Of_FS",
-    "description": "Atk + 10\nIf refine rate is 9 or higher, additional Atk + 10.\nIf refine rate is 11 or higher, additional Atk + 15.",
+    "description": "ATK + 10.\nเมื่ออัพเกรด Armor ถึงขั้น 9 ATK + 10 เพิ่มเติม\nเมื่ออัพเกรด Armor ถึงขั้น 11 ATK + 15 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94526,7 +94544,7 @@
     "name": "Nebula of Fighting Spirit Lv2",
     "unidName": "Nebula of Fighting Spirit Lv2",
     "resName": "Nebula_Of_FS",
-    "description": "Atk + 15\nIf refine rate is 9 or higher, additional Atk + 15.\nIf refine rate is 11 or higher, additional Atk + 30.",
+    "description": "ATK + 15.\nเมื่ออัพเกรด Armor ถึงขั้น 9 ATK + 15 เพิ่มเติม\nเมื่ออัพเกรด Armor ถึงขั้น 11 ATK + 30 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94551,7 +94569,7 @@
     "name": "Nebula of Fighting Spirit Lv3",
     "unidName": "Nebula of Fighting Spirit Lv3",
     "resName": "Nebula_Of_FS",
-    "description": "Atk + 20\nIf refine rate is 9 or higher, additional Atk + 20.\nIf refine rate is 11 or higher, additional Atk + 40.",
+    "description": "ATK + 20.\nเมื่ออัพเกรด Armor ถึงขั้น 9 ATK + 20 เพิ่มเติม\nเมื่ออัพเกรด Armor ถึงขั้น 11 ATK + 40 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94576,7 +94594,7 @@
     "name": "Nebula of Expert Archer Lv1",
     "unidName": "Nebula of Expert Archer Lv1",
     "resName": "Nebula_Of_EA",
-    "description": "Increases long ranged physical damage by 3%.\nIf refine rate is 9 or higher, increases long ranged physical damage by additional 3%.\nIf refine rate is 11 or higher, increases long ranged physical damage by additional 4%.",
+    "description": "เพิ่ม Damage ทางกายภาพระยะไกล 3%\nเมื่ออัพเกรด Armor ถึงขั้น 9 เพิ่ม Damage ทางกายภาพระยะไกลขึ้นอีก 3%\nเมื่ออัพเกรด Armor ถึงขั้น 11 เพิ่ม Damage ทางกายภาพระยะไกลขึ้นอีก 4%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94601,7 +94619,7 @@
     "name": "Nebula of Expert Archer Lv2",
     "unidName": "Nebula of Expert Archer Lv2",
     "resName": "Nebula_Of_EA",
-    "description": "Increases long ranged physical damage by 5%.\nIf refine rate is 9 or higher, increases long ranged physical damage by additional 5%.\nIf refine rate is 11 or higher, increases long ranged physical damage by additional 7%.",
+    "description": "เพิ่ม Damage ทางกายภาพระยะไกล 5%\nเมื่ออัพเกรด Armor ถึงขั้น 9 เพิ่ม Damage ทางกายภาพระยะไกลขึ้นอีก 5%\nเมื่ออัพเกรด Armor ถึงขั้น 11 เพิ่ม Damage ทางกายภาพระยะไกลขึ้นอีก 7%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94626,7 +94644,7 @@
     "name": "Nebula of Expert Archer Lv3",
     "unidName": "Nebula of Expert Archer Lv3",
     "resName": "Nebula_Of_EA",
-    "description": "Increases long ranged physical damage by 7%.\nIf refine rate is 9 or higher, increases long ranged physical damage by additional 7%.\nIf refine rate is 11 or higher, increases long ranged physical damage by additional 15%.",
+    "description": "เพิ่ม Damage ทางกายภาพระยะไกล 7%\nเมื่ออัพเกรด Armor ถึงขั้น 9 เพิ่ม Damage ทางกายภาพระยะไกลขึ้นอีก 7%\nเมื่ออัพเกรด Armor ถึงขั้น 11 เพิ่ม Damage ทางกายภาพระยะไกลขึ้นอีก 15%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94651,7 +94669,7 @@
     "name": "Nebula of Sharp Lv1",
     "unidName": "Nebula of Sharp Lv1",
     "resName": "Nebula_Of_SH",
-    "description": "Increases critical damage by 5%.\nIf refine rate is 9 or higher, increases critical damage by additional 5%.\nIf refine rate is 11 or higher, increases critical damage by additional 7%.",
+    "description": "เพิ่ม Critical Damage 5%\nเมื่ออัพเกรด Armor ถึงขั้น 9, เพิ่ม Critical Damage 5%\nเมื่ออัพเกรด Armor ถึงขั้น 11, เพิ่ม Critical Damage 7%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94676,7 +94694,7 @@
     "name": "Nebula of Sharp Lv2",
     "unidName": "Nebula of Sharp Lv2",
     "resName": "Nebula_Of_SH",
-    "description": "Increases critical damage by 7%.\nIf refine rate is 9 or higher, increases critical damage by additional 7%.\nIf refine rate is 11 or higher, increases critical damage by additional 12%.",
+    "description": "เพิ่ม Critical Damage 7%\nเมื่ออัพเกรด Armor ถึงขั้น 9, เพิ่ม Critical Damage 7%\nเมื่ออัพเกรด Armor ถึงขั้น 11, เพิ่ม Critical Damage 12%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94701,7 +94719,7 @@
     "name": "Nebula of Sharp Lv3",
     "unidName": "Nebula of Sharp Lv3",
     "resName": "Nebula_Of_SH",
-    "description": "Increases critical damage by 10%.\nIf refine rate is 9 or higher, increases critical damage by additional 10%.\nIf refine rate is 11 or higher, increases critical damage by additional 15%.",
+    "description": "เพิ่ม Critical Damage 10%\nเมื่ออัพเกรด Armor ถึงขั้น 9, เพิ่ม Critical Damage 10%\nเมื่ออัพเกรด Armor ถึงขั้น 11, เพิ่ม Critical Damage 15%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94726,7 +94744,7 @@
     "name": "Nebula of Spell Lv1",
     "unidName": "Nebula of Spell Lv1",
     "resName": "Nebula_Of_SP",
-    "description": "Matk + 10\nIf refine rate is 9 or higher, additional Matk + 10.\nIf refine rate is 11 or higher, additional Matk + 15.",
+    "description": "MATK + 10.\nเมื่ออัพเกรด Armor ถึงขั้น 9, MATK + 10 เพิ่มเติม\nเมื่ออัพเกรด Armor ถึงขั้น 11, MATK + 15 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94751,7 +94769,7 @@
     "name": "Nebula of Spell Lv2",
     "unidName": "Nebula of Spell Lv2",
     "resName": "Nebula_Of_SP",
-    "description": "Matk + 15\nIf refine rate is 9 or higher, additional Matk + 15.\nIf refine rate is 11 or higher, additional Matk + 30.",
+    "description": "MATK + 15.\nเมื่ออัพเกรด Armor ถึงขั้น 9, MATK + 15 เพิ่มเติม\nเมื่ออัพเกรด Armor ถึงขั้น 11, MATK + 30 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94776,7 +94794,7 @@
     "name": "Nebula of Spell Lv3",
     "unidName": "Nebula of Spell Lv3",
     "resName": "Nebula_Of_SP",
-    "description": "Matk + 20\nIf refine rate is 9 or higher, additional Matk + 20.\nIf refine rate is 11 or higher, additional Matk + 40.",
+    "description": "MATK + 20.\nเมื่ออัพเกรด Armor ถึงขั้น 9, MATK + 20 เพิ่มเติม\nเมื่ออัพเกรด Armor ถึงขั้น 11, MATK + 40 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94801,7 +94819,7 @@
     "name": "Nebula of Health Lv1",
     "unidName": "Nebula of Health Lv1",
     "resName": "Nebula_Of_HP",
-    "description": "MaxHP + 3%, Def + 25.\nIf refine rate is 9 or higher, additional MaxHP + 3%, additional Def + 15.\nIf refine rate is 11 or higher, additional MaxHP + 5%, additional Def + 25.",
+    "description": "MHP + 3%, DEF + 25.\nเมื่ออัพเกรด Armor ถึงขั้น 9, MHP + 3% เพิ่มเติม, DEF + 15 เพิ่มเติม\nเมื่ออัพเกรด Armor ถึงขั้น 11, MHP + 5% เพิ่มเติม, DEF + 25 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94831,7 +94849,7 @@
     "name": "Nebula of Health Lv2",
     "unidName": "Nebula of Health Lv2",
     "resName": "Nebula_Of_HP",
-    "description": "MaxHP + 5%, Def + 30.\nIf refine rate is 9 or higher, additional MaxHP + 4%, additional Def + 20.\nIf refine rate is 11 or higher, additional MaxHP + 6%, additional Def + 30.",
+    "description": "MHP + 5%, DEF + 30.\nเมื่ออัพเกรด Armor ถึงขั้น 9, MHP + 4% เพิ่มเติม, DEF + 20 เพิ่มเติม\nเมื่ออัพเกรด Armor ถึงขั้น 11, MHP + 6% เพิ่มเติม, DEF + 30 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -94861,7 +94879,7 @@
     "name": "Nebula of Health Lv3",
     "unidName": "Nebula of Health Lv3",
     "resName": "Nebula_Of_HP",
-    "description": "MaxHP + 7%, Def + 45.\nIf refine rate is 9 or higher, additional MaxHP + 5%, additional Def + 30.\nIf refine rate is 11 or higher, additional MaxHP + 8%, additional Def + 45.",
+    "description": "MHP + 7%, DEF + 45.\nเมื่ออัพเกรด Armor ถึงขั้น 9, MHP + 5% เพิ่มเติม, DEF + 30 เพิ่มเติม\nเมื่ออัพเกรด Armor ถึงขั้น 11, MHP + 8% เพิ่มเติม, DEF + 45 เพิ่มเติม",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -129567,10 +129585,12 @@
   "312689": {
     "id": 312689,
     "aegisName": "Justice_Vigor_HN",
+    "flavorText": "",
     "name": "Good Vigor (Hyper Novice)",
     "unidName": "Good Vigor (Hyper Novice)",
     "resName": "C_160LV_Mechanic_Gold",
-    "description": "When equipped with Good Spell,\r\nincreases Shield Chain Rush damage by 20%,\r\nincreases Spiral Pierce Max damage by 40%,\r\nincreases physical damage against all property enemies by 20%,\r\nincreases attack speed (reduces delay after attack by 5%).",
+    "unidResName": "C_160LV_Mechanic_Gold",
+    "description": "เมื่อสวมใส่ร่วมกับ Good Spell,\nเพิ่ม Damage สกิล Shield Chain Rush 20%, เพิ่ม Damage สกิล Spiral Pierce Max 40%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 20%, ASPD + 5%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -129599,10 +129619,12 @@
   "312690": {
     "id": 312690,
     "aegisName": "Injustice_Vigor_HN",
+    "flavorText": "",
     "name": "Evil Vigor (Hyper Novice)",
     "unidName": "Evil Vigor (Hyper Novice)",
     "resName": "C_160LV_Warlock_Violet",
-    "description": "When equipped with Evil Spell,\r\nincreases Napalm Vulcan Strike damage by 20%,\r\nincreases Ground Gravitation damage by 40%,\r\nincreases magical damage against all property enemies by 20%,\r\nreduces variable casting time by 5%.",
+    "unidResName": "C_160LV_Warlock_Violet",
+    "description": "เมื่อสวมใส่ร่วมกับ Evil Spell,\nเพิ่ม Damage สกิล Napalm Vulcan Strike 20%, เพิ่ม Damage สกิล Ground Gravitation 40%, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 20%, ลดระยะเวลาร่ายแบบแปรผัน 5%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -169049,10 +169071,12 @@
   "470226": {
     "id": 470226,
     "aegisName": "FateSin_Boots_HN",
-    "name": "Boots of Good and Evil (Hyper Novice) [1]",
+    "flavorText": "",
+    "name": "Good & Evil Boots (Hyper Novice) [1]",
     "unidName": "Shoes",
     "resName": "FateSin_Boots_HN",
-    "description": "MaxHP + 500, MaxSP + 100.\r\nEvery 2 refine rate, MaxHP + 1%, MaxSP + 1%.\r\nIf refine rate is 7 or higher, Atk + 7%, Matk + 7%.\r\nIf refine rate is 9 or higher, increases long ranged physical damage by 10%, increases all property magical damage by 10%.\r\nIf refine rate is 11 or higher, reduces fixed casting time by 0.5 seconds.\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] Res + 50, Mres + 50.\r\n[Grade C] Increases physical and magical damage against all size enemies by 10%.\r\n[Grade B] P.Atk + 7, S.Matk + 7.\r\n[Grade A] Reduces fixed casting time by 0.5 seconds.\r\nClass: ^777777Shoes^000000  Defense: ^77777720^000000\r\nWeight: ^77777760^000000\r\nRequired Level: ^777777210^000000\r\nArmor Level: ^7777772^000000\r\nJobs: ^777777Hyper Novice^000000",
+    "unidResName": "슈즈",
+    "description": "รองเท้าที่แฝงพลังของธรรมะและอธรรมอยู่\n \nMHP + 500, MSP + 100\nทุก ๆ การอัพเกรด 2 ขั้น MHP + 1%, MSP + 1%\nเมื่ออัพเกรดถึงขั้น 7, ATK, MATK + 7%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพระยะไกล 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\nเมื่ออัพเกรดถึงขั้น 11, ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] RES + 50, MRES + 50\n[Grade C] เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%\n[Grade B] P.ATK + 7, S.MATK + 7\n[Grade A] ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nประเภท : ^777777Shoes^000000  พลังป้องกัน : ^77777720^000000\nน้ำหนัก : ^77777760^000000\nเลเวลที่ต้องการ : ^777777210^000000\nเลเวล Armor : ^7777772^000000\nอาชีพที่ใส่ได้ : ^777777Hyper Novice^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 516,
@@ -248645,7 +248669,7 @@
     "description": "แสงระยิบระยับของดวงดาวสีม่วง ที่พร้อมเปล่งประกายตลอดเวลา\n\nทุก ๆ Base Lv. 1 ATK +1, MATK +1\nP.ATK , S.MATK + 20\nยิ่งเป้าหมายมี DEF สูง ความเสียหายที่ทำได้ยิ่งเพิ่มขึ้น\n(ความสามารถจะถูกลบออกวันที่ 7 มกราคม 2569)\n^ffffff^4D4DFF[Designer Heidam]^000000^000000\n^b4b4b4สามารถแลกเปลี่ยนเป็น Costume Enchant Stone Box 28 ได้^000000\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
     "slots": 0,
     "itemTypeId": 9,
-    "itemSubTypeId": 520,
+    "itemSubTypeId": 9520,
     "itemLevel": null,
     "attack": null,
     "defense": 0,
@@ -249784,6 +249808,672 @@
       ],
       "criDmg": [
         "level:5---1"
+      ]
+    }
+  },
+  "314811": {
+    "id": 314811,
+    "aegisName": "DimAcc_ABC",
+    "flavorText": null,
+    "name": "Abyss Chaser Dim Crystal",
+    "unidName": null,
+    "resName": "Sea_Sapphire",
+    "unidResName": null,
+    "description": "เมื่อสวมใส่ร่วมกับ Dim Glacier Rogue Knife,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 5%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Abyss Square, Jack Frost Nova 4%\n\nเมื่อ Dim Glacier Rogue Knife มี Grade C ขึ้นไป,\nลด Cooldown สกิล Abyss Square 1 วินาที\n\nเมื่อ Dim Glacier Rogue Knife มี Grade C ขึ้นไป และขั้นอัพเกรด 12 ขึ้นไป,\nเมื่อโจมตีทางกายภาพ มีโอกาส 15% ที่จะ Autospell สกิล Jack Frost Nova Lv.10, เพิ่ม Damage สกิล Abyss Square, Jack Frost Nova 15%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "script": {
+      "m_element_all": [
+        "EQUIP[Dim Glacier Rogue Knife]===5"
+      ],
+      "Abyss Square": [
+        "EQUIP[Dim Glacier Rogue Knife]2---4",
+        "EQUIP[Dim Glacier Rogue Knife]GRADE[weapon==C]REFINE[weapon==12]===15"
+      ],
+      "Jack Frost Nova": [
+        "EQUIP[Dim Glacier Rogue Knife]2---4",
+        "EQUIP[Dim Glacier Rogue Knife]GRADE[weapon==C]REFINE[weapon==12]===15"
+      ],
+      "cd__Abyss Square": [
+        "EQUIP[Dim Glacier Rogue Knife]GRADE[weapon==C]===1"
+      ]
+    }
+  },
+  "314812": {
+    "id": 314812,
+    "aegisName": "DimAcc_IQ",
+    "flavorText": null,
+    "name": "Inquisitor Dim Crystal",
+    "unidName": null,
+    "resName": "Sea_Sapphire",
+    "unidResName": null,
+    "description": "เมื่อสวมใส่ร่วมกับ Dim Glacier Knuckle,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 5%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Third Flame Bomb 4%\n\nเมื่อ Dim Glacier Knuckle มี Grade C ขึ้นไป,\nMaxHP + 15%\n\nเมื่อ Dim Glacier Knuckle มี Grade C ขึ้นไป และขั้นอัพเกรด 12 ขึ้นไป, \nเมื่อใช้งานสกิล First Brand จะ Autospell สกิล Second Flame Lv.1 (เมื่อเรียนรู้สกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Second Flame จะ Autospell สกิล Third Flame Bomb Lv.1 (เมื่อเรียนรู้สกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเพิ่ม Damage สกิล Third Flame Bomb 15%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "script": {
+      "p_element_all": [
+        "EQUIP[Dim Glacier Knuckle]===5"
+      ],
+      "Third Flame Bomb": [
+        "EQUIP[Dim Glacier Knuckle]2---4",
+        "EQUIP[Dim Glacier Knuckle]GRADE[weapon==C]REFINE[weapon==12]===15"
+      ],
+      "hpPercent": [
+        "EQUIP[Dim Glacier Knuckle]GRADE[weapon==C]===15"
+      ]
+    }
+  },
+  "490882": {
+    "id": 490882,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Ring of Evil (Soul Ascetic) [1]",
+    "unidName": "Ring of Evil (Soul Ascetic)",
+    "resName": "Scorpio_Ring_J",
+    "unidResName": "Scorpio_Ring_J",
+    "description": "MATK + 100\nลด Global Cooldown 10%\nSPL + 10\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n \nเมื่อสวมใส่ร่วมกับ Soul Harvest,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Exorcism of Malicious Soul, Talisman of Soul Stealing 15%\n\nเมื่อ Soul Harvest มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Exorcism of Malicious Soul, Talisman of Soul Stealing 15%\n\nเมื่อ Soul Harvest มี Grade C ขึ้นไป, \nMATK + 15%,\nลด Cooldown สกิล Exorcism of Malicious Soul, Talisman of Soul Stealing 0.8 วินาที,\nเพิ่ม Damage สกิล Exorcism of Malicious Soul, Talisman of Soul Stealing 20%\n\nเมื่อสวมใส่ร่วมกับ Evil Spell,\nเมื่อใช้งานสกิล Exorcism of Malicious Soul จะ Auto Spell สกิล Soul Gathering Lv.5,\nเมื่อใช้งานสกิล Talisman of Soul Stealing มีโอกาส 30% ที่จะ Auto Spell สกิล Talisman of Soul Stealing Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด)\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Soul Ascetic^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 215,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "SoulAscetic"
+    ],
+    "script": {
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "fct": [
+        "0.5"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "m_size_all": [
+        "EQUIP[Soul Harvest]===15"
+      ],
+      "Exorcism of Malicious Soul": [
+        "EQUIP[Soul Harvest]===15",
+        "EQUIP[Soul Harvest]REFINE[weapon==10]===15",
+        "EQUIP[Soul Harvest]GRADE[weapon==C]===20"
+      ],
+      "Talisman of Soul Stealing": [
+        "EQUIP[Soul Harvest]===15",
+        "EQUIP[Soul Harvest]REFINE[weapon==10]===15",
+        "EQUIP[Soul Harvest]GRADE[weapon==C]===20"
+      ],
+      "m_element_all": [
+        "EQUIP[Soul Harvest]REFINE[weapon==10]===15"
+      ],
+      "matkPercent": [
+        "EQUIP[Soul Harvest]GRADE[weapon==C]===15"
+      ],
+      "cd__Exorcism of Malicious Soul": [
+        "EQUIP[Soul Harvest]GRADE[weapon==C]===0.8"
+      ],
+      "cd__Talisman of Soul Stealing": [
+        "EQUIP[Soul Harvest]GRADE[weapon==C]===0.8"
+      ]
+    }
+  },
+  "490886": {
+    "id": 490886,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Ring of Evil (Hyper Novice) [1]",
+    "unidName": "Ring of Evil (Hyper Novice)",
+    "resName": "Scorpio_Ring_J",
+    "unidResName": "Scorpio_Ring_J",
+    "description": "MATK + 100\nลด Global Cooldown 10%\nSPL + 10\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n \nเมื่อสวมใส่ร่วมกับ Devil Cursed Sword,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Napalm Vulcan Strike, Ground Gravitation 15%\n\nเมื่อ Devil Cursed Sword มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Napalm Vulcan Strike, Ground Gravitation 15%\n\nเมื่อ Devil Cursed Sword มี Grade C ขึ้นไป,\nMATK + 15%,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 15%,\nเพิ่ม Damage สกิล Napalm Vulcan Strike, Ground Gravitation 20%\n\nเมื่อสวมใส่ร่วมกับ Evil Spell,\nสามารถใช้งานสกิล Recognized Spell Lv.5 ได้,\nเมื่อใช้งานสกิล Napalm Vulcan Strike มีโอกาส 30% ที่จะ Auto Spell สกิล Napalm Vulcan Strike Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด)\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Hyper Novice^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 215,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "HyperNovice"
+    ],
+    "script": {
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "fct": [
+        "0.5"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "m_size_all": [
+        "EQUIP[Soul Harvest]===15"
+      ],
+      "Napalm Vulcan Strike": [
+        "EQUIP[Devil Cursed Sword]===15",
+        "EQUIP[Devil Cursed Sword]REFINE[weapon==10]===15",
+        "EQUIP[Devil Cursed Sword]GRADE[weapon==C]===20"
+      ],
+      "Ground Gravitation": [
+        "EQUIP[Devil Cursed Sword]===15",
+        "EQUIP[Devil Cursed Sword]REFINE[weapon==10]===15",
+        "EQUIP[Devil Cursed Sword]GRADE[weapon==C]===20"
+      ],
+      "m_element_all": [
+        "EQUIP[Devil Cursed Sword]REFINE[weapon==10]===15"
+      ],
+      "matkPercent": [
+        "EQUIP[Devil Cursed Sword]GRADE[weapon==C]===15"
+      ],
+      "m_race_all": [
+        "EQUIP[Devil Cursed Sword]GRADE[weapon==C]===15"
+      ]
+    }
+  },
+  "490888": {
+    "id": 490888,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Ring of Good (Arch Mage) [1]",
+    "unidName": "Ring of Good (Arch Mage)",
+    "resName": "RK은반지",
+    "unidResName": "RK은반지",
+    "description": "MATK + 100\nลด Global Cooldown 10%\nSPL + 10\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n \nเมื่อสวมใส่ร่วมกับ Destiny Staff,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Frozen Slash, Rain of Crystal 15%\n\nเมื่อ Destiny Staff มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%, \nเพิ่ม Damage สกิล Frozen Slash, Rain of Crystal 15%\n\nเมื่อ Destiny Staff มี Grade C ขึ้นไป, \nMATK + 15%,\nลด Cooldown สกิล Frozen Slash 0.2 วินาที,\nลด Cooldown สกิล Rain of Crystal 2 วินาที,\nเพิ่ม Damage สกิล Frozen Slash, Rain of Crystal 20%\n\nเมื่อสวมใส่ร่วมกับ Good Spell,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเมื่อใช้สกิล Frozen Slash มีโอกาส 40% ที่จะ Auto Spell สกิล Rain of Crystal Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด)\n\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Arch Mage^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 215,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "ArchMage"
+    ],
+    "script": {
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "fct": [
+        "0.5"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "m_size_all": [
+        "EQUIP[Destiny Staff]===15"
+      ],
+      "Frozen Slash": [
+        "EQUIP[Destiny Staff]===15",
+        "EQUIP[Destiny Staff]REFINE[weapon==10]===15",
+        "EQUIP[Destiny Staff]GRADE[weapon==C]===20"
+      ],
+      "Rain of Crystal": [
+        "EQUIP[Destiny Staff]===15",
+        "EQUIP[Destiny Staff]REFINE[weapon==10]===15",
+        "EQUIP[Destiny Staff]GRADE[weapon==C]===20"
+      ],
+      "m_element_all": [
+        "EQUIP[Destiny Staff]REFINE[weapon==10]===15",
+        "EQUIP[Good Spell]===15"
+      ],
+      "matkPercent": [
+        "EQUIP[Destiny Staff]GRADE[weapon==C]===15"
+      ],
+      "cd__Frozen Slash": [
+        "EQUIP[Destiny Staff]GRADE[weapon==C]===0.2"
+      ],
+      "cd__Rain of Crystal": [
+        "EQUIP[Destiny Staff]GRADE[weapon==C]===2"
+      ]
+    }
+  },
+  "490883": {
+    "id": 490883,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Ring of Good (Sky Emperor) [1]",
+    "unidName": "Ring of Good (Sky Emperor)",
+    "resName": "RK은반지",
+    "unidResName": "RK은반지",
+    "description": "ATK + 100\nลด Global Cooldown 10%\nPOW + 10\nCRI + 15\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n \nเมื่อสวมใส่ร่วมกับ Origin of Life, \nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Noon Blast, Sunset Blast 15%\n\nเมื่อ Origin of Life มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Noon Blast, Sunset Blast 15%\n\nเมื่อ Origin of Life มี Grade C ขึ้นไป, \nเพิ่ม Damage ทางกายภาพระยะใกล้ 20%,\nลด Cooldown สกิล Noon Blast 0.5 วินาที,\nเพิ่ม Damage สกิล Noon Blast, Sunset Blast 20%\n\nเมื่อสวมใส่ร่วมกับ Good Spell,\nเมื่อใช้งานสกิล Noon Blast มีโอกาส 30% ที่จะ Autospell สกิล Noon Blast Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด)\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Sky Emperor^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 215,
+    "location": null,
+    "compositionPos": null,
+    "usableClass": [
+      "SkyEmperor"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "cri": [
+        "15"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Origin of Life]===15"
+      ],
+      "Noon Blast": [
+        "EQUIP[Origin of Life]===15",
+        "EQUIP[Origin of Life]REFINE[weapon==10]===15",
+        "EQUIP[Origin of Life]GRADE[weapon==C]===20"
+      ],
+      "Sunset Blast": [
+        "EQUIP[Origin of Life]===15",
+        "EQUIP[Origin of Life]REFINE[weapon==10]===15",
+        "EQUIP[Origin of Life]GRADE[weapon==C]===20"
+      ],
+      "p_element_all": [
+        "EQUIP[Origin of Life]REFINE[weapon==10]===15"
+      ],
+      "cd__Noon Blast": [
+        "EQUIP[Origin of Life]GRADE[weapon==C]===0.5"
+      ],
+      "melee": [
+        "EQUIP[Origin of Life]GRADE[weapon==C]===20"
+      ]
+    }
+  },
+  "490887": {
+    "id": 490887,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Ring of Good (Hyper Novice) [1]",
+    "unidName": "Ring of Good (Hyper Novice)",
+    "resName": "RK은반지",
+    "unidResName": "RK은반지",
+    "description": "ATK + 100\nลด Global Cooldown 10%\nPOW + 10\nATK + 6%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Guardian Saber,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Shield Chain Rush, Spiral Pierce Max 15%\n\nเมื่อ Guardian Saber มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Shield Chain Rush, Spiral Pierce Max 15%\n\nเมื่อ Guardian Saber มี Grade C ขึ้นไป,\nเพิ่ม Damage ทางกายภาพระยะไกล 20%,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 15%,\nเพิ่ม Damage สกิล Shield Chain Rush, Spiral Pierce Max 20%\n\nเมื่อสวมใส่ร่วมกับ Good Spell,\nเมื่อใช้งานสกิล Shield Chain Rush มีโอกาส 30% ที่จะ Auto Spell สกิล Shield Chain Rush Lv.1 (เมื่อเรียนรู้สกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด)\nสามารถใช้งานสกิล Power Lv.4 ได้\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Hyper Novice^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 215,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "HyperNovice"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "atkPercent": [
+        "6"
+      ],
+      "acd": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Guardian Saber]===15"
+      ],
+      "p_element_all": [
+        "EQUIP[Guardian Saber]REFINE[weapon==10]===15"
+      ],
+      "Shield Chain Rush": [
+        "EQUIP[Guardian Saber]===15",
+        "EQUIP[Guardian Saber]REFINE[weapon==10]===15",
+        "EQUIP[Guardian Saber]GRADE[weapon==C]===20"
+      ],
+      "Spiral Pierce Max": [
+        "EQUIP[Guardian Saber]===15",
+        "EQUIP[Guardian Saber]REFINE[weapon==10]===15",
+        "EQUIP[Guardian Saber]GRADE[weapon==C]===20"
+      ],
+      "range": [
+        "EQUIP[Guardian Saber]GRADE[weapon==C]===20"
+      ],
+      "p_race_all": [
+        "EQUIP[Guardian Saber]GRADE[weapon==C]===15"
+      ]
+    }
+  },
+  "490884": {
+    "id": 490884,
+    "aegisName": "ABC_Dim_Ring_TH",
+    "flavorText": null,
+    "name": "Dim Glacier Ring of Resonance (Abyss Chaser) [1]",
+    "unidName": "Dim Glacier Ring of Resonance (Abyss Chaser)",
+    "resName": "Ring_Of_TheAbyssKing_A",
+    "unidResName": "Ring_Of_TheAbyssKing_A",
+    "description": "แหวนที่หลอมจากผลึกธารน้ำแข็งอันหม่นมัว\nเมื่อสวมใส่จะเกิดการสั่นพ้องกับพลังของ Dim Glacier ปลดปล่อยพลังแฝงที่สะท้อนความหนาวเย็นอันลึกล้ำออกมา\n\nMATK + 100\nลด Global Cooldown 10%\nSPL + 10\nMATK + 10%\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Dim Glacier Rogue Knife, \nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Abyss Square 15%\n\nเมื่อ Dim Glacier Rogue Knife มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Abyss Square 15%\n\nเมื่อ Dim Glacier Rogue Knife มี Grade C ขึ้นไป,\nS.MATK + 10,\nเพิ่ม Damage สกิล Abyss Square 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Abyss Chaser^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 215,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "AbyssChaser"
+    ],
+    "script": {
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "m_size_all": [
+        "EQUIP[Dim Glacier Rogue Knife]===15"
+      ],
+      "Abyss Square": [
+        "EQUIP[Dim Glacier Rogue Knife]===15",
+        "EQUIP[Dim Glacier Rogue Knife]REFINE[weapon==10]===15",
+        "EQUIP[Dim Glacier Rogue Knife]GRADE[weapon==C]===20"
+      ],
+      "m_element_all": [
+        "EQUIP[Dim Glacier Rogue Knife]REFINE[weapon==10]===15"
+      ],
+      "matkPercent": [
+        "10"
+      ],
+      "sMatk": [
+        "EQUIP[Dim Glacier Rogue Knife]GRADE[weapon==C]===10"
+      ]
+    }
+  },
+  "490885": {
+    "id": 490885,
+    "aegisName": "IQ_Dim_Ring_TH",
+    "flavorText": null,
+    "name": "Dim Glacier Ring of Resonance (Inquisitor) [1]",
+    "unidName": null,
+    "resName": "Ring_Of_TheAbyssKing_A",
+    "unidResName": null,
+    "description": "แหวนที่หลอมจากผลึกธารน้ำแข็งอันหม่นมัว\nเมื่อสวมใส่จะเกิดการสั่นพ้องกับพลังของ Dim Glacier ปลดปล่อยพลังแฝงที่สะท้อนความหนาวเย็นอันลึกล้ำออกมา\n\nATK + 100\nลด Global Cooldown 10%\nPOW + 10\nMaxHP + 10%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Dim Glacier Knuckle,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Third Flame Bomb 15%\n \nเมื่อ Dim Glacier Knuckle มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Third Flame Bomb 15%\n \nเมื่อ Dim Glacier Knuckle มี Grade C ขึ้นไป,\nP.ATK + 10,\nเพิ่ม Damage สกิล Third Flame Bomb 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Inquisitor^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 517,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Inquisitor"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "hpPercent": [
+        "10"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Dim Glacier Knuckle]===15"
+      ],
+      "Third Flame Bomb": [
+        "EQUIP[Dim Glacier Knuckle]===15",
+        "EQUIP[Dim Glacier Knuckle]REFINE[weapon==10]===15",
+        "EQUIP[Dim Glacier Knuckle]GRADE[weapon==C]===20"
+      ],
+      "p_element_all": [
+        "EQUIP[Dim Glacier Knuckle]REFINE[weapon==10]===15"
+      ],
+      "pAtk": [
+        "EQUIP[Dim Glacier Knuckle]GRADE[weapon==C]===10"
+      ]
+    }
+  },
+  "480709": {
+    "id": 480709,
+    "aegisName": "Hero_Courage_TH_LT",
+    "flavorText": null,
+    "name": "Hero Courage Cape-LT [1]",
+    "unidName": null,
+    "resName": "Hero_Favor_LT",
+    "unidResName": null,
+    "description": "ชุดคลุมอันทรงเกียรติแด่วีรบุรุษผู้กล้าหาญ\n\nMaxHP + 8000, MaxSP + 300\nทุก ๆ Base Lv. 10, P.ATK + 1 / RES + 7 / MRES + 7\nทุก ๆ การอัพเกรด 2 ขั้น, ATK + 20\nทุก ๆ การอัพเกรด 3 ขั้น, ATK + 4%\nเมื่ออัพเกรดถึงขั้น 7, ASPD + 15%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%\nเมื่ออัพเกรดถึงขั้น 11, ลด Global Cooldown 15%\nเมื่ออัพเกรดถึงขั้น 13, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 15%\n\nเมื่อสวมใส่ร่วมกับ Ancient Hero Boots,\nลดระยะเวลาร่ายแบบคงที่ 0.2 วินาที, ATK + 60\n\nเมื่อสวมใส่ร่วมกับ Great Hero's Boots,\nลดระยะเวลาร่ายแบบคงที่ 0.2 วินาที, ATK + 80\n\nเมื่อสวมใส่ร่วมกับ Hero Boots-LT,\nลดระยะเวลาร่ายแบบคงที่ 0.2 วินาที, ATK + 180\nเมื่อ Hero Boots-LT มี Grade C ขึ้นไป, ATK + 20%\nเมื่อ Hero Boots-LT มี Grade B ขึ้นไป, P.ATK + 10\nเมื่อ Hero Boots-LT มี Grade A ขึ้นไป, เมื่อโจมตีทางกายภาพ มีโอกาส 3% ที่จะ POW + 50, CON + 50, P.ATK + 20 เป็นเวลา 10 วินาที\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] ลดระยะเวลาร่ายแบบคงที่ 0.2 วินาที\n[Grade C] เพิ่ม Damage ทางกายภาพต่อระยะใกล้/ไกล 15%\n[Grade B] เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 12%\n[Grade A] ไม่ถูก Knock-back\nประเภท : ^777777Garment^000000  พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777780^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 0,
+    "weight": 80,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "hp": [
+        "8000"
+      ],
+      "sp": [
+        "300"
+      ],
+      "pAtk": [
+        "level:10---1",
+        "EQUIP[Hero Boots-LT]GRADE[boot==B]===10"
+      ],
+      "res": [
+        "level:10---7"
+      ],
+      "mres": [
+        "level:10---7"
+      ],
+      "atk": [
+        "2---20",
+        "EQUIP[Ancient Hero Boots]===60",
+        "EQUIP[Great Hero's Boots]===80",
+        "EQUIP[Hero Boots-LT]===180"
+      ],
+      "atkPercent": [
+        "3---4",
+        "EQUIP[Hero Boots-LT]GRADE[boot==C]===20"
+      ],
+      "aspdPercent": [
+        "7===15"
+      ],
+      "p_size_all": [
+        "9===15"
+      ],
+      "acd": [
+        "11===15"
+      ],
+      "p_race_all": [
+        "13===15"
+      ],
+      "fct": [
+        "EQUIP[Ancient Hero Boots]===0.2",
+        "EQUIP[Great Hero's Boots]===0.2",
+        "EQUIP[Hero Boots-LT]===0.2",
+        "GRADE[me==D]===0.2"
+      ],
+      "melee": [
+        "GRADE[me==C]===15"
+      ],
+      "range": [
+        "GRADE[me==C]===15"
+      ],
+      "p_element_all": [
+        "GRADE[me==B]===12"
+      ],
+      "chance__pow": [
+        "EQUIP[Hero Boots-LT]GRADE[boot==A]===50"
+      ],
+      "chance__con": [
+        "EQUIP[Hero Boots-LT]GRADE[boot==A]===50"
+      ],
+      "chance__pAtk": [
+        "EQUIP[Hero Boots-LT]GRADE[boot==A]===20"
+      ]
+    }
+  },
+  "480710": {
+    "id": 480710,
+    "aegisName": "Hero_Favor_TH_LT",
+    "flavorText": null,
+    "name": "Hero Favor Cape-LT [1]",
+    "unidName": null,
+    "resName": "Hero_Favor_LT",
+    "unidResName": null,
+    "description": "ชุดคลุมอันทรงเกียรติแด่วีรบุรุษผู้สง่างาม\n\nMaxHP + 8000, MaxSP + 300\nทุก ๆ Base Lv.10, S.MATK + 1, RES + 7, MRES + 7\nทุก ๆ การอัพเกรด 2 ขั้น, MATK + 20\nทุก ๆ การอัพเกรด 3 ขั้น, MATK + 4%\n\nเมื่ออัพเกรดถึงขั้น 7, ASPD + 15%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%\nเมื่ออัพเกรดถึงขั้น 11, ลด Global Cooldown 15%\nเมื่ออัพเกรดถึงขั้น 13, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 15%\n\nเมื่อสวมใส่ร่วมกับ Ancient Hero Boots,\nลดระยะเวลาร่ายแบบคงที่ 0.2 วินาที,  MATK + 60\n\nเมื่อสวมใส่ร่วมกับ Great Hero's Boots,\nลดระยะเวลาร่ายแบบคงที่ 0.2 วินาที,  MATK + 80\n\nเมื่อสวมใส่ร่วมกับ Hero Boots-LT,\nลดระยะเวลาร่ายแบบคงที่ 0.2 วินาที,  MATK + 180\nเมื่อ Hero Boots-LT มี Grade C ขึ้นไป, MATK + 20%\nเมื่อ Hero Boots-LT มี Grade B ขึ้นไป, S.MATK + 10\nเมื่อ Hero Boots-LT มี Grade A ขึ้นไป, เมื่อโจมตีทางเวทมนตร์ มีโอกาส 3% ที่จะ SPL + 50, CON + 50, S.MATK + 20 เป็นเวลา 10 วินาที\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] ลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที\n[Grade C] เพิ่ม Damageทางเวทมนตร์ทุกธาตุ 15%\n[Grade B] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 12%\n[Grade A] ไม่ถูก Knock-back\nประเภท : ^777777Garment^000000  พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777780^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 0,
+    "weight": 80,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "hp": [
+        "8000"
+      ],
+      "sp": [
+        "300"
+      ],
+      "sMatk": [
+        "level:10---1",
+        "EQUIP[Hero Boots-LT]GRADE[boot==B]===10"
+      ],
+      "res": [
+        "level:10---7"
+      ],
+      "mres": [
+        "level:10---7"
+      ],
+      "matk": [
+        "2---20",
+        "EQUIP[Ancient Hero Boots]===60",
+        "EQUIP[Great Hero's Boots]===80",
+        "EQUIP[Hero Boots-LT]===180"
+      ],
+      "matkPercent": [
+        "3---4",
+        "EQUIP[Hero Boots-LT]GRADE[boot==C]===20"
+      ],
+      "aspdPercent": [
+        "7===15"
+      ],
+      "m_size_all": [
+        "9===15"
+      ],
+      "acd": [
+        "11===15"
+      ],
+      "m_race_all": [
+        "13===15"
+      ],
+      "fct": [
+        "EQUIP[Ancient Hero Boots]===0.2",
+        "EQUIP[Great Hero's Boots]===0.2",
+        "EQUIP[Hero Boots-LT]===0.2",
+        "GRADE[me==D]===0.3"
+      ],
+      "m_my_element_all": [
+        "GRADE[me==C]===15"
+      ],
+      "m_element_all": [
+        "GRADE[me==B]===12"
+      ],
+      "chance__spl": [
+        "EQUIP[Hero Boots-LT]GRADE[boot==A]===50"
+      ],
+      "chance__con": [
+        "EQUIP[Hero Boots-LT]GRADE[boot==A]===50"
+      ],
+      "chance__sMatk": [
+        "EQUIP[Hero Boots-LT]GRADE[boot==A]===20"
       ]
     }
   }
