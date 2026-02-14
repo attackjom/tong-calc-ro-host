@@ -6389,6 +6389,15 @@
     "script": {
       "hpPercent": [
         "-50"
+      ],
+      "chance__flatDmg": [
+        "100"
+      ],
+      "chance__aspdPercent": [
+        "30"
+      ],
+      "chance__hpPercent": [
+        "200"
       ]
     }
   },
@@ -250299,10 +250308,10 @@
     "aegisName": "DimAcc_MT",
     "flavorText": null,
     "name": "Meister Dim Crystal",
-    "unidName": null,
+    "unidName": "Meister Dim Crystal",
     "resName": "Sea_Sapphire",
-    "unidResName": null,
-    "description": "แหวนที่หลอมจากผลึกธารน้ำแข็งอันหม่นมัว\nเมื่อสวมใส่ จะเกิดการสั่นพ้องกับพลังของ Dim Glacier ปลดปล่อยพลังแฝงที่สะท้อนความหนาวเย็นอันลึกล้ำออกมา\n\nATK + 100\nลด Global Cooldown 10%\nPOW + 10\nATK + 6%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Dim Glacier Mechanic Mace,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%.\nเพิ่ม Damage สกิล Spark Blaster 15%\n\nเมื่อ Dim Glacier Mechanic Mace มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%.\nเพิ่ม Damage สกิล Spark Blaster 15%\n\nเมื่อ Dim Glacier Mechanic Mace มี Grade C ขึ้นไป,\nP.ATK + 10,\nเพิ่ม Damage สกิล Spark Blaster 20%\nประเภท : Accessory (Right) พลังป้องกัน : 0\nน้ำหนัก : 10\nเลเวลที่ต้องการ : 230\nอาชีพที่ใสได้ : Meister",
+    "unidResName": "Sea_Sapphire",
+    "description": "เมื่อสวมใส่ร่วมกับ Dim Glacier Mechanic Mace,\nเพิ่ม Damage ทางกายภาพระยะไกล 15%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Spark Blaster 4%\n\nเมื่อ Dim Glacier Mechanic Mace มี Grade C ขึ้นไป,\nลด Cooldown สกิล Spark Blaster 0.35 วินาที\n\nเมื่อ Dim Glacier Mechanic Mace มี Grade C ขึ้นไป และขั้นอัพเกรด 12 ขึ้นไป,,\nเมื่อใช้งานสกิล Spark Blaster มีโอกาส 30% ที่จะ Autospell สกิล Spark Blaster Lv.1 (เมื่อเรียนรู้สกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเพิ่ม Damage สกิล Spark Blaster 15%,\nสามารถใช้งานสกิล Power Lv.4 ได้\nประเภท : ^777777Card^000000\nอาชีพที่ใสได้ : ^777777All Slot (Enchant)^000000\nน้ำหนัก : ^7777770^000000",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -250667,5 +250676,33 @@
         "GRADE[me==A]===20"
       ]
     }
+  },
+  "16015": {
+    "id": 16015,
+    "aegisName": "Cat_Club",
+    "flavorText": null,
+    "name": "Cat Club [3]",
+    "unidName": null,
+    "resName": "고양이클럽",
+    "unidResName": null,
+    "description": "กระบองรูปเท้าแมวที่ดูเหมือนจะตีไม่เจ็บ\nเพิ่มพลังโจมตี Monster ประเภท สัตว์ 15%\nเมื่อทำการโจมตีทางกายภาพมีโอกาสเล็กน้อยที่จะทำให้ติดสถานะ Seduce\nประเภท : ^777777Club^000000 พลังโจมตี : ^77777788^000000\nน้ำหนัก : ^77777770^000000\nอาวุธ Lv : ^7777771^000000\nLv ที่ต้องการ : ^7777771^000000\nอาชีพ : ^777777Novice/Swordman Cls/Acolyte Cls/Merchant Cls^000000",
+    "slots": 3,
+    "itemTypeId": 1,
+    "itemSubTypeId": 263,
+    "itemLevel": 1,
+    "attack": 88,
+    "defense": null,
+    "weight": 70,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Novice",
+      "Swordman",
+      "Acolyte",
+      "Merchant"
+    ],
+    "script": {}
   }
 }
