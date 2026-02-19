@@ -80192,6 +80192,50 @@
       ]
     }
   },
+    "300757": {
+      "id": 300757,
+      "aegisName": null,
+      "flavorText": null,
+      "name": "Upgrade Dragon Knight Card",
+      "unidName": "Upgrade Dragon Knight Card",
+      "resName": "이름없는카드",
+      "unidResName": null,
+      "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Dragon Knight,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 20%,\nMaxHP + 20%,\nATK + 100\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+      "slots": 0,
+      "itemTypeId": 6,
+      "itemSubTypeId": 0,
+      "itemLevel": null,
+      "attack": null,
+      "defense": null,
+      "weight": 1,
+      "requiredLevel": null,
+      "location": null,
+      "compositionPos": 4,
+      "canGrade": false,
+      "usableClass": [],
+      "script": {
+        "p_size_all": [
+          "3---5"
+        ],
+        "allStatus": [
+          "SUM[level==200]===20",
+          "10===20"
+        ],
+        "allTrait": [
+          "SUM[level==200]===5",
+          "10===5"
+        ],
+        "p_race_all": [
+          "USED[DragonKnight]20"
+        ],
+        "atk": [
+          "USED[DragonKnight]100"
+        ],
+        "hpPercent": [
+          "USED[DragonKnight]20"
+        ]
+      }
+  },
   "300568": {
     "id": 300568,
     "aegisName": null,
@@ -250704,5 +250748,209 @@
       "Merchant"
     ],
     "script": {}
+  },
+    "300754": {
+    "id": 300754,
+    "aegisName": "Upgrade Memory of Thanatos Card",
+    "flavorText": null,
+    "name": "Upgrade Memory of Thanatos Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทำให้อาวุธที่สวมใส่การ์ดนี้มีผลเหมือนกับสกิล Infiltration\nเสีย SP 3 ทุกครั้งที่โจมตี\nDEF - 100, FLEE - 100\n\nเมื่อ Weapon Lv.5,\nทุก ๆ การอัพเกรด 1 ขั้น, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 1%, เพิกเฉย RES ของมอนเตอร์ทุกเผ่า 1%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [],
+    "script": {
+      "p_infiltration": [
+        "1"
+      ],
+      "def": [
+        "-30"
+      ],
+      "flee": [
+        "-30"
+      ],
+      "p_element_all": [
+        "1---1"
+      ],
+      "pene_res": [
+        "1---1"
+      ]
+    }
+  },
+  "300755": {
+    "id": 300755,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Berzebub Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ลดระยะเวลาร่ายแบบแปรผัน 50%,\nP.ATK, S.MATK +5,\nเพิ่มปริมาณการใช้ SP 20%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Accessory^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 136,
+    "canGrade": false,
+    "usableClass": [],
+    "script": {
+      "vct": [
+        "50"
+      ],
+      "pAtk": [ "5" ],
+      "sMatk": [ "5" ]
+    }
+  },
+  "300756": {
+    "id": 300756,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Kiel-D-01 Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ลด Global Cooldown  35%\n\nเมื่อ Armor Lv.2,\nทุก ๆ การอัพเกรด 2 ขั้น, เพิ่ม Damage ทางกายภาพและเวทมนตร์ต่อศัตรูประเภท Boss 2%\nATK, MATK + 10\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Headgear^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 769,
+    "canGrade": false,
+    "usableClass": [],
+    "script": {
+      "acd": [
+        "35"
+      ],
+      "p_class_boss": [
+        "2---2"
+      ],
+      "m_class_boss": [
+        "2---2"
+      ],
+      "atk": [
+        "2---10"
+      ],
+      "matk": [
+        "2---10"
+      ]
+    }
+  },
+  "300758": {
+    "id": 300758,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Troubadour Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Troubadour/Trouvere,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 20%, \nMaxHP + 20%,\nMATK + 100\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "usableClass": [],
+    "script": {
+      "m_my_element_all": [
+        "3---5"
+      ],
+      "allStatus": [
+        "SUM[level==200]===20",
+        "10===20"
+      ],
+      "allTrait": [
+        "SUM[level==200]===5",
+        "10===5"
+      ],
+      "m_race_all": [
+        "USED[Troubadour]20"
+      ],
+      "matk": [
+        "USED[Troubadour]100"
+      ],
+      "hpPercent": [
+        "USED[Troubadour]20"
+      ]
+    }
+  },
+  "300759": {
+    "id": 300759,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Imperial Guard Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Imperial Guard,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 15%,\nMaxHP + 20%,\nATK, MATK +100\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "usableClass": [],
+    "script": {
+      "allStatus": [
+        "SUM[level==200]===20",
+        "10===20"
+      ],
+      "allTrait": [
+        "SUM[level==200]===5",
+        "10===5"
+      ],
+      "hpPercent": [
+        "USED[ImperialGuard]20"
+      ],
+      "atk": [
+        "USED[ImperialGuard]100"
+      ],
+      "matk": [
+        "USED[ImperialGuard]100"
+      ],
+      "m_race_all": [
+        "USED[ImperialGuard]15"
+      ],
+      "p_race_all": [
+        "USED[ImperialGuard]15"
+      ],
+      "p_size_all": [
+        "3---5"
+      ],
+      "m_size_all": [
+        "3---5"
+      ]
+    }
   }
 }
