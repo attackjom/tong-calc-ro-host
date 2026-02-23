@@ -250890,13 +250890,13 @@
         "10===5"
       ],
       "m_race_all": [
-        "USED[Troubadour]20"
+        "USED[Troubadour||Trouvere]20"
       ],
       "matk": [
-        "USED[Troubadour]100"
+        "USED[Troubadour||Trouvere]100"
       ],
       "hpPercent": [
-        "USED[Troubadour]20"
+        "USED[Troubadour||Trouvere]20"
       ]
     }
   },
