@@ -247037,10 +247037,10 @@
     "aegisName": "NY_Enchant_2026",
     "flavorText": null,
     "name": "Snow Energy Booster",
-    "unidName": null,
+    "unidName": "Snow Energy Booster",
     "resName": "Bar_D_Ic_Energy",
-    "unidResName": null,
-    "description": "P.ATK + 30, S.MATK + 30\nเพิ่ม Damage สกิล Hack and Slash, Dragonic Breath, Cross Rain, Overslash, Soul Vulcan Strike, Crystal Impact, Conflagration, Lightning Land, Petitio, Arbitrium, Explosion Blaster, Third Flame Bomb, Triple Laser, Mighty Smash, Mayhemic Thorns, Explosive Powder, Impact Crater, Savage Impact, Frenzy Shot, Abyss Square, Crescive Bolt, Gale Storm, Metallic Fury, Rose Blossom, Darkening Cannon, Huuma Shuriken - Construct, Midnight Kick, Noon Blast, Exorcism of Malicious Soul, Talisman of Red Phoenix, Napalm Vulcan Strike, Mega Sonic Blow, Hyunrok Breeze, Hogogong Strike, Spiral Shooting, Only One Bullet, The Vigilante at Night 100%\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 25 กุมภาพันธ์ 2569)\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Slot 1 (Enchant)^000000\nน้ำหนัก : ^7777770^000000",
+    "unidResName": "Bar_D_Ic_Energy",
+    "description": "",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -247052,125 +247052,7 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {
-      "pAtk": [
-        "30"
-      ],
-      "sMatk": [
-        "30"
-      ],
-      "Hack and Slasher": [
-        "100"
-      ],
-      "Dragonic Breath": [
-        "100"
-      ],
-      "Cross Rain": [
-        "100"
-      ],
-      "Overslash": [
-        "100"
-      ],
-      "Soul Vulcan Strike": [
-        "100"
-      ],
-      "Crystal Impact": [
-        "100"
-      ],
-      "Conflagration": [
-        "100"
-      ],
-      "Lightning Land": [
-        "100"
-      ],
-      "Petitio": [
-        "100"
-      ],
-      "Arbitrium": [
-        "100"
-      ],
-      "Explosion Blaster": [
-        "100"
-      ],
-      "Third Flame Bomb": [
-        "100"
-      ],
-      "Triple Laser": [
-        "100"
-      ],
-      "Mighty Smash": [
-        "100"
-      ],
-      "Mayhemic Thorns": [
-        "100"
-      ],
-      "Explosive Powder": [
-        "100"
-      ],
-      "Impact Crater": [
-        "100"
-      ],
-      "Savage Impact": [
-        "100"
-      ],
-      "Frenzy Shot": [
-        "100"
-      ],
-      "Abyss Square": [
-        "100"
-      ],
-      "Crescive Bolt": [
-        "100"
-      ],
-      "Gale Storm": [
-        "100"
-      ],
-      "Metallic Fury": [
-        "100"
-      ],
-      "Rose Blossom": [
-        "100"
-      ],
-      "Darkening Cannon": [
-        "100"
-      ],
-      "Huuma Shuriken - Construct": [
-        "100"
-      ],
-      "Midnight Kick": [
-        "100"
-      ],
-      "Noon Blast": [
-        "100"
-      ],
-      "Exorcism of Malicious Soul": [
-        "100"
-      ],
-      "Talisman of Red Phoenix": [
-        "100"
-      ],
-      "Napalm Vulcan Strike": [
-        "100"
-      ],
-      "Mega Sonic Blow": [
-        "100"
-      ],
-      "Hyunrok Breeze": [
-        "100"
-      ],
-      "Hogogong Strike": [
-        "100"
-      ],
-      "Spiral Shooting": [
-        "100"
-      ],
-      "Only One Bullet": [
-        "100"
-      ],
-      "The Vigilante at Night": [
-        "100"
-      ]
-    }
+    "script": {}
   },
   "9068": {
     "id": 9068,
@@ -247180,7 +247062,7 @@
     "unidName": "Blue Unicorn Egg",
     "resName": "수속성알",
     "unidResName": "수속성알",
-    "description": "ไข่ที่มี Q-Pet Blue Unicorn Egg อยู่ภายใน สามารถปลุกให้ตื่นขึ้นมาได้ด้วย [Pet Incubator]\n\nหากความสัมพันธ์อยู่ระดับไม่คุ้นเคยหรือเขินอาย P.ATK + 1, S.MATK + 1\nหากความสัมพันธ์อยู่ระดับปกติ P.ATK + 2, S.MATK + 2, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 1%\nหากความสัมพันธ์อยู่ระดับเป็นมิตร P.ATK + 3, S.MATK + 3, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 3%\nหากความสัมพันธ์อยู่ระดับสนิทสนม P.ATK + 5, S.MATK + 5, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 5%\n\n[ความสามารถจำกัดเวลา]\nสามารถใช้งานสกิล Back Slide Lv.1 ได้,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภท Boss 20%\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 25 กุมภาพันธ์ 2569)\nประเภท : Monster Egg",
+    "description": "ไข่ที่มี Q-Pet Blue Unicorn Egg อยู่ภายใน สามารถปลุกให้ตื่นขึ้นมาได้ด้วย [Pet Incubator]\n\nหากความสัมพันธ์อยู่ระดับไม่คุ้นเคยหรือเขินอาย P.ATK + 1, S.MATK + 1\nหากความสัมพันธ์อยู่ระดับปกติ P.ATK + 2, S.MATK + 2, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 1%\nหากความสัมพันธ์อยู่ระดับเป็นมิตร P.ATK + 3, S.MATK + 3, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 3%\nหากความสัมพันธ์อยู่ระดับสนิทสนม P.ATK + 5, S.MATK + 5, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 5%\nประเภท : Monster Egg",
     "slots": 0,
     "itemTypeId": 2,
     "itemSubTypeId": 518,
@@ -247206,12 +247088,6 @@
       ],
       "m_race_all": [
         "5"
-      ],
-      "p_class_boss": [
-        "20"
-      ],
-      "m_class_boss": [
-        "20"
       ]
     }
   },
@@ -251701,91 +251577,91 @@
         "level:3---1"
       ],
       "melee": [
-        "EQUIP[Raven Of Tomb]SUM[str==10]---1"
+        "EQUIP[Raven Of Tomb-LT]SUM[str==10]---1"
       ],
       "acd": [
-        "EQUIP[Raven Of Tomb]SUM[agi==10]---1"
+        "EQUIP[Raven Of Tomb-LT]SUM[agi==10]---1"
       ],
       "hpPercent": [
-        "EQUIP[Raven Of Tomb]SUM[vit==10]---1"
+        "EQUIP[Raven Of Tomb-LT]SUM[vit==10]---1"
       ],
       "aspdPercent": [
-        "EQUIP[Raven Of Tomb]SUM[vit==10]---1"
+        "EQUIP[Raven Of Tomb-LT]SUM[vit==10]---1"
       ],
       "m_size_all": [
-        "EQUIP[Raven Of Tomb]SUM[int==10]---1"
+        "EQUIP[Raven Of Tomb-LT]SUM[int==10]---1"
       ],
       "range": [
-        "EQUIP[Raven Of Tomb]SUM[dex==10]---1"
+        "EQUIP[Raven Of Tomb-LT]SUM[dex==10]---1"
       ],
       "atk": [
-        "EQUIP[Raven Of Tomb]SUM[luk==10]---6"
+        "EQUIP[Raven Of Tomb-LT]SUM[luk==10]---6"
       ],
       "matk": [
-        "EQUIP[Raven Of Tomb]SUM[luk==10]---6"
+        "EQUIP[Raven Of Tomb-LT]SUM[luk==10]---6"
       ],
       "p_class_all": [
-        "EQUIP[Raven Of Tomb]SUM[str,agi,vit,int,dex,luk==600]===15"
+        "EQUIP[Raven Of Tomb-LT]SUM[str,agi,vit,int,dex,luk==600]===15"
       ],
       "m_class_all": [
-        "EQUIP[Raven Of Tomb]SUM[str,agi,vit,int,dex,luk==600]===15"
+        "EQUIP[Raven Of Tomb-LT]SUM[str,agi,vit,int,dex,luk==600]===15"
       ],
       "Dragonic Breath": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ],
       "Overslash": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ],
       "Mystery Illusion": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ],
       "Venom Swamp": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ],
       "Spark Blaster": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ],
       "Explosive Powder": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ],
       "Eternal Slash": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ],
       "Abyss Square": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ],
       "Arbitrium": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ],
       "Explosion Blaster": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ],
       "Gale Storm": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ],
       "Rhythm Shooting": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ],
       "Star Cannon": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ],
       "Exorcism of Malicious Soul": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ],
       "Shadow Flash": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ],
       "Red Flame Cannon": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ],
       "Magazine for One": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ],
       "Chulho Sonic Claw": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ],
       "Jupitel Thunderstorm": [
-        "EQUIP[Raven of Tomb-LT]===25"
+        "EQUIP[Raven Of Tomb-LT]===25"
       ]
     }
   },
