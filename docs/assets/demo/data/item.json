@@ -251888,5 +251888,185 @@
         "GRADE[me==A]===25"
       ]
     }
+  },
+  "550195": {
+    "id": 550195,
+    "aegisName": "Was",
+    "flavorText": null,
+    "name": "Was [2]",
+    "unidName": "Was",
+    "resName": "Was",
+    "unidResName": "롯드",
+    "description": "MATK + 270, Can't be destroyed.,\r\nIncreases Talisman of White Tiger and Talisman of Black Tortoise damage by 15%.,\r\nEvery 2 refine rate, MATK + 20, MATK + 1%, increases Talisman of White Tiger and Talisman of Black Tortoise damage by 4%.,\r\nIf refine rate is 7 or higher, increases water, wind, earth and fire property magical damage by 25%, increases Talisman of Four Bearing God damage by additional 25%.,\r\nIf refine rate is 9 or higher, S.MATK + 7, reduces variable casting time by 10%.,\r\nIf refine rate is 12 or higher, increases Talisman of White Tiger and Talisman of Black Tortoise damage by additional 20%, if grade is A or higher, and Talisman of White Tiger is learned at level 5 or higher.,\r\nincreases Talisman of White Tiger, Talisman of Black Tortoise and Talisman of Four Bearing God damage by 25%.,\r\nincreases water, wind, earth, fire, neutral, shadow, ghost and holy property magical damage by 20%.,\r\nwhen using Talisman of White Tiger, auto-cast Talisman of Black Tortoise level 5 (Talisman of Black Tortoise is centered on the user).,\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 7, increases neutral, shadow, ghost and holy property magical damage by 25%.,\r\n[Grade C] Increases Talisman of White Tiger and Talisman of Black Tortoise damage by 15%.,\r\n[Grade B] MATK + 7%, S.MATK + 5.,\r\n[Grade A] S.MATK + 15.,\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.,\r\nClass: ^777777One-handed Staff^000000,\r\nAttack: ^777777100^000000,\r\nWeight: ^777777220^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Soul Ascetic^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 265,
+    "itemLevel": 5,
+    "attack": 100,
+    "defense": null,
+    "weight": 180,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "SoulAscetic"
+    ],
+    "script": {
+      "matk": [
+        "270",
+        "2---20"
+      ],
+      "Talisman of White Tiger": [
+        "15",
+        "2---4",
+        "12===20",
+        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===25",
+        "GRADE[me==C]===15"
+      ],
+      "Talisman of Black Tortoise": [
+        "15",
+        "2---4",
+        "12===20",
+        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===25",
+        "GRADE[me==C]===15"
+      ],
+      "matkPercent": [
+        "2---1",
+        "7===25",
+        "GRADE[me==B]===7"
+      ],
+      "m_my_element_water": [
+        "7===25",
+        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===20"
+      ],
+      "m_my_element_wind": [
+        "7===25",
+        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===20"
+      ],
+      "m_my_element_earth": [
+        "7===25",
+        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===20"
+      ],
+      "m_my_element_fire": [
+        "7===25",
+        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===20"
+      ],
+      "Talisman of Four Bearing God": [
+        "7===25",
+        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===25"
+      ],
+      "sMatk": [
+        "9===7",
+        "GRADE[me==D]===7",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===15"
+      ],
+      "vct": [
+        "9===10"
+      ],
+      "m_my_element_dark": [
+        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===20",
+        "GRADE[me==D]===25"
+      ],
+      "m_my_element_neutral": [
+        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===20",
+        "GRADE[me==D]===25"
+      ],
+      "m_my_element_ghost": [
+        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===20",
+        "GRADE[me==D]===25"
+      ],
+      "m_my_element_holy": [
+        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===20",
+        "GRADE[me==D]===25"
+      ]
+    }
+  },
+  "300733": {
+    "id": 300733,
+    "aegisName": "CLB_GAT_card2",
+    "flavorText": null,
+    "name": "Character Corps Card",
+    "unidName": "Character Corps Card",
+    "resName": "이름없는카드",
+    "unidResName": "이름없는카드",
+    "description": "MATK +10, DEF +3, MDEF +1 per BaseLv 10.,\r\n(Applies up to BaseLv 200).,\r\n\r\n^ffffff^4D4DFF[Event Limited Option]^000000^000000,\r\nIncreases Physical/Magical Damage against all races by 10% (Players excluded).,\r\nIncreases Physical/Magical Damage against all sizes by 10%.,\r\nIncreases EXP gained from monster hunting by 15%.,\r\nIncreases Item Drop Rate by 7%.,\r\n(Event option will be removed during the first regular maintenance in April 2026.).,\r\n\r\nClass: ^777777Card^000000,\r\nEquip: ^777777Garment^000000,\r\nWeight: ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "script": {
+      "matk": [
+        "level:10(1-200)---10"
+      ],
+      "def": [
+        "level:10(1-200)---3"
+      ],
+      "mdef": [
+        "level:10(1-200)---1"
+      ],
+      "p_race_all": [
+        "10"
+      ],
+      "m_race_all": [
+        "10"
+      ],
+      "p_size_all": [
+        "10"
+      ],
+      "m_size_all": [
+        "10"
+      ]
+    }
+  },
+  "9109": {
+    "id": 9109,
+    "aegisName": "Sweets_Drops_Egg",
+    "flavorText": null,
+    "name": "Sweet Drops Egg KRO",
+    "unidName": "Sweet Drops Egg KRO",
+    "resName": "하트스크롤",
+    "unidResName": "하트스크롤",
+    "description": "An egg in which a cute Switch Drops is sleeping. Using a [Portable Egg Incubator] can hatch the monster inside.,\r\n\r\nWhen intimacy is Loyal, EXP obtained from monsters +1%.,\r\n\r\n^ffffff^4D4DFF[Event Limited Option]^000000^000000,\r\nRegardless of intimacy, ATK +20, MATK +20, HIT +20, CRI +5.,\r\nPhysical/Magic Damage to all elements +7%.,\r\nPhysical/Magic Damage to all races +7% (excluding players).,\r\n(Event limited options will be removed when the event ends.).,\r\n\r\nClass: ^777777Monster Egg^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 518,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "20"
+      ],
+      "matk": [
+        "20"
+      ],
+      "p_race_all": [
+        "7"
+      ],
+      "m_race_all": [
+        "7"
+      ],
+      "p_element_all": [
+        "7"
+      ],
+      "m_element_all": [
+        "7"
+      ]
+    }
   }
 }
