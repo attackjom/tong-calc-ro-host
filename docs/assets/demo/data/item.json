@@ -229643,7 +229643,7 @@
       "Eternal Slash": [
         "EQUIP[Guillotine Cross Stone (Middle)]===10"
       ],
-      "cri": [
+      "cRate": [
         "EQUIP[Guillotine Cross Stone (Lower)]LEARN_SKILL[Shadow Sense==1]---1"
       ]
     }
@@ -246416,12 +246416,16 @@
       "hp": [
         "250",
         "EQUIP[Eden Group Boots]level:1(1-200)---10",
-        "EQUIP[Eden Group Advanced Boots]level:1(1-200)---25"
+        "EQUIP[Eden Group Advanced Boots]level:1(1-200)---25",
+        "EQUIP[Eden Group Shoes]level:1(1-200)---10",
+        "EQUIP[Eden Group Advanced Shoes]level:1(1-200)---25"
       ],
       "sp": [
         "150",
         "EQUIP[Eden Group Shoes]level:1(1-200)---2",
-        "EQUIP[Eden Group Advanced Shoes]level:1(1-200)---5"
+        "EQUIP[Eden Group Boots]level:1(1-200)---2",
+        "EQUIP[Eden Group Advanced Shoes]level:1(1-200)---5",
+        "EQUIP[Eden Group Advanced Boots]level:1(1-200)---5"
       ],
       "aspdPercent": [
         "EQUIP[Eden Group Boots]===10",
@@ -249559,35 +249563,6 @@
       ]
     }
   },
-  "410368": {
-    "id": 410368,
-    "aegisName": "C_Perm_Frost_Oblivion",
-    "flavorText": null,
-    "name": "Costume Permafrost Oblivion",
-    "unidName": null,
-    "resName": "Perm_Frost_Oblivion",
-    "unidResName": null,
-    "description": "น้ำแข็งที่เชื่อกันว่าได้รับมอบให้เป็นหลักฐานแห่งความโปรดปรานจากผู้ปกครองดินแดนน้ำแข็งนิรันดร์ Permafrost\n\nลด Global Cooldown 30%,\nลดเวลาร่ายแบบแปรผัน 100%,\nเมื่อถูกโจมตีทางกายภาพ มีโอกาส 30% ที่สกิล Rain of Crystal Lv.5 จะทำงาน\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบออกหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 11 กุมภาพันธ์ 2569)\n^ffffff^4D4DFF[Designer Heidam]^000000^000000\n^b4b4b4สามารถแลกเปลี่ยนเป็น Costume Enchant Stone Box 30 ได้^000000\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 520,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": "Middle",
-    "compositionPos": null,
-    "canGrade": false,
-    "script": {
-      "acd": [
-        "30"
-      ],
-      "vct": [
-        "100"
-      ]
-    }
-  },
   "1270188": {
     "id": 1270188,
     "aegisName": "S_BP9_Melee_A",
@@ -251759,7 +251734,7 @@
     "compositionPos": null,
     "canGrade": true,
     "script": {
-      "allTraits": [
+      "allTrait": [
         "5"
       ],
       "atk": [
@@ -252066,6 +252041,115 @@
       ],
       "m_element_all": [
         "7"
+      ]
+    }
+  },
+  "410556": {
+    "id": 410556,
+    "aegisName": "C_Emperor_Penguin",
+    "flavorText": null,
+    "name": "Costume Emperor Penguin",
+    "unidName": "Ribbon",
+    "resName": "C_Emperor_Penguin",
+    "unidResName": "리본",
+    "description": "เพนกวินจักรพรรดิสุดน่ารัก สัญลักษณ์แห่งความสง่างามแห่งแดนน้ำแข็ง\nให้ลุคโดดเด่นและอบอุ่นไปพร้อมกัน ราวกับผู้นำแห่งฝูงเพนกวินผู้ยิ่งใหญ่\n\nATK, MATK + 100\nเพิกเฉยต่อ RES , MRES ของศัตรูทุกเผ่า 50%\nเมื่อกำจัดมอนเตอร์ มีโอกาส 0.3% ที่จะได้รับ Snow Flower Petal\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 8 เมษายน 2569)\n^ffffff^4D4DFF[Designer Heidam]^000000^000000\n^b4b4b4สามารถแลกเปลี่ยนเป็น Costume Enchant Stone Box 31 ได้^000000\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 520,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": "Middle",
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "matk": [
+        "100"
+      ],
+      "pene_res": [
+        "50"
+      ],
+      "pene_mres": [
+        "50"
+      ]
+    }
+  },
+  "490947": {
+    "id": 490947,
+    "aegisName": "SnowPromised_Ring_TH",
+    "flavorText": null,
+    "name": "Ring of the Frozen Promise [1]",
+    "unidName": "Ring of the Frozen Promise",
+    "resName": "Ring_of_Artemis",
+    "unidResName": "Ring_of_Artemis",
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nแหวนแห่งคำมั่นสัญญาที่ถูกแช่แข็งเอาไว้ใน Issgard รอคอยที่จะปลดปล่อยพลังเพื่อรับใช้ผู้สวมใส่\n\nAll Status + 5\nATK/MATK + 15%\nลด Global Cooldown 10%\nMaxHP/MaxSP + 10%\n\nเมื่อสวมใส่ร่วมกับ Snow Flower Pendant\nAll Trait + 3,\nมีโอกาส 3% ที่จะดูดซับ SP 1% จากความเสียหายที่ทำได้,\nเพิ่ม Damage ทางกายภาพต่อศัตรูประเภท Boss 20%\n\nเมื่อสวมใส่ร่วมกับ Snow Flower Ring,\nAll Trait + 3,\nCRI +15, HIT +15,\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 20%\n\nเมื่อสวมใส่ร่วมกับ Snow Flower Earring,\nAll Trait + 3,\nลด Global Cooldown 10%,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูประเภท Boss 20%\n\nเมื่อสวมใส่ร่วมกับ Snow Flower Necklace,\nAll Trait + 3,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 20%,\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\n\nประเภท : ^777777Accessory^000000  พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777210^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 517,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 210,
+    "location": null,
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "allStatus": [
+        "5"
+      ],
+      "atkPercent": [
+        "15"
+      ],
+      "matkPercent": [
+        "15"
+      ],
+      "acd": [
+        "10",
+        "EQUIP[Snow Flower Earring]===10"
+      ],
+      "hpPercent": [
+        "10"
+      ],
+      "spPercent": [
+        "10"
+      ],
+      "allTrait": [
+        "EQUIP[Snow Flower Pendant]===3",
+        "EQUIP[Snow Flower Ring]===3",
+        "EQUIP[Snow Flower Earring]===3",
+        "EQUIP[Snow Flower Necklace]===3"
+      ],
+      "p_class_boss": [
+        "EQUIP[Snow Flower Pendant]===20"
+      ],
+      "cri": [
+        "EQUIP[Snow Flower Ring]===15"
+      ],
+      "hit": [
+        "EQUIP[Snow Flower Ring]===15"
+      ],
+      "melee": [
+        "EQUIP[Snow Flower Ring]===15"
+      ],
+      "range": [
+        "EQUIP[Snow Flower Ring]===15"
+      ],
+      "m_class_boss": [
+        "EQUIP[Snow Flower Earring]===20"
+      ],
+      "m_element_all": [
+        "EQUIP[Snow Flower Necklace]===20"
+      ],
+      "fct": [
+        "EQUIP[Snow Flower Necklace]===0.5"
       ]
     }
   }
