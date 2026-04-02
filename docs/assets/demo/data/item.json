@@ -253072,5 +253072,26 @@
         "EQUIP[Dim Glacier Bow]GRADE[weapon==c]===1.2"
       ]
     }
-  }
+  },
+  "4132": {
+    "id": 4132,
+    "aegisName": "Mistress_Card",
+    "flavorText": null,
+    "name": "Mistress Card",
+    "unidName": "Card",
+    "resName": "이름없는카드",
+    "unidResName": "이름없는카드",
+    "description": "สามารถร่ายเวทมนตร์ได้โดยไม่ใช้ Gemstone\nเสีย SP ในการใช้ Skill เพิ่มขึ้น 25%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Headgear^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 769,
+    "script": {}
+  },
 }
