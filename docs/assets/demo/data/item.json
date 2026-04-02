@@ -47870,10 +47870,12 @@
   "24755": {
     "id": 24755,
     "aegisName": "S_Concentration_Weapon",
+    "flavorText": null,
     "name": "Concentration Shadow Weapon",
     "unidName": "Shadow Weapon",
     "resName": "웨폰쉐도우",
-    "description": "CON + 1 per refine rate.\nIf refine rate is 7 or higher, P.Atk + 2, S.Matk + 2.\nIf refine rate is 9 or higher, additional P.Atk + 2, S.Matk + 2.\nWhen equipped with Concentration Shadow Shield, P.Atk + 2, S.Matk + 2.\nClass: ^777777Shadow Equipment^000000\nLocation: ^777777Weapon^000000 Weight: ^7777770^000000\nRequired Level: ^7777771^000000\nJobs: ^777777All^000000",
+    "unidResName": "웨폰쉐도우",
+    "description": "ถุงมือที่สวมใส่กับมือที่ถืออาวุธ เพื่อดึงศักยภาพของผู้สวมใส่ออกมา\nทุก ๆ การอัพเกรด 1 ขั้น CON + 1\nเมื่ออัพเกรดถึงขั้น 7, P.ATK + 2, S.MATK + 2\nเมื่ออัพเกรดถึงขั้น 9, P.ATK + 2, S.MATK + 2 เพิ่มเติม\n \nเมื่อสวมใส่ร่วมกับ Concentration Shadow Shield, P.ATK + 2, S.MATK + 2\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Weapon^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 280,
@@ -47906,10 +47908,12 @@
   "24756": {
     "id": 24756,
     "aegisName": "S_Concentration_Shield",
+    "flavorText": null,
     "name": "Concentration Shadow Shield",
     "unidName": "Shadow Shield",
     "resName": "쉴드쉐도우",
-    "description": "CON + 1 per refine rate.\nIf refine rate is 7 or higher, P.Atk + 2, S.Matk + 2.\nIf refine rate is 9 or higher, additional P.Atk + 2, S.Matk + 2.\nClass: ^777777Shadow Equipment^000000\nLocation: ^777777Shield^000000 Weight: ^7777770^000000\nRequired Level: ^7777771^000000\nJobs: ^777777All^000000",
+    "unidResName": "쉴드쉐도우",
+    "description": "โล่ขนาดเล็กที่สามารถสวมใส่ที่แขนเพื่อเพิ่มประสิทธิภาพในการป้องกัน สามารถใช้เดี่ยว ๆ ได้แต่ประสิทธิภาพในการป้องกันจะต่ำ\nทุก ๆ การอัพเกรด 1 ขั้น CON + 1\nเมื่ออัพเกรดถึงขั้น 7, P.ATK + 2, S.MATK + 2\nเมื่ออัพเกรดถึงขั้น 9, P.ATK + 2, S.MATK + 2 เพิ่มเติม\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Shield^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 527,
@@ -48070,10 +48074,12 @@
   "24761": {
     "id": 24761,
     "aegisName": "S_Creative_Weapon",
+    "flavorText": null,
     "name": "Creative Shadow Weapon",
     "unidName": "Shadow Weapon",
     "resName": "웨폰쉐도우",
-    "description": "CRT + 1 per 2 refine rate.\nIf refine rate is 7 or higher, C.Rate + 2, H.Plus + 2.\nIf refine rate is 9 or higher, additional C.Rate + 2, H.Plus + 2.\nWhen equipped with Creative Shield, C.Rate + 2, H.Plus + 2.\nClass: ^777777Shadow Equipment^000000\nLocation: ^777777Weapon^000000 Weight: ^7777770^000000\nRequired Level: ^7777771^000000\nJobs: ^777777All^000000",
+    "unidResName": "웨폰쉐도우",
+    "description": "ถุงมือที่สวมใส่กับมือที่ถืออาวุธ เพื่อดึงศักยภาพของผู้สวมใส่ออกมา\nทุก ๆ การอัพเกรด 2 ขั้น CRT + 1\nเมื่ออัพเกรดถึงขั้น 7, C.RATE + 2, H.PLUS + 2\nเมื่ออัพเกรดถึงขั้น 9, C.RATE + 2, H.PLUS + 2 เพิ่มเติม\n \nเมื่อสวมใส่ร่วมกับ Creative Shadow Shield, C.RATE + 2, H.PLUS + 2\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Weapon^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 280,
@@ -48106,10 +48112,12 @@
   "24762": {
     "id": 24762,
     "aegisName": "S_Creative_Shield",
+    "flavorText": null,
     "name": "Creative Shadow Shield",
     "unidName": "Shadow Shield",
     "resName": "쉴드쉐도우",
-    "description": "CRT + 1 per 2 refine rate.\nIf refine rate is 7 or higher, C.Rate + 2, H.Plus + 2.\nIf refine rate is 9 or higher, additional C.Rate + 2, H.Plus + 2.\nClass: ^777777Shadow Equipment^000000\nLocation: ^777777Shield^000000 Weight: ^7777770^000000\nRequired Level: ^7777771^000000\nJobs: ^777777All^000000",
+    "unidResName": "쉴드쉐도우",
+    "description": "โล่ขนาดเล็กที่สามารถสวมใส่ที่แขนเพื่อเพิ่มประสิทธิภาพในการป้องกัน สามารถใช้เดี่ยว ๆ ได้แต่ประสิทธิภาพในการป้องกันจะต่ำ\nทุก ๆ การอัพเกรด 2 ขั้น CRT + 1\nเมื่ออัพเกรดถึงขั้น 7, C.RATE + 2, H.PLUS + 2\nเมื่ออัพเกรดถึงขั้น 9, C.RATE + 2, H.PLUS + 2 เพิ่มเติม\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Shield^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 527,
@@ -128670,10 +128678,12 @@
   "312649": {
     "id": 312649,
     "aegisName": "Justice_Vigor_MT",
+    "flavorText": "",
     "name": "Good Vigor (Meister)",
     "unidName": "Good Vigor (Meister)",
     "resName": "C_160LV_Mechanic_Gold",
-    "description": "When equipped with Good Spell,\r\nincreases Mighty Smash damage by 20%,\r\nincreases Axe Stomp damage by 40%,\r\nincreases physical damage against all property enemies by 20%,\r\nincreases attack speed (reduces delay after attack by 5%).",
+    "unidResName": "C_160LV_Mechanic_Gold",
+    "description": "เมื่อสวมใส่ร่วมกับ Good Spell,\nเพิ่ม Damage สกิล Mighty Smash 20%, เพิ่ม Damage สกิล Axe Stomp 40%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 20%, ASPD + 5%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -128702,10 +128712,12 @@
   "312650": {
     "id": 312650,
     "aegisName": "Justice_Vigor_SHC",
+    "flavorText": "",
     "name": "Good Vigor (Shadow Cross)",
     "unidName": "Good Vigor (Shadow Cross)",
     "resName": "C_160LV_Mechanic_Gold",
-    "description": "When equipped with Good Spell,\r\nincreases Eternal Slash damage by 20%,\r\nincreases Savage Impact damage by 40%,\r\nincreases physical damage against all property enemies by 20%,\r\nCri + 5.",
+    "unidResName": "C_160LV_Mechanic_Gold",
+    "description": "เมื่อสวมใส่ร่วมกับ Good Spell,\nเพิ่ม Damage สกิล Eternal Slash 20%, เพิ่ม Damage สกิล Savage Impact 40%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 20%, CRI + 5",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -128768,10 +128780,12 @@
   "312652": {
     "id": 312652,
     "aegisName": "Injustice_Vigor_MT",
+    "flavorText": "",
     "name": "Evil Vigor (Meister)",
     "unidName": "Evil Vigor (Meister)",
     "resName": "C_160LV_Warlock_Violet",
-    "description": "When equipped with Evil Spell,\r\nincreases Triple Laser damage by 30%,\r\nincreases critical damage by 20%,\r\nincreases physical damage against all property enemies by 20%,\r\nCri + 5.",
+    "unidResName": "C_160LV_Warlock_Violet",
+    "description": "เมื่อสวมใส่ร่วมกับ Evil Spell,\nเพิ่ม Damage สกิล Triple Laser 30%, Critical Damage + 20%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 20%, CRI + 5",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -128800,10 +128814,12 @@
   "312653": {
     "id": 312653,
     "aegisName": "Injustice_Vigor_SHC",
+    "flavorText": "",
     "name": "Evil Vigor (Shadow Cross)",
     "unidName": "Evil Vigor (Shadow Cross)",
     "resName": "C_160LV_Warlock_Violet",
-    "description": "When equipped with Evil Spell,\r\nincreases Impact Crater damage by 30%,\r\nincreases critical damage by 20%,\r\nincreases physical damage against all property enemies by 20%,\r\nincreases attack speed (reduces delay after attack by 5%).",
+    "unidResName": "C_160LV_Warlock_Violet",
+    "description": "เมื่อสวมใส่ร่วมกับ Evil Spell,\nเพิ่ม Damage สกิล Impact Crater 30%, Critical Damage + 20%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 20%, ASPD + 5%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -129556,10 +129572,12 @@
   "312685": {
     "id": 312685,
     "aegisName": "Justice_Vigor_ABC",
+    "flavorText": "",
     "name": "Good Vigor (Abyss Chaser)",
     "unidName": "Good Vigor (Abyss Chaser)",
     "resName": "C_160LV_Mechanic_Gold",
-    "description": "When equipped with Good Spell,\r\nincreases Abyss Dagger damage by 20%,\r\nincreases Deft Stab damage by 40%,\r\nincreases physical damage against all property enemies by 20%,\r\nincreases attack speed (reduces delay after attack by 5%).",
+    "unidResName": "C_160LV_Mechanic_Gold",
+    "description": "เมื่อสวมใส่ร่วมกับ Good Spell,\nเพิ่ม Damage สกิล Abyss Dagger 20%, เพิ่ม Damage สกิล Deft Stab 40%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 20%, ASPD + 5%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -129588,10 +129606,12 @@
   "312686": {
     "id": 312686,
     "aegisName": "Injustice_Vigor_ABC",
+    "flavorText": "",
     "name": "Evil Vigor (Abyss Chaser)",
     "unidName": "Evil Vigor (Abyss Chaser)",
     "resName": "C_160LV_Warlock_Violet",
-    "description": "When equipped with Evil Spell,\r\nincreases Chain Reaction Shot damage by 20%,\r\nincreases Frenzy Shot damage by 40%,\r\nincreases physical damage against all property enemies by 20%,\r\nCri + 5.",
+    "unidResName": "C_160LV_Warlock_Violet",
+    "description": "เมื่อสวมใส่ร่วมกับ Evil Spell,\nเพิ่ม Damage สกิล Chain Reaction Shot 20%, เพิ่ม Damage สกิล Frenzy Shot 40%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 20%, CRI + 5",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -168368,10 +168388,12 @@
   "470221": {
     "id": 470221,
     "aegisName": "FateSin_Boots_MT",
-    "name": "Boots of Good and Evil (Meister) [1]",
+    "flavorText": "선악의 힘이 담겨 있는 부츠.",
+    "name": "Good & Evil Boots (Meister) [1]",
     "unidName": "Shoes",
     "resName": "FateSin_Boots_MT",
-    "description": "MaxHP + 500, MaxSP + 100.\r\nEvery 2 refine rate, MaxHP + 1%, MaxSP + 1%.\r\nIf refine rate is 7 or higher, Atk + 7%.\r\nIf refine rate is 9 or higher, increases melee / long ranged physical damage by 10%.\r\nIf refine rate is 11 or higher, reduces fixed casting time by 0.5 seconds.\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] Res + 50, Mres + 50.\r\n[Grade C] Increases physical damage against all size enemies by 10%.\r\n[Grade B] P.Atk + 7, S.Matk + 7.\r\n[Grade A] Reduces fixed casting time by 0.5 seconds.\r\nClass: ^777777Shoes^000000  Defense: ^77777720^000000\r\nWeight: ^77777760^000000\r\nRequired Level: ^777777210^000000\r\nArmor Level: ^7777772^000000\r\nJobs: ^777777Meister^000000",
+    "unidResName": "슈즈",
+    "description": "รองเท้าที่แฝงพลังของธรรมะและอธรรมอยู่\n \nMHP + 500, MSP + 100\nทุก ๆ การอัพเกรด 2 ขั้น MHP + 1%, MSP + 1%\nเมื่ออัพเกรดถึงขั้น 7, ATK + 7%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%\nเมื่ออัพเกรดถึงขั้น 11, ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] RES + 50, MRES + 50.\n[Grade C] เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%\n[Grade B] P.ATK + 7, S.MATK + 7.\n[Grade A] ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nประเภท : ^777777Shoes^000000  พลังป้องกัน : ^77777720^000000\nน้ำหนัก : ^77777760^000000\nเลเวลที่ต้องการ : ^777777210^000000\nเลเวล Armor : ^7777772^000000\nอาชีพที่ใส่ได้ : ^777777Meister^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 516,
@@ -168432,10 +168454,12 @@
   "470222": {
     "id": 470222,
     "aegisName": "FateSin_Boots_SHC",
-    "name": "Boots of Good and Evil (Shadow Cross) [1]",
+    "flavorText": "선악의 힘이 담겨 있는 부츠.",
+    "name": "Good & Evil Boots (Shadow Cross) [1]",
     "unidName": "Shoes",
     "resName": "FateSin_Boots_SHC",
-    "description": "MaxHP + 500, MaxSP + 100.\r\nEvery 2 refine rate, MaxHP + 1%, MaxSP + 1%.\r\nIf refine rate is 7 or higher, Atk + 7%.\r\nIf refine rate is 9 or higher, increases melee physical damage by 10%.\r\nIf refine rate is 11 or higher, reduces fixed casting time by 0.5 seconds.\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] Res + 50, Mres + 50.\r\n[Grade C] Increases physical damage against all size enemies by 10%.\r\n[Grade B] P.Atk + 7, S.Matk + 7.\r\n[Grade A] Reduces fixed casting time by 0.5 seconds.\r\nClass: ^777777Shoes^000000  Defense: ^77777720^000000\r\nWeight: ^77777760^000000\r\nRequired Level: ^777777210^000000\r\nArmor Level: ^7777772^000000\r\nJobs: ^777777Shadow Cross^000000",
+    "unidResName": "슈즈",
+    "description": "รองเท้าที่แฝงพลังของธรรมะและอธรรมอยู่\n \nMHP + 500, MSP + 100\nทุก ๆ การอัพเกรด 2 ขั้น MHP + 1%, MSP + 1%\nเมื่ออัพเกรดถึงขั้น 7, ATK + 7%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%\nเมื่ออัพเกรดถึงขั้น 11, ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] RES + 50, MRES + 50\n[Grade C] เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%\n[Grade B] P.ATK + 7, S.MATK + 7\n[Grade A] ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nประเภท : ^777777Shoes^000000  พลังป้องกัน : ^77777720^000000\nน้ำหนัก : ^77777760^000000\nเลเวลที่ต้องการ : ^777777210^000000\nเลเวล Armor : ^7777772^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Cross^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 516,
@@ -168566,10 +168590,12 @@
   "470224": {
     "id": 470224,
     "aegisName": "FateSin_Boots_ABC",
-    "name": "Boots of Good and Evil (Abyss Chaser) [1]",
+    "flavorText": "",
+    "name": "Good & Evil Boots (Abyss Chaser) [1]",
     "unidName": "Shoes",
     "resName": "FateSin_Boots_ABC",
-    "description": "MaxHP + 500, MaxSP + 100.\r\nEvery 2 refine rate, MaxHP + 1%, MaxSP + 1%.\r\nIf refine rate is 7 or higher, Atk + 7%, Matk + 7%.\r\nIf refine rate is 9 or higher, increases long ranged physical damage by 10%, increases all property magical damage by 10%.\r\nIf refine rate is 11 or higher, reduces fixed casting time by 0.5 seconds.\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] Res + 50, Mres + 50.\r\n[Grade C] Increases physical and magical damage against all size enemies by 10%.\r\n[Grade B] P.Atk + 7, S.Matk + 7.\r\n[Grade A] Reduces fixed casting time by 0.5 seconds.\r\nClass: ^777777Shoes^000000  Defense: ^77777720^000000\r\nWeight: ^77777760^000000\r\nRequired Level: ^777777210^000000\r\nArmor Level: ^7777772^000000\r\nJobs: ^777777Abyss Chaser^000000",
+    "unidResName": "슈즈",
+    "description": "รองเท้าที่แฝงพลังของธรรมะและอธรรมอยู่\n \nMHP + 500, MSP + 100\nทุก ๆ การอัพเกรด 2 ขั้น MHP + 1%, MSP + 1%\nเมื่ออัพเกรดถึงขั้น 7, ATK + 7%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%\nเมื่ออัพเกรดถึงขั้น 11, ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] RES + 50, MRES + 50\n[Grade C] เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%\n[Grade B] P.ATK + 7, S.MATK + 7\n[Grade A] ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nประเภท : ^777777Shoes^000000  พลังป้องกัน : ^77777720^000000\nน้ำหนัก : ^77777760^000000\nเลเวลที่ต้องการ : ^777777210^000000\nเลเวล Armor : ^7777772^000000\nอาชีพที่ใส่ได้ : ^777777Abyss Chaser^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 516,
@@ -168606,7 +168632,7 @@
       "range": [
         "9===10"
       ],
-      "m_my_element_all": [
+      "melee": [
         "9===10"
       ],
       "fct": [
@@ -187348,9 +187374,11 @@
   "490797": {
     "id": 490797,
     "aegisName": "Unknown_Watch_HN2",
+    "flavorText": null,
     "name": "Unknown Watch (Hyper Novice Magic) [1]",
     "unidName": "Unknown Watch (Hyper Novice Magic)",
     "resName": "Evt_20th_Clock",
+    "unidResName": "Evt_20th_Clock",
     "description": "นาฬิกาลึกลับที่ช่วยปลดปล่อยพลังของอาวุธ Clock Tower ออกมา\nมีพลังงานของ Hyper Novice ซ่อนอยู่ภายใน\n\nMATK + 100\nSPL + 10\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Solid Rod,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%\nเพิ่ม Damage สกิล Napalm Vulcan Strike, Jupitel Thunderstorm 10%\n\nเมื่อ Solid Rod มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nMATK + 20%\nเพิ่ม Damage สกิล Napalm Vulcan Strike, Jupitel Thunderstorm 10%\n\nเมื่อ Solid Rod มี Grade C ขึ้นไป,\nS.MATK + 5\nเพิ่ม Damage สกิล Napalm Vulcan Strike, Jupitel Thunderstorm 15%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777220^000000\nอาชีพที่ใส่ได้ : ^777777Hyper Novice^000000",
     "slots": 1,
     "itemTypeId": 2,
@@ -230266,7 +230294,7 @@
         "EQUIP[Warlock Stone (Middle)]===10"
       ],
       "m_size_all": [
-        "EQUIP[Warlock Stone (Lower)]LEARN_SKILL[Two Hand Staff Mastery==2]---3"
+        "EQUIP[Warlock Stone (Lower)]LEARN_SKILL[Two hand Staff Mastery==2]---3"
       ]
     }
   },
@@ -245366,7 +245394,7 @@
         "EQUIP[Warlock Stone II (Middle)]===10"
       ],
       "m_size_all": [
-        "EQUIP[Warlock Stone II (Lower)]LEARN_SKILL[Two Hand Staff Mastery==2]---3"
+        "EQUIP[Warlock Stone II (Lower)]LEARN_SKILL[Two hand Staff Mastery==2]---3"
       ]
     }
   },
@@ -251985,12 +252013,12 @@
   "300733": {
     "id": 300733,
     "aegisName": "CLB_GAT_card2",
-    "flavorText": null,
-    "name": "Character Corps Card",
-    "unidName": "Character Corps Card",
+    "flavorText": "",
+    "name": "Galactor Army Card",
+    "unidName": "Galactor Army Card",
     "resName": "이름없는카드",
     "unidResName": "이름없는카드",
-    "description": "MATK +10, DEF +3, MDEF +1 per BaseLv 10.,\r\n(Applies up to BaseLv 200).,\r\n\r\n^ffffff^4D4DFF[Event Limited Option]^000000^000000,\r\nIncreases Physical/Magical Damage against all races by 10% (Players excluded).,\r\nIncreases Physical/Magical Damage against all sizes by 10%.,\r\nIncreases EXP gained from monster hunting by 15%.,\r\nIncreases Item Drop Rate by 7%.,\r\n(Event option will be removed during the first regular maintenance in April 2026.).,\r\n\r\nClass: ^777777Card^000000,\r\nEquip: ^777777Garment^000000,\r\nWeight: ^7777771^000000",
+    "description": "ทุก ๆ Base Lv.10, MATK + 10, DEF + 3, MDEF + 1\n(สูงสุดจนถึง Base Lv.200)\n^CC3D3D[ความสามารถช่วงระยะเวลากิจกรรม]^000000\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อมอนสเตอร์ทุกเผ่า 10% (ยกเว้น Player)\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%\nเพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 15%\nเพิ่มอัตราดรอปไอเทม 7%\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังสิ้นสุดระยะเวลากิจกรรม)\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 0,
@@ -252174,6 +252202,874 @@
       ],
       "fct": [
         "EQUIP[Snow Flower Necklace]===0.5"
+      ]
+    }
+  },
+  "300379": {
+    "id": 300379,
+    "aegisName": "R_Superior_Rgan_Card",
+    "flavorText": null,
+    "name": "Modified Superior Rgan Card",
+    "unidName": "Modified Superior Rgan Card",
+    "resName": "이름없는카드",
+    "unidResName": "이름없는카드",
+    "description": "ลด Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากมอนสเตอร์ทุกเผ่า 15% (ยกเว้น Player)\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ลงไป, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากศัตรูทุกขนาด 25%\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป, ลด Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากศัตรูทุกขนาด 25%\nเมื่อ Armor Lv.2, RES + 50, MRES + 50.\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Shield^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 32,
+    "cardPrefix": "Armed",
+    "script": {
+      "res": [
+        "ITEM_LV[me==2]===50"
+      ],
+      "mres": [
+        "ITEM_LV[me==2]===50"
+      ]
+    }
+  },
+  "300732": {
+    "id": 300732,
+    "aegisName": "CLB_GAT_card1",
+    "flavorText": "",
+    "name": "Gatchaman Card",
+    "unidName": "Gatchaman Card",
+    "resName": "이름없는카드",
+    "unidResName": "이름없는카드",
+    "description": "ทุก ๆ Base Lv.10, ATK + 10, DEF + 3, MDEF + 1\n(สูงสุดจนถึง Base Lv.200)\n^CC3D3D[ความสามารถช่วงระยะเวลากิจกรรม]^000000\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อมอนสเตอร์ทุกเผ่า 10% (ยกเว้น Player)\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%\nเพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 15%\nเพิ่มอัตราดรอปไอเทม 7%\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังสิ้นสุดระยะเวลากิจกรรม)\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "script": {
+      "atk": [
+        "level:10(1-200)---10"
+      ],
+      "def": [
+        "level:10(1-200)---3"
+      ],
+      "mdef": [
+        "level:10(1-200)---1"
+      ],
+      "p_race_all": [
+        "10"
+      ],
+      "m_race_all": [
+        "10"
+      ],
+      "p_size_all": [
+        "10"
+      ],
+      "m_size_all": [
+        "10"
+      ]
+    }
+  },
+  "300734": {
+    "id": 300734,
+    "aegisName": "CLB_GAT_card3",
+    "flavorText": "",
+    "name": "Bird Missile Card",
+    "unidName": "Bird Missile Card",
+    "resName": "이름없는카드",
+    "unidResName": "이름없는카드",
+    "description": "ทุก ๆ Base Lv.10, MHP + 100, DEF + 3, MDEF + 1\n(สูงสุดจนถึง Base Lv.200)\n^CC3D3D[ความสามารถช่วงระยะเวลากิจกรรม]^000000\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อมอนสเตอร์ทุกเผ่า 10% (ยกเว้น Player)\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%\nเพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 15%\nเพิ่มอัตราดรอปไอเทม 7%\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังสิ้นสุดระยะเวลากิจกรรม)\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "script": {
+      "hp": [
+        "level:10(1-200)---100"
+      ],
+      "def": [
+        "level:10(1-200)---3"
+      ],
+      "mdef": [
+        "level:10(1-200)---1"
+      ],
+      "p_race_all": [
+        "10"
+      ],
+      "m_race_all": [
+        "10"
+      ],
+      "p_size_all": [
+        "10"
+      ],
+      "m_size_all": [
+        "10"
+      ]
+    }
+  },
+  "410615": {
+    "id": 410615,
+    "aegisName": "LittleGarden_LT",
+    "flavorText": null,
+    "name": "Little Garden-LT",
+    "unidName": "Hairband",
+    "resName": "LittleGarden",
+    "unidResName": "머리띠",
+    "description": "มงกุฎดอกไม้อันงดงาม สวมใส่แล้วรู้สึกได้ถึงภูมิฐานที่พริ้งพรายในความสวยงามตามธรรมชาติ\n\nATK + 80\nCrirical Damage + 20%\nCRI + 15.\n\nเมื่อ Base LUK ตั้งแต่ 90 ขึ้นไป,\nATK + 120 เพิ่มเติม,\nCritical Damage + 20% เพิ่มเติม,\nAPSD + 7%\n\nเมื่อ Base LUK ตั้งแต่ 120 ขึ้นไป,\nATK + 160 เพิ่มเติม,\nCritical Damage + 30% เพิ่มเติม,\nC.RATE + 15\n\nเมื่อใช้งานกับ Orc Hero Card,\nลด Global Cooldown 15%,\nP.ATK + 15,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 20%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 100,
+    "location": "Middle",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "80",
+        "luk:90---120",
+        "luk:120---160"
+      ],
+      "criDmg": [
+        "20",
+        "luk:90---20",
+        "luk:120---30"
+      ],
+      "cri": [
+        "15"
+      ],
+      "cRate": [
+        "luk:120---15"
+      ],
+      "aspdPercent": [
+        "luk:90---7"
+      ],
+      "p_element_all": [
+        "EQUIP[Orc Hero Card]===20"
+      ],
+      "pAtk": [
+        "EQUIP[Orc Hero Card]===15"
+      ],
+      "acd": [
+        "EQUIP[Orc Hero Card]===15"
+      ]
+    }
+  },
+  "410616": {
+    "id": 410616,
+    "aegisName": "Floating_Ball_LT",
+    "flavorText": null,
+    "name": "Floating Ball-LT",
+    "unidName": "Floating Ball-LT",
+    "resName": "Floating_Ball",
+    "unidResName": "Floating_Ball",
+    "description": "MATK + 80\nเพิ่ม Damage ทางเวทมนตร์ต่อมอนสเตอร์ประเภท Boss 5%\nMATK + 5%\n\nเมื่อ Base DEX ตั้งแต่ 90 ขึ้นไป,\nMATK + 120 เพิ่มเติม,\nเพิ่ม Damage ทางเวทมนตร์ต่อมอนสเตอร์ประเภท Boss ขึ้นอีก 10%,\nลดระยะเวลาร่ายแบบคงที่ 0.2 วินาที\n\nเมื่อ Base DEX ตั้งแต่ 120 ขึ้นไป,\nMATK + 160 เพิ่มเติม,\nเพิ่ม Damage ทางเวทมนตร์ต่อมอนสเตอร์ประเภท Boss ขึ้นอีก 10%,\nลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที\n\nเมื่อสวมใส่ร่วมกันกับ Mistress Card,\nลด Global Cooldown 15%,\nS.MATK + 15,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 20%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 100,
+    "location": "Middle",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matk": [
+        "80",
+        "dex:90---120",
+        "dex:120---160"
+      ],
+      "m_class_boss": [
+        "5",
+        "dex:90---10",
+        "dex:120---10"
+      ],
+      "matkPercent": [
+        "5"
+      ],
+      "fct": [
+        "dex:90---0.2",
+        "dex:120---0.3"
+      ],
+      "sMatk": [
+        "EQUIP[Mistress Card]===15"
+      ],
+      "m_element_all": [
+        "EQUIP[Mistress Card]===20"
+      ],
+      "acd": [
+        "EQUIP[Mistress Card]===15"
+      ]
+    }
+  },
+  "460150": {
+    "id": 460150,
+    "aegisName": "Sylvan_Guard_TH",
+    "flavorText": null,
+    "name": "Sylvan Thorn Guard [1]",
+    "unidName": null,
+    "resName": "결속의가드",
+    "unidResName": null,
+    "description": "โล่ที่สร้างจากกิ่งไม้ศักดิ์สิทธิ์ของป่าใหญ่\nช่วยปกป้องผู้ถือครองจากอันตรายราวกับได้รับการคุ้มครองจากวิญญาณแห่งพงไพร\n\nCRI + 5,\nลด Damage ทางกายภาพและเวทมนตร์ที่ได้รับจากมอนสเตอร์ทั่วไป 10%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 7 ขึ้นไป, ASPD + 2.\n\nเมื่อขั้นอัพเกรดตั้งแต่ 9 ขึ้นไป, ลด Cooldown สกิล Mayhemic Thorns 0.1 วินาที\n\nเมื่อขั้นอัพเกรดตั้งแต่ 11 ขึ้นไป, ลด Global Cooldown 5%, Critical Damage + 10%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป, เพิ่ม Damage สกิล Mayhemic Thorns 15%\nประเภท : ^777777Shield^000000  พลังป้องกัน : ^77777725^000000\nน้ำหนัก : ^77777760^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777Biolo^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 25,
+    "weight": 60,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Biolo"
+    ],
+    "script": {
+      "cri": [
+        "5"
+      ],
+      "aspd": [
+        "7===2"
+      ],
+      "cd__Mayhemic Thorns": [
+        "9===0.1"
+      ],
+      "acd": [
+        "11===5"
+      ],
+      "criDmg": [
+        "11===10"
+      ],
+      "Mayhemic Thorns": [
+        "12===15"
+      ]
+    }
+  },
+  "460152": {
+    "id": 460152,
+    "aegisName": "Sylvan_Guard_TH_LT",
+    "flavorText": null,
+    "name": "Sylvan Thorn Guard-LT [1]",
+    "unidName": "Sylvan Thorn Guard-LT",
+    "resName": "결속의가드",
+    "unidResName": "결속의가드",
+    "description": "โล่ที่สร้างจากกิ่งไม้ศักดิ์สิทธิ์ของป่าใหญ่ ช่วยปกป้องผู้ถือครองจากอันตรายราวกับได้รับการคุ้มครองจากวิญญาณแห่งพงไพร\n\nCRI + 15,\nลด Damage ทางกายภาพและเวทมนตร์ที่ได้รับจากมอนสเตอร์ทั่วไปและบอส 15%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 7 ขึ้นไป, ASPD + 2, MaxHP + 5%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 9 ขึ้นไป, ลด Cooldown สกิล Mayhemic Thorns 0.2 วินาที\n\nเมื่อขั้นอัพเกรดตั้งแต่ 11 ขึ้นไป, ลด Global Cooldown 10%, Critical Damage + 20%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป, เพิ่ม Damage สกิล Mayhemic Thorns 20%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] MaxHP + 10%\n[Grade C] CRI + 15, P.ATK + 4\n[Grade B] ลด Global Cooldown 10%, P.ATK + 6\n[Grade A] เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 20%, MaxHP + 5000\nประเภท : ^777777Shield^000000  พลังป้องกัน : ^77777750^000000\nน้ำหนัก : ^777777160^000000\nเลเวล Armor: 2\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777Biolo^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 25,
+    "weight": 60,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Biolo"
+    ],
+    "script": {
+      "cri": [
+        "15",
+        "GRADE[me==C]===15"
+      ],
+      "aspd": [
+        "7===2"
+      ],
+      "hpPercent": [
+        "7===5",
+        "GRADE[me==D]===10"
+      ],
+      "cd__Mayhemic Thorns": [
+        "9===0.2"
+      ],
+      "acd": [
+        "11===10",
+        "GRADE[me==B]===10"
+      ],
+      "criDmg": [
+        "11===20"
+      ],
+      "Mayhemic Thorns": [
+        "12===20"
+      ],
+      "pAtk": [
+        "GRADE[me==C]===4",
+        "GRADE[me==B]===6"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]===20"
+      ],
+      "hp": [
+        "GRADE[me==A]===5000"
+      ]
+    }
+  },
+  "460151": {
+    "id": 460151,
+    "aegisName": "Rose_Quartz_Shield_LT",
+    "flavorText": null,
+    "name": "Rose Quartz Shield-LT [1]",
+    "unidName": null,
+    "resName": "로즈오브에덴",
+    "unidResName": null,
+    "description": "โล่ที่ทำจากแร่โรสควอตซ์ ตรงกลางประดับด้วยชิ้นส่วนจากดาวหางเพิ่มความสวยงาม\nแถมยังเพิ่มพลังให้เหล่านักเวทย์ได้อีกด้วย แต่โปรดระวังอาจแตกออกได้หากทำตก!!\n\nลด Global Cooldown 10%,\nลดระยะเวลาร่ายแบบคงที่สกิล Fire Ball 0.32 วินาที\n\nทุก ๆ การอัพเกรด 1 ขั้น, เพิ่ม Damage สกิล Fire Ball 15%\nเมื่ออัพเกรดตั้งแต่ 7 ขึ้นไป, ลดระยะเวลาร่ายแบบแปรผัน 15%\nเมื่ออัพเกรดตั้งแต่ 9 ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ธาตุ Fire, Shadow 15%, สามารถใช้งานสกิล Fire Ball Lv.5 ได้\n\nเมื่ออัพเกรดตั้งแต่ 11 ขึ้นไป,\nเพิ่มปริมาณการใช้ SP 15%,\nMATK + 50,\nลด Cooldown สกิล Comet 20 วินาที\n\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป,\nเพิ่ม Damage สกิล Comet, Mystery Illusion 20%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] INT, SPL + 10, MHP + 5%\n[Grade C] ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\n[Grade B] ลด Global Cooldown 10%, S.MATK + 10\n[Grade A] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 20%, MHP + 5000\nประเภท : ^777777Shield^000000  พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777766^000000\nเลเวล Armor: 2\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 0,
+    "weight": 66,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "acd": [
+        "10",
+        "GRADE[me==B]===10"
+      ],
+      "fct__Fire Ball": [
+        "0.32"
+      ],
+      "vct": [
+        "7===15"
+      ],
+      "fct": [
+        "GRADE[me==C]===0.5"
+      ],
+      "Fire Ball": [
+        "1---15"
+      ],
+      "m_my_element_fire": [
+        "9===15"
+      ],
+      "m_my_element_dark": [
+        "9===15"
+      ],
+      "matk": [
+        "11===50"
+      ],
+      "cd__Comet": [
+        "11===20"
+      ],
+      "Comet": [
+        "12===20"
+      ],
+      "Mystery Illusion": [
+        "12===20"
+      ],
+      "int": [
+        "GRADE[me==D]===10"
+      ],
+      "spl": [
+        "GRADE[me==D]===10"
+      ],
+      "hpPercent": [
+        "GRADE[me==D]===5"
+      ],
+      "sMatk": [
+        "GRADE[me==B]===10"
+      ],
+      "m_size_all": [
+        "GRADE[me==A]===20"
+      ],
+      "hp": [
+        "GRADE[me==A]===5000"
+      ]
+    }
+  },
+  "490969": {
+    "id": 490969,
+    "aegisName": "IG_Dim_Ring_TH",
+    "flavorText": null,
+    "name": "Dim Glacier Ring of Resonance (Imperial Guard) [1]",
+    "unidName": null,
+    "resName": "Ring_Of_TheAbyssKing_A",
+    "unidResName": null,
+    "description": "แหวนที่หลอมจากผลึกธารน้ำแข็งอันหม่นมัว\nเมื่อสวมใส่ จะเกิดการสั่นพ้องกับพลังของ Dim Glacier ปลดปล่อยพลังแฝงที่สะท้อนความหนาวเย็นอันลึกล้ำออกมา\n\nATK + 100\nลด Global Cooldown 10%\nPOW + 10\nATK + 10%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Dim Glacier Spear, \nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Shield Shooting 15%\n\nเมื่อ Dim Glacier Spear มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป, \nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Shield Shooting 15%\n\nเมื่อ Dim Glacier Spear มีขั้นเกรดตั้งแต่ C ขึ้นไป,\nP.ATK + 10,\nเพิ่ม Damage สกิล Shield Shooting 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Imperial Guard^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 517,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "ImperialGuard"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "atkPercent": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Dim Glacier Spear]===15"
+      ],
+      "Shield Shooting": [
+        "EQUIP[Dim Glacier Spear]===15",
+        "EQUIP[Dim Glacier Spear]REFINE[weapon==10]===15",
+        "EQUIP[Dim Glacier Spear]GRADE[weapon==c]===20"
+      ],
+      "p_element_all": [
+        "EQUIP[Dim Glacier Spear]REFINE[weapon==10]===15"
+      ],
+      "pAtk": [
+        "EQUIP[Dim Glacier Spear]GRADE[weapon==c]===10"
+      ]
+    }
+  },
+  "490970": {
+    "id": 490970,
+    "aegisName": "HN_Dim_Ring_TH",
+    "flavorText": null,
+    "name": "Dim Glacier Ring of Resonance (Hyper Novice) [1]",
+    "unidName": null,
+    "resName": "Ring_Of_TheAbyssKing_A",
+    "unidResName": null,
+    "description": "แหวนที่หลอมจากผลึกธารน้ำแข็งอันหม่นมัว\nเมื่อสวมใส่ จะเกิดการสั่นพ้องกับพลังของ Dim Glacier ปลดปล่อยพลังแฝงที่สะท้อนความหนาวเย็นอันลึกล้ำออกมา\n\nATK, MATK + 100\nลด Global Cooldown 10%\nPOW, SPL + 10\nCRI + 15, MATK + 6%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Dim Glacier Basic Knife หรือ Dim Glacier Basic Sword, \nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Mega Sonic Blow 15%\n\nเมื่อ Dim Glacier Basic Knife หรือ Dim Glacier Basic Sword มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Mega Sonic Blow 15%\n\nเมื่อ Dim Glacier Basic Knife หรือ Dim Glacier Basic Sword มี Grade C ขึ้นไป,\nP.ATK + 10,\nเพิ่ม Damage สกิล Mega Sonic Blow 20%\n\nเมื่อสวมใส่ร่วมกับ Dim Glacier Wand,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Jack Frost Nova 15%\n\nเมื่อ Dim Glacier Wand มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป, \nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Jack Frost Nova 15%\n\nเมื่อ Dim Glacier Wand มี Grade C ขึ้นไป,\nS.MATK + 10,\nเพิ่ม Damage สกิล Jack Frost Nova 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Hyper Novice^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 517,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "HyperNovice"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "cri": [
+        "15"
+      ],
+      "matkPercent": [
+        "6"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Dim Glacier Basic Knife]===15",
+        "EQUIP[Dim Glacier Basic Sword]===15"
+      ],
+      "m_size_all": [
+        "EQUIP[Dim Glacier Wand]===15"
+      ],
+      "Mega Sonic Blow": [
+        "EQUIP[Dim Glacier Basic Knife]===15",
+        "EQUIP[Dim Glacier Basic Sword]===15",
+        "EQUIP[Dim Glacier Basic Knife]REFINE[weapon==10]===15",
+        "EQUIP[Dim Glacier Basic Sword]REFINE[weapon==10]===15",
+        "EQUIP[Dim Glacier Basic Knife]GRADE[weapon==c]===20",
+        "EQUIP[Dim Glacier Basic Sword]GRADE[weapon==c]===20"
+      ],
+      "Jack Frost Nova": [
+        "EQUIP[Dim Glacier Wand]===15",
+        "EQUIP[Dim Glacier Wand]REFINE[weapon==10]===15",
+        "EQUIP[Dim Glacier Wand]GRADE[weapon==c]===20"
+      ],
+      "p_element_all": [
+        "EQUIP[Dim Glacier Basic Knife]REFINE[weapon==10]===15",
+        "EQUIP[Dim Glacier Basic Sword]REFINE[weapon==10]===15"
+      ],
+      "m_element_all": [
+        "EQUIP[Dim Glacier Wand]REFINE[weapon==10]===15"
+      ],
+      "pAtk": [
+        "EQUIP[Dim Glacier Basic Knife]GRADE[weapon==c]===10",
+        "EQUIP[Dim Glacier Basic Sword]GRADE[weapon==c]===10"
+      ],
+      "sMatk": [
+        "EQUIP[Dim Glacier Wand]GRADE[weapon==c]===10"
+      ]
+    }
+  },
+  "490971": {
+    "id": 490971,
+    "aegisName": "SKE_Dim_Ring_TH",
+    "flavorText": null,
+    "name": "Dim Glacier Ring of Resonance (Sky Emperor) [1]",
+    "unidName": null,
+    "resName": "Ring_Of_TheAbyssKing_A",
+    "unidResName": null,
+    "description": "แหวนที่หลอมจากผลึกธารน้ำแข็งอันหม่นมัว\nเมื่อสวมใส่ จะเกิดการสั่นพ้องกับพลังของ Dim Glacier ปลดปล่อยพลังแฝงที่สะท้อนความหนาวเย็นอันลึกล้ำออกมา\n\nATK +100\nลด Global Cooldown 10%\nPOW + 10\nATK + 10%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Dim Glacier Book,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Star Cannon 15%\n\nเมื่อ Dim Glacier Book มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Star Cannon 15%\n\nเมื่อ Dim Glacier Book มี Grade C ขึ้นไป,\nP.ATK + 10,\nเพิ่ม Damage สกิล Star Cannon 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Sky Emperor^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 517,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "SkyEmperor"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "atkPercent": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Dim Glacier Book]===15"
+      ],
+      "Star Cannon": [
+        "EQUIP[Dim Glacier Book]===15",
+        "EQUIP[Dim Glacier Book]REFINE[weapon==10]===15",
+        "EQUIP[Dim Glacier Book]GRADE[weapon==c]===20"
+      ],
+      "p_element_all": [
+        "EQUIP[Dim Glacier Book]REFINE[weapon==10]===15"
+      ],
+      "pAtk": [
+        "EQUIP[Dim Glacier Book]GRADE[weapon==c]===10"
+      ]
+    }
+  },
+  "490972": {
+    "id": 490972,
+    "aegisName": "EM_Dim_Ring_TH",
+    "flavorText": null,
+    "name": "Dim Glacier Ring of Resonance (Elemental Master) [1]",
+    "unidName": null,
+    "resName": "Ring_Of_TheAbyssKing_A",
+    "unidResName": null,
+    "description": "แหวนที่หลอมจากผลึกธารน้ำแข็งอันหม่นมัว\nเมื่อสวมใส่ จะเกิดการสั่นพ้องกับพลังของ Dim Glacier ปลดปล่อยพลังแฝงที่สะท้อนความหนาวเย็นอันลึกล้ำออกมา\n\nMATK + 100\nลด Global Cooldown 10%\nSPL + 10\nMATK + 6%\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Dim Glacier Book,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Conflagration, Lightning Land 15%\n\nเมื่อ Dim Glacier Book มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Conflagration, Lightning Land 15%\n\nเมื่อ Dim Glacier Book มี Grade C ขึ้นไป,\nS.MATK + 10,\nเพิ่ม Damage สกิล Conflagration, Lightning Land 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Elemental Master^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 517,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "ElementalMaster"
+    ],
+    "script": {
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "matkPercent": [
+        "6"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "m_size_all": [
+        "EQUIP[Dim Glacier Book]===15"
+      ],
+      "Conflagration": [
+        "EQUIP[Dim Glacier Book]===15",
+        "EQUIP[Dim Glacier Book]REFINE[weapon==10]===15",
+        "EQUIP[Dim Glacier Book]GRADE[weapon==c]===20"
+      ],
+      "Lightning Land": [
+        "EQUIP[Dim Glacier Book]===15",
+        "EQUIP[Dim Glacier Book]REFINE[weapon==10]===15",
+        "EQUIP[Dim Glacier Book]GRADE[weapon==c]===20"
+      ],
+      "sMatk": [
+        "EQUIP[Dim Glacier Book]GRADE[weapon==c]===10"
+      ]
+    }
+  },
+  "315109": {
+    "id": 315109,
+    "aegisName": "DimAcc_IG",
+    "flavorText": null,
+    "name": "Imperial Guard Dim Crystal",
+    "unidName": null,
+    "resName": "Sea_Sapphire",
+    "unidResName": null,
+    "description": "เมื่อสวมใส่ร่วมกับ Dim Glacier Spear, \nเพิ่ม Damage ทางกายภาพระยะไกล 15%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Shield Shooting 4%, Cannon Spear 20%\n\nเมื่อ Dim Glacier Spear มี Grade C ขึ้นไป,\nลด Cooldown สกิล Shield Shooting 0.5 วินาที,\nCRI + 30\n\nเมื่อ Dim Glacier Spear มี Grade C ขึ้นไป และขั้นอัพเกรด 12 ขึ้นไป,\nเมื่อใช้งานสกิล Shield Shooting มีโอกาส 30% ที่จะ Auto Spell สกิล Shield Shooting Lv.1 (เมื่อเรียนรู้สกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Cannon Spear มีโอกาส 30% ที่จะ Auto Spell สกิล Cannon Spear Lv.1 (เมื่อเรียนรู้สกิลในเลเวลที่สูงกว่า จะร่ายตามเลเวลสูงสุด),\nเพิ่ม Damage สกิล Shield Shooting 15%, Cannon Spear 50%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "range": [
+        "EQUIP[Dim Glacier Spear]===15"
+      ],
+      "Shield Shooting": [
+        "EQUIP[Dim Glacier Spear]REFINE[weapon==2]---4",
+        "EQUIP[Dim Glacier Spear]GRADE[weapon==c]REFINE[weapon==12]===15"
+      ],
+      "Cannon Spear": [
+        "EQUIP[Dim Glacier Spear]REFINE[weapon==2]---20",
+        "EQUIP[Dim Glacier Spear]GRADE[weapon==c]REFINE[weapon==12]===50"
+      ],
+      "cd__Shield Shooting": [
+        "EQUIP[Dim Glacier Spear]GRADE[weapon==c]===0.5"
+      ],
+      "cri": [
+        "EQUIP[Dim Glacier Spear]GRADE[weapon==c]===30"
+      ]
+    }
+  },
+  "315110": {
+    "id": 315110,
+    "aegisName": "DimAcc_HN",
+    "flavorText": null,
+    "name": "Hyper Novice Dim Crystal",
+    "unidName": null,
+    "resName": "Sea_Sapphire",
+    "unidResName": null,
+    "description": "เมื่อสวมใส่ร่วมกับ Dim Glacier Basic Knife หรือ Dim Glacier Basic Sword, \nCritical Damage + 30%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Mega Sonic Blow 4%\n\nเมื่อ Dim Glacier Basic Knife หรือ Dim Glacier Basic Sword มี Grade C ขึ้นไป,\nลด Cooldown สกิล Mega Sonic Blow 0.15 วินาที\n\nเมื่อ Dim Glacier Basic Knife หรือ Dim Glacier Basic Sword มี Grade C ขึ้นไป และขั้นอัพเกรด 12 ขึ้นไป,\nเมื่อใช้งานสกิล Mega Sonic Blow มีโอกาส 30% ที่จะ Auto Spell สกิล Mega Sonic BlowLv.1 (เมื่อเรียนรู้สกิลในเลเวลที่สูงกว่า จะร่ายตามเลเวลสูงสุด),\nสามารถใช้งานสกิล Enchant Deadly Poison Lv.5 ได้ (ยกเลิกผลสกิลเมื่อถอดอุปกรณ์),\nเพิ่ม Damage สกิล Mega Sonic Blow 15%\n\n\n\nเมื่อสวมใส่ร่วมกับ Dim Glacier Wand,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Jack Frost Nova 4%\n\nเมื่อ Dim Glacier Wand มี Grade C ขึ้นไป,\nลด Cooldown สกิล Jack Frost Nova 1.5 วินาที\n\nเมื่อ Dim Glacier Wand มี Grade C ขึ้นไป และขั้นอัพเกรด 12 ขึ้นไป,\nลด Cooldown สกิล Jack Frost Nova 1 วินาที,\nสามารถใช้งานสกิล Energy Coa Lv. 1 ได้ (ยกเลิกผลสกิลเมื่อถอดอุปกรณ์),\nเพิ่ม Damage ทางเวทมนตร์ธาตุ Water 20%,\nเพิ่ม Damage สกิล Jack Frost Nova 15%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "criDmg": [
+        "EQUIP[Dim Glacier Basic Knife]===30",
+        "EQUIP[Dim Glacier Basic Sword]===30"
+      ],
+      "Mega Sonic Blow": [
+        "EQUIP[Dim Glacier Basic Knife]REFINE[weapon==2]---4",
+        "EQUIP[Dim Glacier Basic Sword]REFINE[weapon==2]---4",
+        "EQUIP[Dim Glacier Basic Knife]GRADE[weapon==c]REFINE[weapon==12]===15",
+        "EQUIP[Dim Glacier Basic Sword]GRADE[weapon==c]REFINE[weapon==12]===15"
+      ],
+      "cd__Mega Sonic Blow": [
+        "EQUIP[Dim Glacier Basic Knife]GRADE[weapon==c]===0.15",
+        "EQUIP[Dim Glacier Basic Sword]GRADE[weapon==c]===0.15"
+      ],
+      "m_element_all": [
+        "EQUIP[Dim Glacier Wand]===10"
+      ],
+      "Jack Frost Nova": [
+        "EQUIP[Dim Glacier Wand]REFINE[weapon==2]---4",
+        "EQUIP[Dim Glacier Wand]GRADE[weapon==c]REFINE[weapon==12]===15"
+      ],
+      "cd__Jack Frost Nova": [
+        "EQUIP[Dim Glacier Wand]GRADE[weapon==c]===1.5",
+        "EQUIP[Dim Glacier Wand]GRADE[weapon==c]REFINE[weapon==12]===1"
+      ],
+      "m_my_element_water": [
+        "EQUIP[Dim Glacier Wand]GRADE[weapon==c]REFINE[weapon==12]===20"
+      ]
+    }
+  },
+  "315111": {
+    "id": 315111,
+    "aegisName": "DimAcc_SKE",
+    "flavorText": null,
+    "name": "Sky Emperor Dim Crystal",
+    "unidName": null,
+    "resName": "Sea_Sapphire",
+    "unidResName": null,
+    "description": "เมื่อสวมใส่ร่วมกับ Dim Glacier Book,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 15%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Twinkling Galaxy, Star Cannon 5%\n\nเมื่อ Dim Glacier Book มี Grade C ขึ้นไป,\nลด Cooldown สกิล Twinkling Galaxy 2 วินาที, Star Cannon 1.5 วินาที\n\nเมื่อ Dim Glacier Book มี Grade C ขึ้นไป และขั้นอัพเกรด 12 ขึ้นไป,\nลด Cooldown สกิล Twinkling Galaxy 2 วินาที, Star Cannon 1.5 วินาที,\nเมื่อโจมตีทางกายภาพ มีโอกาส 50% ที่จะฟื้นฟู HP 1% ของ Damage ที่ทำได้, \nเพิ่ม Damage สกิล Twinkling Galaxy, Star Cannon 15%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "melee": [
+        "EQUIP[Dim Glacier Book]===15"
+      ],
+      "Twinkling Galaxy": [
+        "EQUIP[Dim Glacier Book]REFINE[weapon==2]---5",
+        "EQUIP[Dim Glacier Book]GRADE[weapon==c]REFINE[weapon==12]===15"
+      ],
+      "Star Cannon": [
+        "EQUIP[Dim Glacier Book]REFINE[weapon==2]---5",
+        "EQUIP[Dim Glacier Book]GRADE[weapon==c]REFINE[weapon==12]===15"
+      ],
+      "cd__Twinkling Galaxy": [
+        "EQUIP[Dim Glacier Book]GRADE[weapon==c]===2",
+        "EQUIP[Dim Glacier Book]GRADE[weapon==c]REFINE[weapon==12]===2"
+      ],
+      "cd__Star Cannon": [
+        "EQUIP[Dim Glacier Book]GRADE[weapon==c]===1.5",
+        "EQUIP[Dim Glacier Book]GRADE[weapon==c]REFINE[weapon==12]===1.5"
+      ]
+    }
+  },
+  "315112": {
+    "id": 315112,
+    "aegisName": "DimAcc_EM",
+    "flavorText": null,
+    "name": "Elemental Master Dim Crystal",
+    "unidName": null,
+    "resName": "Sea_Sapphire",
+    "unidResName": null,
+    "description": "เมื่อสวมใส่ร่วมกับ Dim Glacier Book,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Conflagration, Lightning Land 5%\n\nเมื่อ Dim Glacier Book มี Grade C ขึ้นไป,\nลด Cooldown  สกิล Conflagration, Lightning Land 1 วินาที\n\nเมื่อ Dim Glacier Book มี Grade C ขึ้นไป และขั้นอัพเกรด 12 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ธาตุ Fire, Wind 20%,\nเพิ่ม Damage สกิล Conflagration, Lightning Land 15%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "m_element_all": [
+        "EQUIP[Dim Glacier Book]===10"
+      ],
+      "Conflagration": [
+        "EQUIP[Dim Glacier Book]REFINE[weapon==2]---5",
+        "EQUIP[Dim Glacier Book]GRADE[weapon==c]REFINE[weapon==12]===15"
+      ],
+      "Lightning Land": [
+        "EQUIP[Dim Glacier Book]REFINE[weapon==2]---5",
+        "EQUIP[Dim Glacier Book]GRADE[weapon==c]REFINE[weapon==12]===15"
+      ],
+      "cd__Conflagration": [
+        "EQUIP[Dim Glacier Book]GRADE[weapon==c]===1"
+      ],
+      "cd__Lightning Land": [
+        "EQUIP[Dim Glacier Book]GRADE[weapon==c]===1"
+      ],
+      "m_my_element_fire": [
+        "EQUIP[Dim Glacier Book]GRADE[weapon==c]REFINE[weapon==12]===20"
+      ],
+      "m_my_element_wind": [
+        "EQUIP[Dim Glacier Book]GRADE[weapon==c]REFINE[weapon==12]===20"
+      ]
+    }
+  },
+  "315113": {
+    "id": 315113,
+    "aegisName": "DimAcc_WH_Gl",
+    "flavorText": null,
+    "name": "Windhawk Dim Gale Crystal",
+    "unidName": null,
+    "resName": "Sea_Sapphire",
+    "unidResName": null,
+    "description": "เมื่อสวมใส่ร่วมกับ Dim Glacier Bow,\nCritical Damage + 30%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Hawk Rush, Gale Storm 5%\n\nเมื่อ Dim Glacier Bow มี Grade C ขึ้นไป,\nลด Cooldown สกิล Gale Storm 1.2 วินาที,\n\nเมื่อ Dim Glacier Bow มี Grade C ขึ้นไป และขั้นอัพเกรด 12 ขึ้นไป,\nเมื่อโจมตีทางกายภาพระยะไกล มีโอกาส 15% ที่จะร่ายสกิล Gale Storm Lv.1 ใส่ศัตรูอัติโนมัติ (เมื่อเรียนรู้สกิลในเลเวลที่สูงกว่า จะร่ายตามเลเวลสูงสุด),\nเมื่อใช้งานสกิล Gale Storm มีโอกาส 30% ที่จะ Autospell สกิล Gale Storm Lv.1, (เมื่อเรียนรู้สกิลในเลเวลที่สูงกว่า จะร่ายตามเลเวลสูงสุด),\nเพิ่ม Damage สกิล Hawk Rush, Gale Storm 20%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "criDmg": [
+        "EQUIP[Dim Glacier Bow]===30"
+      ],
+      "Hawk Rush": [
+        "EQUIP[Dim Glacier Bow]REFINE[weapon==2]---5",
+        "EQUIP[Dim Glacier Bow]GRADE[weapon==c]REFINE[weapon==12]===20"
+      ],
+      "Gale Storm": [
+        "EQUIP[Dim Glacier Bow]REFINE[weapon==2]---5",
+        "EQUIP[Dim Glacier Bow]GRADE[weapon==c]REFINE[weapon==12]===20"
+      ],
+      "cd__Gale Storm": [
+        "EQUIP[Dim Glacier Bow]GRADE[weapon==c]===1.2"
       ]
     }
   }
