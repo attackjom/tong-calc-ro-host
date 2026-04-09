@@ -253093,7 +253093,8 @@
     "weight": 1,
     "requiredLevel": null,
     "location": null,
-    "compositionPos": 769
+    "compositionPos": 769,
+    "script": {}
   },
   "27026": {
     "id": 27026,
