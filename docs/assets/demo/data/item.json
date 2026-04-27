@@ -253217,5 +253217,76 @@
         "level:10(1-200)---1"
       ]
     }
+  },
+  "1270127": {
+    "id": 1270127,
+    "aegisName": "Limit_Break_SH_E",
+    "flavorText": null,
+    "name": "Limit Break Shadow Earring",
+    "unidName": null,
+    "resName": "Limit_Break_SH_E",
+    "unidResName": null,
+    "description": "เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภททั่วไป 25%\nเพิ่ม EXP ที่ได้รับเมื่อกำจัดมอนสเตอร์ 10%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม EXP ที่ได้รับเมื่อกำจัดมอนสเตอร์ขึ้นอีก 5%\nเมื่อ Base Lv.150 ขึ้นไป ทุก ๆ Base Lv. 10 จะทำให้ดาเมจกายภาพ/เวทมนตร์ที่สร้างต่อมอนสเตอร์ทั่วไป ลดลง -2%, EXP จากการกำจัดมอนสเตอร์ลดลง -1%\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Earring^000000 น้ำหนัก : ^7777771^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 529,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "p_class_normal": [
+        "25",
+        "level:10(150-275)----2"
+      ],
+      "m_class_normal": [
+        "25",
+        "level:10(150-275)----2"
+      ]
+    }
+  },
+  "1270128": {
+    "id": 1270128,
+    "aegisName": "Limit_Break_SH_P",
+    "flavorText": null,
+    "name": "Limit Break Shadow Pendant",
+    "unidName": null,
+    "resName": "Limit_Break_SH_P",
+    "unidResName": null,
+    "description": "เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภททั่วไป 25%\nเพิ่ม EXP ที่ได้รับเมื่อกำจัดมอนสเตอร์ 10%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม EXP ที่ได้รับเมื่อกำจัดมอนสเตอร์ขึ้นอีก 5%\nเมื่อ Base Lv.150 ขึ้นไป ทุก ๆ Base Lv. 10 จะทำให้ดาเมจกายภาพ/เวทมนตร์ที่สร้างต่อมอนสเตอร์ทั่วไป ลดลง -2%, EXP จากการกำจัดมอนสเตอร์ลดลง -1%\n\nเมื่อสวมใส่ร่วมกับ Limit Break Shadow Earring,\nAll state + 12, \nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 8%\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Pendant^000000 น้ำหนัก : ^7777771^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 530,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "p_class_normal": [
+        "25",
+        "level:10(150-275)----2"
+      ],
+      "m_class_normal": [
+        "25",
+        "level:10(150-275)----2"
+      ],
+      "all_stat": [
+        "EQUIP[Limit Break Shadow Earring]===12"
+      ],
+      "p_race_all": [
+        "EQUIP[Limit Break Shadow Earring]===8"
+      ],
+      "m_race_all": [
+        "EQUIP[Limit Break Shadow Earring]===8"
+      ]
+    }
   }
 }
