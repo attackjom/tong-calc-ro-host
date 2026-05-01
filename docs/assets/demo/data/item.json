@@ -50991,10 +50991,12 @@
   "24874": {
     "id": 24874,
     "aegisName": "S_Full_Rate_Armor",
+    "flavorText": "",
     "name": "Full Rate Shadow Armor",
     "unidName": "Shadow Armor",
     "resName": "SV_Armor_Shadow",
-    "description": "Cri + 3.\r\nEvery 2 refine rate, increases critical damage by 1%.\r\nIf refine rate is 10, C.Rate + 2.\r\n\r\nWhen equipped with Full Rate Shadow Shoes, Atk + 2%, C.Rate + 2,\r\nif the sum of refine rate is 18 or higher, increases critical damage by 5%,\r\nincreases physical damage against all size enemies by 10%.\r\n\r\nWhen equipped with Creative Shadow Weapon, Atk + 3%,\r\nif the sum of refine rate is 18 or higher, CRT + 3, C.Rate + 3.\r\nClass: ^777777Shadow Equipment^000000\r\nLocation: ^777777Padded Armor^000000 Weight: ^7777770^000000\r\nRequired Level: ^777777200^000000\r\nJobs: ^777777All Jobs^000000",
+    "unidResName": "아머쉐도우",
+    "description": "ชุดเกราะที่เพิ่มพลังป้องกันเมื่อสวมใส่เพิ่มบนเกราะอีกที สามารถใส่แบบชิ้นเดียวได้ แต่ประสิทธิภาพในการป้องกันจะน้อย\nCRI + 3\nทุก ๆ การอัพเกรด 2 ขั้น, Critical Damage + 1%\nเมื่ออัพเกรดถึงขั้น 10, C.Rate + 2\n \nเมื่อสวมใส่ร่วมกับ Full Rate Shadow Shoes, ATK + 2%, C.Rate + 2,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 18 ขึ้นไป, Critical Damage + 5%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%\n \nเมื่อสวมใส่ร่วมกับ Creative Shadow Weapon, ATK + 3%,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 18 ขึ้นไป, CRT + 3, C.Rate + 3\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Armor^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 526,
@@ -51036,10 +51038,12 @@
   "24875": {
     "id": 24875,
     "aegisName": "S_Full_Rate_Shoes",
+    "flavorText": "",
     "name": "Full Rate Shadow Shoes",
     "unidName": "Shadow Shoes",
     "resName": "SV_Shoes_Shadow",
-    "description": "Cri + 3.\r\nEvery 2 refine rate, increases critical damage by 1%.\r\nIf refine rate is 10, C.Rate + 2.\r\n\r\nWhen equipped with Creative Shadow Shield, Atk + 3%,\r\nif the sum of refine rate is 18 or higher, CRT + 3, C.Rate + 3.\r\nClass: ^777777Shadow Equipment^000000\r\nLocation: ^777777Shoes^000000 Weight: ^7777770^000000\r\nRequired Level: ^777777200^000000\r\nJobs: ^777777All Jobs^000000",
+    "unidResName": "슈즈쉐도우",
+    "description": "รองเท้าที่สามารถสวมทับกับรองเท้าคู่อื่นได้ สามารถใช้งานเดี่ยว ๆ ได้ แต่ประสิทธิภาพจะน้อย\nCRI + 3\nทุก ๆ การอัพเกรด 2 ขั้น, Critical Damage + 1%\nเมื่ออัพเกรดถึงขั้น 10, C.Rate + 2\n \nเมื่อสวมใส่ร่วมกับ Creative Shadow Shield, ATK + 3%,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 18 ขึ้นไป, CRT + 3, C.Rate + 3\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Shoes^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 528,
@@ -51390,10 +51394,12 @@
   "24887": {
     "id": 24887,
     "aegisName": "S_Witty_Pendant",
+    "flavorText": "",
     "name": "Witty Shadow Pendant",
     "unidName": "Shadow Pendant",
     "resName": "SV_Pendant_Shadow",
-    "description": "Mdef + 10.\r\nEvery 2 refine rate, Mres + 3.\r\nIf refine rate is 10, Mres + 15.\r\n\r\nWhen equipped with Witty Shadow Earring, Mdef + 15, Mres + 25.\r\nif the sum of refine rate is 18 or higher, MaxSP + 7%.\r\n\r\nWhen equipped with Wisdom Shadow Weapon, Mres + 15.\r\nif the sum of refine rate is 18 or higher, WIS + 3, MaxSP + 5%.\r\nClass: ^777777Shadow Equipment^000000\r\nLocation: ^777777Pendant^000000 Weight: ^7777770^000000\r\nRequired Level: ^777777200^000000\r\nJobs: ^777777All Jobs^000000",
+    "unidResName": "펜던트쉐도우",
+    "description": "สร้อยคอศักดิ์สิทธิ์ที่เล่าขานกันว่าสามารถปกป้องผู้สวมใส่ได้ ช่วยดึงพลังที่หลับใหลอยู่ของผู้สวมใส่ออกมา\nMDEF + 10\nทุก ๆ การอัพเกรด 2 ขั้น, MRES + 3\nเมื่ออัพเกรดถึงขั้น 10, MRES + 15\n \nเมื่อสวมใส่ร่วมกับ Witty Shadow Earring, MDEF + 15, MRES + 25,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 18 ขึ้นไป, MSP + 7%\n \nเมื่อสวมใส่ร่วมกับ Wisdom Shadow Weapon, MRES + 15,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 18 ขึ้นไป, WIS + 3, MSP + 5%\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Pendant^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 530,
@@ -51430,10 +51436,12 @@
   "24888": {
     "id": 24888,
     "aegisName": "S_Witty_Earring",
+    "flavorText": "",
     "name": "Witty Shadow Earring",
     "unidName": "Shadow Earring",
     "resName": "SV_Earring_Shadow",
-    "description": "Mdef + 10.\r\nEvery 2 refine rate, Mres + 3.\r\nIf refine rate is 10, Mres + 15.\r\n\r\nWhen equipped with Wisdom Shadow Shield, Mres + 15.\r\nif the sum of refine rate is 18 or higher, WIS + 3, MaxSP + 5%.\r\nClass: ^777777Shadow Equipment^000000\r\nLocation: ^777777Earring^000000 Weight: ^7777770^000000\r\nRequired Level: ^777777200^000000\r\nJobs: ^777777All Jobs^000000",
+    "unidResName": "이어링쉐도우",
+    "description": "ต่างหูศักดิ์สิทธิ์ที่เล่าขานกันว่าสามารถปกป้องผู้สวมใส่ได้ ช่วยดึงพลังที่หลับใหลอยู่ของผู้สวมใส่ออกมา\nMDEF + 10\nทุก ๆ การอัพเกรด 2 ขั้น, MRES + 3\nเมื่ออัพเกรดถึงขั้น 10, MRES + 15\n \nเมื่อสวมใส่ร่วมกับ Wisdom Shadow Shield, MRES + 15,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 18 ขึ้นไป, WIS + 3, MSP + 5%\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Earring^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 529,
@@ -123376,10 +123384,12 @@
   "312422": {
     "id": 312422,
     "aegisName": "Justice_Vigor_CD",
+    "flavorText": null,
     "name": "Good Vigor (Cardinal)",
     "unidName": "Good Vigor (Cardinal)",
     "resName": "C_160LV_Mechanic_Gold",
-    "description": "When equipped with Good Spell,\r\nincreases Framen damage by 20%,\r\nincreases Arbitrium damage by 40%,\r\nincreases magical damage against all property enemies by 20%,\r\nreduces global cooldown by 5%.",
+    "unidResName": "C_160LV_Mechanic_Gold",
+    "description": "เมื่อสวมใส่ร่วมกับ Good Spell,\nเพิ่ม Damage สกิล Framen 20%, เพิ่ม Damage สกิล Arbitrium 40%, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 20%, ลด Global Cooldown 5%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -123476,10 +123486,12 @@
   "312425": {
     "id": 312425,
     "aegisName": "Injustice_Vigor_CD",
+    "flavorText": null,
     "name": "Evil Vigor (Cardinal)",
     "unidName": "Evil Vigor (Cardinal)",
     "resName": "C_160LV_Warlock_Violet",
-    "description": "When equipped with Evil Spell,\r\nincreases Petitio damage by 30%,\r\nincreases critical damage by 20%,\r\nincreases physical damage against all property enemies by 20%,\r\nCri + 5.",
+    "unidResName": "C_160LV_Warlock_Violet",
+    "description": "เมื่อสวมใส่ร่วมกับ Evil Spell,\nเพิ่ม Damage สกิล Petitio 30%, Critical Damage + 20%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 20%, CRI + 5",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -124028,10 +124040,12 @@
   "312449": {
     "id": 312449,
     "aegisName": "Justice_Vigor_DK",
+    "flavorText": null,
     "name": "Good Vigor (Dragon Knight)",
     "unidName": "Good Vigor (Dragon Knight)",
     "resName": "C_160LV_Mechanic_Gold",
-    "description": "When equipped with Good Spell,\r\nincreases Dragonic Breath damage by 20%,\r\nincreases Madness Crusher damage by 40%,\r\nincreases physical damage against all property enemies by 20%,\r\nreduces global cooldown by 5%.",
+    "unidResName": "C_160LV_Mechanic_Gold",
+    "description": "เมื่อสวมใส่ร่วมกับ Good Spell, \nเพิ่ม Damage สกิล Dragonic Breath 20%, เพิ่ม Damage สกิล Madness Crusher 40%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 20%, ลด Global Cooldown 5%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -124060,10 +124074,12 @@
   "312450": {
     "id": 312450,
     "aegisName": "Injustice_Vigor_DK",
+    "flavorText": null,
     "name": "Evil Vigor (Dragon Knight)",
     "unidName": "Evil Vigor (Dragon Knight)",
     "resName": "C_160LV_Warlock_Violet",
-    "description": "When equipped with Evil Spell,\r\nincreases Hack and Slasher damage by 20%,\r\nincreases Storm Slash damage by 40%,\r\nincreases physical damage against all property enemies by 20%,\r\nCri + 5.",
+    "unidResName": "C_160LV_Warlock_Violet",
+    "description": "เมื่อสวมใส่ร่วมกับ Evil Spell,\nเพิ่ม Damage สกิล Hack and Slasher 20%, เพิ่ม Damage สกิล Storm Slash 40%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 20%, CRI + 5",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -129232,7 +129248,7 @@
     "name": "S. Casting 1Lv",
     "unidName": "S. Casting 1Lv",
     "resName": "C_160LV_Soul_R_Gray",
-    "description": "Reduces variable casting time by 1%.",
+    "description": "ลดระยะเวลาร่ายแบบแปรผัน 1%.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -129255,7 +129271,7 @@
     "name": "S. Casting 2Lv",
     "unidName": "S. Casting 2Lv",
     "resName": "C_160LV_Soul_R_Gray",
-    "description": "Reduces variable casting time by 2%.",
+    "description": "ลดระยะเวลาร่ายแบบแปรผัน 2%.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -129278,7 +129294,7 @@
     "name": "S. Casting 3Lv",
     "unidName": "S. Casting 3Lv",
     "resName": "C_160LV_Soul_R_Gray",
-    "description": "Reduces variable casting time by 3%.",
+    "description": "ลดระยะเวลาร่ายแบบแปรผัน 3%.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -129301,7 +129317,7 @@
     "name": "S. Casting 4Lv",
     "unidName": "S. Casting 4Lv",
     "resName": "C_160LV_Soul_R_Gray",
-    "description": "Reduces variable casting time by 4%.",
+    "description": "ลดระยะเวลาร่ายแบบแปรผัน 4%.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -129324,7 +129340,7 @@
     "name": "S. Casting 5Lv",
     "unidName": "S. Casting 5Lv",
     "resName": "C_160LV_Soul_R_Gray",
-    "description": "Reduces variable casting time by 5%.",
+    "description": "ลดระยะเวลาร่ายแบบแปรผัน 5%.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -129642,10 +129658,12 @@
   "312687": {
     "id": 312687,
     "aegisName": "Justice_Vigor_TR",
-    "name": "Good Vigor (Troubadour & Trouvere)",
-    "unidName": "Good Vigor (Troubadour & Trouvere)",
+    "flavorText": "",
+    "name": "Good Vigor (Troubadour&Trouvere)",
+    "unidName": "Good Vigor (Troubadour&Trouvere)",
     "resName": "C_160LV_Mechanic_Gold",
-    "description": "When equipped with Good Spell,\r\nincreases Rhythm Shooting damage by 20%,\r\nincreases Rose Blossom damage by 40%,\r\nincreases physical damage against all property enemies by 20%,\r\nincreases attack speed (reduces delay after attack by 5%).",
+    "unidResName": "C_160LV_Mechanic_Gold",
+    "description": "เมื่อสวมใส่ร่วมกับ Good Spell, \nเพิ่ม Damage สกิล Rhythm Shooting 20%, เพิ่ม Damage สกิล Rose Blossom 40%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 20%, ASPD + 5%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -129674,10 +129692,12 @@
   "312688": {
     "id": 312688,
     "aegisName": "Injustice_Vigor_TR",
-    "name": "Evil Vigor (Troubadour & Trouvere)",
-    "unidName": "Evil Vigor (Troubadour & Trouvere)",
+    "flavorText": "",
+    "name": "Evil Vigor (Troubadour&Trouvere)",
+    "unidName": "Evil Vigor (Troubadour&Trouvere)",
     "resName": "C_160LV_Warlock_Violet",
-    "description": "When equipped with Evil Spell,\r\nincreases Metallic Fury damage by 20%,\r\nincreases Sound Blend damage by 40%,\r\nincreases magical damage against all property enemies by 20%,\r\nreduces variable casting time by 5%.",
+    "unidResName": "C_160LV_Warlock_Violet",
+    "description": "เมื่อสวมใส่ร่วมกับ Evil Spell,\nเพิ่ม Damage สกิล Metallic Fury 20%, เพิ่ม Damage สกิล Sound Blend 40%, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 20%, ลดระยะเวลาร่ายแบบแปรผัน 5%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -132458,10 +132478,12 @@
   "312801": {
     "id": 312801,
     "aegisName": "Justice_Vigor_IG",
+    "flavorText": "",
     "name": "Good Vigor (Imperial Guard)",
     "unidName": "Good Vigor (Imperial Guard)",
     "resName": "C_160LV_Mechanic_Gold",
-    "description": "When equipped with Good Spell,\r\nincreases Overslash damage by 30%,\r\nincreases melee physical damage by 20%,\r\nincreases physical damage against all property enemies by 20%,\r\nincreases attack speed (reduces delay after attack by 5%).",
+    "unidResName": "C_160LV_Mechanic_Gold",
+    "description": "เมื่อสวมใส่ร่วมกับ Good Spell, \nเพิ่ม Damage สกิล Overslash 30%, เพิ่ม Damage ทางกายภาพระยะใกล้ 20%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 20%, ASPD + 5%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -132490,10 +132512,12 @@
   "312802": {
     "id": 312802,
     "aegisName": "Injustice_Vigor_IG",
+    "flavorText": "",
     "name": "Evil Vigor (Imperial Guard)",
     "unidName": "Evil Vigor (Imperial Guard)",
     "resName": "C_160LV_Warlock_Violet",
-    "description": "When equipped with Evil Spell,\r\nincreases Cross Rain damage by 30%,\r\nincreases holy property magical damage by 20%,\r\nincreases magical damage against all property enemies by 20%,\r\nreduces variable casting time by 5%.",
+    "unidResName": "C_160LV_Warlock_Violet",
+    "description": "เมื่อสวมใส่ร่วมกับ Evil Spell,\nเพิ่ม Damage สกิล Cross Rain 30%, เพิ่ม Damage ทางเวทมนตร์ธาตุ Holy 20%, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 20%, ลดระยะเวลาร่ายแบบแปรผัน 5%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -261538,6 +261562,841 @@
       "p_class_normal": [
         "GRADE[me==D]===2",
         "GRADE[me==C]===1"
+      ]
+    }
+  },
+  "1270224": {
+    "id": 1270224,
+    "aegisName": "S_BP10_Melee_E",
+    "name": "Varmundt Melee Shadow Earring",
+    "unidName": "Varmundt Melee Shadow Earring",
+    "resName": "이어링쉐도우2",
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nไม่สามารถอัพเกรดทั่วไปได้\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางกายภาพระยะใกล้ 2% , P.ATK + 2\nเมื่ออัพเกรดถึงขั้น 7, ลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที, RES + 30\nเมื่ออัพเกรดถึงขั้น 9, ลด Global Cooldown 10%\nเมื่ออัพเกรดถึงขั้น 10, เพิ่ม Damage ทางกายภาพต่อมอนสเตอร์ประเภท Boss 10%\n\nเมื่อสวมใส่ร่วมกับ Varmundt Melee Shadow Pendant, เพิ่ม Damage ทางกายภาพระยะใกล้ 4%,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 20 ขึ้นไป, ไม่ถูก Knock-back\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Earring^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 529,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": "AccessoryRight",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "melee": [
+        "3---2",
+        "EQUIP[Varmundt Melee Shadow Pendant]===4"
+      ],
+      "pAtk": [
+        "3---2"
+      ],
+      "fct": [
+        "7===0.3"
+      ],
+      "res": [
+        "7===30"
+      ],
+      "acd": [
+        "9===10"
+      ],
+      "p_class_boss": [
+        "10===10"
+      ]
+    }
+  },
+  "1270225": {
+    "id": 1270225,
+    "aegisName": "S_BP10_Melee_P",
+    "name": "Varmundt Melee Shadow Pendant",
+    "unidName": "Varmundt Melee Shadow Pendant",
+    "resName": "펜던트쉐도우2",
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nไม่สามารถอัพเกรดทั่วไปได้\nทุก ๆ การอัพเกรด 3 ขั้น, ASPD + 3% , P.ATK + 2\nเมื่ออัพเกรดถึงขั้น 7, All State + 5, MRES + 30\nเมื่ออัพเกรดถึงขั้น 9, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเมื่ออัพเกรดถึงขั้น 10, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Pendant^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 530,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": "AccessoryLeft",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "aspdPercent": [
+        "3---3"
+      ],
+      "pAtk": [
+        "3---2"
+      ],
+      "str": [
+        "7===5"
+      ],
+      "agi": [
+        "7===5"
+      ],
+      "vit": [
+        "7===5"
+      ],
+      "int": [
+        "7===5"
+      ],
+      "dex": [
+        "7===5"
+      ],
+      "luk": [
+        "7===5"
+      ],
+      "mres": [
+        "7===30"
+      ],
+      "vct": [
+        "9===10"
+      ],
+      "melee": [
+        "10===10"
+      ]
+    }
+  },
+  "1270226": {
+    "id": 1270226,
+    "aegisName": "S_BP10_Range_E",
+    "name": "Varmundt Range Shadow Earring",
+    "unidName": "Varmundt Range Shadow Earring",
+    "resName": "낡은이어링쉐도우",
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nไม่สามารถอัพเกรดทั่วไปได้\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางกายภาพระยะไกล 2%, P.ATK + 2\nเมื่ออัพเกรดถึงขั้น 7, ลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที, RES + 30\nเมื่ออัพเกรดถึงขั้น 9, ลด Global Cooldown 10%\nเมื่ออัพเกรดถึงขั้น 10, เพิ่ม Damage ทางกายภาพต่อมอนสเตอร์ประเภท Boss 10%\n\nเมื่อสวมใส่ร่วมกับ Varmundt Range Shadow Pendant, เพิ่ม Damage ทางกายภาพระยะไกล 4%,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 20 ขึ้นไป ไม่ถูก Knock-back\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Earring^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 529,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": "AccessoryRight",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "range": [
+        "3---2",
+        "EQUIP[Varmundt Range Shadow Pendant]===4"
+      ],
+      "pAtk": [
+        "3---2"
+      ],
+      "fct": [
+        "7===0.3"
+      ],
+      "res": [
+        "7===30"
+      ],
+      "acd": [
+        "9===10"
+      ],
+      "p_class_boss": [
+        "10===10"
+      ]
+    }
+  },
+  "1270227": {
+    "id": 1270227,
+    "aegisName": "S_BP10_Range_P",
+    "name": "Varmundt Range Shadow Pendant",
+    "unidName": "Varmundt Range Shadow Pendant",
+    "resName": "낡은펜던트쉐도우",
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nไม่สามารถอัพเกรดทั่วไปได้\nทุก ๆ การอัพเกรด 3 ขั้น, ASPD + 3% , P.ATK + 2.\nเมื่ออัพเกรดถึงขั้น 7, All State + 5, MRES + 30\nเมื่ออัพเกรดถึงขั้น 9, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเมื่ออัพเกรดถึงขั้น 10, เพิ่ม Damage ทางกายภาพระยะไกล 10%\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Pendant^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 530,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": "AccessoryLeft",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "aspdPercent": [
+        "3---3"
+      ],
+      "pAtk": [
+        "3---2"
+      ],
+      "str": [
+        "7===5"
+      ],
+      "agi": [
+        "7===5"
+      ],
+      "vit": [
+        "7===5"
+      ],
+      "int": [
+        "7===5"
+      ],
+      "dex": [
+        "7===5"
+      ],
+      "luk": [
+        "7===5"
+      ],
+      "mres": [
+        "7===30"
+      ],
+      "vct": [
+        "9===10"
+      ],
+      "range": [
+        "10===10"
+      ]
+    }
+  },
+  "1270228": {
+    "id": 1270228,
+    "aegisName": "S_BP10_Magic_E",
+    "name": "Varmundt Magic Shadow Earring",
+    "unidName": "Varmundt Magic Shadow Earring",
+    "resName": "이어링쉐도우3",
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nไม่สามารถอัพเกรดทั่วไปได้\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 2% , S.MATK + 2\nเมื่ออัพเกรดถึงขั้น 7, ลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที, RES + 30\nเมื่ออัพเกรดถึงขั้น 9, ลด Global Cooldown 10%\nเมื่ออัพเกรดถึงขั้น 10, เพิ่ม Damage ทางเวทมนตร์ต่อมอนสเตอร์ประเภท Boss 10%\n\nเมื่อสวมใส่ร่วมกับ Varmundt Magic Shadow Pendant, MATK + 4%,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 20 ขึ้นไป ไม่ถูก Knock-back\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Earring^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 529,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": "AccessoryRight",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "m_element_all": [
+        "3---2"
+      ],
+      "sMatk": [
+        "3---2"
+      ],
+      "matkPercent": [
+        "EQUIP[Varmundt Magic Shadow Pendant]===4"
+      ],
+      "fct": [
+        "7===0.3"
+      ],
+      "res": [
+        "7===30"
+      ],
+      "acd": [
+        "9===10"
+      ],
+      "m_class_boss": [
+        "10===10"
+      ]
+    }
+  },
+  "1270229": {
+    "id": 1270229,
+    "aegisName": "S_BP10_Magic_P",
+    "name": "Varmundt Magic Shadow Pendant",
+    "unidName": "Varmundt Magic Shadow Pendant",
+    "resName": "펜던트쉐도우3",
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nไม่สามารถอัพเกรดทั่วไปได้\nทุก ๆ การอัพเกรด 3 ขั้น, ASPD + 3% , S.MATK + 2\nเมื่ออัพเกรดถึงขั้น 7, All State + 5, MRES + 30\nเมื่ออัพเกรดถึงขั้น 9, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเมื่ออัพเกรดถึงขั้น 10, MATK + 10%\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Pendant^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 530,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": "AccessoryLeft",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "aspdPercent": [
+        "3---3"
+      ],
+      "sMatk": [
+        "3---2"
+      ],
+      "str": [
+        "7===5"
+      ],
+      "agi": [
+        "7===5"
+      ],
+      "vit": [
+        "7===5"
+      ],
+      "int": [
+        "7===5"
+      ],
+      "dex": [
+        "7===5"
+      ],
+      "luk": [
+        "7===5"
+      ],
+      "mres": [
+        "7===30"
+      ],
+      "vct": [
+        "9===10"
+      ],
+      "matkPercent": [
+        "10===10"
+      ]
+    }
+  },
+  "315165": {
+    "id": 315165,
+    "aegisName": "BP10_Bio_Melee",
+    "name": "Bio Energy of Melee",
+    "unidName": "Bio Energy of Melee",
+    "resName": "",
+    "description": "ก้อนพลังงานที่แผ่ออราอันแข็งแกร่งออกมาอย่างน่าประหลาด\nทุก ๆ การอัพเกรด 2 ขั้น ลด Damage ทางกายภาพ/เวทมนตร์จากมอนสเตอร์ทุกเผ่า (ยกเว้น Player) 2%\nทุก ๆ การอัพเกรด 3 ขั้น ลด Global Cooldown 2%\nเมื่ออัพเกรดถึงขั้น 10, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 6%, All Trait Stat + 6",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "script": {
+      "acd": [
+        "3---2"
+      ],
+      "p_race_all": [
+        "10===6"
+      ],
+      "allTrait": [
+        "10===6"
+      ]
+    }
+  },
+  "315166": {
+    "id": 315166,
+    "aegisName": "BP10_Bio_Range",
+    "name": "Bio Energy of Range",
+    "unidName": "Bio Energy of Range",
+    "resName": "",
+    "description": "ก้อนพลังงานที่แผ่ออราอันแข็งแกร่งออกมาอย่างน่าประหลาด\nทุก ๆ การอัพเกรด 2 ขั้น ลด Damage ทางกายภาพ/เวทมนตร์จากมอนสเตอร์ทุกเผ่า (ยกเว้น Player) 2%\nทุก ๆ การอัพเกรด 3 ขั้น ลด Global Cooldown 2%\nเมื่ออัพเกรดถึงขั้น 10, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 6%, All Trait Stat + 6",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "script": {
+      "acd": [
+        "3---2"
+      ],
+      "p_race_all": [
+        "10===6"
+      ],
+      "allTrait": [
+        "10===6"
+      ]
+    }
+  },
+  "315167": {
+    "id": 315167,
+    "aegisName": "BP10_Bio_Magic",
+    "name": "Bio Energy of Magic",
+    "unidName": "Bio Energy of Magic",
+    "resName": "",
+    "description": "ก้อนพลังงานที่แผ่ออราอันแข็งแกร่งออกมาอย่างน่าประหลาด\nทุก ๆ การอัพเกรด 2 ขั้น ลด Damage ทางกายภาพ/เวทมนตร์จากมอนสเตอร์ทุกเผ่า (ยกเว้น Player) 2%\nทุก ๆ การอัพเกรด 3 ขั้น ลด Global Cooldown 2%\nเมื่ออัพเกรดถึงขั้น 10, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 6%, All Trait Stat + 6",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "script": {
+      "acd": [
+        "3---2"
+      ],
+      "m_race_all": [
+        "10===6"
+      ],
+      "allTrait": [
+        "10===6"
+      ]
+    }
+  },
+  "315161": {
+    "id": 315161,
+    "aegisName": "DimAcc_SH",
+    "name": "Spirit Handler Dim Crystal",
+    "unidName": "Spirit Handler Dim Crystal",
+    "resName": "Sea_Sapphire",
+    "description": "เมื่อสวมใส่ร่วมกับ Dim Glacier Foxtail,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Hyunrok Breeze 4%\n\nเมื่อ Dim Glacier Foxtail มี Grade C ขึ้นไป,\nลด Cooldown สกิล Hyunrok Breeze ลง 2.5 วินาที\n\nเมื่อ Dim Glacier Foxtail มี Grade C ขึ้นไป และขั้นอัพเกรด 12 ขึ้นไป,\nลด Cooldown สกิล Lope 3 วินาที,\nเมื่อโจมตีทางเวทมนตร์ มีโอกาส 4% ที่จะได้รับสถานะ [Glacier Breeze] เป็นเวลา 10 วินาที,\nเพิ่ม Damage สกิล Hyunrok Breeze 15%.\n\nผลเอฟเฟกต์ [Glacier Breeze]\nSPL + 60,\nS.MATK + 15,\nสูญเสีย HP 500 หน่วยต่อวินาที",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "script": {
+      "m_element_all": [
+        "EQUIP[Dim Glacier Foxtail]===10"
+      ],
+      "Hyunrok Breeze": [
+        "EQUIP[Dim Glacier Foxtail]REFINE[weapon==2]---4",
+        "EQUIP[Dim Glacier Foxtail]REFINE[weapon==12]GRADE[weapon==C]===15"
+      ],
+      "cd__Hyunrok Breeze": [
+        "EQUIP[Dim Glacier Foxtail]GRADE[weapon==C]===2.5"
+      ],
+      "cd__Lope": [
+        "EQUIP[Dim Glacier Foxtail]REFINE[weapon==12]GRADE[weapon==C]===3"
+      ]
+    }
+  },
+  "315162": {
+    "id": 315162,
+    "aegisName": "DimAcc_BO",
+    "name": "Biolo Dim Crystal",
+    "unidName": "Biolo Dim Crystal",
+    "resName": "Sea_Sapphire",
+    "description": "เมื่อสวมใส่ร่วมกับ Dim Glacier Mace หรือ Dim Glacier Sword, \nCritical Damage + 30%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ เพิ่ม Damage สกิล Mayhemic Thorns 4%\n\nเมื่อ Dim Glacier Mace หรือ Dim Glacier Sword มี Grade C ขึ้นไป, \nลด Cooldown สกิล Mayhemic Thorns 0.4 วินาที\n\nเมื่อ Dim Glacier Mace หรือ Dim Glacier Sword มี Grade C ขึ้นไป และขั้นอัพเกรด 12 ขึ้นไป,\nP.ATK + 10.\nเพิ่ม Damage ทางกายภาพระยะไกล 20%,\nเมื่อใช้งาน Research Report จะได้รับสถานะ POW + 50 เป็นเวลา 10 วินาที,\nเพิ่ม Damage สกิล Mayhemic Thorns 15%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "script": {
+      "criticalDamage": [
+        "EQUIP[Dim Glacier Mace||Dim Glacier Sword]===30"
+      ],
+      "Mayhemic Thorns": [
+        "EQUIP[Dim Glacier Mace||Dim Glacier Sword]REFINE[weapon==2]---4",
+        "EQUIP[Dim Glacier Mace||Dim Glacier Sword]REFINE[weapon==12]GRADE[weapon==C]===15"
+      ],
+      "cd__Mayhemic Thorns": [
+        "EQUIP[Dim Glacier Mace||Dim Glacier Sword]GRADE[weapon==C]===0.4"
+      ],
+      "pAtk": [
+        "EQUIP[Dim Glacier Mace||Dim Glacier Sword]REFINE[weapon==12]GRADE[weapon==C]===10"
+      ],
+      "range": [
+        "EQUIP[Dim Glacier Mace||Dim Glacier Sword]REFINE[weapon==12]GRADE[weapon==C]===20"
+      ]
+    }
+  },
+  "315163": {
+    "id": 315163,
+    "aegisName": "DimAcc_NW",
+    "name": "Night Watch Dim Crystal",
+    "unidName": "Night Watch Dim Crystal",
+    "resName": "Sea_Sapphire",
+    "description": "เมื่อสวมใส่ร่วมกับ Dim Glacier Revolver,\nCritical Damage + 30%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Magazine for One 5%\n\nเมื่อ Dim Glacier Revolver มี Grade C ขึ้นไป,\nลด Cooldown สกิล Magazine for One 0.4 วินาที,\nCRI + 30\n\nเมื่อ Dim Glacier Revolver มี Grade C ขึ้นไป และขั้นอัพเกรด 12 ขึ้นไป,\nเมื่อใช้งานสกิล Magazine for One มีโอกาส 30% ที่จะ Autospell สกิล Magazine for One Lv.1 (เมื่อเรียนรู้สกิลในเลเวลที่สูงกว่า จะร่ายตามเลเวลสูงสุด),\nเมื่อโจมตีทางกายภาพระยะไกล มีโอกาส 15% ที่ ที่จะ Autospell สกิล Magazine for One Lv.1 (เมื่อเรียนรู้สกิลในเลเวลที่สูงกว่า จะร่ายตามเลเวลสูงสุด),\nเพิ่ม Damage สกิล Magazine for One 20%\n\n\n\nเมื่อสวมใส่ร่วมกับ Dim Glacier Gatling Gun,\nเพิ่ม Damage ทางกายภาพระยะไกล 15%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล The Vigilante at Night 5%\n\nเมื่อ Dim Glacier Gatling Gun มี Grade C ขึ้นไป,\nลด Cooldown สกิล The Vigilante at Night ลง 0.5 วินาที\n\nเมื่อ Dim Glacier Gatling Gun มี Grade C ขึ้นไป และขั้นอัพเกรด 12 ขึ้นไป,\nสามารถใช้งานสกิล Power Lv.4 ได้,\nเมื่อใช้งานสกิล Hidden Card จะได้รับสถานะ CON + 50 เป็นเวลา 10 วินาที,\nเพิ่ม Damage สกิล The Vigilante at Night 20%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "script": {
+      "criticalDamage": [
+        "EQUIP[Dim Glacier Revolver]===30"
+      ],
+      "range": [
+        "EQUIP[Dim Glacier Gatling Gun]===15"
+      ],
+      "cri": [
+        "EQUIP[Dim Glacier Revolver]GRADE[weapon==C]===30"
+      ],
+      "Magazine for One": [
+        "EQUIP[Dim Glacier Revolver]REFINE[weapon==2]---5",
+        "EQUIP[Dim Glacier Revolver]REFINE[weapon==12]GRADE[weapon==C]===20"
+      ],
+      "cd__Magazine for One": [
+        "EQUIP[Dim Glacier Revolver]GRADE[weapon==C]===0.4"
+      ],
+      "The Vigilante at Night": [
+        "EQUIP[Dim Glacier Gatling Gun]REFINE[weapon==2]---5",
+        "EQUIP[Dim Glacier Gatling Gun]REFINE[weapon==12]GRADE[weapon==C]===20"
+      ],
+      "cd__The Vigilante at Night": [
+        "EQUIP[Dim Glacier Gatling Gun]GRADE[weapon==C]===0.5"
+      ]
+    }
+  },
+  "315164": {
+    "id": 315164,
+    "aegisName": "DimAcc_SA",
+    "name": "Soul Ascetic Dim Crystal",
+    "unidName": "Soul Ascetic Dim Crystal",
+    "resName": "Sea_Sapphire",
+    "description": "เมื่อสวมใส่ร่วมกับ Dim Glacier Wand,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Talisman of Black Tortoise, Talisman of White Tiger 5%\n\nเมื่อ Dim Glacier Wand มี Grade C ขึ้นไป, \nลด Cooldown สกิล Talisman of Black Tortoise 0.5 วินาที,\nลด Cooldown สกิล Talisman of White Tiger 0.2 วินาที\n\nเมื่อ Dim Glacier Wand มี Grade C ขึ้นไป และขั้นอัพเกรด 12 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 20%,\nสามารถใช้งานสกิล Energy Coat Lv.1 ได้,\nเพิ่ม Damage สกิล Talisman of Black Tortoise, Talisman of White Tiger 15%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "script": {
+      "m_element_all": [
+        "EQUIP[Dim Glacier Wand]===10",
+        "EQUIP[Dim Glacier Wand]REFINE[weapon==12]GRADE[weapon==C]===20"
+      ],
+      "Talisman of Black Tortoise": [
+        "EQUIP[Dim Glacier Wand]REFINE[weapon==2]---5",
+        "EQUIP[Dim Glacier Wand]REFINE[weapon==12]GRADE[weapon==C]===15"
+      ],
+      "cd__Talisman of Black Tortoise": [
+        "EQUIP[Dim Glacier Wand]GRADE[weapon==C]===0.5"
+      ],
+      "Talisman of White Tiger": [
+        "EQUIP[Dim Glacier Wand]REFINE[weapon==2]---5",
+        "EQUIP[Dim Glacier Wand]REFINE[weapon==12]GRADE[weapon==C]===15"
+      ],
+      "cd__Talisman of White Tiger": [
+        "EQUIP[Dim Glacier Wand]GRADE[weapon==C]===0.2"
+      ]
+    }
+  },
+  "420832": {
+    "id": 420832,
+    "aegisName": "Temporal_Sprout_LT",
+    "name": "Exotic Temporal Young Leaf-LT",
+    "unidName": "Mask",
+    "resName": "입에무는식물줄기LT",
+    "description": "ใบอ่อนบนต้น Yggdrasil อันเป็นแกนกลางของโลกใบนี้\nเมื่ออยู่คู่กันกับอุปกรณ์ประเภท Temporal-LT จะเผยพลังลึกลับที่ซ่อนไว้ออกมา\n\nP.ATK, S.MATK + 15\nลด Global Cooldown 5%\n\nเมื่อสวมใส่ร่วมกับ Exotic Temporal Manteau-LT,\nลด Global Cooldown ลงอีก 5%,\nASPD + 20%\n\nเมื่อสวมใส่ร่วมกับ Exotic Temporal Armor-LT,\nMaxHP + 30%,\nRES/MRES + 50\n\nเมื่อสวมใส่ร่วมกับ Exotic Temporal Boots-LT,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 20%,\nลดระยะเวลาร่ายแบบคงที่ 0.2 วินาที\n\nเมื่อสวมใส่ร่วมกับ Exotic Temporal Manteau-LT และ Exotic Temporal Armor-LT,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 18 ขึ้นไป ATK, MATK + 160,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 20 ขึ้นไป ATK, MATK + 20%,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 26 ขึ้นไป เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 20%\n\nเมื่อสวมใส่ร่วมกับ Exotic Temporal Manteau-LT, Exotic Temporal Armor-LT, Exotic Temporal Boots-LT,\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 20%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 20%,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 39 ขึ้นไป เพิกเฉยต่อพลังป้องกันทางกายภาพ/เวทมนตร์ของทุกเผ่า 100% (รวม Player/Doram), เพิกเฉยต่อ RES, MRES ของทุกเผ่า 30% (รวม Player/Doram),\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 42 ขึ้นไป ลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": "Lower",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "pAtk": [
+        "15"
+      ],
+      "sMatk": [
+        "15"
+      ],
+      "acd": [
+        "5",
+        "EQUIP[Exotic Temporal Manteau-LT]===5"
+      ],
+      "aspdPercent": [
+        "EQUIP[Exotic Temporal Manteau-LT]===20"
+      ],
+      "hpPercent": [
+        "EQUIP[Exotic Temporal Armor-LT]===30"
+      ],
+      "res": [
+        "EQUIP[Exotic Temporal Armor-LT]===50"
+      ],
+      "mres": [
+        "EQUIP[Exotic Temporal Armor-LT]===50"
+      ],
+      "p_class_all": [
+        "EQUIP[Exotic Temporal Boots-LT]===20"
+      ],
+      "m_class_all": [
+        "EQUIP[Exotic Temporal Boots-LT]===20"
+      ],
+      "fct": [
+        "EQUIP[Exotic Temporal Boots-LT]===0.2",
+        "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT&&Exotic Temporal Boots-LT]REFINE[head_low,armor,garment,boot==42]===0.3"
+      ],
+      "atk": [
+        "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT]REFINE[head_low,armor,garment==18]===160"
+      ],
+      "matk": [
+        "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT]REFINE[head_low,armor,garment==18]===160"
+      ],
+      "atkPercent": [
+        "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT]REFINE[head_low,armor,garment==20]===20"
+      ],
+      "matkPercent": [
+        "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT]REFINE[head_low,armor,garment==20]===20"
+      ],
+      "p_element_all": [
+        "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT]REFINE[head_low,armor,garment==26]===20"
+      ],
+      "m_element_all": [
+        "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT]REFINE[head_low,armor,garment==26]===20",
+        "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT&&Exotic Temporal Boots-LT]===20"
+      ],
+      "melee": [
+        "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT&&Exotic Temporal Boots-LT]===20"
+      ],
+      "range": [
+        "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT&&Exotic Temporal Boots-LT]===20"
+      ]
+    }
+  },
+  "491009": {
+    "id": 491009,
+    "aegisName": "SH_Dim_Ring_TH",
+    "name": "Dim Glacier Ring of Resonance (Spirit Handler) [1]",
+    "unidName": "Dim Glacier Ring of Resonance (Spirit Handler)",
+    "resName": "Ring_Of_TheAbyssKing_A",
+    "description": "แหวนที่หลอมจากผลึกธารน้ำแข็งอันหม่นมัว\nเมื่อสวมใส่ จะเกิดการสั่นพ้องกับพลังของ Dim Glacier ปลดปล่อยพลังแฝงที่สะท้อนความหนาวเย็นอันลึกล้ำออกมา\n\nMATK + 100\nลด Global Cooldown 10%,\nSPL + 10,\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Dim Glacier Foxtail, \nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Hyunrok Breeze 15%\n\nเมื่อ Dim Glacier Foxtail มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Hyunrok Breeze 15%\n\nเมื่อ Dim Glacier Foxtail มี Grade C ขึ้นไป,\nS.MATK + 10,\nเพิ่ม Damage สกิล Hyunrok Breeze 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Spirit Handler^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "SpiritHandler"
+    ],
+    "script": {
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "fct": [
+        "0.5"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "m_size_all": [
+        "EQUIP[Dim Glacier Foxtail]===15"
+      ],
+      "Hyunrok Breeze": [
+        "EQUIP[Dim Glacier Foxtail]===15",
+        "EQUIP[Dim Glacier Foxtail]REFINE[weapon==10]===15",
+        "EQUIP[Dim Glacier Foxtail]GRADE[weapon==C]===20"
+      ],
+      "m_element_all": [
+        "EQUIP[Dim Glacier Foxtail]REFINE[weapon==10]===15"
+      ],
+      "sMatk": [
+        "EQUIP[Dim Glacier Foxtail]GRADE[weapon==C]===10"
+      ]
+    }
+  },
+  "491010": {
+    "id": 491010,
+    "aegisName": "BO_Dim_Ring_TH",
+    "name": "Dim Glacier Ring of Resonance (Biolo) [1]",
+    "unidName": "Dim Glacier Ring of Resonance (Biolo)",
+    "resName": "Ring_Of_TheAbyssKing_A",
+    "description": "แหวนที่หลอมจากผลึกธารน้ำแข็งอันหม่นมัว\nเมื่อสวมใส่ จะเกิดการสั่นพ้องกับพลังของ Dim Glacier ปลดปล่อยพลังแฝงที่สะท้อนความหนาวเย็นอันลึกล้ำออกมา\n\nATK + 100,\nลด Global Cooldown 10%,\nPOW + 10,\nCRI + 15,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Dim Glacier Mace หรือ Dim Glacier Sword, \nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Mayhemic Thorns 15%\n\nเมื่อ Dim Glacier Mace หรือ Dim Glacier Sword มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Mayhemic Thorns 15%\n\nเมื่อ Dim Glacier Mace หรือ Dim Glacier Sword มี Grade C ขึ้นไป,\nP.ATK + 10,\nเพิ่ม Damage สกิล Mayhemic Thorns 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Biolo^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Biolo"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "cri": [
+        "15"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Dim Glacier Mace||Dim Glacier Sword]===15"
+      ],
+      "Mayhemic Thorns": [
+        "EQUIP[Dim Glacier Mace||Dim Glacier Sword]===15",
+        "EQUIP[Dim Glacier Mace||Dim Glacier Sword]REFINE[weapon==10]===15",
+        "EQUIP[Dim Glacier Mace||Dim Glacier Sword]GRADE[weapon==C]===20"
+      ],
+      "p_element_all": [
+        "EQUIP[Dim Glacier Mace||Dim Glacier Sword]REFINE[weapon==10]===15"
+      ],
+      "pAtk": [
+        "EQUIP[Dim Glacier Mace||Dim Glacier Sword]GRADE[weapon==C]===10"
+      ]
+    }
+  },
+  "491011": {
+    "id": 491011,
+    "aegisName": "NW_Dim_Ring_TH",
+    "name": "Dim Glacier Ring of Resonance (Night Watch) [1]",
+    "unidName": "Dim Glacier Ring of Resonance (Night Watch)",
+    "resName": "Ring_Of_TheAbyssKing_A",
+    "description": "แหวนที่หลอมจากผลึกธารน้ำแข็งอันหม่นมัว\nเมื่อสวมใส่ จะเกิดการสั่นพ้องกับพลังของ Dim Glacier ปลดปล่อยพลังแฝงที่สะท้อนความหนาวเย็นอันลึกล้ำออกมา\n\nATK + 100,\nลด Global Cooldown 10%,\nCON + 10,\nATK + 10%,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Dim Glacier Revolver,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 20%,\nเพิ่ม Damage สกิล Magazine for One 20%\n\nเมื่อ Dim Glacier Revolver มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 20%,\nเพิ่ม Damage สกิล Magazine for One 20%\n\nเมื่อ Dim Glacier Revolver มี Grade C ขึ้นไป,\nP.ATK + 15,\nเพิ่ม Damage สกิล Magazine for One 25%\n\n\n\nเมื่อสวมใส่ร่วมกับ Dim Glacier Gatling Gun,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 20%,\nเพิ่ม Damage สกิล The Vigilante at Night 20%\n\nเมื่อ Dim Glacier Gatling Gun มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 20%,\nเพิ่ม Damage สกิล The Vigilante at Night 20%\n\nเมื่อ Dim Glacier Gatling Gun มี Grade C ขึ้นไป,\nP.ATK + 15,\nเพิ่ม Damage สกิล The Vigilante at Night 25%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Night Watch^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "NightWatch"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "con": [
+        "10"
+      ],
+      "atkPercent": [
+        "10"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Dim Glacier Revolver||Dim Glacier Gatling Gun]===20"
+      ],
+      "Magazine for One": [
+        "EQUIP[Dim Glacier Revolver]===20",
+        "EQUIP[Dim Glacier Revolver]REFINE[weapon==10]===20",
+        "EQUIP[Dim Glacier Revolver]GRADE[weapon==C]===25"
+      ],
+      "The Vigilante at Night": [
+        "EQUIP[Dim Glacier Gatling Gun]===20",
+        "EQUIP[Dim Glacier Gatling Gun]REFINE[weapon==10]===20",
+        "EQUIP[Dim Glacier Gatling Gun]GRADE[weapon==C]===25"
+      ],
+      "p_element_all": [
+        "EQUIP[Dim Glacier Revolver||Dim Glacier Gatling Gun]REFINE[weapon==10]===20"
+      ],
+      "pAtk": [
+        "EQUIP[Dim Glacier Revolver||Dim Glacier Gatling Gun]GRADE[weapon==C]===15"
+      ]
+    }
+  },
+  "491012": {
+    "id": 491012,
+    "aegisName": "SA_Dim_Ring_TH",
+    "name": "Dim Glacier Ring of Resonance (Soul Ascetic) [1]",
+    "unidName": "Dim Glacier Ring of Resonance (Soul Ascetic)",
+    "resName": "Ring_Of_TheAbyssKing_A",
+    "description": "แหวนที่หลอมจากผลึกธารน้ำแข็งอันหม่นมัว\nเมื่อสวมใส่ จะเกิดการสั่นพ้องกับพลังของ Dim Glacier ปลดปล่อยพลังแฝงที่สะท้อนความหนาวเย็นอันลึกล้ำออกมา\n\nMATK + 100,\nลด Global Cooldown 10%,\nSPL + 10,\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Dim Glacier Wand,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Talisman of Black Tortoise, Talisman of White Tiger 15%\n\nเมื่อ Dim Glacier Wand มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Talisman of Black Tortoise, Talisman of White Tiger 15%\n\nเมื่อ Dim Glacier Wand มี Grade C ขึ้นไป,\nS.MATK + 10,\nเพิ่ม Damage สกิล Talisman of Black Tortoise, Talisman of White Tiger 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Soul Ascetic^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "SoulAscetic"
+    ],
+    "script": {
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "fct": [
+        "0.5"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "m_size_all": [
+        "EQUIP[Dim Glacier Wand]===15"
+      ],
+      "Talisman of Black Tortoise": [
+        "EQUIP[Dim Glacier Wand]===15",
+        "EQUIP[Dim Glacier Wand]REFINE[weapon==10]===15",
+        "EQUIP[Dim Glacier Wand]GRADE[weapon==C]===20"
+      ],
+      "Talisman of White Tiger": [
+        "EQUIP[Dim Glacier Wand]===15",
+        "EQUIP[Dim Glacier Wand]REFINE[weapon==10]===15",
+        "EQUIP[Dim Glacier Wand]GRADE[weapon==C]===20"
+      ],
+      "m_element_all": [
+        "EQUIP[Dim Glacier Wand]REFINE[weapon==10]===15"
+      ],
+      "sMatk": [
+        "EQUIP[Dim Glacier Wand]GRADE[weapon==C]===10"
       ]
     }
   }
