@@ -259205,7 +259205,15 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atk": [
+        "50"
+      ],
+      "melee": [
+        "7===5",
+        "9===7"
+      ]
+    }
   },
   "314928": {
     "id": 314928,
@@ -259227,7 +259235,15 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atk": [
+        "50"
+      ],
+      "range": [
+        "7===5",
+        "9===7"
+      ]
+    }
   },
   "314929": {
     "id": 314929,
@@ -259249,7 +259265,32 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "matk": [
+        "50"
+      ],
+      "m_my_element_water": [
+        "7===12"
+      ],
+      "m_my_element_wind": [
+        "7===12"
+      ],
+      "m_my_element_earth": [
+        "7===12"
+      ],
+      "m_my_element_fire": [
+        "9===12"
+      ],
+      "m_my_element_poison": [
+        "9===12"
+      ],
+      "m_my_element_shadow": [
+        "9===12"
+      ],
+      "m_my_element_neutral": [
+        "9===12"
+      ]
+    }
   },
   "314930": {
     "id": 314930,
@@ -259271,7 +259312,32 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "matk": [
+        "50"
+      ],
+      "m_my_element_fire": [
+        "7===12"
+      ],
+      "m_my_element_neutral": [
+        "7===12"
+      ],
+      "m_my_element_holy": [
+        "7===12"
+      ],
+      "m_my_element_wind": [
+        "9===12"
+      ],
+      "m_my_element_shadow": [
+        "9===12"
+      ],
+      "m_my_element_ghost": [
+        "9===12"
+      ],
+      "m_my_element_undead": [
+        "9===12"
+      ]
+    }
   },
   "314931": {
     "id": 314931,
@@ -259293,7 +259359,18 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atk": [
+        "35"
+      ],
+      "cri": [
+        "5"
+      ],
+      "criDmg": [
+        "7===5",
+        "9===5"
+      ]
+    }
   },
   "314932": {
     "id": 314932,
@@ -259315,7 +259392,15 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atk": [
+        "50"
+      ],
+      "hitDmg": [
+        "7===5",
+        "9===5"
+      ]
+    }
   },
   "314933": {
     "id": 314933,
@@ -259337,7 +259422,25 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atkPercent": [
+        "5"
+      ],
+      "atk": [
+        "50"
+      ],
+      "pAtk": [
+        "2"
+      ],
+      "melee": [
+        "7===5",
+        "9===5",
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ]
+    }
   },
   "314934": {
     "id": 314934,
@@ -259359,7 +259462,25 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atkPercent": [
+        "5"
+      ],
+      "atk": [
+        "50"
+      ],
+      "pAtk": [
+        "2"
+      ],
+      "range": [
+        "7===5",
+        "9===5",
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ]
+    }
   },
   "314935": {
     "id": 314935,
@@ -259381,7 +259502,66 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "matkPercent": [
+        "5"
+      ],
+      "matk": [
+        "50"
+      ],
+      "sMatk": [
+        "2"
+      ],
+      "m_my_element_water": [
+        "7===10",
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_wind": [
+        "7===10",
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_earth": [
+        "7===10",
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_fire": [
+        "9===10",
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_poison": [
+        "9===10",
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_shadow": [
+        "9===10",
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_neutral": [
+        "9===10",
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ]
+    }
   },
   "314936": {
     "id": 314936,
@@ -259403,7 +259583,66 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "matkPercent": [
+        "5"
+      ],
+      "matk": [
+        "50"
+      ],
+      "sMatk": [
+        "2"
+      ],
+      "m_my_element_fire": [
+        "7===10",
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_neutral": [
+        "7===10",
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_holy": [
+        "7===10",
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_wind": [
+        "9===10",
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_shadow": [
+        "9===10",
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_ghost": [
+        "9===10",
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_undead": [
+        "9===10",
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ]
+    }
   },
   "314937": {
     "id": 314937,
@@ -259425,7 +259664,25 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atk": [
+        "35"
+      ],
+      "cri": [
+        "7"
+      ],
+      "pAtk": [
+        "2"
+      ],
+      "criDmg": [
+        "7===5",
+        "9===10",
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ]
+    }
   },
   "314938": {
     "id": 314938,
@@ -259447,7 +259704,25 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atkPercent": [
+        "5"
+      ],
+      "atk": [
+        "50"
+      ],
+      "pAtk": [
+        "2"
+      ],
+      "hitDmg": [
+        "7===5",
+        "9===10",
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ]
+    }
   },
   "314939": {
     "id": 314939,
@@ -259469,7 +259744,17 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "acd": [
+        "2",
+        "7===2",
+        "9===2",
+        "GRADE[me==D]===2",
+        "GRADE[me==C]===2",
+        "GRADE[me==B]===1",
+        "GRADE[me==A]===1"
+      ]
+    }
   },
   "314940": {
     "id": 314940,
@@ -259491,7 +259776,23 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atkPercent": [
+        "3",
+        "7===3",
+        "9===4",
+        "GRADE[me==D]===2",
+        "GRADE[me==C]===3",
+        "GRADE[me==B]===3",
+        "GRADE[me==A]===2"
+      ],
+      "pAtk": [
+        "3"
+      ],
+      "atk": [
+        "GRADE[me==A]===30"
+      ]
+    }
   },
   "314941": {
     "id": 314941,
@@ -259513,7 +259814,23 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "matkPercent": [
+        "3",
+        "7===3",
+        "9===4",
+        "GRADE[me==D]===2",
+        "GRADE[me==C]===3",
+        "GRADE[me==B]===3",
+        "GRADE[me==A]===2"
+      ],
+      "sMatk": [
+        "3"
+      ],
+      "matk": [
+        "GRADE[me==A]===30"
+      ]
+    }
   },
   "314942": {
     "id": 314942,
@@ -259535,7 +259852,18 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "def": [
+        "100",
+        "7===50",
+        "9===50"
+      ],
+      "res": [
+        "15",
+        "7===10",
+        "9===10"
+      ]
+    }
   },
   "314943": {
     "id": 314943,
@@ -259557,7 +259885,18 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "mdef": [
+        "20",
+        "7===10",
+        "9===10"
+      ],
+      "mres": [
+        "10",
+        "7===7",
+        "9===8"
+      ]
+    }
   },
   "314944": {
     "id": 314944,
@@ -259579,7 +259918,18 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "hpPercent": [
+        "3",
+        "7===2",
+        "9===1"
+      ],
+      "spPercent": [
+        "3",
+        "7===2",
+        "9===1"
+      ]
+    }
   },
   "314945": {
     "id": 314945,
@@ -259601,7 +259951,13 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "aspdPercent": [
+        "10",
+        "7===7",
+        "9===8"
+      ]
+    }
   },
   "314946": {
     "id": 314946,
@@ -259623,7 +259979,13 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "vct": [
+        "10",
+        "7===7",
+        "9===8"
+      ]
+    }
   },
   "314947": {
     "id": 314947,
@@ -259645,7 +260007,26 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "pAtk": [
+        "5"
+      ],
+      "melee": [
+        "5",
+        "7===3",
+        "9===3",
+        "GRADE[me==D]===4",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "perfectHit": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===3",
+        "GRADE[me==A]===2"
+      ]
+    }
   },
   "314948": {
     "id": 314948,
@@ -259667,7 +260048,26 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "pAtk": [
+        "5"
+      ],
+      "range": [
+        "5",
+        "7===3",
+        "9===3",
+        "GRADE[me==D]===4",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "perfectHit": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===3",
+        "GRADE[me==A]===2"
+      ]
+    }
   },
   "314949": {
     "id": 314949,
@@ -259689,7 +260089,80 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "sMatk": [
+        "5"
+      ],
+      "m_my_element_water": [
+        "5",
+        "7===6",
+        "9===6",
+        "GRADE[me==D]===4",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_wind": [
+        "5",
+        "7===6",
+        "9===6",
+        "GRADE[me==D]===4",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_earth": [
+        "5",
+        "7===6",
+        "9===6",
+        "GRADE[me==D]===4",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_fire": [
+        "5",
+        "7===6",
+        "9===6",
+        "GRADE[me==D]===4",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_poison": [
+        "5",
+        "7===6",
+        "9===6",
+        "GRADE[me==D]===4",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_shadow": [
+        "5",
+        "7===6",
+        "9===6",
+        "GRADE[me==D]===4",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_neutral": [
+        "5",
+        "7===6",
+        "9===6",
+        "GRADE[me==D]===4",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==D]===2",
+        "GRADE[me==C]===2",
+        "GRADE[me==B]===2",
+        "GRADE[me==A]===2"
+      ]
+    }
   },
   "314950": {
     "id": 314950,
@@ -259711,7 +260184,80 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "sMatk": [
+        "5"
+      ],
+      "m_my_element_fire": [
+        "5",
+        "7===6",
+        "9===6",
+        "GRADE[me==D]===4",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_neutral": [
+        "5",
+        "7===6",
+        "9===6",
+        "GRADE[me==D]===4",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_holy": [
+        "5",
+        "7===6",
+        "9===6",
+        "GRADE[me==D]===4",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_wind": [
+        "5",
+        "7===6",
+        "9===6",
+        "GRADE[me==D]===4",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_shadow": [
+        "5",
+        "7===6",
+        "9===6",
+        "GRADE[me==D]===4",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_ghost": [
+        "5",
+        "7===6",
+        "9===6",
+        "GRADE[me==D]===4",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_undead": [
+        "5",
+        "7===6",
+        "9===6",
+        "GRADE[me==D]===4",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "spPercent": [
+        "GRADE[me==D]===2",
+        "GRADE[me==C]===2",
+        "GRADE[me==B]===2",
+        "GRADE[me==A]===2"
+      ]
+    }
   },
   "314951": {
     "id": 314951,
@@ -259733,7 +260279,26 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "cRate": [
+        "5",
+        "7===3",
+        "9===3",
+        "GRADE[me==D]===2",
+        "GRADE[me==C]===3",
+        "GRADE[me==B]===3",
+        "GRADE[me==A]===2"
+      ],
+      "criDmg": [
+        "5",
+        "7===3",
+        "9===3",
+        "GRADE[me==D]===4",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ]
+    }
   },
   "314952": {
     "id": 314952,
@@ -259755,7 +260320,33 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "hitDmg": [
+        "3",
+        "7===5",
+        "9===3",
+        "GRADE[me==D]===4",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "melee": [
+        "3",
+        "7===3",
+        "9===3"
+      ],
+      "range": [
+        "3",
+        "7===3",
+        "9===3"
+      ],
+      "perfectHit": [
+        "GRADE[me==D]===3",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===2",
+        "GRADE[me==A]===5"
+      ]
+    }
   },
   "314953": {
     "id": 314953,
@@ -259777,7 +260368,13 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "p_size_all": [
+        "5",
+        "7===5",
+        "9===5"
+      ]
+    }
   },
   "314954": {
     "id": 314954,
@@ -259799,7 +260396,13 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "m_size_all": [
+        "5",
+        "7===5",
+        "9===5"
+      ]
+    }
   },
   "314955": {
     "id": 314955,
@@ -259821,7 +260424,21 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atk": [
+        "15",
+        "7===15",
+        "9===20"
+      ],
+      "atkPercent": [
+        "1",
+        "7===1",
+        "9===3"
+      ],
+      "pAtk": [
+        "1"
+      ]
+    }
   },
   "314956": {
     "id": 314956,
@@ -259843,7 +260460,21 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "mAtk": [
+        "15",
+        "7===15",
+        "9===20"
+      ],
+      "mAtkPercent": [
+        "1",
+        "7===1",
+        "9===3"
+      ],
+      "sMatk": [
+        "1"
+      ]
+    }
   },
   "314957": {
     "id": 314957,
@@ -259865,7 +260496,13 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "hpPercent": [
+        "3",
+        "7===2",
+        "9===1"
+      ]
+    }
   },
   "314958": {
     "id": 314958,
@@ -259887,7 +260524,13 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "spPercent": [
+        "3",
+        "7===2",
+        "9===1"
+      ]
+    }
   },
   "314959": {
     "id": 314959,
@@ -259909,7 +260552,23 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atkPercent": [
+        "2"
+      ],
+      "pAtk": [
+        "3",
+        "GRADE[me==C]===2",
+        "GRADE[me==B]===3",
+        "GRADE[me==A]===5"
+      ],
+      "melee": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ]
+    }
   },
   "314960": {
     "id": 314960,
@@ -259931,7 +260590,23 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atkPercent": [
+        "2"
+      ],
+      "pAtk": [
+        "3",
+        "GRADE[me==C]===2",
+        "GRADE[me==B]===3",
+        "GRADE[me==A]===5"
+      ],
+      "range": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ]
+    }
   },
   "314961": {
     "id": 314961,
@@ -259953,7 +260628,59 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "mAtkPercent": [
+        "2"
+      ],
+      "sMatk": [
+        "3",
+        "GRADE[me==C]===2",
+        "GRADE[me==B]===3",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_water": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_wind": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_earth": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_fire": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_poison": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_shadow": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_neutral": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ]
+    }
   },
   "314962": {
     "id": 314962,
@@ -259975,7 +260702,59 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "mAtkPercent": [
+        "2"
+      ],
+      "sMatk": [
+        "3",
+        "GRADE[me==C]===2",
+        "GRADE[me==B]===3",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_fire": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_neutral": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_holy": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_wind": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_shadow": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_ghost": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ],
+      "m_my_element_undead": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ]
+    }
   },
   "314963": {
     "id": 314963,
@@ -259997,7 +260776,25 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "cri": [
+        "5"
+      ],
+      "pAtk": [
+        "3"
+      ],
+      "cRate": [
+        "GRADE[me==C]===2",
+        "GRADE[me==B]===3",
+        "GRADE[me==A]===5"
+      ],
+      "criDmg": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ]
+    }
   },
   "314964": {
     "id": 314964,
@@ -260019,7 +260816,30 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "hit": [
+        "25"
+      ],
+      "pAtk": [
+        "3"
+      ],
+      "melee": [
+        "GRADE[me==C]===3",
+        "GRADE[me==B]===3",
+        "GRADE[me==A]===4"
+      ],
+      "range": [
+        "GRADE[me==C]===3",
+        "GRADE[me==B]===3",
+        "GRADE[me==A]===4"
+      ],
+      "hitDmg": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5",
+        "GRADE[me==B]===5",
+        "GRADE[me==A]===5"
+      ]
+    }
   },
   "314965": {
     "id": 314965,
@@ -260041,7 +260861,14 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atk": [
+        "25"
+      ],
+      "melee": [
+        "10"
+      ]
+    }
   },
   "314966": {
     "id": 314966,
@@ -260063,7 +260890,14 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atk": [
+        "25"
+      ],
+      "range": [
+        "10"
+      ]
+    }
   },
   "314967": {
     "id": 314967,
@@ -260085,7 +260919,32 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "mAtk": [
+        "25"
+      ],
+      "m_my_element_water": [
+        "10"
+      ],
+      "m_my_element_wind": [
+        "10"
+      ],
+      "m_my_element_earth": [
+        "10"
+      ],
+      "m_my_element_fire": [
+        "10"
+      ],
+      "m_my_element_poison": [
+        "10"
+      ],
+      "m_my_element_shadow": [
+        "10"
+      ],
+      "m_my_element_neutral": [
+        "10"
+      ]
+    }
   },
   "314968": {
     "id": 314968,
@@ -260107,7 +260966,32 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "mAtk": [
+        "25"
+      ],
+      "m_my_element_fire": [
+        "10"
+      ],
+      "m_my_element_neutral": [
+        "10"
+      ],
+      "m_my_element_holy": [
+        "10"
+      ],
+      "m_my_element_wind": [
+        "10"
+      ],
+      "m_my_element_shadow": [
+        "10"
+      ],
+      "m_my_element_ghost": [
+        "10"
+      ],
+      "m_my_element_undead": [
+        "10"
+      ]
+    }
   },
   "314969": {
     "id": 314969,
@@ -260129,7 +261013,14 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "cri": [
+        "10"
+      ],
+      "criDmg": [
+        "10"
+      ]
+    }
   },
   "314970": {
     "id": 314970,
@@ -260151,7 +261042,14 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atk": [
+        "25"
+      ],
+      "hitDmg": [
+        "10"
+      ]
+    }
   },
   "314971": {
     "id": 314971,
@@ -260173,7 +261071,14 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atk": [
+        "35"
+      ],
+      "melee": [
+        "12"
+      ]
+    }
   },
   "314972": {
     "id": 314972,
@@ -260195,7 +261100,14 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atk": [
+        "35"
+      ],
+      "range": [
+        "12"
+      ]
+    }
   },
   "314973": {
     "id": 314973,
@@ -260217,7 +261129,32 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "mAtk": [
+        "35"
+      ],
+      "m_my_element_water": [
+        "12"
+      ],
+      "m_my_element_wind": [
+        "12"
+      ],
+      "m_my_element_earth": [
+        "12"
+      ],
+      "m_my_element_fire": [
+        "12"
+      ],
+      "m_my_element_poison": [
+        "12"
+      ],
+      "m_my_element_shadow": [
+        "12"
+      ],
+      "m_my_element_neutral": [
+        "12"
+      ]
+    }
   },
   "314974": {
     "id": 314974,
@@ -260239,7 +261176,14 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "cri": [
+        "15"
+      ],
+      "criDmg": [
+        "12"
+      ]
+    }
   },
   "314975": {
     "id": 314975,
@@ -260261,7 +261205,14 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atk": [
+        "35"
+      ],
+      "hitDmg": [
+        "12"
+      ]
+    }
   },
   "314976": {
     "id": 314976,
@@ -260283,7 +261234,14 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "pAtk": [
+        "5"
+      ],
+      "p_element_all": [
+        "7"
+      ]
+    }
   },
   "314977": {
     "id": 314977,
@@ -260305,7 +261263,14 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "sMatk": [
+        "5"
+      ],
+      "m_element_all": [
+        "7"
+      ]
+    }
   },
   "314978": {
     "id": 314978,
@@ -260327,7 +261292,32 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "mAtk": [
+        "35"
+      ],
+      "m_my_element_fire": [
+        "12"
+      ],
+      "m_my_element_neutral": [
+        "12"
+      ],
+      "m_my_element_holy": [
+        "12"
+      ],
+      "m_my_element_wind": [
+        "12"
+      ],
+      "m_my_element_shadow": [
+        "12"
+      ],
+      "m_my_element_ghost": [
+        "12"
+      ],
+      "m_my_element_undead": [
+        "12"
+      ]
+    }
   },
   "314979": {
     "id": 314979,
@@ -260349,7 +261339,18 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "def": [
+        "100",
+        "7===50",
+        "9===30"
+      ],
+      "mDef": [
+        "20",
+        "7===10",
+        "9===5"
+      ]
+    }
   },
   "314980": {
     "id": 314980,
@@ -260371,7 +261372,22 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "atkPercent": [
+        "3"
+      ],
+      "mAtkPercent": [
+        "3"
+      ],
+      "atk": [
+        "7===20",
+        "9===15"
+      ],
+      "mAtk": [
+        "7===20",
+        "9===15"
+      ]
+    }
   },
   "314981": {
     "id": 314981,
@@ -260393,7 +261409,13 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "res": [
+        "25",
+        "7===15",
+        "9===15"
+      ]
+    }
   },
   "314982": {
     "id": 314982,
@@ -260415,7 +261437,13 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "mRes": [
+        "15",
+        "7===10",
+        "9===10"
+      ]
+    }
   },
   "314983": {
     "id": 314983,
@@ -260437,7 +261465,24 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "def": [
+        "100"
+      ],
+      "res": [
+        "50"
+      ],
+      "vct": [
+        "GRADE[me==D]===5",
+        "GRADE[me==C]===5"
+      ],
+      "maxHpPercent": [
+        "GRADE[me==B]===5"
+      ],
+      "maxSpPercent": [
+        "GRADE[me==B]===3"
+      ]
+    }
   },
   "314984": {
     "id": 314984,
@@ -260459,6 +261504,41 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "script": {}
+    "script": {
+      "pAtk": [
+        "1",
+        "GRADE[me==B]===2"
+      ],
+      "sMatk": [
+        "1",
+        "GRADE[me==B]===2"
+      ],
+      "p_element_all": [
+        "7===3"
+      ],
+      "p_size_all": [
+        "9===3"
+      ],
+      "p_race_all": [
+        "11===3"
+      ],
+      "m_element_all": [
+        "7===3"
+      ],
+      "m_size_all": [
+        "9===3"
+      ],
+      "m_race_all": [
+        "11===3"
+      ],
+      "p_class_boss": [
+        "GRADE[me==D]===2",
+        "GRADE[me==C]===1"
+      ],
+      "p_class_normal": [
+        "GRADE[me==D]===2",
+        "GRADE[me==C]===1"
+      ]
+    }
   }
 }
