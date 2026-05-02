@@ -261562,6 +261562,14 @@
       "p_class_normal": [
         "GRADE[me==D]===2",
         "GRADE[me==C]===1"
+      ],
+      "m_class_boss": [
+        "GRADE[me==D]===2",
+        "GRADE[me==C]===1"
+      ],
+      "m_class_normal": [
+        "GRADE[me==D]===2",
+        "GRADE[me==C]===1"
       ]
     }
   },
