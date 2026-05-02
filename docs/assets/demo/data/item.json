@@ -260485,12 +260485,12 @@
     "compositionPos": 65535,
     "canGrade": false,
     "script": {
-      "mAtk": [
+      "matk": [
         "15",
         "7===15",
         "9===20"
       ],
-      "mAtkPercent": [
+      "matkPercent": [
         "1",
         "7===1",
         "9===3"
@@ -260653,7 +260653,7 @@
     "compositionPos": 65535,
     "canGrade": false,
     "script": {
-      "mAtkPercent": [
+      "matkPercent": [
         "2"
       ],
       "sMatk": [
@@ -260727,7 +260727,7 @@
     "compositionPos": 65535,
     "canGrade": false,
     "script": {
-      "mAtkPercent": [
+      "matkPercent": [
         "2"
       ],
       "sMatk": [
@@ -260944,7 +260944,7 @@
     "compositionPos": 65535,
     "canGrade": false,
     "script": {
-      "mAtk": [
+      "matk": [
         "25"
       ],
       "m_my_element_water": [
@@ -260991,7 +260991,7 @@
     "compositionPos": 65535,
     "canGrade": false,
     "script": {
-      "mAtk": [
+      "matk": [
         "25"
       ],
       "m_my_element_fire": [
@@ -261154,7 +261154,7 @@
     "compositionPos": 65535,
     "canGrade": false,
     "script": {
-      "mAtk": [
+      "matk": [
         "35"
       ],
       "m_my_element_water": [
@@ -261317,7 +261317,7 @@
     "compositionPos": 65535,
     "canGrade": false,
     "script": {
-      "mAtk": [
+      "matk": [
         "35"
       ],
       "m_my_element_fire": [
@@ -261400,14 +261400,14 @@
       "atkPercent": [
         "3"
       ],
-      "mAtkPercent": [
+      "matkPercent": [
         "3"
       ],
       "atk": [
         "7===20",
         "9===15"
       ],
-      "mAtk": [
+      "matk": [
         "7===20",
         "9===15"
       ]
