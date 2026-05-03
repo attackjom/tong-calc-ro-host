@@ -206122,6 +206122,7 @@
     "unidName": "Mace",
     "resName": "AC_B_Club",
     "description": "^ff0000ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\n^ff0000ไม่สามารถฝากคลังได้^000000\nกระบองที่ถูกสร้างขึ้นเพื่อช่วยเหลือการเติบโตของนักผจญภัย\n^000088ไม่สามารถอัพเกรดทั่วไปได้^000000\nไม่สามารถทำลายได้\nATK +2%\nทุก ๆ การอัพเกรด 1 ขั้น ATK +3\nทุก ๆ Base Lv. 15, ATK +3 (ใช้งานสูงสุดถึง Lv. 195)\nเมื่ออัพเกรดถึงขั้น 7 ทุก ๆ การเรียนรู้สกิล Learning Potion 1 เลเวล เพิ่ม Damage ทางกายภาพระยะไกล 2%\nเมื่ออัพเกรดถึงขั้น 9 ลดระยะเวลาร่ายแบบแปรผัน 10%, เพิ่ม Damage สกิล Acid Demonstration, Cart Cannon 25%\nเมื่ออัพเกรดถึงขั้น 11 ลด Delay หลังใช้สกิล 10%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 20%\nเมื่ออัพเกรดถึงขั้น 13 เพิ่ม Damage สกิล Acid Demonstration, Cart Cannon ขึ้นอีก 15%\n^ffffff_^000000\nประเภท : ^777777Mace^000000 พลังโจมตี : ^777777190^000000\nน้ำหนัก : ^7777770^000000\nเลเวลของอาวุธ : ^7777774^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Genetic^000000",
+    "description_en": "Can't be refined by normal means.\nCan't be destroyed.\nAtk + 2%.\nAtk + 3 per refine rate.\nAtk + 3 per 15 base level (up to level 195).\nIf refine rate is 7 or higher, increases long ranged physical damage by 2% per each level of Potion Research user learned.\nIf refine rate is 9 or higher, reduces variable casting time by 10%, increases Acid Bomb and Cart Cannon damage by 25%.\nIf refine rate is 11 or higher, reduces global cooldown by 10%, increases physical damage against all size enemies by 20%.\nIf refine rate is 13 or higher, increases Acid Bomb and Cart Cannon damage by additional 15%.\n^ffffff_^000000\nClass: ^777777Mace^000000 Attack: ^777777190^000000\nWeight: ^7777770^000000\nWeapon Level: ^7777774^000000\nRequired Level: ^777777100^000000\nJobs: ^777777Genetic^000000",
     "slots": 0,
     "itemTypeId": 1,
     "itemSubTypeId": 263,
@@ -252122,41 +252123,6 @@
       ]
     }
   },
-  "410556": {
-    "id": 410556,
-    "aegisName": "C_Emperor_Penguin",
-    "flavorText": null,
-    "name": "Costume Emperor Penguin",
-    "unidName": "Ribbon",
-    "resName": "C_Emperor_Penguin",
-    "unidResName": "리본",
-    "description": "เพนกวินจักรพรรดิสุดน่ารัก สัญลักษณ์แห่งความสง่างามแห่งแดนน้ำแข็ง\nให้ลุคโดดเด่นและอบอุ่นไปพร้อมกัน ราวกับผู้นำแห่งฝูงเพนกวินผู้ยิ่งใหญ่\n\nATK, MATK + 100\nเพิกเฉยต่อ RES , MRES ของศัตรูทุกเผ่า 50%\nเมื่อกำจัดมอนเตอร์ มีโอกาส 0.3% ที่จะได้รับ Snow Flower Petal\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 8 เมษายน 2569)\n^ffffff^4D4DFF[Designer Heidam]^000000^000000\n^b4b4b4สามารถแลกเปลี่ยนเป็น Costume Enchant Stone Box 31 ได้^000000\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 520,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": "Middle",
-    "compositionPos": null,
-    "canGrade": false,
-    "script": {
-      "atk": [
-        "100"
-      ],
-      "matk": [
-        "100"
-      ],
-      "pene_res": [
-        "50"
-      ],
-      "pene_mres": [
-        "50"
-      ]
-    }
-  },
   "490947": {
     "id": 490947,
     "aegisName": "SnowPromised_Ring_TH",
@@ -262419,6 +262385,53 @@
       ],
       "sMatk": [
         "EQUIP[Dim Glacier Wand]GRADE[weapon==C]===10"
+      ]
+    }
+  },
+  "400799": {
+    "id": 400799,
+    "aegisName": "C_JP_EV18",
+    "flavorText": null,
+    "name": "Costume Kumamon Hat",
+    "unidName": null,
+    "resName": "C_JP_EV18",
+    "unidResName": null,
+    "description": "Become Kumamon when you wear it!\n^ffffff_^000000\n^CC3D3D[Event Limited Option]^000000\nATK + 50, MATK + 50.\nCRI + 10, Variable Cast Time -10%.\nEXP gained from defeating monsters +5%.\nPhysical/Magical damage to enemies of all elements and all sizes +10%.\nWhen equipped together with Costume Kumamon Doll, EXP gained from defeating monsters +5%.\n^ff0000(The event-limited options will be removed during regular maintenance on May 20, 2026.)^000000\nClass : ^777777Costume^000000 Defense : ^7777770^000000\nPosition : ^777777Upper^000000 Weight : ^7777770^000000\nRequired Level : ^7777771^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "50"
+      ],
+      "matk": [
+        "50"
+      ],
+      "cri": [
+        "10"
+      ],
+      "vct": [
+        "10"
+      ],
+      "p_element_all": [
+        "10"
+      ],
+      "m_element_all": [
+        "10"
+      ],
+      "p_size_all": [
+        "10"
+      ],
+      "m_size_all": [
+        "10"
       ]
     }
   }
