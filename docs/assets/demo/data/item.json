@@ -262175,7 +262175,9 @@
         "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT]REFINE[head_low,armor,garment==26]===20"
       ],
       "m_element_all": [
-        "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT]REFINE[head_low,armor,garment==26]===20",
+        "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT]REFINE[head_low,armor,garment==26]===20"
+      ],
+      "m_my_element_all": [
         "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT&&Exotic Temporal Boots-LT]===20"
       ],
       "melee": [
@@ -262183,6 +262185,18 @@
       ],
       "range": [
         "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT&&Exotic Temporal Boots-LT]===20"
+      ],
+      "p_pene_race_all": [
+        "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT&&Exotic Temporal Boots-LT]REFINE[head_low,armor,garment,boot==39]===100"
+      ],
+      "m_pene_race_all": [
+        "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT&&Exotic Temporal Boots-LT]REFINE[head_low,armor,garment,boot==39]===100"
+      ],
+      "pene_res": [
+        "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT&&Exotic Temporal Boots-LT]REFINE[head_low,armor,garment,boot==39]===30"
+      ],
+      "pene_mres": [
+        "EQUIP[Exotic Temporal Manteau-LT&&Exotic Temporal Armor-LT&&Exotic Temporal Boots-LT]REFINE[head_low,armor,garment,boot==39]===30"
       ]
     }
   },
