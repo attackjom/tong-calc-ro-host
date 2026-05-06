@@ -262553,5 +262553,477 @@
         "10"
       ]
     }
+  },
+  "103065": {
+    "id": 103065,
+    "aegisName": "24_S_Ev_Noodle",
+    "flavorText": null,
+    "name": "Summer Festival Noodle",
+    "unidName": null,
+    "resName": "쁘띠꼬리국수",
+    "unidResName": null,
+    "description": "ก๋วยเตี๋ยวในงานที่เทศกาลที่ขาดไปไม่ได้!\n^ffffff_^000000\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 10% เป็นเวลา 15 นาที\n^ffffff_^000000\n^ff0000(ไอเท็มนี้จะถูกลบออกหลังสิ้นสุดระยะเวลากิจกรรม) ^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 3,
+    "itemSubTypeId": 768,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "p_element_all": [
+        "10"
+      ],
+      "m_element_all": [
+        "10"
+      ]
+    }
+  },
+  "103066": {
+    "id": 103066,
+    "aegisName": "24_S_Ev_Grilled",
+    "flavorText": null,
+    "name": "Herb Calamari Barbecue",
+    "unidName": null,
+    "resName": "오징어통구이",
+    "unidResName": null,
+    "description": "ปลาหมึกย่างทั้งตัวที่ปรุงรสด้วยสมุนไพรหลายชนิด\n^ffffff_^000000\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10% เป็นเวลา 15 นาที\n^ffffff_^000000\n^ff0000(ไอเท็มนี้จะถูกลบออกหลังสิ้นสุดระยะเวลากิจกรรม) ^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 3,
+    "itemSubTypeId": 768,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "p_size_all": [
+        "10"
+      ],
+      "m_size_all": [
+        "10"
+      ]
+    }
+  },
+  "103067": {
+    "id": 103067,
+    "aegisName": "24_S_Ev_Podding",
+    "flavorText": null,
+    "name": "Sweet Watermelon Pudding",
+    "unidName": null,
+    "resName": "수박푸딩",
+    "unidResName": null,
+    "description": "พุดดิ้งที่ทำขึ้นมาจากแตงโมหวานฉ่ำ\nเป็นของหวานที่เหมาะแก่การกินคลายร้อนในกาศแบบนี้!\n^ffffff_^000000\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10% เป็นเวลา 15 นาที\n^ffffff_^000000\n^ff0000(ไอเท็มนี้จะถูกลบออกหลังสิ้นสุดระยะเวลากิจกรรม) ^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 3,
+    "itemSubTypeId": 768,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "melee": [
+        "10"
+      ],
+      "range": [
+        "10"
+      ],
+      "m_my_element_all": [
+        "10"
+      ]
+    }
+  },
+  "103068": {
+    "id": 103068,
+    "aegisName": "24_S_Ev_Juice",
+    "flavorText": null,
+    "name": "Cold Watermelon Juice",
+    "unidName": null,
+    "resName": "럭요리02",
+    "unidResName": null,
+    "description": "น้ำแตงโมเย็นชื่นใจที่ทำมาจากแตงโมในหน้าร้อน\n^ffffff_^000000\nATK + 15%, MATK + 15% เป็นเวลา 15 นาที\n^ffffff_^000000\n^ff0000(ไอเท็มนี้จะถูกลบออกหลังสิ้นสุดระยะเวลากิจกรรม) ^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 3,
+    "itemSubTypeId": 768,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "15"
+      ],
+      "matkPercent": [
+        "15"
+      ]
+    }
+  },
+  "103069": {
+    "id": 103069,
+    "aegisName": "24_S_Ev_IceFlake",
+    "flavorText": null,
+    "name": "Cold Red Beans Bingsu",
+    "unidName": null,
+    "resName": "팥빙수",
+    "unidResName": null,
+    "description": "น้ำแข็งไสเนื้อละเอียดที่โรยหน้าด้วยท็อปปิ้งหลากหลายชนิด\n^ffffff_^000000\nMHP + 10%, MSP + 10% เป็นเวลา 15 นาที\n^ffffff_^000000\n^ff0000(ไอเท็มนี้จะถูกลบออกหลังสิ้นสุดระยะเวลากิจกรรม) ^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 3,
+    "itemSubTypeId": 768,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "hpPercent": [
+        "10"
+      ],
+      "spPercent": [
+        "10"
+      ]
+    }
+  },
+  "103070": {
+    "id": 103070,
+    "aegisName": "24_S_Ev_Pop_Corn",
+    "flavorText": null,
+    "name": "Gourmet Butter Popcorn",
+    "unidName": null,
+    "resName": "Aromatic_Pop_Corn",
+    "unidResName": null,
+    "description": "ป๊อปคอร์นระดับกูร์เมต์ที่รังสรรค์ขึ้นจากเนยออร์แกนิกสดใหม่และเกลือจากธรรมชาติ\n^ffffff_^000000\nลดระยะเวลาร่ายแบบแปรผัน 10%, ASPD + 2 เป็นเวลา 15 นาที\n^ffffff_^000000\n^ff0000(ไอเท็มนี้จะถูกลบออกหลังสิ้นสุดระยะเวลากิจกรรม) ^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 3,
+    "itemSubTypeId": 768,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "vct": [
+        "3"
+      ],
+      "aspd": [
+        "2"
+      ]
+    }
+  },
+  "410643": {
+    "id": 410643,
+    "aegisName": "LittleGarden_LT_",
+    "flavorText": null,
+    "name": "Little Garden-LT [1]",
+    "unidName": "Hairband",
+    "resName": "LittleGarden",
+    "unidResName": "머리띠",
+    "description": "มงกุฎดอกไม้อันงดงาม สวมใส่แล้วรู้สึกได้ถึงภูมิฐานที่พริ้งพรายในความสวยงามตามธรรมชาติ\n\nATK + 80\nCrirical Damage + 20%\nCRI + 15.\n\nเมื่อ Base LUK ตั้งแต่ 90 ขึ้นไป,\nATK + 120 เพิ่มเติม,\nCritical Damage + 20% เพิ่มเติม,\nAPSD + 7%\n\nเมื่อ Base LUK ตั้งแต่ 120 ขึ้นไป,\nATK + 160 เพิ่มเติม,\nCritical Damage + 30% เพิ่มเติม,\nC.RATE + 15\n\nเมื่อใช้งานกับ Orc Hero Card,\nลด Global Cooldown 15%,\nP.ATK + 15,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 20%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 100,
+    "location": "Middle",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "80",
+        "luk:90---120",
+        "luk:120---160"
+      ],
+      "criDmg": [
+        "20",
+        "luk:90---20",
+        "luk:120---30"
+      ],
+      "cri": [
+        "15"
+      ],
+      "cRate": [
+        "luk:120---15"
+      ],
+      "aspdPercent": [
+        "luk:90---7"
+      ],
+      "p_element_all": [
+        "EQUIP[Orc Hero Card]===20"
+      ],
+      "pAtk": [
+        "EQUIP[Orc Hero Card]===15"
+      ],
+      "acd": [
+        "EQUIP[Orc Hero Card]===15"
+      ]
+    }
+  },
+  "410644": {
+    "id": 410644,
+    "aegisName": "Floating_Ball_LT_",
+    "flavorText": null,
+    "name": "Floating Ball-LT [1]",
+    "unidName": "Floating Ball-LT",
+    "resName": "Floating_Ball",
+    "unidResName": "Floating_Ball",
+    "description": "MATK + 80\nเพิ่ม Damage ทางเวทมนตร์ต่อมอนสเตอร์ประเภท Boss 5%\nMATK + 5%\n\nเมื่อ Base DEX ตั้งแต่ 90 ขึ้นไป,\nMATK + 120 เพิ่มเติม,\nเพิ่ม Damage ทางเวทมนตร์ต่อมอนสเตอร์ประเภท Boss ขึ้นอีก 10%,\nลดระยะเวลาร่ายแบบคงที่ 0.2 วินาที\n\nเมื่อ Base DEX ตั้งแต่ 120 ขึ้นไป,\nMATK + 160 เพิ่มเติม,\nเพิ่ม Damage ทางเวทมนตร์ต่อมอนสเตอร์ประเภท Boss ขึ้นอีก 10%,\nลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที\n\nเมื่อสวมใส่ร่วมกันกับ Mistress Card,\nลด Global Cooldown 15%,\nS.MATK + 15,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 20%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 100,
+    "location": "Middle",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matk": [
+        "80",
+        "dex:90---120",
+        "dex:120---160"
+      ],
+      "m_class_boss": [
+        "5",
+        "dex:90---10",
+        "dex:120---10"
+      ],
+      "matkPercent": [
+        "5"
+      ],
+      "fct": [
+        "dex:90---0.2",
+        "dex:120---0.3"
+      ],
+      "sMatk": [
+        "EQUIP[Mistress Card]===15"
+      ],
+      "m_element_all": [
+        "EQUIP[Mistress Card]===20"
+      ],
+      "acd": [
+        "EQUIP[Mistress Card]===15"
+      ]
+    }
+  },
+  "420841": {
+    "id": 420841,
+    "aegisName": "AAT_Supreme_LT",
+    "flavorText": null,
+    "name": "All Above Time(Supreme)-LT",
+    "unidName": null,
+    "resName": "시간의장식",
+    "unidResName": null,
+    "description": "เศษเสี้ยวหนึ่งของห้วงเวลาจาก Old Glast Heim\n\nลด Global Cooldown 10%,\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%\n\nเมื่อใช้งานร่วมกับ Shard of Strength Jewel, ATK + 100\n\nเมื่อใช้งานร่วมกับ Shard of Agility Jewel, CRI + 35, Critical Damage + 35%\n\nเมื่อใช้งานร่วมกับ Shard of Intelligence Jewel, MATK + 100\n\nเมื่อใช้งานร่วมกับ Shard of Vitality Jewel, ลด Global Cooldown 15%, MATK + 100\n\nเมื่อใช้งานร่วมกับ Shard of Dexterity Jewel, Perfect HIT + 40\n\nเมื่อใช้งานร่วมกับ Shard of Fatality Jewel, ATK + 100\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^77777760^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 60,
+    "requiredLevel": 100,
+    "location": "Lower",
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "acd": [
+        "10",
+        "EQUIP[Shard of Vitality Jewel]15"
+      ],
+      "melee": [
+        "10"
+      ],
+      "range": [
+        "10"
+      ],
+      "m_element_all": [
+        "10"
+      ],
+      "atk": [
+        "EQUIP[Shard of Strength Jewel]100",
+        "EQUIP[Shard of Fatality Jewel]100"
+      ],
+      "cri": [
+        "EQUIP[Shard of Agility Jewel]35"
+      ],
+      "criDmg": [
+        "EQUIP[Shard of Agility Jewel]35"
+      ],
+      "matk": [
+        "EQUIP[Shard of Intelligence Jewel]100",
+        "EQUIP[Shard of Vitality Jewel]100"
+      ],
+      "perfectHit": [
+        "EQUIP[Shard of Dexterity Jewel]40"
+      ]
+    }
+  },
+  "490557": {
+    "id": 490557,
+    "aegisName": "Sesrumnir_Evt_Ring",
+    "flavorText": null,
+    "name": "Sessrumnir Commemoration Ring [1]",
+    "unidName": null,
+    "resName": "RingOfAdoramus",
+    "unidResName": null,
+    "description": "แหวนที่ทำขึ้นมาเพื่อเป็นที่ระลึกงาน Sessrumnir Ocean Week\n^ffffff_^000000\nATK + 5%, MATK + 5%\nCRI + 5, ASPD + 5%, ลดระยะเวลาร่ายแบบแปรผัน 5%\n^ffffff_^000000\n^CC3D3D[ความสามารถช่วงกิจกรรม]^000000\nATK + 20, MATK + 20,\nCRI + 10, ASPD + 10%, ลดระยะเวลาร่ายแบบแปรผัน 10%,\nเพิ่ม EXP ที่ได้รับจากมอนสเตอร์ 15%,\nเมื่อสวมใส่ร่วมกับ Summer Vacation Pope Card, \nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 10% (ยกเว้น Player), \nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%, \nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 10%\n^ff0000(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังสิ้นสุดระยะเวลากิจกรรม)^000000\nประเภท : ^777777Accessory (Left)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777771^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 511,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "5"
+      ],
+      "matkPercent": [
+        "5"
+      ],
+      "cri": [
+        "5",
+        "10"
+      ],
+      "aspdPercent": [
+        "5",
+        "10"
+      ],
+      "vct": [
+        "5",
+        "10"
+      ],
+      "atk": [
+        "20"
+      ],
+      "matk": [
+        "20"
+      ],
+      "p_race_all": [
+        "EQUIP[Summer Vacation Pope Card]10"
+      ],
+      "m_race_all": [
+        "EQUIP[Summer Vacation Pope Card]10"
+      ],
+      "p_size_all": [
+        "EQUIP[Summer Vacation Pope Card]10"
+      ],
+      "m_size_all": [
+        "EQUIP[Summer Vacation Pope Card]10"
+      ],
+      "p_element_all": [
+        "EQUIP[Summer Vacation Pope Card]10"
+      ],
+      "m_element_all": [
+        "EQUIP[Summer Vacation Pope Card]10"
+      ]
+    }
+  },
+  "90490557": {
+    "id": 90490557,
+    "aegisName": "Sesrumnir_Evt_Ring",
+    "flavorText": null,
+    "name": "(No event) Sessrumnir Commemoration Ring [1]",
+    "unidName": null,
+    "resName": "RingOfAdoramus",
+    "unidResName": null,
+    "description": "แหวนที่ทำขึ้นมาเพื่อเป็นที่ระลึกงาน Sessrumnir Ocean Week\n^ffffff_^000000\nATK + 5%, MATK + 5%\nCRI + 5, ASPD + 5%, ลดระยะเวลาร่ายแบบแปรผัน 5%\n^ffffff_^000000\nประเภท : ^777777Accessory (Left)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777771^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 511,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "5"
+      ],
+      "matkPercent": [
+        "5"
+      ],
+      "cri": [
+        "5"
+      ],
+      "aspdPercent": [
+        "5"
+      ],
+      "vct": [
+        "5"
+      ]
+    }
+  },
+  "300549": {
+    "id": 300549,
+    "aegisName": "Ocean_Pope_Card",
+    "flavorText": null,
+    "name": "Summer Vacation Pope Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 3%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 3%\n^ffffff_^000000\nเมื่อสวมใส่ร่วมกับ Sessrumnir Commemoration Ring เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 7%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 7%\n^ffffff_^000000\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Accessory (Left)^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 128,
+    "canGrade": false,
+    "script": {
+      "melee": [
+        "3",
+        "EQUIP[Sessrumnir Commemoration Ring||(No event) Sessrumnir Commemoration Ring]7"
+      ],
+      "range": [
+        "3",
+        "EQUIP[Sessrumnir Commemoration Ring||(No event) Sessrumnir Commemoration Ring]7"
+      ],
+      "m_element_all": [
+        "3",
+        "EQUIP[Sessrumnir Commemoration Ring||(No event) Sessrumnir Commemoration Ring]7"
+      ]
+    }
   }
 }
