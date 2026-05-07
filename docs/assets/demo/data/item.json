@@ -263025,5 +263025,186 @@
         "EQUIP[Sessrumnir Commemoration Ring||(No event) Sessrumnir Commemoration Ring]7"
       ]
     }
+  },
+  "1": {
+    "id": 1,
+    "aegisName": "itemid_1",
+    "flavorText": null,
+    "name": "6th Anniversary Ayothaya Ring [1]",
+    "unidName": "Accessory",
+    "resName": "",
+    "description": "แหวนที่ถูกสร้างขึ้นเพื่อฉลิมฉลองการครบรอบปีที่ 6\nเต็มไปด้วยพลังแห่งคำอวยพรและความทรงจำของการผจญภัยที่ผ่านมา\n\n[สามารถ Refine ได้]\nAll State +6, All Trait Status +6.\nทุก ๆ การอัพเกรด 1 ขั้น เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 1% MATK + 1%.\nเมื่ออัพเกรดถึงขั้น 7, P.ATK, S.MATK + 3.\nเมื่ออัพเกรดถึงขั้น 9, ลด Global Cooldown 10%\nเมื่ออัพเกรดถึงขั้น 12,\nเพิ่ม Damage ทางกายภาพ / เวทมนตร์ต่อศัตรูทุกเผ่า (ยกเว้น Player) 10%\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] ลดระยะเวลาร่ายเวทแบบคงที่ 0.3 วินาที\n[Grade C] เพิ่มความต้านทาน Res, MRes 10\n[Grade B] เพิ่ม Res, MRes 60, Perfect Dodge +20\n[Grade A] เพิ่มอัตราการได้รับ Item 3%, เพิกเฉยพลังป้องกันทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า (ยกเว้น Player) 40%\nประเภท : ^777777Accessory^000000  พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Accessory (Left)^000000 น้ำหนัก : ^77777720^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 511,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "isRefinable": true,
+    "canGrade": true,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "allStatus": [
+        "6"
+      ],
+      "allTrait": [
+        "6"
+      ],
+      "melee": [
+        "1---1"
+      ],
+      "range": [
+        "1---1"
+      ],
+      "matkPercent": [
+        "1---1"
+      ],
+      "pAtk": [
+        "7===3"
+      ],
+      "sMatk": [
+        "7===3"
+      ],
+      "acd": [
+        "9===10"
+      ],
+      "p_class_normal": [
+        "12===10"
+      ],
+      "p_class_boss": [
+        "12===10"
+      ],
+      "m_class_normal": [
+        "12===10"
+      ],
+      "m_class_boss": [
+        "12===10"
+      ],
+      "fct": [
+        "GRADE[me==D]===0.3"
+      ],
+      "res": [
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===60"
+      ],
+      "mres": [
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===60"
+      ],
+      "perfectDodge": [
+        "GRADE[me==B]===20"
+      ],
+      "p_pene_race_all": [
+        "GRADE[me==A]===40"
+      ],
+      "m_pene_race_all": [
+        "GRADE[me==A]===40"
+      ]
+    }
+  },
+  "2": {
+    "id": 2,
+    "aegisName": "itemid_2",
+    "name": "Costume Ayothaya Hat",
+    "unidName": "Costume",
+    "resName": "C_Ayothaya_Hat",
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nหมวกโบราณของนักรบชาวอโยธยา ผักกล้าที่แก่จริงเท่านั้นที่สามารถสวมใส่ได้\n\nเมื่อผู้สวมใส่มี Base Level 1 - 199\nATK, MATK + 300\nEXP + 30%\n\nเมื่อผู้สวมใส่มี Base Level 200 - 260\nATK, MATK + 66\nEXP + 10%\n\n(ไอเท็มดังกล่าวจะถูกลบความสามารถหลังจากปิดปรับปรุงเซิร์ฟเวอร์วันที่ 15 กรกฎาคม 2569)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "LEVEL[1-199]===300",
+        "LEVEL[200-260]===66"
+      ],
+      "matk": [
+        "LEVEL[1-199]===300",
+        "LEVEL[200-260]===66"
+      ]
+    }
+  },
+  "3": {
+    "id": 3,
+    "aegisName": "itemid_3",
+    "name": "Ayothaya Helm",
+    "unidName": "Ayothaya Helm",
+    "resName": "Ayothaya_Helm",
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nไม่สามารถอัพเกรดทั่วไปได้\nหมวกเกราะเหล็กของนักรบแห่งอโยธยา นำมาซึ่งพลัง ความกล้า และเกียรติยศ\nMaxHP + 1,000, MaxSP + 200\nทุก ๆ การอัพเกรด 2 ขั้น, ATK, MATK + 10\nเมื่ออัพเกรดถึงขั้น 7, สามารถใช้งานสกิล Greed Lv.1\nเมื่ออัพเกรดถึงขั้น 9, ลดระยะเวลาร่ายแบบแปรผัน 10%, ASPD +10%\nเมื่ออัพเกรดถึงขั้น 11, ลดดีเลย์หลังการใช้สกิล 10%\nเมื่ออัพเกรดถึงขั้น 16, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 6%\n\n[ความสามารถพิเศษจำกัดระยะเวลา]\nเพิ่มความเร็วการเคลื่อนที่ตลอดเวลา (Increase Agility),\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที,\nP.ATK, S.MATK +10,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 15%\n(ความสามารถพิเศษจะถูกลบออกในวันที่ 15 กรกฎาคม 2569)\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777776^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^7777770^000000\nเลเวล Armor : ^7777771^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 1,
+    "attack": null,
+    "defense": 6,
+    "weight": 0,
+    "requiredLevel": 1,
+    "isRefinable": true,
+    "location": "Upper",
+    "compositionPos": null,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "hp": [
+        "1000"
+      ],
+      "sp": [
+        "200"
+      ],
+      "atk": [
+        "2---10"
+      ],
+      "matk": [
+        "2---10"
+      ],
+      "vct": [
+        "9===10"
+      ],
+      "aspdPercent": [
+        "9===10"
+      ],
+      "acd": [
+        "11===10"
+      ],
+      "p_size_all": [
+        "16===6",
+        "15"
+      ],
+      "m_size_all": [
+        "16===6",
+        "15"
+      ],
+      "fct": [
+        "0.5"
+      ],
+      "pAtk": [
+        "10"
+      ],
+      "sMatk": [
+        "10"
+      ],
+      "p_race_all": [
+        "15"
+      ],
+      "m_race_all": [
+        "15"
+      ]
+    }
   }
 }
