@@ -256876,7 +256876,7 @@
     "id": 410587,
     "aegisName": "26_3_MidHat1",
     "flavorText": null,
-    "name": "Mermaid Headphone (Global Cooldown)",
+    "name": "Mermaid Headphone (Global Cooldown).",
     "unidName": null,
     "resName": "머메이드헤드폰",
     "unidResName": null,
@@ -256908,7 +256908,7 @@
     "id": 410588,
     "aegisName": "26_3_MidHat2",
     "flavorText": null,
-    "name": "Mermaid Headphone (Variable Casting)",
+    "name": "Mermaid Headphone (Variable Casting).",
     "unidName": null,
     "resName": "머메이드헤드폰",
     "unidResName": null,
@@ -256940,7 +256940,7 @@
     "id": 410589,
     "aegisName": "26_3_MidHat3",
     "flavorText": null,
-    "name": "Mermaid Headphone (MaxHP)",
+    "name": "Mermaid Headphone (MaxHP).",
     "unidName": null,
     "resName": "머메이드헤드폰",
     "unidResName": null,
@@ -263204,6 +263204,543 @@
       ],
       "m_race_all": [
         "15"
+      ]
+    }
+  },
+  "401338": {
+    "id": 401338,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Radiant Rune Circlet (Meister) [1]",
+    "unidName": null,
+    "resName": "어센드크라운",
+    "unidResName": null,
+    "description": "A circlet engraved with radiant runes.\n \nEvery 2 refine levels, ATK + 3, CRI + 2.\nEvery 3 refine levels, ATK + 2%, increases ranged physical damage by 1%, increases critical damage by 3%.\nEvery 4 refine levels, increases Attack Stance Activation and Triple Laser damage by 5%.\nAt refine level 7, increases ranged physical damage by 10%.\nAt refine level 9, P.ATK + 5.\nAt refine level 11, reduces fixed casting time by 0.5 seconds.\n \nWhen equipped together with Radiant Mace, increases Triple Laser damage by 40%, increases critical damage by 15%.\nIf the combined refine level of Radiant Rune Circlet (Meister) and Radiant Mace is 24 or higher, both are Grade A or above, and ABR-Infinity is learned at level 4 or higher, for each level of Triple Laser, increases physical damage against all races by 6% (excluding players), CRI + 2.\n \n^CC3D3D[Additional Effects by Grade]^000000\n[Grade D] P.ATK + 5.\n[Grade C] Increases Triple Laser damage by 15%.\n[Grade B] Increases physical damage against all size enemies by 10%.\n[Grade A] Increases physical damage against all elemental enemies by 10%.\nClass : ^777777Headgear^000000 Defense : ^77777750^000000\nLocation : ^777777Upper^000000 Weight : ^7777770^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Meister^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 50,
+    "weight": 0,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Meister"
+    ],
+    "script": {
+      "atk": [
+        "2---3"
+      ],
+      "cri": [
+        "2---2"
+      ],
+      "atkPercent": [
+        "3---2"
+      ],
+      "range": [
+        "3---1",
+        "7===10"
+      ],
+      "criDmg": [
+        "3---3",
+        "EQUIP[Radiant Mace]===15"
+      ],
+      "Triple Laser": [
+        "4---5",
+        "EQUIP[Radiant Mace]===40",
+        "GRADE[me==C]===15"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==D]===5"
+      ],
+      "fct": [
+        "11===0.5"
+      ],
+      "p_size_all": [
+        "GRADE[me==B]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "401339": {
+    "id": 401339,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Radiant Rune Circlet (Imperial Guard) [1]",
+    "unidName": null,
+    "resName": "어센드크라운",
+    "unidResName": null,
+    "description": "A circlet engraved with radiant runes.\n \nEvery 2 refine levels, ATK + 3, HIT + 5.\nEvery 3 refine levels, ATK + 2%, increases ranged physical damage by 1%, increases hit-based physical damage by 3%.\nEvery 4 refine levels, increases Shield Shooting damage by 5%.\nAt refine level 7, increases ranged physical damage by 10%.\nAt refine level 9, P.ATK + 5.\nAt refine level 11, reduces fixed casting time by 0.5 seconds.\n \nWhen equipped together with Radiant Lance, increases Grand Judgment damage by 40%, increases hit-based physical damage by 15%.\nIf the combined refine level of Radiant Rune Crown (Imperial Guard) and Radiant Lance is 24 or higher, both are Grade A or above, and Grand Judgment is learned at level 10 or higher, reduces Shield Shooting cooldown by 0.2 seconds, increases ranged physical damage by 10%.\n \n^CC3D3D[Additional Effects by Grade]^000000\n[Grade D] P.ATK + 5.\n[Grade C] Guided Attack activation chance + 10%.\n[Grade B] Increases physical damage against all size enemies by 10%.\n[Grade A] Increases physical damage against all elemental enemies by 10%.\nClass : ^777777Headgear^000000 Defense : ^77777750^000000\nLocation : ^777777Upper^000000 Weight : ^7777770^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Imperial Guard^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 50,
+    "weight": 0,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ImperialGuard"
+    ],
+    "script": {
+      "atk": [
+        "2---3"
+      ],
+      "hit": [
+        "2---5"
+      ],
+      "atkPercent": [
+        "3---2"
+      ],
+      "range": [
+        "3---1",
+        "7===10",
+        "EQUIP[Radiant Lance]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL[Grand Judgement==10]===10"
+      ],
+      "hitDmg": [
+        "3---3",
+        "EQUIP[Radiant Lance]===15"
+      ],
+      "Shield Shooting": [
+        "4---5"
+      ],
+      "Grand Judgement": [
+        "EQUIP[Radiant Lance]===40"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==D]===5"
+      ],
+      "fct": [
+        "11===0.5"
+      ],
+      "cd__Shield Shooting": [
+        "EQUIP[Radiant Lance]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL[Grand Judgement==10]===0.2"
+      ],
+      "perfectHit": [
+        "GRADE[me==C]===10"
+      ],
+      "p_size_all": [
+        "GRADE[me==B]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "420799": {
+    "id": 420799,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Emerald Rose (Hit)",
+    "unidName": null,
+    "resName": "Ground_Seal_Rose",
+    "unidResName": null,
+    "description": "An emerald-colored rose that never withers.\n \nIncreases hit-based physical damage by 5%.\nWhen equipped together with Mermaid Headphone (Global Cool Time) [1], Mermaid Headphone (Variable Casting) [1], or Mermaid Headphone (MAXHP) [1], additionally increases hit-based physical damage by 5%.\n \nRandom options can be enchanted with Water Crystal Orb.\nWater Crystal Orbs can be purchased with Cat Fruits or Zeny from\n^ffffff^4D4DFF[Cat Hand Merchant Nyarom]^000000^000000.\nClass : ^777777Headgear^000000 Defense : ^7777770^000000\nLocation : ^777777Lower^000000 Weight : ^7777770^000000\nRequired Level : ^7777771^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": "Lower",
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "hitDmg": [
+        "5",
+        "EQUIP[Mermaid Headphone (Global Cooldown)||Mermaid Headphone (Variable Casting)||Mermaid Headphone (MaxHP)]===5"
+      ]
+    }
+  },
+  "420800": {
+    "id": 420800,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Emerald Rose (Critical)",
+    "unidName": null,
+    "resName": "Ground_Seal_Rose",
+    "unidResName": null,
+    "description": "An emerald-colored rose that never withers.\n \nIncreases critical damage by 5%.\nWhen equipped together with Mermaid Headphone (Global Cool Time) [1], Mermaid Headphone (Variable Casting) [1], or Mermaid Headphone (MAXHP) [1], additionally increases critical damage by 5%.\n \nRandom options can be enchanted with Water Crystal Orb.\nWater Crystal Orbs can be purchased with Cat Fruits or Zeny from\n^ffffff^4D4DFF[Cat Hand Merchant Nyarom]^000000^000000.\nClass : ^777777Headgear^000000 Defense : ^7777770^000000\nLocation : ^777777Lower^000000 Weight : ^7777770^000000\nRequired Level : ^7777771^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": "Lower",
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "criDmg": [
+        "5",
+        "EQUIP[Mermaid Headphone (Global Cooldown)||Mermaid Headphone (Variable Casting)||Mermaid Headphone (MaxHP)]===5"
+      ]
+    }
+  },
+  "420801": {
+    "id": 420801,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Emerald Rose (Magic)",
+    "unidName": null,
+    "resName": "Ground_Seal_Rose",
+    "unidResName": null,
+    "description": "An emerald-colored rose that never withers.\n \nIncreases all elemental magic damage by 5%.\nWhen equipped together with Mermaid Headphone (Global Cool Time) [1], Mermaid Headphone (Variable Casting) [1], or Mermaid Headphone (MAXHP) [1], additionally increases all elemental magic damage by 5%.\n \nRandom options can be enchanted with Water Crystal Orb.\nWater Crystal Orbs can be purchased with Cat Fruits or Zeny from\n^ffffff^4D4DFF[Cat Hand Merchant Nyarom]^000000^000000.\nClass : ^777777Headgear^000000 Defense : ^7777770^000000\nLocation : ^777777Lower^000000 Weight : ^7777770^000000\nRequired Level : ^7777771^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": "Lower",
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "m_my_element_all": [
+        "5",
+        "EQUIP[Mermaid Headphone (Global Cooldown)||Mermaid Headphone (Variable Casting)||Mermaid Headphone (MaxHP)]===5"
+      ]
+    }
+  },
+  "420802": {
+    "id": 420802,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Emerald Rose (Vitality)",
+    "unidName": null,
+    "resName": "Ground_Seal_Rose",
+    "unidResName": null,
+    "description": "An emerald-colored rose that never withers.\n \nMaxHP + 5%.\nWhen equipped together with Mermaid Headphone (Global Cool Time) [1], Mermaid Headphone (Variable Casting) [1], or Mermaid Headphone (MAXHP) [1], additionally increases MaxHP by 5%.\n \nRandom options can be enchanted with Water Crystal Orb.\nWater Crystal Orbs can be purchased with Cat Fruits or Zeny from\n^ffffff^4D4DFF[Cat Hand Merchant Nyarom]^000000^000000.\nClass : ^777777Headgear^000000 Defense : ^7777770^000000\nLocation : ^777777Lower^000000 Weight : ^7777770^000000\nRequired Level : ^7777771^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": "Lower",
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "hpPercent": [
+        "5",
+        "EQUIP[Mermaid Headphone (Global Cooldown)||Mermaid Headphone (Variable Casting)||Mermaid Headphone (MaxHP)]===5"
+      ]
+    }
+  },
+  "1270200": {
+    "id": 1270200,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Earth Flare Weapon Shadow",
+    "unidName": null,
+    "resName": "SV_Weapon_Shadow",
+    "unidResName": null,
+    "description": "Gloves worn on the hand holding a weapon that draw out the wearer's latent abilities.\n \nATK + 3%.\nEvery 2 refine levels, increases physical damage against Earth and Fire property enemies by 1%.\nAt refine level 7, additionally increases physical damage against Earth and Fire property enemies by 2%.\nAt refine level 9, additionally increases physical damage against Earth and Fire property enemies by 3%.\nAt refine level 10, increases melee and ranged physical damage by 5%, ignores 5% of physical resistance of all races (excluding players).\n \n^ffffff^4D4DFF[Shadow Exclusive Magic Book]^000000^000000 \nRandom options can be enchanted with 2 Shadow Essences.\nClass : ^777777Shadow Equipment^000000\nLocation : ^777777Weapon^000000 Weight : ^7777770^000000\nRequired Level : ^777777200^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 280,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "3"
+      ],
+      "p_element_earth": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "p_element_fire": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "melee": [
+        "10===5"
+      ],
+      "range": [
+        "10===5"
+      ],
+      "pene_res": [
+        "10===5"
+      ]
+    }
+  },
+  "1270201": {
+    "id": 1270201,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Earth Flare Shield Shadow",
+    "unidName": null,
+    "resName": "SV_Shield_Shadow",
+    "unidResName": null,
+    "description": "A small shield wearable on the arm that provides additional defensive effects. It can be used alone, but its defensive power is low.\n \nATK + 3%.\nEvery 2 refine levels, increases physical damage against Earth and Fire property enemies by 1%.\nAt refine level 7, additionally increases physical damage against Earth and Fire property enemies by 2%.\nAt refine level 9, additionally increases physical damage against Earth and Fire property enemies by 3%.\nAt refine level 10, increases melee and ranged physical damage by 5%, ignores 5% of physical resistance of all races (excluding players).\n \nWhen equipped together with Earth Flare Weapon Shadow, MHP + 3%, MSP + 3%, increases physical damage against Earth and Fire property enemies by 10%, and if the combined refine level is 18 or higher, ignores 5% of physical resistance of all races (excluding players).\n \n^ffffff^4D4DFF[Shadow Exclusive Magic Book]^000000^000000 \nRandom options can be enchanted with 2 Shadow Essences.\nClass : ^777777Shadow Equipment^000000\nLocation : ^777777Shield^000000 Weight : ^7777770^000000\nRequired Level : ^777777200^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "3"
+      ],
+      "p_element_earth": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Earth Flare Weapon Shadow]===10"
+      ],
+      "p_element_fire": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Earth Flare Weapon Shadow]===10"
+      ],
+      "melee": [
+        "10===5"
+      ],
+      "range": [
+        "10===5"
+      ],
+      "pene_res": [
+        "10===5",
+        "EQUIP[Earth Flare Weapon Shadow]REFINE[shadowWeapon,shadowShield==18]===5"
+      ],
+      "hpPercent": [
+        "EQUIP[Earth Flare Weapon Shadow]===3"
+      ],
+      "spPercent": [
+        "EQUIP[Earth Flare Weapon Shadow]===3"
+      ]
+    }
+  },
+  "1270202": {
+    "id": 1270202,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Magic Earth Flare Weapon Shadow",
+    "unidName": null,
+    "resName": "SV_Weapon_Shadow",
+    "unidResName": null,
+    "description": "Gloves worn on the hand holding a weapon that draw out the wearer's latent abilities.\n \nMATK + 3%.\nEvery 2 refine levels, increases magic damage against Earth and Fire property enemies by 1%.\nAt refine level 7, additionally increases magic damage against Earth and Fire property enemies by 2%.\nAt refine level 9, additionally increases magic damage against Earth and Fire property enemies by 3%.\nAt refine level 10, increases all elemental magic damage by 5%, ignores 5% of magic resistance of all races (excluding players).\n \n^ffffff^4D4DFF[Shadow Exclusive Magic Book]^000000^000000 \nRandom options can be enchanted with 2 Shadow Essences.\nClass : ^777777Shadow Equipment^000000\nLocation : ^777777Weapon^000000 Weight : ^7777770^000000\nRequired Level : ^777777200^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 280,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "matkPercent": [
+        "3"
+      ],
+      "m_element_earth": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "m_element_fire": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "m_my_element_all": [
+        "10===5"
+      ],
+      "pene_mres": [
+        "10===5"
+      ]
+    }
+  },
+  "1270203": {
+    "id": 1270203,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Magic Earth Flare Shield Shadow",
+    "unidName": null,
+    "resName": "SV_Shield_Shadow",
+    "unidResName": null,
+    "description": "A small shield wearable on the arm that provides additional defensive effects. It can be used alone, but its defensive power is low.\n \nMATK + 3%.\nEvery 2 refine levels, increases magic damage against Earth and Fire property enemies by 1%.\nAt refine level 7, additionally increases magic damage against Earth and Fire property enemies by 2%.\nAt refine level 9, additionally increases magic damage against Earth and Fire property enemies by 3%.\nAt refine level 10, increases all elemental magic damage by 5%, ignores 5% of magic resistance of all races (excluding players).\n \nWhen equipped together with Magic Earth Flare Weapon Shadow, MHP + 3%, MSP + 3%, increases magic damage against Earth and Fire property enemies by 10%, and if the combined refine level is 18 or higher, ignores 5% of magic resistance of all races (excluding players).\n \n^ffffff^4D4DFF[Shadow Exclusive Magic Book]^000000^000000 \nRandom options can be enchanted with 2 Shadow Essences.\nClass : ^777777Shadow Equipment^000000\nLocation : ^777777Shield^000000 Weight : ^7777770^000000\nRequired Level : ^777777200^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "matkPercent": [
+        "3"
+      ],
+      "m_element_earth": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Magic Earth Flare Weapon Shadow]===10"
+      ],
+      "m_element_fire": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Magic Earth Flare Weapon Shadow]===10"
+      ],
+      "m_my_element_all": [
+        "10===5"
+      ],
+      "pene_mres": [
+        "10===5",
+        "EQUIP[Magic Earth Flare Weapon Shadow]REFINE[shadowWeapon,shadowShield==18]===5"
+      ],
+      "hpPercent": [
+        "EQUIP[Magic Earth Flare Weapon Shadow]===3"
+      ],
+      "spPercent": [
+        "EQUIP[Magic Earth Flare Weapon Shadow]===3"
+      ]
+    }
+  },
+  "530087": {
+    "id": 530087,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Radiant Lance [2]",
+    "unidName": null,
+    "resName": "26_5_Lance_IG",
+    "unidResName": null,
+    "description": "A one-handed spear blazing with radiance.\n \nGuided Attack activation chance + 5%, increases Shield Shooting damage by 15%.\nEvery 3 refine levels, ATK + 30, increases hit-based physical damage by 2%.\nEvery 4 refine levels, increases Shield Shooting damage by 7%.\nAt refine level 7, increases hit-based physical damage by 25%.\nAt refine level 9, reduces variable casting time by 10%, P.ATK + 5.\nAt refine level 11, additionally increases Shield Shooting damage by 15%.\n \n^CC3D3D[Additional Effects by Grade]^000000\n[Grade D] ATK + 5%.\n[Grade C] Increases Shield Shooting damage by 10%.\n[Grade B] Reduces variable casting time by 10%.\n[Grade A] P.ATK + 10.\nClass : ^777777One-Handed Spear^000000 Attack : ^777777220^000000\nWeight : ^777777180^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Imperial Guard^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 259,
+    "itemLevel": 5,
+    "attack": 220,
+    "defense": null,
+    "weight": 180,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ImperialGuard"
+    ],
+    "script": {
+      "perfectHit": [
+        "5"
+      ],
+      "Shield Shooting": [
+        "15",
+        "4---7",
+        "11===15",
+        "GRADE[me==C]===10"
+      ],
+      "atk": [
+        "3---30"
+      ],
+      "hitDmg": [
+        "3---2",
+        "7===25"
+      ],
+      "vct": [
+        "9===10",
+        "GRADE[me==B]===10"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==A]===10"
+      ],
+      "atkPercent": [
+        "GRADE[me==D]===5"
+      ]
+    }
+  },
+  "590124": {
+    "id": 590124,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Radiant Mace [2]",
+    "unidName": null,
+    "resName": "26_5_Mace_MT",
+    "unidResName": null,
+    "description": "A mace blazing with radiance.\n \nIndestructible.\nCRI + 5, increases Attack Stance Activation damage by 15%.\nEvery 3 refine levels, ATK + 35, increases critical damage by 3%.\nEvery 4 refine levels, increases Attack Stance Activation damage by 7%.\nAt refine level 7, increases critical damage by 25%.\nAt refine level 9, CRI + 10, P.ATK + 5.\nAt refine level 11, CRI + 5, additionally increases Attack Stance Activation damage by 10%.\n \n^CC3D3D[Additional Effects by Grade]^000000\n[Grade D] ATK + 5%.\n[Grade C] Increases Attack Stance Activation damage by 10%.\n[Grade B] Reduces variable casting time by 10%.\n[Grade A] P.ATK + 10.\nClass : ^777777Mace^000000 Attack : ^777777300^000000\nWeight : ^777777280^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Meister^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 263,
+    "itemLevel": 5,
+    "attack": 300,
+    "defense": null,
+    "weight": 280,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Meister"
+    ],
+    "script": {
+      "cri": [
+        "5",
+        "9===10",
+        "11===5"
+      ],
+      "Attack Stance": [
+        "15",
+        "4---7",
+        "11===10",
+        "GRADE[me==C]===10"
+      ],
+      "atk": [
+        "3---35"
+      ],
+      "criDmg": [
+        "3---3",
+        "7===25"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==A]===10"
+      ],
+      "atkPercent": [
+        "GRADE[me==D]===5"
+      ],
+      "vct": [
+        "GRADE[me==B]===10"
       ]
     }
   }
