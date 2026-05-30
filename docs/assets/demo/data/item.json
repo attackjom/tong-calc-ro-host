@@ -146831,20 +146831,20 @@
       "Hack and Slasher": [
         "EQUIP[Execution Great Sword]REFINE[weapon==3]---4",
         "EQUIP[Execution Great Sword]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Execution Great Sword]===15"
       ],
       "Storm Slash": [
         "EQUIP[Execution Great Sword]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20"
+        "EQUIP[Evil Spell&&Execution Great Sword]===20"
       ],
       "Dragonic Breath": [
         "EQUIP[Jupiter Spear]REFINE[weapon==3]---4",
         "EQUIP[Jupiter Spear]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Jupiter Spear]===15"
       ],
       "Madness Crusher": [
         "EQUIP[Jupiter Spear]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Jupiter Spear]===20"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -146896,12 +146896,12 @@
       "melee": [
         "4---7",
         "EQUIP[Holy Light Spear]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Holy Light Spear]===20"
       ],
       "m_my_element_holy": [
         "4---7",
         "EQUIP[Devil Guardian Sword]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20"
+        "EQUIP[Evil Spell&&Devil Guardian Sword]===20"
       ],
       "res": [
         "7===50",
@@ -146929,12 +146929,12 @@
       "Cross Rain": [
         "EQUIP[Devil Guardian Sword]REFINE[weapon==3]---4",
         "EQUIP[Devil Guardian Sword]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Devil Guardian Sword]===15"
       ],
       "Overslash": [
         "EQUIP[Holy Light Spear]REFINE[weapon==3]---4",
         "EQUIP[Holy Light Spear]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Holy Light Spear]===15"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -147009,20 +147009,20 @@
       "Soul Vulcan Strike": [
         "EQUIP[Devil Wing Staff]REFINE[weapon==3]---4",
         "EQUIP[Devil Wing Staff]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Devil Wing Staff]===15"
       ],
       "Mystery Illusion": [
         "EQUIP[Devil Wing Staff]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20"
+        "EQUIP[Evil Spell&&Devil Wing Staff]===20"
       ],
       "Frozen Slash": [
         "EQUIP[Destiny Staff]REFINE[weapon==3]---4",
         "EQUIP[Destiny Staff]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Destiny Staff]===15"
       ],
       "Rain of Crystal": [
         "EQUIP[Destiny Staff]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Destiny Staff]===20"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -147100,20 +147100,20 @@
       "Venom Swamp": [
         "EQUIP[Doom Bible]REFINE[weapon==3]---4",
         "EQUIP[Doom Bible]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Doom Bible]===15"
       ],
       "Conflagration": [
         "EQUIP[Doom Bible]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20"
+        "EQUIP[Evil Spell&&Doom Bible]===20"
       ],
       "Diamond Storm": [
         "EQUIP[Blessed Bible]REFINE[weapon==3]---4",
         "EQUIP[Blessed Bible]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Blessed Bible]===15"
       ],
       "Terra Drive": [
         "EQUIP[Blessed Bible]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Blessed Bible]===20"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -147194,20 +147194,20 @@
       "Petitio": [
         "EQUIP[Sealed Bible]REFINE[weapon==3]---4",
         "EQUIP[Sealed Bible]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Sealed Bible]===15"
       ],
       "criDmg": [
         "EQUIP[Sealed Bible]REFINE[weapon==3]---10",
-        "EQUIP[Evil Spell]===25"
+        "EQUIP[Evil Spell&&Sealed Bible]===25"
       ],
       "Framen": [
         "EQUIP[Saint Bringer]REFINE[weapon==3]---4",
         "EQUIP[Saint Bringer]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Saint Bringer]===15"
       ],
       "Arbitrium": [
         "EQUIP[Saint Bringer]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Saint Bringer]===20"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -147279,20 +147279,20 @@
       "Explosion Blaster": [
         "EQUIP[Demonic Claw]REFINE[weapon==3]---4",
         "EQUIP[Demonic Claw]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Demonic Claw]===15"
       ],
       "Oleum Sanctum": [
         "EQUIP[Demonic Claw]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20"
+        "EQUIP[Evil Spell&&Demonic Claw]===20"
       ],
       "Third Punish": [
         "EQUIP[Punish Scepter]REFINE[weapon==3]---4",
         "EQUIP[Punish Scepter]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Punish Scepter]===15"
       ],
       "First Brand": [
         "EQUIP[Punish Scepter]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Punish Scepter]===20"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -147367,20 +147367,20 @@
       "Triple Laser": [
         "EQUIP[Destruction Axe]REFINE[weapon==3]---4",
         "EQUIP[Destruction Axe]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Destruction Axe]===15"
       ],
       "criDmg": [
         "EQUIP[Destruction Axe]REFINE[weapon==3]---10",
-        "EQUIP[Evil Spell]===25"
+        "EQUIP[Evil Spell&&Destruction Axe]===25"
       ],
       "Mighty Smash": [
         "EQUIP[Divine Buster]REFINE[weapon==3]---4",
         "EQUIP[Divine Buster]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Divine Buster]===15"
       ],
       "Axe Stomp": [
         "EQUIP[Divine Buster]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Divine Buster]===20"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -147429,7 +147429,7 @@
       "melee": [
         "4---7",
         "EQUIP[Victory Sword]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Victory Sword]===20"
       ],
       "range": [
         "4---7"
@@ -147457,16 +147457,16 @@
       "Mayhemic Thorns": [
         "EQUIP[Blood Rapier]REFINE[weapon==3]---4",
         "EQUIP[Blood Rapier]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Blood Rapier]===15"
       ],
       "criDmg": [
         "EQUIP[Blood Rapier]REFINE[weapon==3]---10",
-        "EQUIP[Evil Spell]===25"
+        "EQUIP[Evil Spell&&Blood Rapier]===25"
       ],
       "Explosive Powder": [
         "EQUIP[Victory Sword]REFINE[weapon==3]---4",
         "EQUIP[Victory Sword]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Victory Sword]===15"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -147515,7 +147515,7 @@
       "melee": [
         "4---7",
         "EQUIP[The Ripper]REFINE[weapon==3]---10",
-        "EQUIP[Evil Spell]===20"
+        "EQUIP[Evil Spell&&The Ripper]===20"
       ],
       "res": [
         "7===50",
@@ -147537,16 +147537,16 @@
       "Impact Crater": [
         "EQUIP[The Ripper]REFINE[weapon==3]---4",
         "EQUIP[The Ripper]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&The Ripper]===20"
       ],
       "Eternal Slash": [
         "EQUIP[Shining Light Katar]REFINE[weapon==3]---4",
         "EQUIP[Shining Light Katar]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Shining Light Katar]===15"
       ],
       "Savage Impact": [
         "EQUIP[Shining Light Katar]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Shining Light Katar]===20"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -147621,20 +147621,20 @@
       "Chain Reaction Shot": [
         "EQUIP[Dark Angel Ray Bow]REFINE[weapon==3]---4",
         "EQUIP[Dark Angel Ray Bow]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Dark Angel Ray Bow]===15"
       ],
       "Frenzy Shot": [
         "EQUIP[Dark Angel Ray Bow]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20"
+        "EQUIP[Evil Spell&&Dark Angel Ray Bow]===20"
       ],
       "Abyss Dagger": [
         "EQUIP[Holy Light Dagger]REFINE[weapon==3]---4",
         "EQUIP[Holy Light Dagger]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Holy Light Dagger]===15"
       ],
       "Deft Stab": [
         "EQUIP[Holy Light Dagger]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Holy Light Dagger]===20"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -147709,29 +147709,29 @@
       "Flame Trap": [
         "EQUIP[Underworld Knife]REFINE[weapon==3]---4",
         "EQUIP[Underworld Knife]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Underworld Knife]===15"
       ],
       "Solid Trap": [
         "EQUIP[Underworld Knife]REFINE[weapon==3]---4",
         "EQUIP[Underworld Knife]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Underworld Knife]===15"
       ],
       "Switf Trap": [
         "EQUIP[Underworld Knife]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20"
+        "EQUIP[Evil Spell&&Underworld Knife]===20"
       ],
       "Deep Blind Trap": [
         "EQUIP[Underworld Knife]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20"
+        "EQUIP[Evil Spell&&Underworld Knife]===20"
       ],
       "Crescive Bolt": [
         "EQUIP[Angel Wing Bow]REFINE[weapon==3]---4",
         "EQUIP[Angel Wing Bow]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Angel Wing Bow]===15"
       ],
       "Gale Storm": [
         "EQUIP[Angel Wing Bow]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Angel Wing Bow]===20"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -147810,20 +147810,24 @@
       "Metallic Fury": [
         "EQUIP[Crime Violin||Crime Whip]REFINE[weapon==3]---4",
         "EQUIP[Crime Violin||Crime Whip]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Crime Violin]===15",
+        "EQUIP[Evil Spell&&Crime Whip]===15"
       ],
       "Sound Blend": [
         "EQUIP[Crime Violin||Crime Whip]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20"
+        "EQUIP[Evil Spell&&Crime Violin]===20",
+        "EQUIP[Evil Spell&&Crime Whip]===20"
       ],
       "Rhythm Shooting": [
         "EQUIP[Light Power Harp||Light Power Spark]REFINE[weapon==3]---4",
         "EQUIP[Light Power Harp||Light Power Spark]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Light Power Harp]===15",
+        "EQUIP[Good Spell&&Light Power Spark]===15"
       ],
       "Rose Blossom": [
         "EQUIP[Light Power Harp||Light Power Spark]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Light Power Harp]===20",
+        "EQUIP[Good Spell&&Light Power Spark]===20"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -147905,20 +147909,20 @@
       "Darkening Cannon": [
         "EQUIP[Devil Claw]REFINE[weapon==3]---4",
         "EQUIP[Devil Claw]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Devil Claw]===15"
       ],
       "Red Flame Cannon": [
         "EQUIP[Devil Claw]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20"
+        "EQUIP[Evil Spell&&Devil Claw]===20"
       ],
       "Huuma Shuriken - Construct": [
         "EQUIP[Huuma Shuriken Brilliance]REFINE[weapon==3]---4",
         "EQUIP[Huuma Shuriken Brilliance]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Huuma Shuriken Brilliance]===15"
       ],
       "Huuma Shuriken - Grasp": [
         "EQUIP[Huuma Shuriken Brilliance]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Huuma Shuriken Brilliance]===20"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -147990,20 +147994,20 @@
       "Midnight Kick": [
         "EQUIP[Darkness Tablet]REFINE[weapon==3]---4",
         "EQUIP[Darkness Tablet]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Darkness Tablet]===15"
       ],
       "Dawn Break": [
         "EQUIP[Darkness Tablet]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20"
+        "EQUIP[Evil Spell&&Darkness Tablet]===20"
       ],
       "Noon Blast": [
         "EQUIP[Origin of Life]REFINE[weapon==3]---4",
         "EQUIP[Origin of Life]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Origin of Life]===15"
       ],
       "Sunset Blast": [
         "EQUIP[Origin of Life]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Origin of Life]===20"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -148072,20 +148076,20 @@
       "Exorcism of Malicious Soul": [
         "EQUIP[Soul Harvest]REFINE[weapon==3]---4",
         "EQUIP[Soul Harvest]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Soul Harvest]===15"
       ],
       "Talisman of Soul Stealing": [
         "EQUIP[Soul Harvest]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20"
+        "EQUIP[Evil Spell&&Soul Harvest]===20"
       ],
       "Talisman of Four Bearing God": [
         "EQUIP[Soul Liberator]REFINE[weapon==3]---4",
         "EQUIP[Soul Liberator]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Soul Liberator]===15"
       ],
       "Talisman of Red Phoenix": [
         "EQUIP[Soul Liberator]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Soul Liberator]===20"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -148169,20 +148173,20 @@
       "Napalm Vulcan Strike": [
         "EQUIP[Devil Cursed Sword]REFINE[weapon==3]---4",
         "EQUIP[Devil Cursed Sword]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Devil Cursed Sword]===15"
       ],
       "Ground Gravitation": [
         "EQUIP[Devil Cursed Sword]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20"
+        "EQUIP[Evil Spell&&Devil Cursed Sword]===20"
       ],
       "Shield Chain Rush": [
         "EQUIP[Guardian Saber]REFINE[weapon==3]---4",
         "EQUIP[Guardian Saber]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Guardian Saber]===15"
       ],
       "Spiral Pierce Max": [
         "EQUIP[Guardian Saber]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Guardian Saber]===20"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -148266,20 +148270,20 @@
       "Hyunrok Cannon": [
         "EQUIP[Darkness Foxtail Model]REFINE[weapon==3]---4",
         "EQUIP[Darkness Foxtail Model]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Darkness Foxtail Model]===15"
       ],
       "Hyunrok Breeze": [
         "EQUIP[Darkness Foxtail Model]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20"
+        "EQUIP[Evil Spell&&Darkness Foxtail Model]===20"
       ],
       "Chulho Sonic Claw": [
         "EQUIP[Lightforce Foxtail Wand]REFINE[weapon==3]---4",
         "EQUIP[Lightforce Foxtail Wand]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Lightforce Foxtail Wand]===15"
       ],
       "Hogogong Strike": [
         "EQUIP[Lightforce Foxtail Wand]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Lightforce Foxtail Wand]===20"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -148328,9 +148332,9 @@
       "range": [
         "4---7",
         "EQUIP[Devil Lord Launcher]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20",
+        "EQUIP[Evil Spell&&Devil Lord Launcher]===20",
         "EQUIP[Justice Bomber]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Justice Bomber]===20"
       ],
       "res": [
         "7===50",
@@ -148355,12 +148359,12 @@
       "Spiral Shooting": [
         "EQUIP[Devil Lord Launcher]REFINE[weapon==3]---4",
         "EQUIP[Devil Lord Launcher]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Devil Lord Launcher]===15"
       ],
       "Wild Fire": [
         "EQUIP[Justice Bomber]REFINE[weapon==3]---4",
         "EQUIP[Justice Bomber]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Justice Bomber]===15"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -148409,7 +148413,7 @@
       "range": [
         "4---7",
         "EQUIP[Devil's Bullet]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20"
+        "EQUIP[Evil Spell&&Devil's Bullet]===20"
       ],
       "res": [
         "7===50",
@@ -148434,16 +148438,16 @@
       "Only One Bullet": [
         "EQUIP[Devil's Bullet]REFINE[weapon==3]---4",
         "EQUIP[Devil's Bullet]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Devil's Bullet]===15"
       ],
       "Magazine for One": [
         "EQUIP[Devil Hunter]REFINE[weapon==3]---4",
         "EQUIP[Devil Hunter]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Devil Hunter]===15"
       ],
       "criDmg": [
         "EQUIP[Devil Hunter]REFINE[weapon==3]---10",
-        "EQUIP[Good Spell]===25"
+        "EQUIP[Good Spell&&Devil Hunter]===25"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -148492,9 +148496,9 @@
       "range": [
         "4---7",
         "EQUIP[RG-5649]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20",
+        "EQUIP[Evil Spell&&RG-5649]===20",
         "EQUIP[Lightning Splatter]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Lightning Splatter]===20"
       ],
       "res": [
         "7===50",
@@ -148519,12 +148523,12 @@
       "The Vigilante at Night": [
         "EQUIP[RG-5649]REFINE[weapon==3]---4",
         "EQUIP[RG-5649]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&RG-5649]===15"
       ],
       "Magazine for One": [
         "EQUIP[Lightning Splatter]REFINE[weapon==3]---4",
         "EQUIP[Lightning Splatter]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Lightning Splatter]===15"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -148573,9 +148577,9 @@
       "range": [
         "4---7",
         "EQUIP[Outlaw Cursed Shotgun]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20",
+        "EQUIP[Evil Spell&&Outlaw Cursed Shotgun]===20",
         "EQUIP[Lord of Glory]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Lord of Glory]===20"
       ],
       "res": [
         "7===50",
@@ -148600,12 +148604,12 @@
       "Wild Fire": [
         "EQUIP[Outlaw Cursed Shotgun]REFINE[weapon==3]---4",
         "EQUIP[Outlaw Cursed Shotgun]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Outlaw Cursed Shotgun]===15"
       ],
       "The Vigilante at Night": [
         "EQUIP[Lord of Glory]REFINE[weapon==3]---4",
         "EQUIP[Lord of Glory]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Lord of Glory]===15"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
@@ -148677,20 +148681,20 @@
       "Hasty Fire in the Hole": [
         "EQUIP[Screaming Rifle]REFINE[weapon==3]---4",
         "EQUIP[Screaming Rifle]GRADE[weapon==B]===10",
-        "EQUIP[Evil Spell]===15"
+        "EQUIP[Evil Spell&&Screaming Rifle]===15"
       ],
       "Grenade Dropping": [
         "EQUIP[Screaming Rifle]REFINE[weapon==3]---5",
-        "EQUIP[Evil Spell]===20"
+        "EQUIP[Evil Spell&&Screaming Rifle]===20"
       ],
       "Spiral Shooting": [
         "EQUIP[Last Dawn]REFINE[weapon==3]---4",
         "EQUIP[Last Dawn]GRADE[weapon==B]===10",
-        "EQUIP[Good Spell]===15"
+        "EQUIP[Good Spell&&Last Dawn]===15"
       ],
       "Only One Bullet": [
         "EQUIP[Last Dawn]REFINE[weapon==3]---5",
-        "EQUIP[Good Spell]===20"
+        "EQUIP[Good Spell&&Last Dawn]===20"
       ],
       "hpPercent": [
         "GRADE[headUpper==D]===5"
