@@ -183,7 +183,8 @@
       "Archer",
       "Merchant",
       "Thief",
-      "Ninja"
+      "Ninja",
+      "Druid"
     ],
     "script": {}
   },
@@ -211,7 +212,8 @@
       "Archer",
       "Merchant",
       "Thief",
-      "Ninja"
+      "Ninja",
+      "Druid"
     ],
     "script": {}
   },
@@ -682,7 +684,8 @@
     "compositionPos": null,
     "usableClass": [
       "Swordman",
-      "Merchant"
+      "Merchant",
+      "Druid"
     ],
     "script": {
       "atk": [
@@ -969,7 +972,8 @@
       "Novice",
       "Swordman",
       "Acolyte",
-      "Merchant"
+      "Merchant",
+      "Druid"
     ],
     "script": {}
   },
@@ -16398,7 +16402,8 @@
       "Merchant",
       "Thief",
       "SoulLinker",
-      "Ninja"
+      "Ninja",
+      "Druid"
     ],
     "script": {
       "atk": [
@@ -21109,7 +21114,8 @@
       "Novice",
       "Swordman",
       "Acolyte",
-      "Merchant"
+      "Merchant",
+      "Druid"
     ],
     "script": {
       "atk": [
@@ -21205,7 +21211,8 @@
       "Swordman",
       "Novice",
       "Acolyte",
-      "Merchant"
+      "Merchant",
+      "Druid"
     ],
     "script": {
       "aspd": [
@@ -21234,7 +21241,8 @@
       "Novice",
       "Swordman",
       "Acolyte",
-      "Merchant"
+      "Merchant",
+      "Druid"
     ],
     "script": {
       "atk": [
@@ -29677,7 +29685,8 @@
       "Kagerou",
       "Oboro",
       "StarEmperor",
-      "SoulReaper"
+      "SoulReaper",
+      "Karnos"
     ],
     "script": {
       "hp": [
@@ -29716,7 +29725,8 @@
       "Kagerou",
       "Oboro",
       "StarEmperor",
-      "SoulReaper"
+      "SoulReaper",
+      "Karnos"
     ],
     "script": {
       "hp": [
@@ -29758,7 +29768,8 @@
       "Kagerou",
       "Oboro",
       "StarEmperor",
-      "SoulReaper"
+      "SoulReaper",
+      "Karnos"
     ],
     "script": {
       "hp": [
@@ -29799,7 +29810,8 @@
       "Kagerou",
       "Oboro",
       "StarEmperor",
-      "SoulReaper"
+      "SoulReaper",
+      "Karnos"
     ],
     "script": {
       "hp": [
@@ -29837,7 +29849,8 @@
       "Kagerou",
       "Oboro",
       "StarEmperor",
-      "SoulReaper"
+      "SoulReaper",
+      "Karnos"
     ],
     "script": {
       "hp": [
@@ -29881,7 +29894,8 @@
       "Kagerou",
       "Oboro",
       "StarEmperor",
-      "SoulReaper"
+      "SoulReaper",
+      "Karnos"
     ],
     "script": {
       "hp": [
@@ -29923,7 +29937,8 @@
       "Kagerou",
       "Oboro",
       "StarEmperor",
-      "SoulReaper"
+      "SoulReaper",
+      "Karnos"
     ],
     "script": {
       "hp": [
@@ -29962,7 +29977,8 @@
       "Kagerou",
       "Oboro",
       "StarEmperor",
-      "SoulReaper"
+      "SoulReaper",
+      "Karnos"
     ],
     "script": {
       "hp": [
@@ -30004,7 +30020,8 @@
       "Kagerou",
       "Oboro",
       "StarEmperor",
-      "SoulReaper"
+      "SoulReaper",
+      "Karnos"
     ],
     "script": {
       "hp": [
@@ -30045,7 +30062,8 @@
       "Kagerou",
       "Oboro",
       "StarEmperor",
-      "SoulReaper"
+      "SoulReaper",
+      "Karnos"
     ],
     "script": {
       "hp": [
@@ -30083,7 +30101,8 @@
       "Kagerou",
       "Oboro",
       "StarEmperor",
-      "SoulReaper"
+      "SoulReaper",
+      "Karnos"
     ],
     "script": {
       "hp": [
@@ -30127,7 +30146,8 @@
       "Kagerou",
       "Oboro",
       "StarEmperor",
-      "SoulReaper"
+      "SoulReaper",
+      "Karnos"
     ],
     "script": {
       "hp": [
@@ -57222,7 +57242,8 @@
     "compositionPos": null,
     "usableClass": [
       "Swordman",
-      "Merchant"
+      "Merchant",
+      "Druid"
     ],
     "script": {
       "int": [
@@ -57287,7 +57308,8 @@
     "compositionPos": null,
     "usableClass": [
       "Swordman",
-      "Merchant"
+      "Merchant",
+      "Druid"
     ],
     "script": {
       "atk": [
@@ -59360,7 +59382,8 @@
       "Merchant",
       "Thief",
       "Ninja",
-      "SoulLinker"
+      "SoulLinker",
+      "Druid"
     ],
     "script": {
       "matk": [
@@ -59436,7 +59459,8 @@
       "Merchant",
       "Thief",
       "Ninja",
-      "SoulLinker"
+      "SoulLinker",
+      "Druid"
     ],
     "script": {
       "matk": [
@@ -192821,7 +192845,8 @@
     "compositionPos": null,
     "usableClass": [
       "Swordman",
-      "Merchant"
+      "Merchant",
+      "Druid"
     ],
     "script": {
       "matk": [
@@ -192849,7 +192874,8 @@
     "canGrade": true,
     "usableClass": [
       "Swordman",
-      "Merchant"
+      "Merchant",
+      "Druid"
     ],
     "script": {
       "matk": [
@@ -207013,7 +207039,8 @@
     "usableClass": [
       "Swordman",
       "Merchant",
-      "Acolyte"
+      "Acolyte",
+      "Druid"
     ],
     "script": {
       "matk": [
@@ -207203,7 +207230,8 @@
     "usableClass": [
       "Swordman",
       "Merchant",
-      "Acolyte"
+      "Acolyte",
+      "Druid"
     ],
     "script": {
       "matk": [
@@ -250711,7 +250739,8 @@
       "Novice",
       "Swordman",
       "Acolyte",
-      "Merchant"
+      "Merchant",
+      "Druid"
     ],
     "script": {}
   },
@@ -265869,7 +265898,7 @@
     "compositionPos": null,
     "canGrade": false,
     "usableClass": [
-      "WindHawk"
+      "Windhawk"
     ],
     "script": {
       "atk": [
@@ -268097,7 +268126,7 @@
     "compositionPos": null,
     "canGrade": true,
     "usableClass": [
-      "WindHawk"
+      "Windhawk"
     ],
     "script": {
       "cri": [
@@ -268158,7 +268187,7 @@
     "compositionPos": null,
     "canGrade": true,
     "usableClass": [
-      "WindHawk"
+      "Windhawk"
     ],
     "script": {
       "cri": [
@@ -268709,6 +268738,1359 @@
     "script": {
       "Psychic Wave": [
         "30"
+      ]
+    }
+  },
+  "314848": {
+    "id": 314848,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Karnos Stone (Garment)",
+    "unidName": null,
+    "resName": "엘더의영혼",
+    "unidResName": null,
+    "description": "Increases Chop Chop and Feather Sprinkle damage by 10%.\nWhen equipped with Druid Stone (Upper), increases Nasty Slash and Typhoon Wing damage by 10%.\nWhen equipped with Druid Stone (Middle), increases Earth Stamp and Sharpen Hail damage by 10%.\nWhen equipped with Druid Stone (Lower), increases Ice Splash and Double Slash damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 74,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Chop Chop": [
+        "10"
+      ],
+      "Feather Sprinkle": [
+        "10"
+      ],
+      "Nasty Slash": [
+        "EQUIP[Druid Stone (Upper)]===10"
+      ],
+      "Typhoon Wing": [
+        "EQUIP[Druid Stone (Upper)]===10"
+      ],
+      "Earth Stamp": [
+        "EQUIP[Druid Stone (Middle)]===10"
+      ],
+      "Sharpen Hail": [
+        "EQUIP[Druid Stone (Middle)]===10"
+      ],
+      "Ice Splash": [
+        "EQUIP[Druid Stone (Lower)]===10"
+      ],
+      "Double Slash": [
+        "EQUIP[Druid Stone (Lower)]===10"
+      ]
+    }
+  },
+  "314849": {
+    "id": 314849,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Alitea Stone (Garment)",
+    "unidName": null,
+    "resName": "엘더의영혼",
+    "unidResName": null,
+    "description": "Every level of Sixth Sense user learned, increases physical damage against all property enemies by 1%.\nEvery level of Nature Aid user learned, increases magical damage against all property enemies by 1%.\nWhen equipped with Karnos Stone (Upper), increases Glacial Shard and Terra Harvest damage by 15%.\nWhen equipped with Karnos Stone (Middle), CRI + 5, increases Alpha Claw damage by 15%.\nWhen equipped with Karnos Stone (Lower), CRI + 5, increases Quill Spear damage by 15%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 74,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "p_element_all": [
+        "LEARN_SKILL[Sixth Sense==1]---1"
+      ],
+      "m_element_all": [
+        "LEARN_SKILL[Nature Aid==1]---1"
+      ],
+      "Glacial Shard": [
+        "EQUIP[Karnos Stone (Upper)]===15"
+      ],
+      "Terra Harvest": [
+        "EQUIP[Karnos Stone (Upper)]===15"
+      ],
+      "cri": [
+        "EQUIP[Karnos Stone (Middle)]===5",
+        "EQUIP[Karnos Stone (Lower)]===5"
+      ],
+      "Alpha Claw": [
+        "EQUIP[Karnos Stone (Middle)]===15"
+      ],
+      "Quill Spear": [
+        "EQUIP[Karnos Stone (Lower)]===15"
+      ]
+    }
+  },
+  "314850": {
+    "id": 314850,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Druid Stone (Upper)",
+    "unidName": null,
+    "resName": "엘더의영혼",
+    "unidResName": null,
+    "description": "Every level of Nature Logic user learned, MATK + 3.\nEvery level of Beasty Nose user learned, ATK + 2.\nEvery level of Sharp Eyes user learned, ATK + 2.\nIncreases Wind Bomb and Around Flower damage by 15%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 71,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matk": [
+        "LEARN_SKILL[Nature Logic==1]---3"
+      ],
+      "atk": [
+        "LEARN_SKILL[Beasty Nose==1]---2",
+        "LEARN_SKILL[Sharp Eyes==1]---2"
+      ],
+      "Wind Bomb": [
+        "15"
+      ],
+      "Around Flower": [
+        "15"
+      ]
+    }
+  },
+  "314851": {
+    "id": 314851,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Druid Stone (Middle)",
+    "unidName": null,
+    "resName": "엘더의영혼",
+    "unidResName": null,
+    "description": "Increases Ice Cloud, Low Flight and Cruel Bite damage by 15%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 72,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Ice Cloud": [
+        "15"
+      ],
+      "Low Flight": [
+        "15"
+      ],
+      "Cruel Bite": [
+        "15"
+      ]
+    }
+  },
+  "314852": {
+    "id": 314852,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Druid Stone (Lower)",
+    "unidName": null,
+    "resName": "엘더의영혼",
+    "unidResName": null,
+    "description": "Increases Earth Flower, No Mercy Claw and Flicking Tornado damage by 15%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 73,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Earth Flower": [
+        "15"
+      ],
+      "No Mercy Claw": [
+        "15"
+      ],
+      "Flicking Tornado": [
+        "15"
+      ]
+    }
+  },
+  "314853": {
+    "id": 314853,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Karnos Stone (Upper)",
+    "unidName": null,
+    "resName": "엘더의영혼",
+    "unidResName": null,
+    "description": "Every level of Nature Vigour user learned, increases water, wind and earth property magical damage by 2%.\nWhen equipped with Karnos Stone (Garment), increases Thundering Orb damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 71,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "m_my_element_water": [
+        "LEARN_SKILL[Nature Vigour==1]---2"
+      ],
+      "m_my_element_wind": [
+        "LEARN_SKILL[Nature Vigour==1]---2"
+      ],
+      "m_my_element_earth": [
+        "LEARN_SKILL[Nature Vigour==1]---2"
+      ],
+      "Thundering Orb": [
+        "EQUIP[Karnos Stone (Garment)]===10"
+      ]
+    }
+  },
+  "314854": {
+    "id": 314854,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Karnos Stone (Middle)",
+    "unidName": null,
+    "resName": "엘더의영혼",
+    "unidResName": null,
+    "description": "Every level of Wolf Instinct user learned, increases melee physical damage by 1%.\nWhen equipped with Karnos Stone (Garment), increases Claw Wave damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 72,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "melee": [
+        "LEARN_SKILL[Wolf Instinct==1]---1"
+      ],
+      "Claw Wave": [
+        "EQUIP[Karnos Stone (Garment)]===10"
+      ]
+    }
+  },
+  "314855": {
+    "id": 314855,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Karnos Stone (Lower)",
+    "unidName": null,
+    "resName": "엘더의영혼",
+    "unidResName": null,
+    "description": "Every level of Raptorial Instinct user learned, increases long ranged physical damage by 1%.\nWhen equipped with Karnos Stone (Garment), increases Sharpen Gust damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 73,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "range": [
+        "LEARN_SKILL[Raptorial Instinct==1]---1"
+      ],
+      "Sharpen Gust": [
+        "EQUIP[Karnos Stone (Garment)]===10"
+      ]
+    }
+  },
+  "1270129": {
+    "id": 1270129,
+    "aegisName": "S_2Para_KR_Weapon",
+    "flavorText": null,
+    "name": "Karnos Paradise Advanced Shadow Weapon",
+    "unidName": null,
+    "resName": "웨폰쉐도우",
+    "unidResName": null,
+    "description": "Can't be refined.\nAtk + 10, Matk + 10.\nWhen equipped with Eden Group Advanced Shadow Armor, Shield, Shoes, Earring and Pendant,\nincreases all property magical damage by 15%, increases melee and long ranged physical damage by 15%,\nreduces variable casting time by 10%,\nDouble Slash, Sharpen Gust, Ice Splash, Thundering Orb and Earth Drill by 15%,\nMaxHP + 15%,\nignores physical and magical defense rate of all race monsters (except players) by 50%.\nClass: ^777777Shadow Equipment^000000\nLocation: ^777777Weapon^000000 Weight: ^7777770^000000\nRequired Level: ^777777100^000000\nJobs: ^777777Karnos classes^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 280,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Karnos"
+    ],
+    "script": {
+      "atk": [
+        "10"
+      ],
+      "matk": [
+        "10"
+      ],
+      "m_my_element_all": [
+        "EQUIP[Eden Group Advanced Shadow Armor&&Eden Group Advanced Shadow Shield&&Eden Group Advanced Shadow Shoes&&Eden Group Advanced Shadow Earring&&Eden Group Advanced Shadow Pendant]===15"
+      ],
+      "melee": [
+        "EQUIP[Eden Group Advanced Shadow Armor&&Eden Group Advanced Shadow Shield&&Eden Group Advanced Shadow Shoes&&Eden Group Advanced Shadow Earring&&Eden Group Advanced Shadow Pendant]===15"
+      ],
+      "range": [
+        "EQUIP[Eden Group Advanced Shadow Armor&&Eden Group Advanced Shadow Shield&&Eden Group Advanced Shadow Shoes&&Eden Group Advanced Shadow Earring&&Eden Group Advanced Shadow Pendant]===15"
+      ],
+      "vct": [
+        "EQUIP[Eden Group Advanced Shadow Armor&&Eden Group Advanced Shadow Shield&&Eden Group Advanced Shadow Shoes&&Eden Group Advanced Shadow Earring&&Eden Group Advanced Shadow Pendant]===10"
+      ],
+      "Double Slash": [
+        "EQUIP[Eden Group Advanced Shadow Armor&&Eden Group Advanced Shadow Shield&&Eden Group Advanced Shadow Shoes&&Eden Group Advanced Shadow Earring&&Eden Group Advanced Shadow Pendant]===15"
+      ],
+      "Sharpen Gust": [
+        "EQUIP[Eden Group Advanced Shadow Armor&&Eden Group Advanced Shadow Shield&&Eden Group Advanced Shadow Shoes&&Eden Group Advanced Shadow Earring&&Eden Group Advanced Shadow Pendant]===15"
+      ],
+      "Ice Splash": [
+        "EQUIP[Eden Group Advanced Shadow Armor&&Eden Group Advanced Shadow Shield&&Eden Group Advanced Shadow Shoes&&Eden Group Advanced Shadow Earring&&Eden Group Advanced Shadow Pendant]===15"
+      ],
+      "Thundering Orb": [
+        "EQUIP[Eden Group Advanced Shadow Armor&&Eden Group Advanced Shadow Shield&&Eden Group Advanced Shadow Shoes&&Eden Group Advanced Shadow Earring&&Eden Group Advanced Shadow Pendant]===15"
+      ],
+      "Earth Drill": [
+        "EQUIP[Eden Group Advanced Shadow Armor&&Eden Group Advanced Shadow Shield&&Eden Group Advanced Shadow Shoes&&Eden Group Advanced Shadow Earring&&Eden Group Advanced Shadow Pendant]===15"
+      ],
+      "hpPercent": [
+        "EQUIP[Eden Group Advanced Shadow Armor&&Eden Group Advanced Shadow Shield&&Eden Group Advanced Shadow Shoes&&Eden Group Advanced Shadow Earring&&Eden Group Advanced Shadow Pendant]===15"
+      ],
+      "p_pene_race_all": [
+        "EQUIP[Eden Group Advanced Shadow Armor&&Eden Group Advanced Shadow Shield&&Eden Group Advanced Shadow Shoes&&Eden Group Advanced Shadow Earring&&Eden Group Advanced Shadow Pendant]===50"
+      ],
+      "m_pene_race_all": [
+        "EQUIP[Eden Group Advanced Shadow Armor&&Eden Group Advanced Shadow Shield&&Eden Group Advanced Shadow Shoes&&Eden Group Advanced Shadow Earring&&Eden Group Advanced Shadow Pendant]===50"
+      ]
+    }
+  },
+  "1270161": {
+    "id": 1270161,
+    "aegisName": "S_KR_B_Weapon",
+    "flavorText": null,
+    "name": "Karnos Booster Shadow Weapon",
+    "unidName": null,
+    "resName": "웨폰쉐도우3",
+    "unidResName": null,
+    "description": "Can't be refined.\nAtk + 10, Matk + 10.\nWhen equipped with Booster set (Armor, Shield, Shoes, Earring, Pendant),\nincreases physical damage against all size enemies by 5%,\nincreases Chop Chop and Sharpen Gust damage by 15%,\nincreases melee physical damage by 15%,\nincreases long ranged physical damage by 15%,\nreduces global cooldown by 15%,\nignores physical and magical defense rate of all race monsters (except players) by 70%.\n^ffffff_^000000\nClass: ^777777Shadow Equipment^000000\nLocation: ^777777Weapon^000000 Weight: ^7777770^000000\nRequired Level: ^777777100^000000\nJobs: ^777777Karnos classes^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 280,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Karnos"
+    ],
+    "script": {
+      "atk": [
+        "10"
+      ],
+      "matk": [
+        "10"
+      ],
+      "p_size_all": [
+        "EQUIP[Booster Shadow Armor&&Booster Shadow Shield&&Booster Shadow Shoes&&Booster Shadow Earring&&Booster Shadow Pendant]5"
+      ],
+      "Chop Chop": [
+        "EQUIP[Booster Shadow Armor&&Booster Shadow Shield&&Booster Shadow Shoes&&Booster Shadow Earring&&Booster Shadow Pendant]15"
+      ],
+      "Sharpen Gust": [
+        "EQUIP[Booster Shadow Armor&&Booster Shadow Shield&&Booster Shadow Shoes&&Booster Shadow Earring&&Booster Shadow Pendant]15"
+      ],
+      "melee": [
+        "EQUIP[Booster Shadow Armor&&Booster Shadow Shield&&Booster Shadow Shoes&&Booster Shadow Earring&&Booster Shadow Pendant]15"
+      ],
+      "range": [
+        "EQUIP[Booster Shadow Armor&&Booster Shadow Shield&&Booster Shadow Shoes&&Booster Shadow Earring&&Booster Shadow Pendant]15"
+      ],
+      "acd": [
+        "EQUIP[Booster Shadow Armor&&Booster Shadow Shield&&Booster Shadow Shoes&&Booster Shadow Earring&&Booster Shadow Pendant]15"
+      ],
+      "p_pene_race_all": [
+        "EQUIP[Booster Shadow Armor&&Booster Shadow Shield&&Booster Shadow Shoes&&Booster Shadow Earring&&Booster Shadow Pendant]70"
+      ],
+      "m_pene_race_all": [
+        "EQUIP[Booster Shadow Armor&&Booster Shadow Shield&&Booster Shadow Shoes&&Booster Shadow Earring&&Booster Shadow Pendant]70"
+      ]
+    }
+  },
+  "590100": {
+    "id": 590100,
+    "aegisName": "3Para_Mace_KR",
+    "flavorText": null,
+    "name": "Paradise Karnos Mace",
+    "unidName": null,
+    "resName": "베테랑햄머",
+    "unidResName": null,
+    "description": "MATK + 190.\nCan't be refined.\nCan't be destroyed.\nMATK + 5%, Every level of Nature Vigour user learned, reduces variable casting time by 1%.\nIf the user's base level is 105 or higher, increases water and wind property magical damage by 10%, increases Ice Splash and Thundering Orb damage by 25%.\nIf the user's base level is 110 or higher, increases water and wind property magical damage by additional 15%, increases magical damage against all size enemies by 15%.\nIf the user's base level is 115 or higher, increases Ice Splash and Thundering Orb damage by additional 15%.\nClass: ^777777Mace^000000 Attack: ^777777180^000000\nWeight: ^7777770^000000\nWeapon Level: ^7777774^000000\nRequired Level: ^777777100^000000\nJobs: ^777777Karnos classes^000000",
+    "slots": 0,
+    "itemTypeId": 1,
+    "itemSubTypeId": 263,
+    "itemLevel": 4,
+    "attack": 180,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Karnos"
+    ],
+    "script": {
+      "matk": [
+        "190"
+      ],
+      "matkPercent": [
+        "5"
+      ],
+      "vct": [
+        "LEARN_SKILL[Nature Vigour==1]---1"
+      ],
+      "m_my_element_water": [
+        "level:105===10",
+        "level:110===15"
+      ],
+      "m_my_element_wind": [
+        "level:105===10",
+        "level:110===15"
+      ],
+      "Ice Splash": [
+        "level:105===25",
+        "level:115===15"
+      ],
+      "Thundering Orb": [
+        "level:105===25",
+        "level:115===15"
+      ],
+      "m_size_all": [
+        "level:110===15"
+      ]
+    }
+  },
+  "620054": {
+    "id": 620054,
+    "aegisName": "3Para_T_Axe_KR",
+    "flavorText": null,
+    "name": "Paradise Karnos Two-haned Axe",
+    "unidName": null,
+    "resName": "워해머",
+    "unidResName": null,
+    "description": "Can't be refined.\nCan't be destroyed.\nATK + 5%, Every level of Wolf Instinct user learned, increases attack speed (reduces delay after attack by 1%).\nIf the user's base level is 105 or higher, increases melee physical damage by 10%, increases Chop Chop damage by 25%.\nIf the user's base level is 110 or higher, increases attack speed (reduces delay after attack by 10%), increases physical damage against all size enemies by 15%.\nIf the user's base level is 115 or higher, increases Chop Chop damage by additional 15%.\nClass: ^777777Two-handed Axe^000000 Attack: ^777777250^000000\nWeight: ^7777770^000000\nWeapon Level: ^7777774^000000\nRequired Level: ^777777100^000000\nJobs: ^777777Karnos classes^000000",
+    "slots": 0,
+    "itemTypeId": 1,
+    "itemSubTypeId": 262,
+    "itemLevel": 4,
+    "attack": 250,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Karnos"
+    ],
+    "script": {
+      "atkPercent": [
+        "5"
+      ],
+      "aspdPercent": [
+        "LEARN_SKILL[Wolf Instinct==1]---1",
+        "level:110===10"
+      ],
+      "melee": [
+        "level:105===10"
+      ],
+      "Chop Chop": [
+        "level:105===25",
+        "level:115===15"
+      ],
+      "p_size_all": [
+        "level:110===15"
+      ]
+    }
+  },
+  "510200": {
+    "id": 510200,
+    "aegisName": "NP_B_Dagger",
+    "flavorText": null,
+    "name": "Gust Hail Booster Dagger",
+    "unidName": null,
+    "resName": "NP_B_Dagger",
+    "unidResName": null,
+    "description": "Can't be refined by normal means.\nATK + 2%.\nEvery refine rate, ATK + 3.\nEvery 15 base levels, ATK + 3 (up to level 195).\nIf refine rate is 7 or higher, Every level of Raptorial Instinct user learned, increases long ranged physical damage by 1%.\nIf refine rate is 9 or higher, ASPD + 1, increases Sharpen Gust and Sharpen Hail damage by 25%.\nIf refine rate is 11 or higher, increases physical damage against all size enemies by 15%, increases long ranged physical damage by 15%.\nIf refine rate is 13 or higher, increases Sharpen Gust and Sharpen Hail damage by additional 15%.\n^ffffff_^000000\nClass: ^777777Dagger^000000 Attack: ^777777190^000000\nWeight: ^7777770^000000\nWeapon Level: ^7777774^000000\nRequired Level: ^777777100^000000\nJobs: ^777777Karnos classes^000000",
+    "slots": 0,
+    "itemTypeId": 1,
+    "itemSubTypeId": 256,
+    "itemLevel": 4,
+    "attack": 190,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Karnos"
+    ],
+    "script": {
+      "atkPercent": [
+        "2"
+      ],
+      "atk": [
+        "1---3",
+        "level:15(1-195)---3"
+      ],
+      "range": [
+        "REFINE[7]LEARN_SKILL[Raptorial Instinct==1]---1",
+        "11===15"
+      ],
+      "aspd": [
+        "9===1"
+      ],
+      "Sharpen Gust": [
+        "9===25",
+        "13===15"
+      ],
+      "Sharpen Hail": [
+        "9===25",
+        "13===15"
+      ],
+      "p_size_all": [
+        "11===15"
+      ]
+    }
+  },
+  "620064": {
+    "id": 620064,
+    "aegisName": "SC_B_Axe",
+    "flavorText": null,
+    "name": "Slash Chop Chop Booster Axe",
+    "unidName": null,
+    "resName": "SC_B_Axe",
+    "unidResName": null,
+    "description": "Can't be refined by normal means.\nCan't be destroyed.\nATK + 2%.\nEvery refine rate, ATK + 3.\nEvery 15 base levels, ATK + 3 (up to level 195).\nIf refine rate is 7 or higher, Every level of Wolf Instinct user learned, increases melee physical damage by 1%.\nIf refine rate is 9 or higher, reduces global cooldown by 5%, increases Double Slash and Chop Chop damage by 25%.\nIf refine rate is 11 or higher, reduces global cooldown by additional 10%, increases physical damage against all size enemies by 20%.\nIf refine rate is 13 or higher, increases Double Slash and Chop Chop damage by additional 15%.\n^ffffff_^000000\nClass: ^777777Two-handed Axe^000000 Attack: ^777777300^000000\nWeight: ^7777770^000000\nWeapon Level: ^7777774^000000\nRequired Level: ^777777100^000000\nJobs: ^777777Karnos classes^000000",
+    "slots": 0,
+    "itemTypeId": 1,
+    "itemSubTypeId": 262,
+    "itemLevel": 4,
+    "attack": 300,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Karnos"
+    ],
+    "script": {
+      "atkPercent": [
+        "2"
+      ],
+      "atk": [
+        "1---3",
+        "level:15(1-195)---3"
+      ],
+      "melee": [
+        "REFINE[7]LEARN_SKILL[Wolf Instinct==1]---1"
+      ],
+      "acd": [
+        "9===5",
+        "11===10"
+      ],
+      "Double Slash": [
+        "9===25",
+        "13===15"
+      ],
+      "Chop Chop": [
+        "9===25",
+        "13===15"
+      ],
+      "p_size_all": [
+        "11===20"
+      ]
+    }
+  },
+  "450472": {
+    "id": 450472,
+    "aegisName": "Noblesse_Slash_Suit",
+    "flavorText": null,
+    "name": "Noblesse Slash Suit [1]",
+    "unidName": null,
+    "resName": "Noblesse_Slash_Suit",
+    "unidResName": null,
+    "description": "ATK + 50.\nIf refine rate is 7 or higher, increases attack speed (reduces delay after attack by 3%).\nIf refine rate is 9 or higher, increases physical damage against all type enemies by 5%.\n\nWhen equipped with Noblesse Attack Manteau, Noblesse Attack Boots and Noblesse Attack Ring,\nincreases physical damage against all size enemies by 5%, ATK + 2%, increases Double Slash damage by 10%.\n\nIf the sum of refine rate of Noblesse Slash Suit, Noblesse Attack Manteau and Noblesse Attack Boots is 27 or higher,\nincreases physical damage against all size enemies by additional 5%, ATK + 3%, increases Double Slash damage by additional 10%.\n^ffffff_^000000\nClass: ^777777Armor^000000  Defense: ^77777770^000000\nWeight: ^7777770^000000\nRequired Level: ^777777100^000000\nJobs: ^777777Karnos classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 70,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Karnos"
+    ],
+    "script": {
+      "atk": [
+        "50"
+      ],
+      "aspdPercent": [
+        "7===3"
+      ],
+      "p_class_all": [
+        "9===5"
+      ],
+      "p_size_all": [
+        "EQUIP[Noblesse Attack Manteau&&Noblesse Attack Boots&&Noblesse Attack Ring]===5",
+        "EQUIP[Noblesse Attack Manteau&&Noblesse Attack Boots&&Noblesse Attack Ring]REFINE[armor,garment,boot==27]===5"
+      ],
+      "atkPercent": [
+        "EQUIP[Noblesse Attack Manteau&&Noblesse Attack Boots&&Noblesse Attack Ring]===2",
+        "EQUIP[Noblesse Attack Manteau&&Noblesse Attack Boots&&Noblesse Attack Ring]REFINE[armor,garment,boot==27]===3"
+      ],
+      "Double Slash": [
+        "EQUIP[Noblesse Attack Manteau&&Noblesse Attack Boots&&Noblesse Attack Ring]===10",
+        "EQUIP[Noblesse Attack Manteau&&Noblesse Attack Boots&&Noblesse Attack Ring]REFINE[armor,garment,boot==27]===10"
+      ]
+    }
+  },
+  "450473": {
+    "id": 450473,
+    "aegisName": "Noblesse_Sharpen_Suit",
+    "flavorText": null,
+    "name": "Noblesse Sharpen Suit [1]",
+    "unidName": null,
+    "resName": "Noblesse_Sharpen_Suit",
+    "unidResName": null,
+    "description": "ATK + 50.\nIf refine rate is 7 or higher, ATK + 5%.\nIf refine rate is 9 or higher, increases long ranged physical damage by 5%.\n\nWhen equipped with Noblesse Attack Manteau, Noblesse Attack Boots and Noblesse Attack Ring,\nincreases attack speed (reduces delay after attack by 5%), ATK + 2%, increases Sharpen Gust damage by 10%.\n\nIf the sum of refine rate of Noblesse Sharpen Suit, Noblesse Attack Manteau and Noblesse Attack Boots is 27 or higher,\nincreases attack speed (reduces delay after attack by additional 5%), ATK + 3%, increases Sharpen Gust damage by additional 10%.\n^ffffff_^000000\nClass: ^777777Armor^000000  Defense: ^77777770^000000\nWeight: ^7777770^000000\nRequired Level: ^777777100^000000\nJobs: ^777777Karnos classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 70,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Karnos"
+    ],
+    "script": {
+      "atk": [
+        "50"
+      ],
+      "atkPercent": [
+        "7===5",
+        "EQUIP[Noblesse Attack Manteau&&Noblesse Attack Boots&&Noblesse Attack Ring]===2",
+        "EQUIP[Noblesse Attack Manteau&&Noblesse Attack Boots&&Noblesse Attack Ring]REFINE[armor,garment,boot==27]===3"
+      ],
+      "range": [
+        "9===5"
+      ],
+      "aspdPercent": [
+        "EQUIP[Noblesse Attack Manteau&&Noblesse Attack Boots&&Noblesse Attack Ring]===5",
+        "EQUIP[Noblesse Attack Manteau&&Noblesse Attack Boots&&Noblesse Attack Ring]REFINE[armor,garment,boot==27]===5"
+      ],
+      "Sharpen Gust": [
+        "EQUIP[Noblesse Attack Manteau&&Noblesse Attack Boots&&Noblesse Attack Ring]===10",
+        "EQUIP[Noblesse Attack Manteau&&Noblesse Attack Boots&&Noblesse Attack Ring]REFINE[armor,garment,boot==27]===10"
+      ]
+    }
+  },
+  "450474": {
+    "id": 450474,
+    "aegisName": "Noblesse_Nature_Robe",
+    "flavorText": null,
+    "name": "Noblesse Nature Robe [1]",
+    "unidName": null,
+    "resName": "Noblesse_Nature_Robe",
+    "unidResName": null,
+    "description": "MATK + 50.\nIf refine rate is 7 or higher, reduces variable casting time by 10%.\nIf refine rate is 9 or higher, increases all property magical damage by 5%.\n\nWhen equipped with Noblesse Magic Manteau, Noblesse Magic Boots and Noblesse Magic Ring,\nreduces variable casting time by 5%, MATK + 2%, increases Ice Splash, Thundering Orb and Earth Stamp damage by 10%.\n\nIf the sum of refine rate of Noblesse Eswhoo Robe, Noblesse Magic Manteau and Noblesse Magic Boots is 27 or higher,\nreduces variable casting time by additional 5%, MATK + 3%, increases Ice Splash, Thundering Orb and Earth Stamp damage by additional 10%.\n^ffffff_^000000\nClass: ^777777Armor^000000  Defense: ^77777770^000000\nWeight: ^7777770^000000\nRequired Level: ^777777100^000000\nJobs: ^777777Karnos classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 70,
+    "weight": 0,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Karnos"
+    ],
+    "script": {
+      "matk": [
+        "50"
+      ],
+      "vct": [
+        "7===10",
+        "EQUIP[Noblesse Magic Manteau&&Noblesse Magic Boots&&Noblesse Magic Ring]===5",
+        "EQUIP[Noblesse Magic Manteau&&Noblesse Magic Boots&&Noblesse Magic Ring]REFINE[armor,garment,boot==27]===5"
+      ],
+      "m_my_element_all": [
+        "9===5"
+      ],
+      "matkPercent": [
+        "EQUIP[Noblesse Magic Manteau&&Noblesse Magic Boots&&Noblesse Magic Ring]===2",
+        "EQUIP[Noblesse Magic Manteau&&Noblesse Magic Boots&&Noblesse Magic Ring]REFINE[armor,garment,boot==27]===3"
+      ],
+      "Ice Splash": [
+        "EQUIP[Noblesse Magic Manteau&&Noblesse Magic Boots&&Noblesse Magic Ring]===10",
+        "EQUIP[Noblesse Magic Manteau&&Noblesse Magic Boots&&Noblesse Magic Ring]REFINE[armor,garment,boot==27]===10"
+      ],
+      "Thundering Orb": [
+        "EQUIP[Noblesse Magic Manteau&&Noblesse Magic Boots&&Noblesse Magic Ring]===10",
+        "EQUIP[Noblesse Magic Manteau&&Noblesse Magic Boots&&Noblesse Magic Ring]REFINE[armor,garment,boot==27]===10"
+      ],
+      "Earth Stamp": [
+        "EQUIP[Noblesse Magic Manteau&&Noblesse Magic Boots&&Noblesse Magic Ring]===10",
+        "EQUIP[Noblesse Magic Manteau&&Noblesse Magic Boots&&Noblesse Magic Ring]REFINE[armor,garment,boot==27]===10"
+      ]
+    }
+  },
+  "450475": {
+    "id": 450475,
+    "aegisName": "Imperial_Slash_Suit",
+    "flavorText": null,
+    "name": "Imperial Slash Suit [1]",
+    "unidName": null,
+    "resName": "Noblesse_Slash_Suit",
+    "unidResName": null,
+    "description": "ATK + 75.\nIf refine rate is 7 or higher, increases attack speed (reduces delay after attack by 5%).\nIf refine rate is 9 or higher, increases physical damage against all type enemies by 7%.\n\nWhen equipped with Imperial Attack Manteau, Imperial Attack Boots and Imperial Attack Ring,\nincreases physical damage against all size enemies by 5%, ATK + 2%, increases Double Slash damage by 10%.\n\nIf the sum of refine rate of Imperial Slash Suit, Imperial Attack Manteau and Imperial Attack Boots is 27 or higher,\nincreases physical damage against all size enemies by additional 5%, ATK + 3%, increases Double Slash damage by additional 15%.\n^ffffff_^000000\nClass: ^777777Armor^000000  Defense: ^77777770^000000\nWeight: ^7777770^000000\nRequired Level: ^777777125^000000\nJobs: ^777777Karnos classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 70,
+    "weight": 0,
+    "requiredLevel": 125,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Karnos"
+    ],
+    "script": {
+      "atk": [
+        "75"
+      ],
+      "aspdPercent": [
+        "7===5"
+      ],
+      "p_class_all": [
+        "9===7"
+      ],
+      "p_size_all": [
+        "EQUIP[Imperial Attack Manteau&&Imperial Attack Boots&&Imperial Attack Ring]===5",
+        "EQUIP[Imperial Attack Manteau&&Imperial Attack Boots&&Imperial Attack Ring]REFINE[armor,garment,boot==27]===5"
+      ],
+      "atkPercent": [
+        "EQUIP[Imperial Attack Manteau&&Imperial Attack Boots&&Imperial Attack Ring]===2",
+        "EQUIP[Imperial Attack Manteau&&Imperial Attack Boots&&Imperial Attack Ring]REFINE[armor,garment,boot==27]===3"
+      ],
+      "Double Slash": [
+        "EQUIP[Imperial Attack Manteau&&Imperial Attack Boots&&Imperial Attack Ring]===10",
+        "EQUIP[Imperial Attack Manteau&&Imperial Attack Boots&&Imperial Attack Ring]REFINE[armor,garment,boot==27]===15"
+      ]
+    }
+  },
+  "450476": {
+    "id": 450476,
+    "aegisName": "Imperial_Sharpen_Suit",
+    "flavorText": null,
+    "name": "Imperial Sharpen Suit [1]",
+    "unidName": null,
+    "resName": "Noblesse_Sharpen_Suit",
+    "unidResName": null,
+    "description": "ATK + 75.\nIf refine rate is 7 or higher, ATK + 7%.\nIf refine rate is 9 or higher, increases long ranged physical damage by 7%.\n\nWhen equipped with Imperial Attack Manteau, Imperial Attack Boots and Imperial Attack Ring,\nincreases attack speed (reduces delay after attack by 5%), ATK + 2%, increases Sharpen Gust damage by 10%.\n\nIf the sum of refine rate of Imperial Sharpen Suit, Imperial Attack Manteau and Imperial Attack Boots is 27 or higher,\nincreases attack speed (reduces delay after attack by additional 5%), ATK + 3%, increases Sharpen Gust damage by additional 15%.\n^ffffff_^000000\nClass: ^777777Armor^000000  Defense: ^77777770^000000\nWeight: ^7777770^000000\nRequired Level: ^777777125^000000\nJobs: ^777777Karnos classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 70,
+    "weight": 0,
+    "requiredLevel": 125,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Karnos"
+    ],
+    "script": {
+      "atk": [
+        "75"
+      ],
+      "atkPercent": [
+        "7===7",
+        "EQUIP[Imperial Attack Manteau&&Imperial Attack Boots&&Imperial Attack Ring]===2",
+        "EQUIP[Imperial Attack Manteau&&Imperial Attack Boots&&Imperial Attack Ring]REFINE[armor,garment,boot==27]===3"
+      ],
+      "range": [
+        "9===7"
+      ],
+      "aspdPercent": [
+        "EQUIP[Imperial Attack Manteau&&Imperial Attack Boots&&Imperial Attack Ring]===5",
+        "EQUIP[Imperial Attack Manteau&&Imperial Attack Boots&&Imperial Attack Ring]REFINE[armor,garment,boot==27]===5"
+      ],
+      "Sharpen Gust": [
+        "EQUIP[Imperial Attack Manteau&&Imperial Attack Boots&&Imperial Attack Ring]===10",
+        "EQUIP[Imperial Attack Manteau&&Imperial Attack Boots&&Imperial Attack Ring]REFINE[armor,garment,boot==27]===15"
+      ]
+    }
+  },
+  "450477": {
+    "id": 450477,
+    "aegisName": "Imperial_Nature_Robe",
+    "flavorText": null,
+    "name": "Imperial Nature Robe [1]",
+    "unidName": null,
+    "resName": "Imperial_Nature_Robe",
+    "unidResName": null,
+    "description": "MATK + 75.\nIf refine rate is 7 or higher, reduces variable casting time by 15%.\nIf refine rate is 9 or higher, increases all property magical damage by 7%.\n\nWhen equipped with Imperial Magic Manteau, Imperial Magic Boots and Imperial Magic Ring,\nreduces variable casting time by 5%, MATK + 2%, increases Ice Splash, Thundering Orb and Earth Stamp damage by 10%.\n\nIf the sum of refine rate of Imperial Eswhoo Robe, Imperial Magic Manteau and Imperial Magic Boots is 27 or higher,\nreduces variable casting time by additional 5%, MATK + 3%, increases Ice Splash, Thundering Orb and Earth Stamp damage by additional 15%.\n^ffffff_^000000\nClass: ^777777Armor^000000  Defense: ^77777770^000000\nWeight: ^7777770^000000\nRequired Level: ^777777125^000000\nJobs: ^777777Karnos classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 70,
+    "weight": 0,
+    "requiredLevel": 125,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Karnos"
+    ],
+    "script": {
+      "matk": [
+        "75"
+      ],
+      "vct": [
+        "7===15",
+        "EQUIP[Imperial Magic Manteau&&Imperial Magic Boots&&Imperial Magic Ring]===5",
+        "EQUIP[Imperial Magic Manteau&&Imperial Magic Boots&&Imperial Magic Ring]REFINE[armor,garment,boot==27]===5"
+      ],
+      "m_my_element_all": [
+        "9===7"
+      ],
+      "matkPercent": [
+        "EQUIP[Imperial Magic Manteau&&Imperial Magic Boots&&Imperial Magic Ring]===2",
+        "EQUIP[Imperial Magic Manteau&&Imperial Magic Boots&&Imperial Magic Ring]REFINE[armor,garment,boot==27]===3"
+      ],
+      "Ice Splash": [
+        "EQUIP[Imperial Magic Manteau&&Imperial Magic Boots&&Imperial Magic Ring]===10",
+        "EQUIP[Imperial Magic Manteau&&Imperial Magic Boots&&Imperial Magic Ring]REFINE[armor,garment,boot==27]===15"
+      ],
+      "Thundering Orb": [
+        "EQUIP[Imperial Magic Manteau&&Imperial Magic Boots&&Imperial Magic Ring]===10",
+        "EQUIP[Imperial Magic Manteau&&Imperial Magic Boots&&Imperial Magic Ring]REFINE[armor,garment,boot==27]===15"
+      ],
+      "Earth Stamp": [
+        "EQUIP[Imperial Magic Manteau&&Imperial Magic Boots&&Imperial Magic Ring]===10",
+        "EQUIP[Imperial Magic Manteau&&Imperial Magic Boots&&Imperial Magic Ring]REFINE[armor,garment,boot==27]===15"
+      ]
+    }
+  },
+  "450478": {
+    "id": 450478,
+    "aegisName": "Grace_Slash_Suit",
+    "flavorText": null,
+    "name": "Grace Slash Suit [1]",
+    "unidName": null,
+    "resName": "Noblesse_Slash_Suit",
+    "unidResName": null,
+    "description": "ATK + 75.\nIf refine rate is 7 or higher, increases attack speed (reduces delay after attack by 7%).\nIf refine rate is 9 or higher, increases physical damage against all type enemies by 10%.\n\nWhen equipped with Grace Attack Manteau, Grace Attack Boots and Grace Attack Ring,\nincreases physical damage against all size enemies by 5%, ATK + 2%, increases Double Slash damage by 15%.\n\nIf the sum of refine rate of Grace Slash Suit, Grace Attack Manteau and Grace Attack Boots is 27 or higher,\nincreases physical damage against all size enemies by additional 5%, ATK + 3%, increases Double Slash damage by additional 15%.\n^ffffff_^000000\nClass: ^777777Armor^000000  Defense: ^77777770^000000\nWeight: ^7777770^000000\nRequired Level: ^777777150^000000\nJobs: ^777777Karnos classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 70,
+    "weight": 0,
+    "requiredLevel": 150,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Karnos"
+    ],
+    "script": {
+      "atk": [
+        "75"
+      ],
+      "aspdPercent": [
+        "7===7"
+      ],
+      "p_class_all": [
+        "9===10"
+      ],
+      "p_size_all": [
+        "EQUIP[Grace Attack Manteau&&Grace Attack Boots&&Grace Attack Ring]===5",
+        "EQUIP[Grace Attack Manteau&&Grace Attack Boots&&Grace Attack Ring]REFINE[armor,garment,boot==27]===5"
+      ],
+      "atkPercent": [
+        "EQUIP[Grace Attack Manteau&&Grace Attack Boots&&Grace Attack Ring]===2",
+        "EQUIP[Grace Attack Manteau&&Grace Attack Boots&&Grace Attack Ring]REFINE[armor,garment,boot==27]===3"
+      ],
+      "Double Slash": [
+        "EQUIP[Grace Attack Manteau&&Grace Attack Boots&&Grace Attack Ring]===15",
+        "EQUIP[Grace Attack Manteau&&Grace Attack Boots&&Grace Attack Ring]REFINE[armor,garment,boot==27]===15"
+      ]
+    }
+  },
+  "450479": {
+    "id": 450479,
+    "aegisName": "Grace_Sharpen_Suit",
+    "flavorText": null,
+    "name": "Grace Sharpen Suit [1]",
+    "unidName": null,
+    "resName": "Noblesse_Sharpen_Suit",
+    "unidResName": null,
+    "description": "ATK + 75.\nIf refine rate is 7 or higher, ATK + 10%.\nIf refine rate is 9 or higher, increases long ranged physical damage by 10%.\n\nWhen equipped with Grace Attack Manteau, Grace Attack Boots and Grace Attack Ring,\nincreases attack speed (reduces delay after attack by 5%), ATK + 2%, increases Sharpen Gust damage by 15%.\n\nIf the sum of refine rate of Grace Sharpen Suit, Grace Attack Manteau and Grace Attack Boots is 27 or higher,\nincreases attack speed (reduces delay after attack by additional 5%), ATK + 3%, increases Sharpen Gust damage by additional 15%.\n^ffffff_^000000\nClass: ^777777Armor^000000  Defense: ^77777770^000000\nWeight: ^7777770^000000\nRequired Level: ^777777150^000000\nJobs: ^777777Karnos classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 70,
+    "weight": 0,
+    "requiredLevel": 150,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Karnos"
+    ],
+    "script": {
+      "atk": [
+        "75"
+      ],
+      "atkPercent": [
+        "7===10",
+        "EQUIP[Grace Attack Manteau&&Grace Attack Boots&&Grace Attack Ring]===2",
+        "EQUIP[Grace Attack Manteau&&Grace Attack Boots&&Grace Attack Ring]REFINE[armor,garment,boot==27]===3"
+      ],
+      "range": [
+        "9===10"
+      ],
+      "aspdPercent": [
+        "EQUIP[Grace Attack Manteau&&Grace Attack Boots&&Grace Attack Ring]===5",
+        "EQUIP[Grace Attack Manteau&&Grace Attack Boots&&Grace Attack Ring]REFINE[armor,garment,boot==27]===5"
+      ],
+      "Sharpen Gust": [
+        "EQUIP[Grace Attack Manteau&&Grace Attack Boots&&Grace Attack Ring]===15",
+        "EQUIP[Grace Attack Manteau&&Grace Attack Boots&&Grace Attack Ring]REFINE[armor,garment,boot==27]===15"
+      ]
+    }
+  },
+  "450480": {
+    "id": 450480,
+    "aegisName": "Grace_Nature_Robe",
+    "flavorText": null,
+    "name": "Grace Nature Robe [1]",
+    "unidName": null,
+    "resName": "Noblesse_Nature_Robe",
+    "unidResName": null,
+    "description": "MATK + 75.\nIf refine rate is 7 or higher, reduces variable casting time by 20%.\nIf refine rate is 9 or higher, increases all property magical damage by 10%.\n\nWhen equipped with Grace Magic Manteau, Grace Magic Boots and Grace Magic Ring,\nreduces variable casting time by 5%, MATK + 2%, increases Ice Splash, Thundering Orb and Earth Stamp damage by 15%.\n\nIf the sum of refine rate of Grace Eswhoo Robe, Grace Magic Manteau and Grace Magic Boots is 27 or higher,\nreduces variable casting time by additional 5%, MATK + 3%, increases Ice Splash, Thundering Orb and Earth Stamp damage by additional 15%.\n^ffffff_^000000\nClass: ^777777Armor^000000  Defense: ^77777770^000000\nWeight: ^7777770^000000\nRequired Level: ^777777150^000000\nJobs: ^777777Karnos classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 70,
+    "weight": 0,
+    "requiredLevel": 150,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Karnos"
+    ],
+    "script": {
+      "matk": [
+        "75"
+      ],
+      "vct": [
+        "7===20",
+        "EQUIP[Grace Magic Manteau&&Grace Magic Boots&&Grace Magic Ring]===5",
+        "EQUIP[Grace Magic Manteau&&Grace Magic Boots&&Grace Magic Ring]REFINE[armor,garment,boot==27]===5"
+      ],
+      "m_my_element_all": [
+        "9===10"
+      ],
+      "matkPercent": [
+        "EQUIP[Grace Magic Manteau&&Grace Magic Boots&&Grace Magic Ring]===2",
+        "EQUIP[Grace Magic Manteau&&Grace Magic Boots&&Grace Magic Ring]REFINE[armor,garment,boot==27]===3"
+      ],
+      "Ice Splash": [
+        "EQUIP[Grace Magic Manteau&&Grace Magic Boots&&Grace Magic Ring]===15",
+        "EQUIP[Grace Magic Manteau&&Grace Magic Boots&&Grace Magic Ring]REFINE[armor,garment,boot==27]===15"
+      ],
+      "Thundering Orb": [
+        "EQUIP[Grace Magic Manteau&&Grace Magic Boots&&Grace Magic Ring]===15",
+        "EQUIP[Grace Magic Manteau&&Grace Magic Boots&&Grace Magic Ring]REFINE[armor,garment,boot==27]===15"
+      ],
+      "Earth Stamp": [
+        "EQUIP[Grace Magic Manteau&&Grace Magic Boots&&Grace Magic Ring]===15",
+        "EQUIP[Grace Magic Manteau&&Grace Magic Boots&&Grace Magic Ring]REFINE[armor,garment,boot==27]===15"
+      ]
+    }
+  },
+  "510184": {
+    "id": 510184,
+    "aegisName": "Repeat_Dagger_OS",
+    "flavorText": null,
+    "name": "Repeat Dagger-OS [2]",
+    "unidName": null,
+    "resName": "Repeat_Dagger_OS",
+    "unidResName": null,
+    "description": "ATK + 3%.\nIf refine rate is 7 or higher, reduces variable casting time by 7%.\nIf refine rate is 9 or higher, increases Sharpen Gust damage by 20%.\nIf refine rate is 11 or higher, increases long ranged physical damage by 15%.\n^ffffff_^000000\nClass: ^777777Dagger^000000 Attack: ^777777150^000000\nWeight: ^77777790^000000\nWeapon Level: ^7777774^000000\nRequired Level: ^777777130^000000\nJobs: ^777777Karnos classes^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 256,
+    "itemLevel": 4,
+    "attack": 150,
+    "defense": null,
+    "weight": 90,
+    "requiredLevel": 130,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Karnos"
+    ],
+    "script": {
+      "atkPercent": [
+        "3"
+      ],
+      "vct": [
+        "7===7"
+      ],
+      "Sharpen Gust": [
+        "9===20"
+      ],
+      "range": [
+        "11===15"
+      ]
+    }
+  },
+  "510185": {
+    "id": 510185,
+    "aegisName": "Repeat_Dagger_AD",
+    "flavorText": null,
+    "name": "Repeat Dagger-OSAD [2]",
+    "unidName": null,
+    "resName": "Repeat_Dagger_AD",
+    "unidResName": null,
+    "description": "ATK + 5%.\nIf refine rate is 7 or higher, reduces variable casting time by 10%.\nIf refine rate is 9 or higher, increases Sharpen Gust damage by 25%.\nIf refine rate is 11 or higher, increases long ranged physical damage by 15%, increases Sharpen Gust damage by additional 20%.\nClass: ^777777Dagger^000000 Attack: ^777777150^000000\nWeight: ^77777790^000000\nWeapon Level: ^7777775^000000\nRequired Level: ^777777170^000000\nJobs: ^777777Karnos classes^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 256,
+    "itemLevel": 5,
+    "attack": 150,
+    "defense": null,
+    "weight": 90,
+    "requiredLevel": 170,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Karnos"
+    ],
+    "script": {
+      "atkPercent": [
+        "5"
+      ],
+      "vct": [
+        "7===10"
+      ],
+      "Sharpen Gust": [
+        "9===25",
+        "11===20"
+      ],
+      "range": [
+        "11===15"
+      ]
+    }
+  },
+  "510186": {
+    "id": 510186,
+    "aegisName": "Ep172_1h_Dagger3",
+    "flavorText": null,
+    "name": "Gula Drill [2]",
+    "unidName": null,
+    "resName": "Ep172_1h_Dagger3",
+    "unidResName": null,
+    "description": "Increases Feather Sprinkle damage by 10%.\nEvery 3 refine rate, ATK + 12.\nIf refine rate is 7 or higher, increases Feather Sprinkle damage by additional 10%.\nIf refine rate is 9 or higher, increases attack speed (reduces delay after attack by 10%).\nIf refine rate is 11 or higher, increases Feather Sprinkle damage by additional 15%.\nClass: ^777777Dagger^000000 Attack: ^777777180^000000\nWeight: ^77777790^000000\nWeapon Level: ^7777774^000000\nRequired Level: ^777777150^000000\nJobs: ^777777Karnos classes^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 256,
+    "itemLevel": 4,
+    "attack": 180,
+    "defense": null,
+    "weight": 90,
+    "requiredLevel": 150,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Karnos"
+    ],
+    "script": {
+      "Feather Sprinkle": [
+        "10",
+        "7===10",
+        "11===15"
+      ],
+      "atk": [
+        "3---12"
+      ],
+      "aspdPercent": [
+        "9===10"
+      ]
+    }
+  },
+  "510188": {
+    "id": 510188,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Fortified Whinger [2]",
+    "unidName": null,
+    "resName": "Fourth_1h_Whinger",
+    "unidResName": null,
+    "description": "Every 2 refine rate, increases Quill Spear damage by 5%.\nEvery 4 refine rate, increases long ranged physical damage by 2%.\n^ffffff_^000000\nClass: ^777777Dagger^000000 Attack: ^777777170^000000\nWeight: ^777777100^000000\nWeapon Level: ^7777775^000000\nRequired Level: ^777777200^000000\nJobs: ^777777Alitea^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 256,
+    "itemLevel": 5,
+    "attack": 170,
+    "defense": null,
+    "weight": 100,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Alitea"
+    ],
+    "script": {
+      "Quill Spear": [
+        "2---5"
+      ],
+      "range": [
+        "4---2"
+      ]
+    }
+  },
+  "510189": {
+    "id": 510189,
+    "aegisName": "Solid_Whinger",
+    "flavorText": null,
+    "name": "Solid Whinger [2]",
+    "unidName": null,
+    "resName": "Solid_Whinger",
+    "unidResName": null,
+    "description": "Every 2 refine rate, increases Quill Spear damage by 6%.\nEvery 2 refine rate, increases Pinion Shot damage by 8%.\nEvery 2 refine rate, increases long ranged physical damage by 4%.\n^CC3D3D[Bonus by grade]^000000\n[Grade D] CON + 2.\n[Grade C] Increases Quill Spear damage by additional 10%.\n[Grade B] P.ATK + 2.\n^ffffff_^000000\nClass: ^777777Dagger^000000 Attack: ^777777200^000000\nWeight: ^777777110^000000\nWeapon Level: ^7777775^000000\nRequired Level: ^777777220^000000\nJobs: ^777777Alitea^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 256,
+    "itemLevel": 5,
+    "attack": 200,
+    "defense": null,
+    "weight": 110,
+    "requiredLevel": 220,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Alitea"
+    ],
+    "script": {
+      "Quill Spear": [
+        "2---6",
+        "GRADE[weapon==C]===10"
+      ],
+      "Pinion Shot": [
+        "2---8"
+      ],
+      "range": [
+        "2---4"
+      ],
+      "con": [
+        "GRADE[weapon==D]===2"
+      ],
+      "pAtk": [
+        "GRADE[weapon==B]===2"
+      ]
+    }
+  },
+  "510190": {
+    "id": 510190,
+    "aegisName": "Glacier_N_Knife",
+    "flavorText": null,
+    "name": "Glacier Nature Knife",
+    "unidName": null,
+    "resName": "Glacier_N_Knife",
+    "unidResName": null,
+    "description": "Matk + 210.\nClass: ^777777Dagger^000000 Attack: ^777777210^000000\nWeight: ^777777120^000000\nWeapon Level: ^7777775^000000\nRequired Level: ^777777210^000000\nJobs: ^777777Alitea^000000",
+    "slots": 0,
+    "itemTypeId": 1,
+    "itemSubTypeId": 256,
+    "itemLevel": 5,
+    "attack": 210,
+    "defense": null,
+    "weight": 120,
+    "requiredLevel": 210,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Alitea"
+    ],
+    "script": {
+      "matk": [
+        "210"
+      ]
+    }
+  },
+  "510191": {
+    "id": 510191,
+    "aegisName": "D_Glacier_N_Knife",
+    "flavorText": null,
+    "name": "Dim Glacier Nature Knife [1]",
+    "unidName": null,
+    "resName": "D_Glacier_N_Knife",
+    "unidResName": null,
+    "description": "Matk + 210.\nClass: ^777777Dagger^000000 Attack: ^777777210^000000\nWeight: ^777777120^000000\nWeapon Level: ^7777775^000000\nRequired Level: ^777777230^000000\nJobs: ^777777Alitea^000000",
+    "slots": 1,
+    "itemTypeId": 1,
+    "itemSubTypeId": 256,
+    "itemLevel": 5,
+    "attack": 210,
+    "defense": null,
+    "weight": 120,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Alitea"
+    ],
+    "script": {
+      "matk": [
+        "210"
+      ]
+    }
+  },
+  "314269": {
+    "id": 314269,
+    "aegisName": "Gear_AT2",
+    "flavorText": null,
+    "name": "Pinion Shot Tuning Device",
+    "unidName": null,
+    "resName": "Gear_AT",
+    "unidResName": null,
+    "description": "Increases Pinion Shot damage by 5%.\n^CC3D3D[Bonus by grade of weapon]^000000\n[Grade D] Increases Pinion Shot damage by additional 3%.\n[Grade C] Increases physical damage against all size enemies by 10%.\n[Grade B] Increases Pinion Shot damage by additional 4%.\n[Grade A] Increases Pinion Shot damage by additional 6%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Pinion Shot": [
+        "5",
+        "GRADE[weapon==D]===3",
+        "GRADE[weapon==B]===4",
+        "GRADE[weapon==A]===6"
+      ],
+      "p_size_all": [
+        "GRADE[weapon==C]===10"
+      ]
+    }
+  },
+  "314270": {
+    "id": 314270,
+    "aegisName": "Gear_AT1",
+    "flavorText": null,
+    "name": "Quill Spear Tuning Device",
+    "unidName": null,
+    "resName": "Gear_AT",
+    "unidResName": null,
+    "description": "Increases Quill Spear damage by 5%.\n^CC3D3D[Bonus by grade of weapon]^000000\n[Grade D] Increases Quill Spear damage by additional 3%.\n[Grade C] Increases physical damage against all size enemies by 10%.\n[Grade B] Increases Quill Spear damage by additional 4%.\n[Grade A] Increases Quill Spear damage by additional 6%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Quill Spear": [
+        "5",
+        "GRADE[weapon==D]===3",
+        "GRADE[weapon==B]===4",
+        "GRADE[weapon==A]===6"
+      ],
+      "p_size_all": [
+        "GRADE[weapon==C]===10"
       ]
     }
   }
