@@ -263508,6 +263508,12 @@
     "compositionPos": null,
     "canGrade": false,
     "script": {
+      "atk": [
+        "1---1"
+      ],
+      "matk": [
+        "1---1"
+      ],
       "atkPercent": [
         "3"
       ],
@@ -263607,6 +263613,12 @@
     "compositionPos": null,
     "canGrade": false,
     "script": {
+      "atk": [
+        "1---1"
+      ],
+      "matk": [
+        "1---1"
+      ],
       "matkPercent": [
         "3"
       ],
@@ -273519,6 +273531,1987 @@
       ],
       "acd": [
         "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "300790": {
+    "id": 300790,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Plains East Card",
+    "unidName": null,
+    "resName": "Nameless_Card",
+    "unidResName": null,
+    "description": "ATK +10%\nWhen equipped with a Terrestrial Biologic Scepter, reduces the cooldown of Acidified Zone (Fire) and Acidified Zone (Wind) by 0.15 seconds.\n^ffffff_^000000\nWhen equipped with a +12 Grade A or higher Terrestrial Biologic Scepter and Dimensional Plains West Card:\n- Using Acidified Zone (Fire) additionally casts Acidified Zone (Water) at the highest learned level (activates only if Acidified Zone (Water) is learned at Lv.1 or higher).\n- Using Acidified Zone (Wind) additionally casts Acidified Zone (Earth) at the highest learned level (activates only if Acidified Zone (Earth) is learned at Lv.1 or higher).\n\nType: ^777777Card^000000\nEquip: ^777777Weapon^000000\nWeight: ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "10"
+      ],
+      "cd__Acidified Zone Fire": [
+        "EQUIP[Terrestrial Biologic Scepter]===0.15"
+      ],
+      "cd__Acidified Zone Wind": [
+        "EQUIP[Terrestrial Biologic Scepter]===0.15"
+      ]
+    }
+  },
+  "300791": {
+    "id": 300791,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Plains West Card",
+    "unidName": null,
+    "resName": "Nameless_Card",
+    "unidResName": null,
+    "description": "ATK +10%\nWhen equipped with a Terrestrial Biologic Scepter, increases Acidified Zone (Water) and Acidified Zone (Earth) damage by 10%.\n\nType: ^777777Card^000000\nEquip: ^777777Weapon^000000\nWeight: ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "10"
+      ],
+      "Acidified Zone Water": [
+        "EQUIP[Terrestrial Biologic Scepter]===10"
+      ],
+      "Acidified Zone Earth": [
+        "EQUIP[Terrestrial Biologic Scepter]===10"
+      ]
+    }
+  },
+  "300792": {
+    "id": 300792,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Plains South Card",
+    "unidName": null,
+    "resName": "Nameless_Card",
+    "unidResName": null,
+    "description": "ATK +10%\nWhen equipped with a Terrestrial Mechanical Mace, reduces the cooldown of Energy Cannonade by 0.35 seconds.\n^ffffff_^000000\nWhen equipped with a +12 Grade A or higher Terrestrial Mechanical Mace and Dimensional Plains North Card, using Energy Cannonade additionally casts Spark Blaster at the highest learned level (activates only if Spark Blaster is learned at Lv.1 or higher).\n\nType: ^777777Card^000000\nEquip: ^777777Weapon^000000\nWeight: ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "10"
+      ],
+      "cd__Energy Cannonade": [
+        "EQUIP[Terrestrial Mechanical Mace]===0.35"
+      ]
+    }
+  },
+  "300793": {
+    "id": 300793,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Plains North Card",
+    "unidName": null,
+    "resName": "Nameless_Card",
+    "unidResName": null,
+    "description": "ATK +10%\nWhen equipped with a Terrestrial Mechanical Mace, increases Spark Blaster damage by 10%.\n\nType: ^777777Card^000000\nEquip: ^777777Weapon^000000\nWeight: ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "10"
+      ],
+      "Spark Blaster": [
+        "EQUIP[Terrestrial Mechanical Mace]===10"
+      ]
+    }
+  },
+  "300794": {
+    "id": 300794,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Volcano East Card",
+    "unidName": null,
+    "resName": "Nameless_Card",
+    "unidResName": null,
+    "description": "ATK +10%\nWhen equipped with a Volcanic Wind Pick, increases Flame Trap and Solid Trap damage by 10%.\n^ffffff_^000000\nWhen equipped with a +12 Grade A or higher Volcanic Wind Pick and Dimensional Volcano West Card, increases Flame Trap, Solid Trap, Swift Trap, and Deep Blind Trap damage by 25%.\n\nType: ^777777Card^000000\nEquip: ^777777Weapon^000000\nWeight: ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "10"
+      ],
+      "Flame Trap": [
+        "EQUIP[Volcanic Wind Pick]===10",
+        "EQUIP[Volcanic Wind Pick&&Dimensional Volcano West Card]GRADE[weapon==A]REFINE[weapon==12]===25"
+      ],
+      "Solid Trap": [
+        "EQUIP[Volcanic Wind Pick]===10",
+        "EQUIP[Volcanic Wind Pick&&Dimensional Volcano West Card]GRADE[weapon==A]REFINE[weapon==12]===25"
+      ],
+      "Swift Trap": [
+        "EQUIP[Volcanic Wind Pick&&Dimensional Volcano West Card]GRADE[weapon==A]REFINE[weapon==12]===25"
+      ],
+      "Deep Blind Trap": [
+        "EQUIP[Volcanic Wind Pick&&Dimensional Volcano West Card]GRADE[weapon==A]REFINE[weapon==12]===25"
+      ]
+    }
+  },
+  "300795": {
+    "id": 300795,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Volcano West Card",
+    "unidName": null,
+    "resName": "Nameless_Card",
+    "unidResName": null,
+    "description": "ATK +10%\nWhen equipped with a Volcanic Wind Pick, increases Swift Trap and Deep Blind Trap damage by 10%.\n\nType: ^777777Card^000000\nEquip: ^777777Weapon^000000\nWeight: ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "10"
+      ],
+      "Swift Trap": [
+        "EQUIP[Volcanic Wind Pick]===10"
+      ],
+      "Deep Blind Trap": [
+        "EQUIP[Volcanic Wind Pick]===10"
+      ]
+    }
+  },
+  "300796": {
+    "id": 300796,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Volcano South Card",
+    "unidName": null,
+    "resName": "Nameless_Card",
+    "unidResName": null,
+    "description": "ATK +10%\nWhen equipped with a Volcanic Abyss Knife, reduces the cooldown of Chasing Break by 0.3 seconds.\n^ffffff_^000000\nWhen equipped with a +12 Grade A or higher Volcanic Abyss Knife and Dimensional Volcano North Card, using Chasing Break additionally casts Deft Step at the highest learned level (activates only if Deft Step is learned at Lv.1 or higher).\n\nType: ^777777Card^000000\nEquip: ^777777Weapon^000000\nWeight: ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "10"
+      ],
+      "cd__Chasing Break": [
+        "EQUIP[Volcanic Abyss Knife]===0.3"
+      ]
+    }
+  },
+  "300797": {
+    "id": 300797,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Volcano North Card",
+    "unidName": null,
+    "resName": "Nameless_Card",
+    "unidResName": null,
+    "description": "ATK +10%\nWhen equipped with a Volcanic Abyss Knife, increases Deft Step damage by 25%.\n\nType: ^777777Card^000000\nEquip: ^777777Weapon^000000\nWeight: ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "10"
+      ],
+      "Deft Stab": [
+        "EQUIP[Volcanic Abyss Knife]===25"
+      ]
+    }
+  },
+  "510211": {
+    "id": 510211,
+    "aegisName": "ABI_WH_Knife",
+    "flavorText": null,
+    "name": "Volcanic Wind Pick [2]",
+    "unidName": null,
+    "resName": "ABI_WH_Knife",
+    "unidResName": null,
+    "description": "Increases hit physical damage by 5%.\nIncreases Flame Trap and Deep Blind Trap damage by 10%.\nEvery 2 refine rate, ATK + 25.\nEvery 3 refine rate, P.ATK + 1, increases melee physical damage by 5%.\nIf refine rate is 7 or higher, ATK + 10%, P.ATK + 5.\nIf refine rate is 11 or higher, increases Solid Trap and Swift Trap damage by 10%, increases Flame Trap and Deep Blind Trap damage by additional 15%.\nIf refine rate is 12 or higher, increases hit physical damage by additional 10%.\n_\n[Bonus by grade]\n[Grade D] ATK + 10%, increases melee physical damage by 10%.\n[Grade C] Increases hit physical damage by 10%.\n[Grade B] Increases physical damage against all property enemies by 10%.\n[Grade A] Increases Solid Trap, Swift Trap, Flame Trap and Deep Blind Trap damage by 30%.\nClass: Dagger\nAttack: 200\nWeight: 180\nWeapon Level: 5\nRequired Level: 265\nUsable Jobs: Windhawk",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 256,
+    "itemLevel": 5,
+    "attack": 200,
+    "defense": null,
+    "weight": 180,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Windhawk"
+    ],
+    "script": {
+      "Flame Trap": [
+        "10",
+        "11===15",
+        "GRADE[me==A]12===30"
+      ],
+      "Deep Blind Trap": [
+        "10",
+        "11===15",
+        "GRADE[me==A]12===30"
+      ],
+      "Solid Trap": [
+        "11===10",
+        "GRADE[me==A]12===30"
+      ],
+      "Swift Trap": [
+        "11===10",
+        "GRADE[me==A]12===30"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "pAtk": [
+        "3---1",
+        "7===5"
+      ],
+      "melee": [
+        "3---5",
+        "GRADE[me==D]===10"
+      ],
+      "atkPercent": [
+        "7===10",
+        "GRADE[me==D]===5"
+      ],
+      "hitDmg": [
+        "5",
+        "12===10",
+        "GRADE[me==C]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "510212": {
+    "id": 510212,
+    "aegisName": "ABI_ABC_Knife",
+    "flavorText": null,
+    "name": "Volcanic Abyss Knife [2]",
+    "unidName": null,
+    "resName": "ABI_ABC_Knife",
+    "unidResName": null,
+    "description": "Increases hit physical damage by 5%.\nIncreases Chasing Break damage by 10%.\nEvery 2 refine rate, ATK + 25.\nEvery 3 refine rate, P.ATK + 1, increases melee physical damage by 5%.\nIf refine rate is 7 or higher, ATK + 10%, P.ATK + 5.\nIf refine rate is 11 or higher, increases Deft Stab damage by 10%, increases Chasing Break damage by additional 15%.\nIf refine rate is 12 or higher, increases hit physical damage by additional 10%.\n_\n[Bonus by grade]\n[Grade D] ATK + 10%, increases melee physical damage by 10%.\n[Grade C] Increases hit physical damage by 10%.\n[Grade B] Increases physical damage against all property enemies by 10%.\n[Grade A] Increases Deft Stab and Chasing Break damage by 30%.\nClass: Dagger\nAttack: 210\nWeight: 190\nWeapon Level: 5\nRequired Level: 265\nUsable Jobs: Abyss Chaser",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 256,
+    "itemLevel": 5,
+    "attack": 210,
+    "defense": null,
+    "weight": 190,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "AbyssChaser"
+    ],
+    "script": {
+      "Chasing Break": [
+        "10",
+        "11===15",
+        "GRADE[me==A]12===20"
+      ],
+      "Deft Stab": [
+        "11===10",
+        "GRADE[me==A]12===20"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "pAtk": [
+        "3---1",
+        "7===5"
+      ],
+      "melee": [
+        "3---5",
+        "GRADE[me==D]===10"
+      ],
+      "atkPercent": [
+        "7===10",
+        "GRADE[me==D]===5"
+      ],
+      "hitDmg": [
+        "5",
+        "12===10",
+        "GRADE[me==C]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "590121": {
+    "id": 590121,
+    "aegisName": "ABI_BO_Mace",
+    "flavorText": null,
+    "name": "Terrestrial Biologic Scepter [2]",
+    "unidName": null,
+    "resName": "ABI_BO_Mace",
+    "unidResName": null,
+    "description": "Can't be destroyed.\nIncreases hit physical damage by 5%.\nIncreases Acidified Zone (Fire) and Acidified Zone (Wind) damage by 10%.\nEvery 2 refine rate, ATK + 25.\nEvery 3 refine rate, P.ATK + 1, increases long ranged physical damage by 5%.\nIf refine rate is 7 or higher, ATK + 10%, P.ATK + 5.\nIf refine rate is 11 or higher, increases Acidified Zone (Water) and Acidified Zone (Ground) damage by 10%, increases Acidified Zone (Fire) and Acidified Zone (Wind) damage by additional 15%.\nIf refine rate is 12 or higher, increases hit physical damage by additional 10%.\n_\n[Bonus by grade]\n[Grade D] ATK + 10%, increases long ranged physical damage by 10%.\n[Grade C] Increases hit physical damage by 10%.\n[Grade B] Increases physical damage against all property enemies by 10%.\n[Grade A] Increases Acidified Zone (Water), Acidified Zone (Wind), Acidified Zone (Ground) and Acidified Zone (Fire) damage by 30%.\nClass: Mace\nAttack: 250\nWeight: 250\nWeapon Level: 5\nRequired Level: 265\nUsable Jobs: Biolo",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 263,
+    "itemLevel": 5,
+    "attack": 250,
+    "defense": null,
+    "weight": 250,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Biolo"
+    ],
+    "script": {
+      "Acidified Zone Fire": [
+        "10",
+        "11===15",
+        "GRADE[me==A]12===30"
+      ],
+      "Acidified Zone Wind": [
+        "10",
+        "11===15",
+        "GRADE[me==A]12===30"
+      ],
+      "Acidified Zone Water": [
+        "11===10",
+        "GRADE[me==A]12===30"
+      ],
+      "Acidified Zone Earth": [
+        "11===10",
+        "GRADE[me==A]12===30"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "pAtk": [
+        "3---1",
+        "7===5"
+      ],
+      "range": [
+        "3---5",
+        "GRADE[me==D]===10"
+      ],
+      "atkPercent": [
+        "7===10",
+        "GRADE[me==D]===5"
+      ],
+      "hitDmg": [
+        "5",
+        "12===10",
+        "GRADE[me==C]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "590122": {
+    "id": 590122,
+    "aegisName": "ABI_MT_Mace",
+    "flavorText": null,
+    "name": "Terrestrial Mechanical Mace [2]",
+    "unidName": null,
+    "resName": "ABI_MT_Mace",
+    "unidResName": null,
+    "description": "Can't be destroyed.\nIncreases hit physical damage by 5%.\nIncreases Energy Cannonade damage by 10%.\nEvery 2 refine rate, ATK + 25.\nEvery 3 refine rate, P.ATK + 1, increases long ranged physical damage by 5%.\nIf refine rate is 7 or higher, ATK + 10%, P.ATK + 5.\nIf refine rate is 11 or higher, increases Spark Blaster damage by 10%, increases Energy Cannonade damage by additional 15%.\nIf refine rate is 12 or higher, increases hit physical damage by additional 10%.\n_\n[Bonus by grade]\n[Grade D] ATK + 10%, increases long ranged physical damage by 10%.\n[Grade C] Increases hit physical damage by 10%.\n[Grade B] Increases physical damage against all property enemies by 10%.\n[Grade A] Increases Spark Blaster and Energy Cannonade damage by 20%.\nClass: Mace\nAttack: 310\nWeight: 300\nWeapon Level: 5\nRequired Level: 265\nUsable Jobs: Meister",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 263,
+    "itemLevel": 5,
+    "attack": 310,
+    "defense": null,
+    "weight": 300,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Meister"
+    ],
+    "script": {
+      "Energy Cannonade": [
+        "10",
+        "11===15",
+        "GRADE[me==A]12===20"
+      ],
+      "Spark Blaster": [
+        "11===10",
+        "GRADE[me==A]12===20"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "pAtk": [
+        "3---1",
+        "7===5"
+      ],
+      "range": [
+        "3---5",
+        "GRADE[me==D]===10"
+      ],
+      "atkPercent": [
+        "7===10",
+        "GRADE[me==D]===5"
+      ],
+      "hitDmg": [
+        "5",
+        "12===10",
+        "GRADE[me==C]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "480781": {
+    "id": 480781,
+    "aegisName": "ABI_Manteau_GL",
+    "flavorText": null,
+    "name": "Manteau of Relentless Destruction [1]",
+    "unidName": null,
+    "resName": "ABI_Manteau_GL",
+    "unidResName": null,
+    "description": "A mantle imbued with the power of the Dimensional ecosystems (Plains and Volcano).\n^ffffff_^000000\nPOW +3, CON +3, HIT +30.\nFor every 2 refine levels, ATK +5.\nFor every 3 refine levels, Melee Physical Damage +5%, Hit Physical Damage +5%.\nAt +7 refine, Variable Casting Time -10%, Attack Speed increased +10%).\nAt +9 refine, Global Cooldown -10%.\nAt +12 refine, P.ATK +10.\n^ffffff_^000000\n^CC3D3D[Grade Bonus Effects]^000000\n[D Grade] Melee Physical Damage +10%, Hit Physical Damage +10%.\n[C Grade] ATK +10%.\n[B Grade] POW +5, CON +5.\n[A Grade] Physical Damage against all elemental enemies +10%.\nType: ^777777Garment^000000 Defense: ^77777780^000000\nWeight: ^77777760^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777265^000000\nJobs: ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 80,
+    "weight": 60,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "pow": [
+        "3",
+        "GRADE[me==B]===5"
+      ],
+      "con": [
+        "3",
+        "GRADE[me==B]===5"
+      ],
+      "hit": [
+        "30"
+      ],
+      "atk": [
+        "2---5"
+      ],
+      "melee": [
+        "3---5",
+        "GRADE[me==D]===10"
+      ],
+      "hitDmg": [
+        "3---5",
+        "GRADE[me==D]===10"
+      ],
+      "vct": [
+        "7===10"
+      ],
+      "acd": [
+        "9===10"
+      ],
+      "pAtk": [
+        "12===10"
+      ],
+      "atkPercent": [
+        "7===10",
+        "GRADE[me==C]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "315069": {
+    "id": 315069,
+    "aegisName": "Fierce_Rune_1",
+    "flavorText": null,
+    "name": "Fierce Rune Lv.1",
+    "unidName": null,
+    "resName": "Bar_D_Fl_Energy",
+    "unidResName": null,
+    "description": "Hit physical damage +5%, Melee Physical Damage +5%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hitDmg": [
+        "5"
+      ],
+      "melee": [
+        "5"
+      ]
+    }
+  },
+  "315070": {
+    "id": 315070,
+    "aegisName": "Fierce_Rune_2",
+    "flavorText": null,
+    "name": "Fierce Rune Lv.2",
+    "unidName": null,
+    "resName": "Bar_D_Fl_Energy",
+    "unidResName": null,
+    "description": "Hit physical damage +10%, Melee Physical Damage +10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hitDmg": [
+        "10"
+      ],
+      "melee": [
+        "10"
+      ]
+    }
+  },
+  "315071": {
+    "id": 315071,
+    "aegisName": "Fierce_Rune_3",
+    "flavorText": null,
+    "name": "Fierce Rune Lv.3",
+    "unidName": null,
+    "resName": "Bar_D_Fl_Energy",
+    "unidResName": null,
+    "description": "Hit physical damage +15%, Melee Physical Damage +15%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hitDmg": [
+        "15"
+      ],
+      "melee": [
+        "15"
+      ]
+    }
+  },
+  "315072": {
+    "id": 315072,
+    "aegisName": "Great_Rune_1",
+    "flavorText": null,
+    "name": "Great Commander Rune Lv.1",
+    "unidName": null,
+    "resName": "Bar_D_Ea_Energy",
+    "unidResName": null,
+    "description": "Hit physical damage +5%, Ranged Physical Damage +5%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hitDmg": [
+        "5"
+      ],
+      "range": [
+        "5"
+      ]
+    }
+  },
+  "315073": {
+    "id": 315073,
+    "aegisName": "Great_Rune_2",
+    "flavorText": null,
+    "name": "Great Commander Rune Lv.2",
+    "unidName": null,
+    "resName": "Bar_D_Ea_Energy",
+    "unidResName": null,
+    "description": "Hit physical damage +10%, Ranged Physical Damage +10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hitDmg": [
+        "10"
+      ],
+      "range": [
+        "10"
+      ]
+    }
+  },
+  "315074": {
+    "id": 315074,
+    "aegisName": "Great_Rune_3",
+    "flavorText": null,
+    "name": "Great Commander Rune Lv.3",
+    "unidName": null,
+    "resName": "Bar_D_Ea_Energy",
+    "unidResName": null,
+    "description": "Hit physical damage +15%, Ranged Physical Damage +15%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hitDmg": [
+        "15"
+      ],
+      "range": [
+        "15"
+      ]
+    }
+  },
+  "315075": {
+    "id": 315075,
+    "aegisName": "Acute_Rune_1",
+    "flavorText": null,
+    "name": "Acute Rune Lv.1",
+    "unidName": null,
+    "resName": "Bar_D_St_Energy",
+    "unidResName": null,
+    "description": "Critical Damage +5%, Melee Physical Damage +5%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "criDmg": [
+        "5"
+      ],
+      "melee": [
+        "5"
+      ]
+    }
+  },
+  "315076": {
+    "id": 315076,
+    "aegisName": "Acute_Rune_2",
+    "flavorText": null,
+    "name": "Acute Rune Lv.2",
+    "unidName": null,
+    "resName": "Bar_D_St_Energy",
+    "unidResName": null,
+    "description": "Critical Damage +10%, Melee Physical Damage +10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "criDmg": [
+        "10"
+      ],
+      "melee": [
+        "10"
+      ]
+    }
+  },
+  "315077": {
+    "id": 315077,
+    "aegisName": "Acute_Rune_3",
+    "flavorText": null,
+    "name": "Acute Rune Lv.3",
+    "unidName": null,
+    "resName": "Bar_D_St_Energy",
+    "unidResName": null,
+    "description": "Critical Damage +15%, Melee Physical Damage +15%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "criDmg": [
+        "15"
+      ],
+      "melee": [
+        "15"
+      ]
+    }
+  },
+  "315078": {
+    "id": 315078,
+    "aegisName": "Sharp_Rune_1",
+    "flavorText": null,
+    "name": "Sharp Rune Lv.1",
+    "unidName": null,
+    "resName": "Bar_D_Ic_Energy",
+    "unidResName": null,
+    "description": "Critical Damage +5%, Ranged Physical Damage +5%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "criDmg": [
+        "5"
+      ],
+      "range": [
+        "5"
+      ]
+    }
+  },
+  "315079": {
+    "id": 315079,
+    "aegisName": "Sharp_Rune_2",
+    "flavorText": null,
+    "name": "Sharp Rune Lv.2",
+    "unidName": null,
+    "resName": "Bar_D_Ic_Energy",
+    "unidResName": null,
+    "description": "Critical Damage +10%, Ranged Physical Damage +10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "criDmg": [
+        "10"
+      ],
+      "range": [
+        "10"
+      ]
+    }
+  },
+  "315080": {
+    "id": 315080,
+    "aegisName": "Sharp_Rune_3",
+    "flavorText": null,
+    "name": "Sharp Rune Lv.3",
+    "unidName": null,
+    "resName": "Bar_D_Ic_Energy",
+    "unidResName": null,
+    "description": "Critical Damage +15%, Ranged Physical Damage +15%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "criDmg": [
+        "15"
+      ],
+      "range": [
+        "15"
+      ]
+    }
+  },
+  "315081": {
+    "id": 315081,
+    "aegisName": "Magic_Rune_1",
+    "flavorText": null,
+    "name": "Magic Essence Rune Lv.1",
+    "unidName": null,
+    "resName": "Bar_D_Po_Energy",
+    "unidResName": null,
+    "description": "MATK +5%, Neutral, Water, Wind, Earth, Fire, Poison, and Dark property magic damage +5%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matkPercent": [
+        "5"
+      ],
+      "m_my_element_neutral": [
+        "5"
+      ],
+      "m_my_element_water": [
+        "5"
+      ],
+      "m_my_element_wind": [
+        "5"
+      ],
+      "m_my_element_earth": [
+        "5"
+      ],
+      "m_my_element_fire": [
+        "5"
+      ],
+      "m_my_element_poison": [
+        "5"
+      ],
+      "m_my_element_dark": [
+        "5"
+      ]
+    }
+  },
+  "315082": {
+    "id": 315082,
+    "aegisName": "Magic_Rune_2",
+    "flavorText": null,
+    "name": "Magic Essence Rune Lv.2",
+    "unidName": null,
+    "resName": "Bar_D_Po_Energy",
+    "unidResName": null,
+    "description": "MATK +10%, Neutral, Water, Wind, Earth, Fire, Poison, and Dark property magic damage +10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matkPercent": [
+        "10"
+      ],
+      "m_my_element_neutral": [
+        "10"
+      ],
+      "m_my_element_water": [
+        "10"
+      ],
+      "m_my_element_wind": [
+        "10"
+      ],
+      "m_my_element_earth": [
+        "10"
+      ],
+      "m_my_element_fire": [
+        "10"
+      ],
+      "m_my_element_poison": [
+        "10"
+      ],
+      "m_my_element_dark": [
+        "10"
+      ]
+    }
+  },
+  "315083": {
+    "id": 315083,
+    "aegisName": "Magic_Rune_3",
+    "flavorText": null,
+    "name": "Magic Essence Rune Lv.3",
+    "unidName": null,
+    "resName": "Bar_D_Po_Energy",
+    "unidResName": null,
+    "description": "MATK +15%, Neutral, Water, Wind, Earth, Fire, Poison, and Dark property magic damage +15%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matkPercent": [
+        "15"
+      ],
+      "m_my_element_neutral": [
+        "15"
+      ],
+      "m_my_element_water": [
+        "15"
+      ],
+      "m_my_element_wind": [
+        "15"
+      ],
+      "m_my_element_earth": [
+        "15"
+      ],
+      "m_my_element_fire": [
+        "15"
+      ],
+      "m_my_element_poison": [
+        "15"
+      ],
+      "m_my_element_dark": [
+        "15"
+      ]
+    }
+  },
+  "315084": {
+    "id": 315084,
+    "aegisName": "Spell_Rune_1",
+    "flavorText": null,
+    "name": "Spell Rune Lv.1",
+    "unidName": null,
+    "resName": "Bar_D_So_Energy",
+    "unidResName": null,
+    "description": "MATK +5%, Neutral, Wind, Fire, Holy, Dark, Ghost, and Undead property magic damage +5%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matkPercent": [
+        "5"
+      ],
+      "m_my_element_neutral": [
+        "5"
+      ],
+      "m_my_element_wind": [
+        "5"
+      ],
+      "m_my_element_fire": [
+        "5"
+      ],
+      "m_my_element_holy": [
+        "5"
+      ],
+      "m_my_element_dark": [
+        "5"
+      ],
+      "m_my_element_ghost": [
+        "5"
+      ],
+      "m_my_element_undead": [
+        "5"
+      ]
+    }
+  },
+  "315085": {
+    "id": 315085,
+    "aegisName": "Spell_Rune_2",
+    "flavorText": null,
+    "name": "Spell Rune Lv.2",
+    "unidName": null,
+    "resName": "Bar_D_So_Energy",
+    "unidResName": null,
+    "description": "MATK +10%, Neutral, Wind, Fire, Holy, Dark, Ghost, and Undead property magic damage +10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matkPercent": [
+        "10"
+      ],
+      "m_my_element_neutral": [
+        "10"
+      ],
+      "m_my_element_wind": [
+        "10"
+      ],
+      "m_my_element_fire": [
+        "10"
+      ],
+      "m_my_element_holy": [
+        "10"
+      ],
+      "m_my_element_dark": [
+        "10"
+      ],
+      "m_my_element_ghost": [
+        "10"
+      ],
+      "m_my_element_undead": [
+        "10"
+      ]
+    }
+  },
+  "315086": {
+    "id": 315086,
+    "aegisName": "Spell_Rune_3",
+    "flavorText": null,
+    "name": "Spell Rune Lv.3",
+    "unidName": null,
+    "resName": "Bar_D_So_Energy",
+    "unidResName": null,
+    "description": "MATK +15%, Neutral, Wind, Fire, Holy, Dark, Ghost, and Undead property magic damage +15%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matkPercent": [
+        "15"
+      ],
+      "m_my_element_neutral": [
+        "15"
+      ],
+      "m_my_element_wind": [
+        "15"
+      ],
+      "m_my_element_fire": [
+        "15"
+      ],
+      "m_my_element_holy": [
+        "15"
+      ],
+      "m_my_element_dark": [
+        "15"
+      ],
+      "m_my_element_ghost": [
+        "15"
+      ],
+      "m_my_element_undead": [
+        "15"
+      ]
+    }
+  },
+  "315087": {
+    "id": 315087,
+    "aegisName": "Health_Rune_1",
+    "flavorText": null,
+    "name": "Adamantine Rune Lv.1",
+    "unidName": null,
+    "resName": "Bar_D_Co_Energy",
+    "unidResName": null,
+    "description": "Max HP +5%, Global Cooldown -1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hpPercent": [
+        "5"
+      ],
+      "acd": [
+        "1"
+      ]
+    }
+  },
+  "315088": {
+    "id": 315088,
+    "aegisName": "Health_Rune_2",
+    "flavorText": null,
+    "name": "Adamantine Rune Lv.2",
+    "unidName": null,
+    "resName": "Bar_D_Co_Energy",
+    "unidResName": null,
+    "description": "Max HP +10%, Global Cooldown -2%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hpPercent": [
+        "10"
+      ],
+      "acd": [
+        "2"
+      ]
+    }
+  },
+  "315089": {
+    "id": 315089,
+    "aegisName": "Health_Rune_3",
+    "flavorText": null,
+    "name": "Adamantine Rune Lv.3",
+    "unidName": null,
+    "resName": "Bar_D_Co_Energy",
+    "unidResName": null,
+    "description": "Max HP +15%, Global Cooldown -3%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hpPercent": [
+        "15"
+      ],
+      "acd": [
+        "3"
+      ]
+    }
+  },
+  "315090": {
+    "id": 315090,
+    "aegisName": "Soul_Rune_1",
+    "flavorText": null,
+    "name": "Affection Rune Lv.1",
+    "unidName": null,
+    "resName": "Bar_D_Pu_Energy",
+    "unidResName": null,
+    "description": "Max SP +5%, Variable Casting Time -3%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "spPercent": [
+        "5"
+      ],
+      "vct": [
+        "3"
+      ]
+    }
+  },
+  "315091": {
+    "id": 315091,
+    "aegisName": "Soul_Rune_2",
+    "flavorText": null,
+    "name": "Affection Rune Lv.2",
+    "unidName": null,
+    "resName": "Bar_D_Pu_Energy",
+    "unidResName": null,
+    "description": "Max SP +10%, Variable Casting Time -6%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "spPercent": [
+        "10"
+      ],
+      "vct": [
+        "6"
+      ]
+    }
+  },
+  "315092": {
+    "id": 315092,
+    "aegisName": "Soul_Rune_3",
+    "flavorText": null,
+    "name": "Affection Rune Lv.3",
+    "unidName": null,
+    "resName": "Bar_D_Pu_Energy",
+    "unidResName": null,
+    "description": "Max SP +15%, Variable Casting Time -9%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "spPercent": [
+        "15"
+      ],
+      "vct": [
+        "9"
+      ]
+    }
+  },
+  "315057": {
+    "id": 315057,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Meister Stone II (Garment)",
+    "unidName": null,
+    "resName": "White_Smith_Figure",
+    "unidResName": null,
+    "description": "Increases Axe Stomp damage by 10%.\nWhen equipped with Mechanic Stone II (Upper), increases Mighty Smash damage by 10%.\nWhen equipped with Mechanic Stone II (Middle), for every 2 levels of Two Hand Axe Defending, increases physical damage against all size enemies by 3%.\nWhen equipped with Mechanic Stone II (Lower), increases Powerful Swing damage by 15%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 74,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Axe Stomp": [
+        "10"
+      ],
+      "Mighty Smash": [
+        "EQUIP[Mechanic Stone II (Upper)]===10"
+      ],
+      "p_size_all": [
+        "EQUIP[Mechanic Stone II (Middle)]LEARN_SKILL[Two Hand Axe Defending==2]---3"
+      ],
+      "Powerful Swing": [
+        "EQUIP[Mechanic Stone II (Lower)]===15"
+      ]
+    }
+  },
+  "315058": {
+    "id": 315058,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Imperial Guard Stone II (Garment)",
+    "unidName": null,
+    "resName": "Paladin_Figure",
+    "unidResName": null,
+    "description": "Increases Imperial Cross and Overslash damage by 15%.\nWhen equipped with Royal Guard Stone II (Upper), reduces fixed casting time by 0.5 seconds and increases Shield Shooting damage by 15%.\nWhen equipped with Royal Guard Stone II (Middle), C.RATE + 5, increases Radiant Spear damage by 10%.\nWhen equipped with Royal Guard Stone II (Lower), for every 2 levels of Spear & Sword Mastery, increases physical damage against all property enemies by 3%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 74,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Imperial Cross": [
+        "15"
+      ],
+      "Overslash": [
+        "15"
+      ],
+      "fct": [
+        "EQUIP[Royal Guard Stone II (Upper)]===0.5"
+      ],
+      "Shield Shooting": [
+        "EQUIP[Royal Guard Stone II (Upper)]===15"
+      ],
+      "cRate": [
+        "EQUIP[Royal Guard Stone II (Middle)]===5"
+      ],
+      "Radiant Spear": [
+        "EQUIP[Royal Guard Stone II (Middle)]===10"
+      ],
+      "p_element_all": [
+        "EQUIP[Royal Guard Stone II (Lower)]LEARN_SKILL[Spear & Sword Mastery==2]---3"
+      ]
+    }
+  },
+  "315059": {
+    "id": 315059,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Night Watch Stone II (Garment)",
+    "unidName": null,
+    "resName": "Purification_Bullet",
+    "unidResName": null,
+    "description": "Increases Wild Fire and Midnight Fallen damage by 15%.\nWhen equipped with Rebellion Stone II (Upper), C.RATE + 3, increases Wild Shot damage by 10%.\nWhen equipped with Rebellion Stone II (Middle), increases Magazine For One damage by 10%.\nWhen equipped with Rebellion Stone II (Lower), for every 2 levels of P.F.I, reduces fixed casting time by 0.1 seconds and increases physical damage against all size enemies by 3%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 74,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Wild Fire": [
+        "15"
+      ],
+      "Midnight Fallen": [
+        "15"
+      ],
+      "cRate": [
+        "EQUIP[Rebellion Stone II (Upper)]===3"
+      ],
+      "Wild Shot": [
+        "EQUIP[Rebellion Stone II (Upper)]===10"
+      ],
+      "Magazine for One": [
+        "EQUIP[Rebellion Stone II (Middle)]===10"
+      ],
+      "fct": [
+        "EQUIP[Rebellion Stone II (Lower)]LEARN_SKILL[PFI==2]---0.1"
+      ],
+      "p_size_all": [
+        "EQUIP[Rebellion Stone II (Lower)]LEARN_SKILL[PFI==2]---3"
+      ]
+    }
+  },
+  "315060": {
+    "id": 315060,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Mechanic Stone II (Upper)",
+    "unidName": null,
+    "resName": "White_Smith_Figure",
+    "unidResName": null,
+    "description": "For every level of Fire Earth Research, increases melee and ranged physical damage by 2%.\nWhen equipped with Mechanic Stone (Garment), increases Power Swing damage by 15%.\nWhen equipped with Mechanic Stone II (Garment), increases Vulcan Arm damage by 15%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 71,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "melee": [
+        "LEARN_SKILL[Fire Earth Research==1]---2"
+      ],
+      "range": [
+        "LEARN_SKILL[Fire Earth Research==1]---2"
+      ],
+      "Power Swing": [
+        "EQUIP[Mechanic Stone (Garment)]===15"
+      ],
+      "Vulcan Arm": [
+        "EQUIP[Mechanic Stone II (Garment)]===15"
+      ]
+    }
+  },
+  "315061": {
+    "id": 315061,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Mechanic Stone II (Middle)",
+    "unidName": null,
+    "resName": "White_Smith_Figure",
+    "unidResName": null,
+    "description": "For every level of Axe Tornado, increases Power Swing damage by 10%.\nWhen equipped with Mechanic Stone (Garment), reduces Axe Tornado skill cooldown by 1 second.\nWhen equipped with Mechanic Stone II (Garment), increases Knuckle Boost damage by 15%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 72,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Power Swing": [
+        "LEARN_SKILL[Axe Tornado==1]---10"
+      ],
+      "cd__Axe Tornado": [
+        "EQUIP[Mechanic Stone (Garment)]===1"
+      ],
+      "Knuckle Boost": [
+        "EQUIP[Mechanic Stone II (Garment)]===15"
+      ]
+    }
+  },
+  "315062": {
+    "id": 315062,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Mechanic Stone II (Lower)",
+    "unidName": null,
+    "resName": "White_Smith_Figure",
+    "unidResName": null,
+    "description": "For every 2 levels of Axe Mastery, reduces global cooldown by 1%.\nWhen equipped with Mechanic Stone (Garment), increases Axe Tornado and Power Swing damage by 15%.\nWhen equipped with Mechanic Stone II (Garment), increases Arm Cannon damage by 15%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 73,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "acd": [
+        "LEARN_SKILL[Axe Mastery==2]---1"
+      ],
+      "Axe Tornado": [
+        "EQUIP[Mechanic Stone (Garment)]===15"
+      ],
+      "Power Swing": [
+        "EQUIP[Mechanic Stone (Garment)]===15"
+      ],
+      "Arm Cannon": [
+        "EQUIP[Mechanic Stone II (Garment)]===15"
+      ]
+    }
+  },
+  "315063": {
+    "id": 315063,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Royal Guard Stone II (Upper)",
+    "unidName": null,
+    "resName": "Paladin_Figure",
+    "unidResName": null,
+    "description": "For every level of Inspiration, increases melee and ranged physical damage by 2%.\nWhen equipped with Royal Guard Stone (Garment), increases Banishing Point damage by 15%.\nWhen equipped with Royal Guard Stone II (Garment), increases Genesis Ray damage by 15%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 71,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "melee": [
+        "LEARN_SKILL[Inspiration==1]---2"
+      ],
+      "range": [
+        "LEARN_SKILL[Inspiration==1]---2"
+      ],
+      "Banishing Point": [
+        "EQUIP[Royal Guard Stone (Garment)]===15"
+      ],
+      "Genesis Ray": [
+        "EQUIP[Royal Guard Stone II (Garment)]===15"
+      ]
+    }
+  },
+  "315064": {
+    "id": 315064,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Royal Guard Stone II (Middle)",
+    "unidName": null,
+    "resName": "Paladin_Figure",
+    "unidResName": null,
+    "description": "For every level of Pinpoint Attack, increases Over Brand damage by 10%.\nWhen equipped with Royal Guard Stone (Garment), reduces Cannon Spear skill cooldown by 0.5 seconds.\nWhen equipped with Royal Guard Stone II (Garment), increases Genesis Ray damage by 15%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 72,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Over Brand": [
+        "LEARN_SKILL[Pinpoint Attack==1]---10"
+      ],
+      "cd__Cannon Spear": [
+        "EQUIP[Royal Guard Stone (Garment)]===0.5"
+      ],
+      "Genesis Ray": [
+        "EQUIP[Royal Guard Stone II (Garment)]===15"
+      ]
+    }
+  },
+  "315065": {
+    "id": 315065,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Royal Guard Stone II (Lower)",
+    "unidName": null,
+    "resName": "Paladin_Figure",
+    "unidResName": null,
+    "description": "For every level of Prestige, reduces variable casting time by 2%.\nWhen equipped with Royal Guard Stone (Garment), increases Cannon Spear damage by 15%.\nWhen equipped with Royal Guard Stone II (Garment), increases magic damage against all size enemies by 15%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 73,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "vct": [
+        "LEARN_SKILL[Prestige==1]---2"
+      ],
+      "Cannon Spear": [
+        "EQUIP[Royal Guard Stone (Garment)]===15"
+      ],
+      "m_size_all": [
+        "EQUIP[Royal Guard Stone II (Garment)]===15"
+      ]
+    }
+  },
+  "315066": {
+    "id": 315066,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Rebellion Stone II (Upper)",
+    "unidName": null,
+    "resName": "Purification_Bullet",
+    "unidResName": null,
+    "description": "For every level of Platinum Altar, increases Fire Dance and Hammer of God damage by 7%.\nWhen equipped with Rebellion Stone (Garment), increases Hammer of God damage by 25%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 71,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Fire Dance": [
+        "LEARN_SKILL[Platinum Altar==1]---7"
+      ],
+      "God's Hammer": [
+        "LEARN_SKILL[Platinum Altar==1]---7",
+        "EQUIP[Rebellion Stone (Garment)]===25"
+      ]
+    }
+  },
+  "315067": {
+    "id": 315067,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Rebellion Stone II (Middle)",
+    "unidName": null,
+    "resName": "Purification_Bullet",
+    "unidResName": null,
+    "description": "For every level of Shatter Storm, increases Vanishing Buster damage by 5%.\nWhen equipped with Rebellion Stone (Garment), increases Vanishing Buster damage by 20%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 72,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Vanishing Buster": [
+        "LEARN_SKILL[Shatter Storm==1]---5",
+        "EQUIP[Rebellion Stone (Garment)]===20"
+      ]
+    }
+  },
+  "315068": {
+    "id": 315068,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Rebellion Stone II (Lower)",
+    "unidName": null,
+    "resName": "Purification_Bullet",
+    "unidResName": null,
+    "description": "For every level of Hot Barrel, increases Dragon Tail damage by 7%.\nWhen equipped with Rebellion Stone (Garment), increases Round Trip damage by 20%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 73,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Dragon Tail": [
+        "LEARN_SKILL[Hot Barrel==1]---7"
+      ],
+      "Round Trip": [
+        "EQUIP[Rebellion Stone (Garment)]===20"
+      ]
+    }
+  },
+  "1270230": {
+    "id": 1270230,
+    "aegisName": "S_PoisonWater_Weapon",
+    "flavorText": null,
+    "name": "Poisoning Water Weapon Shadow",
+    "unidName": null,
+    "resName": "SV_Weapon_Shadow",
+    "unidResName": null,
+    "description": "A glove worn on the weapon hand that draws out the wearer's latent abilities.\n \nATK + 3%.\nFor every 2 refine levels, increases Physical Damage against Poison and Water property enemies by 1%.\nAt +7 refine, increases Physical Damage against Poison and Water property enemies by 2%.\nAt +9 refine, additionally increases Physical Damage against Poison and Water property enemies by 3%.\nAt +10 refine, increases Melee and Ranged Physical Damage by 5%, and ignores 5% of the Physical Resistance of all races (excluding players).\n \n^ffffff^4D4DFF[Shadow Equipment Exclusive Enchant Book]^000000^000000\nCan be granted random options using 2 Shadow Essences.\nClass : ^777777Shadow Equipment^000000\nLocation : ^777777Weapon^000000 Weight : ^7777770^000000\nRequired Level : ^777777200^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 280,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "1---1"
+      ],
+      "matk": [
+        "1---1"
+      ],
+      "atkPercent": [
+        "3"
+      ],
+      "p_element_poison": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "p_element_water": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "melee": [
+        "10===5"
+      ],
+      "range": [
+        "10===5"
+      ],
+      "pene_res": [
+        "10===5"
+      ]
+    }
+  },
+  "1270231": {
+    "id": 1270231,
+    "aegisName": "S_PoisonWater_Shield",
+    "flavorText": null,
+    "name": "Poisoning Water Shield Shadow",
+    "unidName": null,
+    "resName": "SV_Shield_Shadow",
+    "unidResName": null,
+    "description": "A small shield that can be equipped on the arm to provide additional defensive effects. It can be used on its own, but its defensive benefits are limited.\n \nATK + 3%.\nFor every 2 refine levels, increases Physical Damage against Poison and Water property enemies by 1%.\nAt +7 refine, increases Physical Damage against Poison and Water property enemies by 2%.\nAt +9 refine, additionally increases Physical Damage against Poison and Water property enemies by 3%.\nAt +10 refine, increases Melee and Ranged Physical Damage by 5%, and ignores 5% of the Physical Resistance of all races (excluding players).\n \nWhen equipped together with Poisoning Water Weapon Shadow:\nMHP + 3%, MSP + 3%, Physical Damage against Poison and Water property enemies +10%.\nIf the combined refine level is 18 or higher, ignores an additional 5% of the Physical Resistance of all races (excluding players).\n \n^ffffff^4D4DFF[Shadow Equipment Exclusive Enchant Book]^000000^000000\nCan be granted random options using 2 Shadow Essences.\nClass : ^777777Shadow Equipment^000000\nLocation : ^777777Shield^000000 Weight : ^7777770^000000\nRequired Level : ^777777200^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "3"
+      ],
+      "p_element_poison": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Poisoning Water Weapon Shadow]===10"
+      ],
+      "p_element_water": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Poisoning Water Weapon Shadow]===10"
+      ],
+      "melee": [
+        "10===5"
+      ],
+      "range": [
+        "10===5"
+      ],
+      "pene_res": [
+        "10===5",
+        "EQUIP[Poisoning Water Weapon Shadow]REFINE[shadowWeapon,shadowShield==18]===5"
+      ],
+      "hpPercent": [
+        "EQUIP[Poisoning Water Weapon Shadow]===3"
+      ],
+      "spPercent": [
+        "EQUIP[Poisoning Water Weapon Shadow]===3"
+      ]
+    }
+  },
+  "1270232": {
+    "id": 1270232,
+    "aegisName": "S_M_PoisonWater_Weapon",
+    "flavorText": null,
+    "name": "Magic Poisoning Water Weapon Shadow",
+    "unidName": null,
+    "resName": "SV_Weapon_Shadow",
+    "unidResName": null,
+    "description": "A glove worn on the weapon hand that draws out the wearer's latent abilities.\n \nMATK + 3%.\nFor every 2 refine levels, increases Magic Damage against Poison and Water property enemies by 1%.\nAt +7 refine, increases Magic Damage against Poison and Water property enemies by 2%.\nAt +9 refine, additionally increases Magic Damage against Poison and Water property enemies by 3%.\nAt +10 refine, increases All Element Magic Damage by 5%, and ignores 5% of the Magic Resistance of all races (excluding players).\n \n^ffffff^4D4DFF[Shadow Equipment Exclusive Enchant Book]^000000^000000\nCan be granted random options using 2 Shadow Essences.\nClass : ^777777Shadow Equipment^000000\nLocation : ^777777Weapon^000000 Weight : ^7777770^000000\nRequired Level : ^777777200^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 280,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "1---1"
+      ],
+      "matk": [
+        "1---1"
+      ],
+      "matkPercent": [
+        "3"
+      ],
+      "m_element_poison": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "m_element_water": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "m_my_element_all": [
+        "10===5"
+      ],
+      "pene_mres": [
+        "10===5"
+      ]
+    }
+  },
+  "1270233": {
+    "id": 1270233,
+    "aegisName": "S_M_PoisonWater_Shield",
+    "flavorText": null,
+    "name": "Magic Poisoning Water Shield Shadow",
+    "unidName": null,
+    "resName": "SV_Shield_Shadow",
+    "unidResName": null,
+    "description": "A small shield that can be equipped on the arm to provide additional defensive effects. It can be used on its own, but its defensive benefits are limited.\n \nMATK + 3%.\nFor every 2 refine levels, increases Magic Damage against Poison and Water property enemies by 1%.\nAt +7 refine, increases Magic Damage against Poison and Water property enemies by 2%.\nAt +9 refine, additionally increases Magic Damage against Poison and Water property enemies by 3%.\nAt +10 refine, increases All Element Magic Damage by 5%, and ignores 5% of the Magic Resistance of all races (excluding players).\n \nWhen equipped together with Magic Poisoning Water Weapon Shadow:\nMHP + 3%, MSP + 3%, Magic Damage against Poison and Water property enemies +10%.\nIf the combined refine level is 18 or higher, ignores an additional 5% of the Magic Resistance of all races (excluding players).\n \n^ffffff^4D4DFF[Shadow Equipment Exclusive Enchant Book]^000000^000000\nCan be granted random options using 2 Shadow Essences.\nClass : ^777777Shadow Equipment^000000\nLocation : ^777777Shield^000000 Weight : ^7777770^000000\nRequired Level : ^777777200^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "matkPercent": [
+        "3"
+      ],
+      "m_element_poison": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Magic Poisoning Water Weapon Shadow]===10"
+      ],
+      "m_element_water": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Magic Poisoning Water Weapon Shadow]===10"
+      ],
+      "m_my_element_all": [
+        "10===5"
+      ],
+      "pene_mres": [
+        "10===5",
+        "EQUIP[Magic Poisoning Water Weapon Shadow]REFINE[shadowWeapon,shadowShield==18]===5"
+      ],
+      "hpPercent": [
+        "EQUIP[Magic Poisoning Water Weapon Shadow]===3"
+      ],
+      "spPercent": [
+        "EQUIP[Magic Poisoning Water Weapon Shadow]===3"
       ]
     }
   }
