@@ -273139,5 +273139,247 @@
         "GRADE[me==A]2---3"
       ]
     }
+  },
+  "420864": {
+    "id": 420864,
+    "aegisName": "Worg_In_Mouth_LT",
+    "flavorText": null,
+    "name": "Baby Gray Wolf In Mouth-LT",
+    "unidName": null,
+    "resName": "입에문워그",
+    "unidResName": null,
+    "description": "เมื่อโจมตีทางกายภาพ มีโอกาส 4% ที่จะฟื้นฟู HP 4% ของ Damage ที่ทำ\nเมื่อโจมตีทางกายภาพ มีโอกาส 2% ที่จะฟื้นฟู SP 2% ของ Damage ที่ทำ\n\nเมื่อกำจัดมอนสเตอร์ด้วยเวทมนตร์ ฟื้นฟู HP 600, SP 10 หน่วย\nลด Global Cooldown 10%\nเพิ่ม EXP ที่ได้รับจากมอนสเตอร์ 10%\nเพิ่มอัตราดรอปไอเทม 10%\n\nเมื่อสวมใส่ร่วมกับ Gray Wolf Manteau หรือ Gray Wolf Muffler,\nเพิ่ม EXP ที่ได้รับจากมอนสเตอร์ขึ้นอีก 4%,\nทุก ๆ การอัพเกรด Garment 2 ขั้น, เพิ่ม EXP ที่ได้รับจากมอนสเตอร์ขึ้นอีก 1%,\nทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 4%\n\nเมื่อสวมใส่ร่วมกับ Gray Wolf Suit หรือ Gray Wolf Robe,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 10%,\nทุก ๆ การอัพเกรด Armor 2 ขั้น, ลด Global Cooldown 2%,\nทุก ๆ การอัพเกรด Armor 3 ขั้น, P.ATK + 2 S.MATK + 2\n\nเมื่อสวมใส่ร่วมกับ Gray Wolf Manteau หรือ Gray Wolf Muffler ที่มีขั้นอัพเกรด 11 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 10%,\nเพิกเฉยต่อพลังป้องกันทางกายภาพ/เวทมนตร์ของศัตรูทุกเผ่า 30%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 1,
+    "location": "Lower",
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "acd": [
+        "10",
+        "EQUIP[Gray Wolf Suit||Gray Wolf Robe]REFINE[armor==2]---2"
+      ],
+      "p_size_all": [
+        "EQUIP[Gray Wolf Manteau||Gray Wolf Muffler]REFINE[garment==3]---4"
+      ],
+      "m_size_all": [
+        "EQUIP[Gray Wolf Manteau||Gray Wolf Muffler]REFINE[garment==3]---4"
+      ],
+      "p_race_all": [
+        "EQUIP[Gray Wolf Suit||Gray Wolf Robe]===10"
+      ],
+      "m_race_all": [
+        "EQUIP[Gray Wolf Suit||Gray Wolf Robe]===10"
+      ],
+      "pAtk": [
+        "EQUIP[Gray Wolf Suit||Gray Wolf Robe]REFINE[armor==3]---2"
+      ],
+      "sMatk": [
+        "EQUIP[Gray Wolf Suit||Gray Wolf Robe]REFINE[armor==3]---2"
+      ],
+      "p_element_all": [
+        "EQUIP[Gray Wolf Manteau||Gray Wolf Muffler]REFINE[garment==11]===10"
+      ],
+      "m_element_all": [
+        "EQUIP[Gray Wolf Manteau||Gray Wolf Muffler]REFINE[garment==11]===10"
+      ],
+      "p_pene_race_all": [
+        "EQUIP[Gray Wolf Manteau||Gray Wolf Muffler]REFINE[garment==11]===30"
+      ],
+      "m_pene_race_all": [
+        "EQUIP[Gray Wolf Manteau||Gray Wolf Muffler]REFINE[garment==11]===30"
+      ]
+    }
+  },
+  "107502": {
+    "id": 107502,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "สปาเก็ตตี้คาปิบาร่า",
+    "unidName": null,
+    "resName": "덜익은사과",
+    "unidResName": null,
+    "description": "ATK , MATK + 60 เป็นเวลา 60 นาที",
+    "slots": 0,
+    "itemTypeId": 3333,
+    "itemSubTypeId": 768,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "60"
+      ],
+      "matk": [
+        "60"
+      ]
+    }
+  },
+  "107503": {
+    "id": 107503,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "สมูทตี้มสเตล่าเบอร์รี่",
+    "unidName": null,
+    "resName": "덜익은사과",
+    "unidResName": null,
+    "description": "DROP +10% เป็นเวลา 60 นาที",
+    "slots": 0,
+    "itemTypeId": 963,
+    "itemSubTypeId": 768,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {}
+  },
+  "107504": {
+    "id": 107504,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "ต้มยำกุ้งสูตรเย็น",
+    "unidName": null,
+    "resName": "덜익은사과",
+    "unidResName": null,
+    "description": "All Trait +15 เป็นเวลา 60 นาที",
+    "slots": 0,
+    "itemTypeId": 3333,
+    "itemSubTypeId": 768,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "allTrait": [
+        "15"
+      ]
+    }
+  },
+  "107505": {
+    "id": 107505,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "อิกดราซิลไฟแดง",
+    "unidName": null,
+    "resName": "덜익은사과",
+    "unidResName": null,
+    "description": "Max HP +20% เป็นเวลา 60 นาที",
+    "slots": 0,
+    "itemTypeId": 3333,
+    "itemSubTypeId": 768,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "hpPercent": [
+        "20"
+      ]
+    }
+  },
+  "401426": {
+    "id": 401426,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Costume Mask of Blue Flame",
+    "unidName": null,
+    "resName": "C_Mask_of_Ifrit",
+    "unidResName": null,
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nหน้ากากแห่งเปลวเพลิงสีน้ำเงินอันเยือกเย็น แต่แฝงไว้ด้วยอำนาจแห่งเปลวไฟบริสุทธิ์\nเป็นที่เลื่องลือว่าผู้สวมใส่จะสามารถควบคุมเพลิงสีครามให้ลุกโชนและแผดเผาศัตรูได้ดั่งเจตจำนง\n\nเมื่อโจมตีทางกายภาพ มีโอกาส 30% ที่จะร่ายสกิล All Bloom, Crimson Arrow Lv.5 ใส่ศัตรูโดยอัติโนมัติ\nเพิ่ม Damage สกิล All Bloom, Crimson Arrow 30%\n\n(ไอเท็มดังกล่าวจะถูกลบหลังความสามารถหลังจากปิดปรับปรุงเซิร์ฟเวอร์วันที่ 15 กรกฎาคม 2569)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "All Bloom": [
+        "30"
+      ],
+      "Crimson Arrow": [
+        "30"
+      ],
+      "chance__pow": [
+        "EQUIP[Costume Tao Gas]===30"
+      ],
+      "chance__con": [
+        "EQUIP[Costume Tao Gas]===30"
+      ],
+      "chance__spl": [
+        "EQUIP[Costume Tao Gas]===30"
+      ],
+      "chance__pAtk": [
+        "EQUIP[Costume Tao Gas]===10"
+      ],
+      "chance__sMatk": [
+        "EQUIP[Costume Tao Gas]===10"
+      ]
+    }
+  },
+  "31203": {
+    "id": 31203,
+    "aegisName": "C_Charcoal_Stove",
+    "flavorText": null,
+    "name": "Costume Tao Gas",
+    "unidName": null,
+    "resName": "Charcoal_Stove",
+    "unidResName": null,
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nคอสตูมที่ไม่ใช่ธรรมดานะ แม้รูปร่างเหมือนเตาถ่านสำหรับทำอาหารแต่ใช้แก๊สเป็นเชื้อเพลิง เมื่อใช้งานถูกจะเกิดเปลวไฟสีน้ำเงินอันร้อนแรงแซงดวงอาทิตย์\nใคร ๆ ก็เลือกใช้จนได้รับรีวิว 5 ดาวรัว ๆ ส่วนใหญ่บอกว่าใช้แล้วโชคดี อยู่ดี ๆ ก็รู้สึกเหมือนมีพลังงานบางอย่าง\n\nเมื่อโจมตีทางกายภาพ/เวทมนตร์ มีโอกาส 4% ที่จะได้รับสถานะ [Lucky Flame] เป็นเวลา 10 วินาที\n\nผลเอฟเฟกต์ [Lucky Flame]\nPOW, CON, SPL + 30,\nP.ATK/S.MATK + 10,\nเมื่อกำจัดมอนเตอร์จะมีโอกาส 0.5% ที่จะได้รับ Flame Heart\n\nเมื่อสวมใส่ร่วมกับ Costume Mask of Blue Flame Ifrit, \nเมื่อโจมตีทางกายภาพ/เวทมนตร์ มีโอกาส 4% ที่จะได้รับสถานะ [Lucky Flame II] POW, CON, SPL + 30, P.ATK/S.MATK + 10 เป็นเวลา 10 วินาที\n\n(ไอเท็มดังกล่าวจะถูกลบความสามารถหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 15 กรกฎาคม 2569)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 520,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "chance__pow": [
+        "30"
+      ],
+      "chance__con": [
+        "30"
+      ],
+      "chance__spl": [
+        "30"
+      ],
+      "chance__pAtk": [
+        "10"
+      ],
+      "chance__sMatk": [
+        "10"
+      ]
+    }
   }
 }
