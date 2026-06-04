@@ -252008,27 +252008,30 @@
       "SoulAscetic"
     ],
     "script": {
-      "matk": [
-        "270",
-        "2---20"
-      ],
       "Talisman of White Tiger": [
         "15",
         "2---4",
         "12===20",
-        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===25",
-        "GRADE[me==C]===15"
+        "GRADE[me==C]===15",
+        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===25"
       ],
       "Talisman of Black Tortoise": [
         "15",
         "2---4",
         "12===20",
-        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===25",
-        "GRADE[me==C]===15"
+        "GRADE[me==C]===15",
+        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===25"
+      ],
+      "Talisman of Four Bearing God": [
+        "7===25",
+        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===25"
+      ],
+      "matk": [
+        "270",
+        "2---20"
       ],
       "matkPercent": [
         "2---1",
-        "7===25",
         "GRADE[me==B]===7"
       ],
       "m_my_element_water": [
@@ -252047,34 +252050,30 @@
         "7===25",
         "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===20"
       ],
-      "Talisman of Four Bearing God": [
-        "7===25",
-        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===25"
+      "m_my_element_neutral": [
+        "GRADE[me==D]===25",
+        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===20"
+      ],
+      "m_my_element_dark": [
+        "GRADE[me==D]===25",
+        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===20"
+      ],
+      "m_my_element_ghost": [
+        "GRADE[me==D]===25",
+        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===20"
+      ],
+      "m_my_element_holy": [
+        "GRADE[me==D]===25",
+        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===20"
+      ],
+      "vct": [
+        "9===10"
       ],
       "sMatk": [
         "9===7",
         "GRADE[me==D]===7",
         "GRADE[me==B]===5",
         "GRADE[me==A]===15"
-      ],
-      "vct": [
-        "9===10"
-      ],
-      "m_my_element_dark": [
-        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===20",
-        "GRADE[me==D]===25"
-      ],
-      "m_my_element_neutral": [
-        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===20",
-        "GRADE[me==D]===25"
-      ],
-      "m_my_element_ghost": [
-        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===20",
-        "GRADE[me==D]===25"
-      ],
-      "m_my_element_holy": [
-        "GRADE[me==A]LEARN_SKILL[Talisman of White Tiger==5]12===20",
-        "GRADE[me==D]===25"
       ]
     }
   },
@@ -263682,7 +263681,7 @@
   },
   "530087": {
     "id": 530087,
-    "aegisName": null,
+    "aegisName": "26_5_Lance_IG",
     "flavorText": null,
     "name": "Radiant Lance [2]",
     "unidName": null,
@@ -263735,7 +263734,7 @@
   },
   "590124": {
     "id": 590124,
-    "aegisName": null,
+    "aegisName": "26_5_Mace_MT",
     "flavorText": null,
     "name": "Radiant Mace [2]",
     "unidName": null,
@@ -273379,6 +273378,147 @@
       ],
       "chance__sMatk": [
         "10"
+      ]
+    }
+  },
+  "401340": {
+    "id": 401340,
+    "aegisName": "26_5_Circlet_AT",
+    "flavorText": null,
+    "name": "Radiant Rune Circlet (Alitea) [1]",
+    "unidName": null,
+    "resName": "Ascend Crown",
+    "unidResName": null,
+    "description": "A circlet engraved with radiant runes.\n \nFor every 2 refine levels: ATK +3, CRI +2.\nFor every 3 refine levels: ATK +2%, Critical Damage +3%.\nFor every 4 refine levels: Primal Claw, Feral Claw, Alpha Claw, and Frenzy Fang damage +5%.\nAt Refine +7: Melee Physical Damage +10%.\nAt Refine +9: P.ATK +5.\nAt Refine +11: Fixed Casting Time -0.5 sec.\n \nWhen equipped together with Radiant Axe:\nFrenzy Fang Damage +40%, Critical Damage +20%.\nIf the total refine level of Radiant Rune Circlet (Alitea) and Radiant Axe is 24 or higher, both are Grade A or above, and Savage Lunge is learned at Lv.10 or higher:\nFor each level of Frenzy Fang, Physical Damage against all races +6% (excluding players), and Attack Speed increases (After-Cast Delay -2%).\n \n^CC3D3D[Additional Effects by Grade]^000000\n[D Grade] P.ATK +5.\n[C Grade] Melee Physical Damage +15%.\n[B Grade] Physical Damage against all sizes +10%.\n[A Grade] Physical Damage against all elements +10%.\nClass: ^777777Headgear^000000 Defense: ^77777750^000000\nLocation: ^777777Upper^000000 Weight: ^7777770^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777240^000000\nEquippable By: ^777777Alitea^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 50,
+    "weight": 0,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Alitea"
+    ],
+    "script": {
+      "atk": [
+        "2---3"
+      ],
+      "cri": [
+        "2---2"
+      ],
+      "atkPercent": [
+        "3---2"
+      ],
+      "criDmg": [
+        "3---3",
+        "EQUIP[Radiant Axe]===20"
+      ],
+      "Primal Claw": [
+        "4---5"
+      ],
+      "Feral Claw": [
+        "4---5"
+      ],
+      "Alpha Claw": [
+        "4---5"
+      ],
+      "Frenzy Fang": [
+        "4---5",
+        "EQUIP[Radiant Axe]===40"
+      ],
+      "melee": [
+        "7===10",
+        "GRADE[me==C]===15"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==D]===5"
+      ],
+      "fct": [
+        "11===0.5"
+      ],
+      "p_race_all": [
+        "EQUIP[Radiant Axe]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL2[Savage Lunge==10]LEARN_SKILL[Frenzy Fang==1]---6"
+      ],
+      "acd": [
+        "EQUIP[Radiant Axe]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL2[Savage Lunge==10]LEARN_SKILL[Frenzy Fang==1]---2"
+      ],
+      "p_size_all": [
+        "GRADE[me==B]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "520060": {
+    "id": 520060,
+    "aegisName": "26_5_Axe_AT",
+    "flavorText": null,
+    "name": "Radiant Axe [2]",
+    "unidName": null,
+    "resName": "26_5_Axe_AT",
+    "unidResName": null,
+    "description": "A one-handed axe blazing with radiant light.\n \nIndestructible.\nCRI +5, Primal Claw, Paral Claw, and Alpha Claw Damage +15%.\nFor every 3 refine levels: ATK +30, Critical Damage +2%.\nFor every 4 refine levels: Primal Claw, Paral Claw, and Alpha Claw Damage +7%.\nAt Refine +7: Critical Damage +25%.\nAt Refine +9: CRI +10, P.ATK +5.\nAt Refine +11: CRI +5, Primal Claw, Paral Claw, and Alpha Claw Damage +10% additional.\n \n^CC3D3D[Additional Effects by Grade]^000000\n[D Grade] ATK +5%.\n[C Grade] Primal Claw, Paral Claw, and Alpha Claw Damage +10%.\n[B Grade] Global Cooldown -10%.\n[A Grade] P.ATK +10.\nClass: ^777777One-Handed Axe^000000 Attack: ^777777220^000000\nWeight: ^777777200^000000\nWeapon Level: ^7777775^000000\nRequired Level: ^777777240^000000\nEquippable By: ^777777Alitea^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 261,
+    "itemLevel": 5,
+    "attack": 220,
+    "defense": null,
+    "weight": 200,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Alitea"
+    ],
+    "script": {
+      "cri": [
+        "5",
+        "9===10",
+        "11===5"
+      ],
+      "Primal Claw": [
+        "15",
+        "4---7",
+        "11===10",
+        "GRADE[me==C]===10"
+      ],
+      "Feral Claw": [
+        "15",
+        "4---7",
+        "11===10",
+        "GRADE[me==C]===10"
+      ],
+      "Alpha Claw": [
+        "15",
+        "4---7",
+        "11===10",
+        "GRADE[me==C]===10"
+      ],
+      "atk": [
+        "3---30"
+      ],
+      "criDmg": [
+        "3---2",
+        "7===25"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==A]===10"
+      ],
+      "atkPercent": [
+        "GRADE[me==D]===5"
+      ],
+      "acd": [
+        "GRADE[me==B]===10"
       ]
     }
   }
