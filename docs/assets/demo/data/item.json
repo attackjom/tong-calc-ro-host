@@ -238376,7 +238376,7 @@
         "GRADE[boot==C]===4"
       ],
       "atk": [
-        "REFINE[boot===5]---3"
+        "REFINE[boot==5]---3"
       ]
     }
   },
@@ -238408,7 +238408,7 @@
       "pow": [
         "GRADE[boot==D]===4",
         "GRADE[boot==B]===4",
-        "GRADE[boot==A]REFINE[boot===3]---5"
+        "GRADE[boot==A]REFINE[boot==3]---5"
       ],
       "p_final": [
         "SPAWN[ch1_gfn03]===19"
@@ -238420,7 +238420,7 @@
         "GRADE[boot==C]===6"
       ],
       "atk": [
-        "REFINE[boot===4]---5"
+        "REFINE[boot==4]---5"
       ]
     }
   },
@@ -238452,7 +238452,7 @@
       "pow": [
         "GRADE[boot==D]===5",
         "GRADE[boot==B]===5",
-        "GRADE[boot==A]REFINE[boot===2]---6"
+        "GRADE[boot==A]REFINE[boot==2]---6"
       ],
       "p_final": [
         "SPAWN[ch1_gfn03]===25"
@@ -238464,7 +238464,7 @@
         "GRADE[boot==C]===8"
       ],
       "atk": [
-        "REFINE[boot===3]---7"
+        "REFINE[boot==3]---7"
       ]
     }
   },
@@ -238502,7 +238502,7 @@
       "pow": [
         "GRADE[boot==D]===5",
         "GRADE[boot==B]===5",
-        "GRADE[boot==A]REFINE[boot===2]---6"
+        "GRADE[boot==A]REFINE[boot==2]---6"
       ],
       "p_final": [
         "SPAWN[ch1_gfn03]===25"
@@ -238514,7 +238514,7 @@
         "GRADE[boot==C]===12"
       ],
       "atk": [
-        "REFINE[boot===3]---9"
+        "REFINE[boot==3]---9"
       ]
     }
   },
@@ -238629,7 +238629,7 @@
         "GRADE[boot==C]===6"
       ],
       "atk": [
-        "REFINE[boot===5]---4"
+        "REFINE[boot==5]---4"
       ]
     }
   },
@@ -238661,7 +238661,7 @@
       "con": [
         "GRADE[boot==D]===6",
         "GRADE[boot==B]===6",
-        "GRADE[boot==A]REFINE[boot===3]---6"
+        "GRADE[boot==A]REFINE[boot==3]---6"
       ],
       "p_final": [
         "SPAWN[ch1_gfn03]===19"
@@ -238673,7 +238673,7 @@
         "GRADE[boot==C]===8"
       ],
       "atk": [
-        "REFINE[boot===4]---6"
+        "REFINE[boot==4]---6"
       ]
     }
   },
@@ -238705,7 +238705,7 @@
       "con": [
         "GRADE[boot==D]===7",
         "GRADE[boot==B]===7",
-        "GRADE[boot==A]REFINE[boot===2]---7"
+        "GRADE[boot==A]REFINE[boot==2]---7"
       ],
       "p_final": [
         "SPAWN[ch1_gfn03]===25"
@@ -238717,7 +238717,7 @@
         "GRADE[boot==C]===10"
       ],
       "atk": [
-        "REFINE[boot===3]---8"
+        "REFINE[boot==3]---8"
       ]
     }
   },
@@ -238755,7 +238755,7 @@
       "con": [
         "GRADE[boot==D]===7",
         "GRADE[boot==B]===7",
-        "GRADE[boot==A]REFINE[boot===2]---7"
+        "GRADE[boot==A]REFINE[boot==2]---7"
       ],
       "p_final": [
         "SPAWN[ch1_gfn03]===25"
@@ -238767,7 +238767,7 @@
         "GRADE[boot==C]===15"
       ],
       "atk": [
-        "REFINE[boot===3]---10"
+        "REFINE[boot==3]---10"
       ]
     }
   },
@@ -238912,7 +238912,7 @@
         "GRADE[boot==C]===4"
       ],
       "matk": [
-        "REFINE[boot===5]---3"
+        "REFINE[boot==5]---3"
       ]
     }
   },
@@ -238944,7 +238944,7 @@
       "spl": [
         "GRADE[boot==D]===4",
         "GRADE[boot==B]===4",
-        "GRADE[boot==A]REFINE[boot===3]---5"
+        "GRADE[boot==A]REFINE[boot==3]---5"
       ],
       "m_final": [
         "SPAWN[ch1_gfn03]===15"
@@ -238971,7 +238971,7 @@
         "GRADE[boot==C]===6"
       ],
       "matk": [
-        "REFINE[boot===4]---5"
+        "REFINE[boot==4]---5"
       ]
     }
   },
@@ -239003,7 +239003,7 @@
       "spl": [
         "GRADE[boot==D]===5",
         "GRADE[boot==B]===5",
-        "GRADE[boot==A]REFINE[boot===2]---6"
+        "GRADE[boot==A]REFINE[boot==2]---6"
       ],
       "m_final": [
         "SPAWN[ch1_gfn03]===20"
@@ -239030,7 +239030,7 @@
         "GRADE[boot==C]===8"
       ],
       "matk": [
-        "REFINE[boot===3]---7"
+        "REFINE[boot==3]---7"
       ]
     }
   },
@@ -239068,7 +239068,7 @@
       "spl": [
         "GRADE[boot==D]===5",
         "GRADE[boot==B]===5",
-        "GRADE[boot==A]REFINE[boot===2]---6"
+        "GRADE[boot==A]REFINE[boot==2]---6"
       ],
       "m_final": [
         "SPAWN[ch1_gfn03]===20"
@@ -239095,7 +239095,7 @@
         "GRADE[boot==C]===12"
       ],
       "matk": [
-        "REFINE[boot===3]---9"
+        "REFINE[boot==3]---9"
       ]
     }
   },
@@ -239240,7 +239240,7 @@
         "GRADE[boot==C]===4"
       ],
       "matk": [
-        "REFINE[boot===5]---3"
+        "REFINE[boot==5]---3"
       ]
     }
   },
@@ -239272,7 +239272,7 @@
       "spl": [
         "GRADE[boot==D]===4",
         "GRADE[boot==B]===4",
-        "GRADE[boot==A]REFINE[boot===3]---5"
+        "GRADE[boot==A]REFINE[boot==3]---5"
       ],
       "m_final": [
         "SPAWN[ch1_gfn03]===15"
@@ -239299,7 +239299,7 @@
         "GRADE[boot==C]===6"
       ],
       "matk": [
-        "REFINE[boot===4]---5"
+        "REFINE[boot==4]---5"
       ]
     }
   },
@@ -239331,7 +239331,7 @@
       "spl": [
         "GRADE[boot==D]===5",
         "GRADE[boot==B]===5",
-        "GRADE[boot==A]REFINE[boot===2]---6"
+        "GRADE[boot==A]REFINE[boot==2]---6"
       ],
       "m_final": [
         "SPAWN[ch1_gfn03]===20"
@@ -239358,7 +239358,7 @@
         "GRADE[boot==C]===8"
       ],
       "matk": [
-        "REFINE[boot===3]---7"
+        "REFINE[boot==3]---7"
       ]
     }
   },
@@ -239396,7 +239396,7 @@
       "spl": [
         "GRADE[boot==D]===5",
         "GRADE[boot==B]===5",
-        "GRADE[boot==A]REFINE[boot===2]---6"
+        "GRADE[boot==A]REFINE[boot==2]---6"
       ],
       "m_final": [
         "SPAWN[ch1_gfn03]===20"
@@ -239423,7 +239423,7 @@
         "GRADE[boot==C]===12"
       ],
       "matk": [
-        "REFINE[boot===3]---9"
+        "REFINE[boot==3]---9"
       ]
     }
   },
@@ -239555,10 +239555,10 @@
         "GRADE[boot==B]===3"
       ],
       "atk": [
-        "GRADE[boot==B]REFINE[boot===5]---3"
+        "GRADE[boot==B]REFINE[boot==5]---3"
       ],
       "cri": [
-        "GRADE[boot==B]REFINE[boot===5]---1"
+        "GRADE[boot==B]REFINE[boot==5]---1"
       ]
     }
   },
@@ -239592,7 +239592,7 @@
       ],
       "pow": [
         "GRADE[boot==D]===4",
-        "GRADE[boot==A]REFINE[boot===3]---4"
+        "GRADE[boot==A]REFINE[boot==3]---4"
       ],
       "p_final": [
         "SPAWN[ch1_gfn03]===15"
@@ -239608,13 +239608,13 @@
       ],
       "crt": [
         "GRADE[boot==B]===4",
-        "GRADE[boot==A]REFINE[boot===3]---1"
+        "GRADE[boot==A]REFINE[boot==3]---1"
       ],
       "atk": [
-        "GRADE[boot==B]REFINE[boot===4]---3"
+        "GRADE[boot==B]REFINE[boot==4]---3"
       ],
       "cri": [
-        "GRADE[boot==B]REFINE[boot===4]---2"
+        "GRADE[boot==B]REFINE[boot==4]---2"
       ]
     }
   },
@@ -239648,7 +239648,7 @@
       ],
       "pow": [
         "GRADE[boot==D]===5",
-        "GRADE[boot==A]REFINE[boot===2]---4"
+        "GRADE[boot==A]REFINE[boot==2]---4"
       ],
       "p_final": [
         "SPAWN[ch1_gfn03]===20"
@@ -239664,13 +239664,13 @@
       ],
       "crt": [
         "GRADE[boot==B]===5",
-        "GRADE[boot==A]REFINE[boot===2]---2"
+        "GRADE[boot==A]REFINE[boot==2]---2"
       ],
       "atk": [
-        "GRADE[boot==B]REFINE[boot===3]---5"
+        "GRADE[boot==B]REFINE[boot==3]---5"
       ],
       "cri": [
-        "GRADE[boot==B]REFINE[boot===3]---2"
+        "GRADE[boot==B]REFINE[boot==3]---2"
       ]
     }
   },
@@ -239710,7 +239710,7 @@
       ],
       "pow": [
         "GRADE[boot==D]===5",
-        "GRADE[boot==A]REFINE[boot===2]---4"
+        "GRADE[boot==A]REFINE[boot==2]---4"
       ],
       "p_final": [
         "SPAWN[ch1_gfn03]===20"
@@ -239726,13 +239726,13 @@
       ],
       "crt": [
         "GRADE[boot==B]===5",
-        "GRADE[boot==A]REFINE[boot===2]---2"
+        "GRADE[boot==A]REFINE[boot==2]---2"
       ],
       "atk": [
-        "GRADE[boot==B]REFINE[boot===3]---5"
+        "GRADE[boot==B]REFINE[boot==3]---5"
       ],
       "cri": [
-        "GRADE[boot==B]REFINE[boot===3]---4"
+        "GRADE[boot==B]REFINE[boot==3]---4"
       ]
     }
   },
@@ -239864,10 +239864,10 @@
         "GRADE[boot==B]===3"
       ],
       "atk": [
-        "GRADE[boot==B]REFINE[boot===5]---3"
+        "GRADE[boot==B]REFINE[boot==5]---3"
       ],
       "cri": [
-        "GRADE[boot==B]REFINE[boot===5]---1"
+        "GRADE[boot==B]REFINE[boot==5]---1"
       ]
     }
   },
@@ -239901,7 +239901,7 @@
       ],
       "con": [
         "GRADE[boot==D]===6",
-        "GRADE[boot==A]REFINE[boot===3]---3"
+        "GRADE[boot==A]REFINE[boot==3]---3"
       ],
       "p_final": [
         "SPAWN[ch1_gfn03]===15"
@@ -239917,13 +239917,13 @@
       ],
       "crt": [
         "GRADE[boot==B]===4",
-        "GRADE[boot==A]REFINE[boot===3]---2"
+        "GRADE[boot==A]REFINE[boot==3]---2"
       ],
       "atk": [
-        "GRADE[boot==B]REFINE[boot===4]---3"
+        "GRADE[boot==B]REFINE[boot==4]---3"
       ],
       "cri": [
-        "GRADE[boot==B]REFINE[boot===4]---2"
+        "GRADE[boot==B]REFINE[boot==4]---2"
       ]
     }
   },
@@ -239957,7 +239957,7 @@
       ],
       "con": [
         "GRADE[boot==D]===7",
-        "GRADE[boot==A]REFINE[boot===2]---4"
+        "GRADE[boot==A]REFINE[boot==2]---4"
       ],
       "p_final": [
         "SPAWN[ch1_gfn03]===20"
@@ -239973,13 +239973,13 @@
       ],
       "crt": [
         "GRADE[boot==B]===5",
-        "GRADE[boot==A]REFINE[boot===2]---3"
+        "GRADE[boot==A]REFINE[boot==2]---3"
       ],
       "atk": [
-        "GRADE[boot==B]REFINE[boot===3]---6"
+        "GRADE[boot==B]REFINE[boot==3]---6"
       ],
       "cri": [
-        "GRADE[boot==B]REFINE[boot===3]---2"
+        "GRADE[boot==B]REFINE[boot==3]---2"
       ]
     }
   },
@@ -240019,7 +240019,7 @@
       ],
       "con": [
         "GRADE[boot==D]===7",
-        "GRADE[boot==A]REFINE[boot===2]---4"
+        "GRADE[boot==A]REFINE[boot==2]---4"
       ],
       "p_final": [
         "SPAWN[ch1_gfn03]===20"
@@ -240035,13 +240035,13 @@
       ],
       "crt": [
         "GRADE[boot==B]===5",
-        "GRADE[boot==A]REFINE[boot===2]---3"
+        "GRADE[boot==A]REFINE[boot==2]---3"
       ],
       "atk": [
-        "GRADE[boot==B]REFINE[boot===3]---6"
+        "GRADE[boot==B]REFINE[boot==3]---6"
       ],
       "cri": [
-        "GRADE[boot==B]REFINE[boot===3]---4"
+        "GRADE[boot==B]REFINE[boot==3]---4"
       ]
     }
   },
