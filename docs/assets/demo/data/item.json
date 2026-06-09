@@ -263251,7 +263251,7 @@
   },
   "401338": {
     "id": 401338,
-    "aegisName": null,
+    "aegisName": "26_5_Circlet_MT",
     "flavorText": null,
     "name": "Radiant Rune Circlet (Meister) [1]",
     "unidName": null,
@@ -263312,7 +263312,7 @@
   },
   "401339": {
     "id": 401339,
-    "aegisName": null,
+    "aegisName": "26_5_Circlet_IG",
     "flavorText": null,
     "name": "Radiant Rune Circlet (Imperial Guard) [1]",
     "unidName": null,
@@ -263381,7 +263381,7 @@
   },
   "420799": {
     "id": 420799,
-    "aegisName": null,
+    "aegisName": "26_5_BottomHat1",
     "flavorText": null,
     "name": "Emerald Rose (Hit)",
     "unidName": null,
@@ -263408,7 +263408,7 @@
   },
   "420800": {
     "id": 420800,
-    "aegisName": null,
+    "aegisName": "26_5_BottomHat2",
     "flavorText": null,
     "name": "Emerald Rose (Critical)",
     "unidName": null,
@@ -263435,7 +263435,7 @@
   },
   "420801": {
     "id": 420801,
-    "aegisName": null,
+    "aegisName": "26_5_BottomHat3",
     "flavorText": null,
     "name": "Emerald Rose (Magic)",
     "unidName": null,
@@ -263462,7 +263462,7 @@
   },
   "420802": {
     "id": 420802,
-    "aegisName": null,
+    "aegisName": "26_5_BottomHat4",
     "flavorText": null,
     "name": "Emerald Rose (Vitality)",
     "unidName": null,
@@ -263489,7 +263489,7 @@
   },
   "1270200": {
     "id": 1270200,
-    "aegisName": null,
+    "aegisName": "S_EarthFlare_Weapon",
     "flavorText": null,
     "name": "Earth Flare Weapon Shadow",
     "unidName": null,
@@ -263540,7 +263540,7 @@
   },
   "1270201": {
     "id": 1270201,
-    "aegisName": null,
+    "aegisName": "S_EarthFlare_Shield",
     "flavorText": null,
     "name": "Earth Flare Shield Shadow",
     "unidName": null,
@@ -263594,7 +263594,7 @@
   },
   "1270202": {
     "id": 1270202,
-    "aegisName": null,
+    "aegisName": "S_M_EarthFlare_Weapon",
     "flavorText": null,
     "name": "Magic Earth Flare Weapon Shadow",
     "unidName": null,
@@ -263642,7 +263642,7 @@
   },
   "1270203": {
     "id": 1270203,
-    "aegisName": null,
+    "aegisName": "S_M_EarthFlare_Shield",
     "flavorText": null,
     "name": "Magic Earth Flare Shield Shadow",
     "unidName": null,
@@ -275512,6 +275512,1283 @@
       ],
       "spPercent": [
         "EQUIP[Magic Poisoning Water Weapon Shadow]===3"
+      ]
+    }
+  },
+  "300836": {
+    "id": 300836,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Venom East Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ATK + 10%\nWhen equipped with Venomous Shadow Katar, reduces Savage Impact skill cooldown by 0.15 sec.\n^ffffff_^000000\nWhen equipped with Venomous Shadow Katar with Refine +12 and Grade A or higher, and Dimensional Venom Western Card, using Savage Impact additionally auto-casts Impact Crater at the maximum learned level (activates only if Impact Crater is learned at level 1 or higher).\nClass : ^777777Card^000000\nCompound on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "10"
+      ],
+      "cd__Savage Impact": [
+        "EQUIP[Venomous Shadow Katar]===0.15"
+      ]
+    }
+  },
+  "300837": {
+    "id": 300837,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Venom West Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ATK + 10%\nWhen equipped with Venomous Shadow Katar, increases Impact Crater damage by 25%.\nClass : ^777777Card^000000\nCompound on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "10"
+      ],
+      "Impact Crater": [
+        "EQUIP[Venomous Shadow Katar]25"
+      ]
+    }
+  },
+  "300838": {
+    "id": 300838,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Venom South Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ATK + 10%.\nWhen equipped with Venomous Emperor Pad, reduces Noon Blast skill cooldown by 0.15 sec.\n^ffffff_^000000\nWhen equipped with Venomous Emperor Pad with Refine +12 and Grade A or higher, and Dimensional Venom Northern Card, while in Noon or Soul of Heaven and Earth state, using Noon Blast additionally auto-casts Sky Sun at the maximum learned level (activates only if Sky Sun is learned at level 1 or higher).\nClass : ^777777Card^000000\nCompound on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "10"
+      ],
+      "cd__Noon Blast": [
+        "EQUIP[Venomous Emperor Pad]===0.15"
+      ]
+    }
+  },
+  "300839": {
+    "id": 300839,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Venom North Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ATK + 10%.\nWhen equipped with Venomous Emperor Pad, increases Sky Sun damage by 25%.\nClass : ^777777Card^000000\nCompound on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "10"
+      ],
+      "Sky Sun": [
+        "EQUIP[Venomous Emperor Pad]25"
+      ]
+    }
+  },
+  "300840": {
+    "id": 300840,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Frost East Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ATK + 10%\nWhen equipped with Frigid Nature Cutter, reduces Quill Spear skill cooldown by 0.15 sec.\n^ffffff_^000000\nWhen equipped with Frigid Nature Cutter with Refine +12 and Grade A or higher, and Dimensional Frost Western Card, using Quill Spear additionally auto-casts Pinion Shot at the maximum learned level (activates only if Pinion Shot is learned at level 1 or higher).\nClass : ^777777Card^000000\nCompound on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "10"
+      ],
+      "cd__Quill Spear": [
+        "EQUIP[Frigid Nature Cutter]===0.15"
+      ]
+    }
+  },
+  "300841": {
+    "id": 300841,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Frost West Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ATK + 10%\nWhen equipped with Frigid Nature Cutter, increases Quill Spear damage by 10% and Pinion Shot damage by 15%.\nClass : ^777777Card^000000\nCompound on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "10"
+      ],
+      "Quill Spear": [
+        "EQUIP[Frigid Nature Cutter]10"
+      ],
+      "Pinion Shot": [
+        "EQUIP[Frigid Nature Cutter]15"
+      ]
+    }
+  },
+  "300842": {
+    "id": 300842,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Frost South Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ATK + 10%\nWhen equipped with Frigid Night Rifle, increases Only One Bullet damage by 25%.\n^ffffff_^000000\nWhen equipped with Frigid Night Rifle with Refine +12 and Grade A or higher, and Dimensional Frost Northern Card, using Only One Bullet additionally auto-casts Wild Shot at the maximum learned level (activates only if Wild Shot is learned at level 1 or higher).\nClass : ^777777Card^000000\nCompound on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "10"
+      ],
+      "Only One Bullet": [
+        "EQUIP[Frigid Night Rifle]25"
+      ]
+    }
+  },
+  "300843": {
+    "id": 300843,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Frost North Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ATK + 10%\nWhen equipped with Frigid Night Rifle, increases Wild Shot damage by 10%.\nClass : ^777777Card^000000\nCompound on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "10"
+      ],
+      "Wild Shot": [
+        "EQUIP[Frigid Night Rifle]10"
+      ]
+    }
+  },
+  "300844": {
+    "id": 300844,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Summer Vacation Maram Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ATK + 3%, MATK + 3%, CRI + 4, variable cast time -4%.\n^ffffff_^000000\nWhen equipped with Summer Vacation Pope Card, ATK + 7%, MATK + 7%, global cooldown -5%.\n^ffffff_^000000\nClass : ^777777Card^000000\nCompound on : ^777777Accessory^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 136,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "3",
+        "EQUIP[Summer Vacation Pope Card]7"
+      ],
+      "matkPercent": [
+        "3",
+        "EQUIP[Summer Vacation Pope Card]7"
+      ],
+      "cri": [
+        "4"
+      ],
+      "vct": [
+        "4"
+      ],
+      "acd": [
+        "EQUIP[Summer Vacation Pope Card]5"
+      ]
+    }
+  },
+  "401391": {
+    "id": 401391,
+    "aegisName": "26_6_Circlet_AG",
+    "flavorText": null,
+    "name": "Radiant Rune Circlet (Arch Mage) [1]",
+    "unidName": null,
+    "resName": "어센드크라운",
+    "unidResName": null,
+    "description": "A circlet engraved with radiant runes.\n \nEvery 2 refine levels, MATK + 5.\nEvery 3 refine levels, MATK + 2%, Fire and Wind magic damage +2%.\nEvery 4 refine levels, All Bloom, Crimson Arrow, Destructive Hurricane, and Tornado Storm damage +5%.\nAt +7 refine, Fire and Wind magic damage +10%.\nAt +9 refine, S.MATK + 5.\nAt +11 refine, fixed cast time -0.5 sec.\n \nWhen equipped with Radiant Staff, Destructive Hurricane and Tornado Storm damage +20%, Fire and Wind magic damage +20%.\nWhen Radiant Rune Circlet (Arch Mage) and Radiant Staff have a combined refine total of 24 or higher, both are Grade A or above, and Destructive Hurricane is learned at Lv.5 or higher, magic damage to all race monsters +30%, Fire and Wind magic damage +10%.\n \n^CC3D3D[Bonus by Grade]^000000\n[Grade D] S.MATK + 5.\n[Grade C] Destructive Hurricane and Tornado Storm damage +10%.\n[Grade B] Magic damage to all sizes +10%.\n[Grade A] Magic damage to all elements +10%.\nClass : ^777777Headgear^000000 Defense : ^77777750^000000\nLocation : ^777777Upper^000000 Weight : ^7777770^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Arch Mage^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 50,
+    "weight": 0,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ArchMage"
+    ],
+    "script": {
+      "matk": [
+        "2---5"
+      ],
+      "matkPercent": [
+        "3---2"
+      ],
+      "m_my_element_fire": [
+        "3---2",
+        "7===10",
+        "EQUIP[Radiant Staff]===20",
+        "EQUIP[Radiant Staff]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL[Destructive Hurricane==5]===10"
+      ],
+      "m_my_element_wind": [
+        "3---2",
+        "7===10",
+        "EQUIP[Radiant Staff]===20",
+        "EQUIP[Radiant Staff]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL[Destructive Hurricane==5]===10"
+      ],
+      "All Bloom": [
+        "4---5"
+      ],
+      "Crimson Arrow": [
+        "4---5"
+      ],
+      "Destructive Hurricane": [
+        "4---5",
+        "EQUIP[Radiant Staff]===20",
+        "GRADE[me==C]===10"
+      ],
+      "Tornado Storm": [
+        "4---5",
+        "EQUIP[Radiant Staff]===20",
+        "GRADE[me==C]===10"
+      ],
+      "sMatk": [
+        "9===5",
+        "GRADE[me==D]===5"
+      ],
+      "fct": [
+        "11===0.5"
+      ],
+      "m_race_all": [
+        "EQUIP[Radiant Staff]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL[Destructive Hurricane==5]===30"
+      ],
+      "m_size_all": [
+        "GRADE[me==B]===10"
+      ],
+      "m_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "401393": {
+    "id": 401393,
+    "aegisName": "26_6_Circlet_HN",
+    "flavorText": null,
+    "name": "Radiant Rune Circlet (Hyper Novice) [1]",
+    "unidName": null,
+    "resName": "어센드크라운",
+    "unidResName": null,
+    "description": "A circlet engraved with radiant runes.\n \nEvery 2 refine levels, ATK + 3 and HIT + 5.\nEvery 3 refine levels, ATK + 2%, ranged physical damage +1%, HIT physical damage +3%.\nEvery 4 refine levels, Shield Chain Rush and Spiral Pierce Max damage +5%.\nAt +7 refine, ranged physical damage +10%.\nAt +9 refine, P.ATK + 5.\nAt +11 refine, fixed cast time -0.5 sec.\n \nWhen equipped with Radiant Sword, Shield Shooting damage +20%, HIT physical damage +30%.\nWhen Radiant Rune Circlet (Hyper Novice) and Radiant Sword have a combined refine total of 24 or higher, both are Grade A or above, and Shield Chain Rush is learned at Lv.10 or higher, Shield Chain Rush additionally triggers Shield Shooting Lv.3.\n \n^CC3D3D[Bonus by Grade]^000000\n[Grade D] P.ATK + 5.\n[Grade C] Spiral Pierce Max damage +15%.\n[Grade B] Physical damage to all sizes +10%.\n[Grade A] Physical damage to all elements +10%.\nClass : ^777777Headgear^000000 Defense : ^77777750^000000\nLocation : ^777777Upper^000000 Weight : ^7777770^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Hyper Novice^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 50,
+    "weight": 0,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "HyperNovice"
+    ],
+    "script": {
+      "atk": [
+        "2---3"
+      ],
+      "hit": [
+        "2---5"
+      ],
+      "atkPercent": [
+        "3---2"
+      ],
+      "range": [
+        "3---1",
+        "7===10"
+      ],
+      "hitDmg": [
+        "3---3",
+        "EQUIP[Radiant Sword]===30"
+      ],
+      "Shield Chain Rush": [
+        "4---5"
+      ],
+      "Spiral Pierce Max": [
+        "4---5",
+        "GRADE[me==C]===15"
+      ],
+      "Shield Shooting": [
+        "EQUIP[Radiant Sword]===20"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==D]===5"
+      ],
+      "fct": [
+        "11===0.5"
+      ],
+      "p_size_all": [
+        "GRADE[me==B]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "401401": {
+    "id": 401401,
+    "aegisName": "26_6_Circlet_ABC",
+    "flavorText": null,
+    "name": "Radiant Rune Circlet (Abyss Chaser) [1]",
+    "unidName": null,
+    "resName": "어센드크라운",
+    "unidResName": null,
+    "description": "A circlet engraved with radiant runes.\n \nEvery 2 refine levels, ATK + 3 and CRI + 2.\nEvery 3 refine levels, ATK + 2%, critical damage +3%.\nEvery 4 refine levels, Chasing Shot and Frenzy Shot damage +5%.\nAt +7 refine, ranged physical damage +10%.\nAt +9 refine, P.ATK + 5.\nAt +11 refine, fixed cast time -0.5 sec.\n \nWhen equipped with Radiant Crossbow, Frenzy Shot damage +40%, critical damage +20%.\nWhen Radiant Rune Circlet (Abyss Chaser) and Radiant Crossbow have a combined refine total of 24 or higher, both are Grade A or above, and Abyss Slayer is learned at Lv.10 or higher, Chasing Shot cooldown -0.35 sec and ranged physical damage +25%.\n \n^CC3D3D[Bonus by Grade]^000000\n[Grade D] P.ATK + 5.\n[Grade C] Frenzy Shot damage +10%.\n[Grade B] Physical damage to all sizes +10%.\n[Grade A] Physical damage to all elements +10%.\nClass : ^777777Headgear^000000 Defense : ^77777750^000000\nLocation : ^777777Upper^000000 Weight : ^7777770^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Abyss Chaser^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 50,
+    "weight": 0,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "AbyssChaser"
+    ],
+    "script": {
+      "atk": [
+        "2---3"
+      ],
+      "cri": [
+        "2---2"
+      ],
+      "atkPercent": [
+        "3---2"
+      ],
+      "criDmg": [
+        "3---3",
+        "EQUIP[Radiant Crossbow]===20"
+      ],
+      "Chasing Shot": [
+        "4---5"
+      ],
+      "Frenzy Shot": [
+        "4---5",
+        "EQUIP[Radiant Crossbow]===40",
+        "GRADE[me==C]===10"
+      ],
+      "range": [
+        "7===10",
+        "EQUIP[Radiant Crossbow]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL[Abyss Slayer==10]===25"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==D]===5"
+      ],
+      "fct": [
+        "11===0.5"
+      ],
+      "cd__Chasing Shot": [
+        "EQUIP[Radiant Crossbow]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL[Abyss Slayer==10]===0.35"
+      ],
+      "p_size_all": [
+        "GRADE[me==B]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "470435": {
+    "id": 470435,
+    "aegisName": "Shoes_Of_Scholar",
+    "flavorText": null,
+    "name": "Great Scholar's Shoes [1]",
+    "unidName": null,
+    "resName": "Libra_Shoes_J",
+    "unidResName": null,
+    "description": "Stylish shoes granted to scholars who have conducted in-depth research in magical studies.\n \nMHP + 5%, MSP + 5%.\nEvery 2 refine levels, MATK + 7, SPL + 4.\nAt +7 refine, DEF + 125, increases attack speed (reduces delay after attack by 10%).\nAt +9 refine, S.MATK + 5, Poison, Shadow, and Neutral magic damage +15%.\nAt +11 refine, SPL + 5, Water, Wind, Earth, and Fire magic damage +15%.\nAt +12 refine, MATK + 10%, variable cast time -10%.\n \nWhen equipped with Scholar\u0027s Muffler, MATK + 12%, Water, Wind, Earth, Fire, Poison, Shadow, and Neutral magic damage +15%,\nwhen Scholar\u0027s Muffler and Scholar\u0027s Shoes are each Grade A or higher, SPL + 12, magic damage to enemies of all elements +15%.\n^ffffff_^000000\n^CC3D3D[Bonus by Grade]^000000\n[Grade D] SPL + 5, CON + 5.\n[Grade C] MATK + 7%, S.MATK + 7.\n[Grade B] global cooldown -3%, fixed cast time -1 sec.\n[Grade A] every 2 refine levels, magic damage to enemies of all sizes +3%.\nClass : ^777777Shoes^000000  Defense : ^77777755^000000\nWeight : ^777777140^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777250^000000\nJobs : ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 516,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 55,
+    "weight": 140,
+    "requiredLevel": 250,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "hpPercent": [
+        "5"
+      ],
+      "spPercent": [
+        "5"
+      ],
+      "matk": [
+        "2---7"
+      ],
+      "spl": [
+        "2---4",
+        "9===5",
+        "11===5",
+        "GRADE[me==D]===5",
+        "EQUIP[Muffler of Great Scholar]GRADES[garment==A&&boot==A]===12"
+      ],
+      "con": [
+        "GRADE[me==D]===5"
+      ],
+      "def": [
+        "7===125"
+      ],
+      "aspdPercent": [
+        "7===10"
+      ],
+      "matkPercent": [
+        "12===10",
+        "EQUIP[Muffler of Great Scholar]===12",
+        "GRADE[me==C]===7"
+      ],
+      "sMatk": [
+        "9===5",
+        "GRADE[me==C]===7"
+      ],
+      "vct": [
+        "12===10"
+      ],
+      "acd": [
+        "GRADE[me==B]===3"
+      ],
+      "fct": [
+        "GRADE[me==B]===1"
+      ],
+      "m_my_element_poison": [
+        "9===15",
+        "EQUIP[Muffler of Great Scholar]===15"
+      ],
+      "m_my_element_dark": [
+        "9===15",
+        "EQUIP[Muffler of Great Scholar]===15"
+      ],
+      "m_my_element_neutral": [
+        "9===15",
+        "EQUIP[Muffler of Great Scholar]===15"
+      ],
+      "m_my_element_water": [
+        "11===15",
+        "EQUIP[Muffler of Great Scholar]===15"
+      ],
+      "m_my_element_wind": [
+        "11===15",
+        "EQUIP[Muffler of Great Scholar]===15"
+      ],
+      "m_my_element_earth": [
+        "11===15",
+        "EQUIP[Muffler of Great Scholar]===15"
+      ],
+      "m_my_element_fire": [
+        "11===15",
+        "EQUIP[Muffler of Great Scholar]===15"
+      ],
+      "m_size_all": [
+        "GRADE[me==A]2---3"
+      ],
+      "m_element_all": [
+        "EQUIP[Muffler of Great Scholar]GRADES[garment==A&&boot==A]===15"
+      ]
+    }
+  },
+  "470436": {
+    "id": 470436,
+    "aegisName": "Shoes_Of_Mage",
+    "flavorText": null,
+    "name": "Magician's Shoes [1]",
+    "unidName": null,
+    "resName": "Daybreak_Stargazer",
+    "unidResName": null,
+    "description": "Shoes granted to those who have reached the pinnacle of magical combat mastery.\n \nMHP + 5%, MSP + 5%.\nEvery 2 refine levels, MATK + 7, SPL + 4.\nAt +7 refine, DEF + 125, increases attack speed (reduces delay after attack by 10%).\nAt +9 refine, S.MATK + 5, Shadow, Ghost, and Undead magic damage +15%.\nAt +11 refine, SPL + 5, Fire, Neutral, Holy, and Wind magic damage +15%.\nAt +12 refine, MATK + 10%, variable cast time -10%.\n \nWhen equipped with Mage\u0027s Cloak, MATK + 12%, Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead magic damage +15%,\nwhen Mage\u0027s Cloak and Mage\u0027s Shoes are each Grade A or higher, SPL + 12, magic damage to enemies of all elements +15%.\n^ffffff_^000000\n^CC3D3D[Bonus by Grade]^000000\n[Grade D] SPL + 5, CON + 5.\n[Grade C] MATK + 7%, S.MATK + 7.\n[Grade B] global cooldown -3%, fixed cast time -1 sec.\n[Grade A] every 2 refine levels, magic damage to enemies of all sizes +3%.\nClass : ^777777Shoes^000000  Defense : ^77777755^000000\nWeight : ^777777140^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777250^000000\nJobs : ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 516,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 55,
+    "weight": 140,
+    "requiredLevel": 250,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "hpPercent": [
+        "5"
+      ],
+      "spPercent": [
+        "5"
+      ],
+      "matk": [
+        "2---7"
+      ],
+      "spl": [
+        "2---4",
+        "9===5",
+        "11===5",
+        "GRADE[me==D]===5",
+        "EQUIP[Manteau of Magician]GRADES[garment==A&&boot==A]===12"
+      ],
+      "con": [
+        "GRADE[me==D]===5"
+      ],
+      "def": [
+        "7===125"
+      ],
+      "aspdPercent": [
+        "7===10"
+      ],
+      "matkPercent": [
+        "12===10",
+        "EQUIP[Manteau of Magician]===12",
+        "GRADE[me==C]===7"
+      ],
+      "sMatk": [
+        "9===5",
+        "GRADE[me==C]===7"
+      ],
+      "vct": [
+        "12===10"
+      ],
+      "acd": [
+        "GRADE[me==B]===3"
+      ],
+      "fct": [
+        "GRADE[me==B]===1"
+      ],
+      "m_my_element_dark": [
+        "9===15",
+        "EQUIP[Manteau of Magician]===15"
+      ],
+      "m_my_element_ghost": [
+        "9===15",
+        "EQUIP[Manteau of Magician]===15"
+      ],
+      "m_my_element_undead": [
+        "9===15",
+        "EQUIP[Manteau of Magician]===15"
+      ],
+      "m_my_element_fire": [
+        "11===15",
+        "EQUIP[Manteau of Magician]===15"
+      ],
+      "m_my_element_neutral": [
+        "11===15",
+        "EQUIP[Manteau of Magician]===15"
+      ],
+      "m_my_element_holy": [
+        "11===15",
+        "EQUIP[Manteau of Magician]===15"
+      ],
+      "m_my_element_wind": [
+        "11===15",
+        "EQUIP[Manteau of Magician]===15"
+      ],
+      "m_size_all": [
+        "GRADE[me==A]2---3"
+      ],
+      "m_element_all": [
+        "EQUIP[Manteau of Magician]GRADES[garment==A&&boot==A]===15"
+      ]
+    }
+  },
+  "480831": {
+    "id": 480831,
+    "aegisName": "ABI_Manteau_VL",
+    "flavorText": null,
+    "name": "Devouring Ruin Manteau [1]",
+    "unidName": null,
+    "resName": "ABI_Manteau_VL",
+    "unidResName": null,
+    "description": "A manteau imbued with the power of a dimensional ecosystem (Poison, Volcano).\n^ffffff_^000000\nPOW + 2, CON + 2, CRT + 2, CRI + 5.\nEvery 2 refine levels, ATK + 5.\nEvery 3 refine levels, melee physical damage +5%, critical damage +5%.\nAt +7 refine, variable cast time -10%, increases attack speed (reduces delay after attack by 10%).\nAt +9 refine, global cooldown -10%.\nAt +12 refine, P.ATK + 10.\n^ffffff_^000000\n^CC3D3D[Bonus by Grade]^000000\n[Grade D] melee physical damage +10%, critical damage +10%.\n[Grade C] ATK + 10%.\n[Grade B] POW + 5, CRT + 5.\n[Grade A] physical damage to enemies of all elements +10%.\nClass : ^777777Garment^000000  Defense : ^77777780^000000\nWeight : ^77777760^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777265^000000\nJobs : ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 80,
+    "weight": 60,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "pow": [
+        "2",
+        "GRADE[me==B]===5"
+      ],
+      "con": [
+        "2"
+      ],
+      "crt": [
+        "2",
+        "GRADE[me==B]===5"
+      ],
+      "cri": [
+        "5"
+      ],
+      "atk": [
+        "2---5"
+      ],
+      "melee": [
+        "3---5",
+        "GRADE[me==D]===10"
+      ],
+      "criDmg": [
+        "3---5",
+        "GRADE[me==D]===10"
+      ],
+      "vct": [
+        "7===10"
+      ],
+      "aspdPercent": [
+        "7===10"
+      ],
+      "acd": [
+        "9===10"
+      ],
+      "pAtk": [
+        "12===10"
+      ],
+      "atkPercent": [
+        "GRADE[me==C]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "480832": {
+    "id": 480832,
+    "aegisName": "ABI_Manteau_GI",
+    "flavorText": null,
+    "name": "Unrestrained Static Manteau [1]",
+    "unidName": null,
+    "resName": "ABI_Manteau_GI",
+    "unidResName": null,
+    "description": "A manteau imbued with the power of a dimensional ecosystem (Earth, Blizzard).\n^ffffff_^000000\nPOW + 3, CON + 3, HIT + 30.\nEvery 2 refine levels, ATK + 5.\nEvery 3 refine levels, ranged physical damage +5%, HIT physical damage +5%.\nAt +7 refine, variable cast time -10%, increases attack speed (reduces delay after attack by 10%).\nAt +9 refine, global cooldown -10%.\nAt +12 refine, P.ATK + 10.\n^ffffff_^000000\n^CC3D3D[Bonus by Grade]^000000\n[Grade D] ranged physical damage +10%, HIT physical damage +10%.\n[Grade C] ATK + 10%.\n[Grade B] POW + 5, CON + 5.\n[Grade A] physical damage to enemies of all elements +10%.\nClass : ^777777Garment^000000  Defense : ^77777780^000000\nWeight : ^77777760^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777265^000000\nJobs : ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 80,
+    "weight": 60,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "pow": [
+        "3",
+        "GRADE[me==B]===5"
+      ],
+      "con": [
+        "3",
+        "GRADE[me==B]===5"
+      ],
+      "hit": [
+        "30"
+      ],
+      "atk": [
+        "2---5"
+      ],
+      "range": [
+        "3---5",
+        "GRADE[me==D]===10"
+      ],
+      "hitDmg": [
+        "3---5",
+        "GRADE[me==D]===10"
+      ],
+      "vct": [
+        "7===10"
+      ],
+      "aspdPercent": [
+        "7===10"
+      ],
+      "acd": [
+        "9===10"
+      ],
+      "pAtk": [
+        "12===10"
+      ],
+      "atkPercent": [
+        "GRADE[me==C]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "480833": {
+    "id": 480833,
+    "aegisName": "ABI_Manteau_VI",
+    "flavorText": null,
+    "name": "Devouring Static Manteau [1]",
+    "unidName": null,
+    "resName": "ABI_Manteau_VI",
+    "unidResName": null,
+    "description": "A manteau imbued with the power of a dimensional ecosystem (Poison, Blizzard).\n^ffffff_^000000\nPOW + 2, CON + 2, CRT + 2, CRI + 5.\nEvery 2 refine levels, ATK + 5.\nEvery 3 refine levels, ranged physical damage +5%, critical damage +5%.\nAt +7 refine, variable cast time -10%, increases attack speed (reduces delay after attack by 10%).\nAt +9 refine, global cooldown -10%.\nAt +12 refine, P.ATK + 10.\n^ffffff_^000000\n^CC3D3D[Bonus by Grade]^000000\n[Grade D] ranged physical damage +10%, critical damage +10%.\n[Grade C] ATK + 10%.\n[Grade B] POW + 5, CRT + 5.\n[Grade A] physical damage to enemies of all elements +10%.\nClass : ^777777Garment^000000  Defense : ^77777780^000000\nWeight : ^77777760^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777265^000000\nJobs : ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 80,
+    "weight": 60,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "pow": [
+        "2",
+        "GRADE[me==B]===5"
+      ],
+      "con": [
+        "2"
+      ],
+      "crt": [
+        "2",
+        "GRADE[me==B]===5"
+      ],
+      "cri": [
+        "5"
+      ],
+      "atk": [
+        "2---5"
+      ],
+      "range": [
+        "3---5",
+        "GRADE[me==D]===10"
+      ],
+      "criDmg": [
+        "3---5",
+        "GRADE[me==D]===10"
+      ],
+      "vct": [
+        "7===10"
+      ],
+      "aspdPercent": [
+        "7===10"
+      ],
+      "acd": [
+        "9===10"
+      ],
+      "pAtk": [
+        "12===10"
+      ],
+      "atkPercent": [
+        "GRADE[me==C]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "500159": {
+    "id": 500159,
+    "aegisName": "26_6_Sword_HN",
+    "flavorText": null,
+    "name": "Radiant Sword [2]",
+    "unidName": null,
+    "resName": "26_6_Sword_HN",
+    "unidResName": null,
+    "description": "A one-handed sword blazing with radiance.\n \nGuided Attack chance +5%, Shield Chain Rush damage +15%.\nEvery 3 refine levels, ATK + 30, HIT physical damage +2%.\nEvery 4 refine levels, Shield Chain Rush damage +7%.\nAt +7 refine, HIT physical damage +25%.\nAt +9 refine, variable cast time -10%, P.ATK + 5.\nAt +11 refine, additionally increases Shield Chain Rush damage by 15%.\n \n^CC3D3D[Bonus by Grade]^000000\n[Grade D] ATK + 5%.\n[Grade C] Shield Chain Rush damage +10%.\n[Grade B] variable cast time -10%.\n[Grade A] P.ATK + 10.\nClass : ^777777Sword^000000 Attack : ^777777260^000000\nWeight : ^777777100^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Hyper Novice^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 257,
+    "itemLevel": 5,
+    "attack": 260,
+    "defense": null,
+    "weight": 100,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "HyperNovice"
+    ],
+    "script": {
+      "Shield Chain Rush": [
+        "15",
+        "4---7",
+        "11===15",
+        "GRADE[me==C]===10"
+      ],
+      "atk": [
+        "3---30"
+      ],
+      "hitDmg": [
+        "3---2",
+        "7===25"
+      ],
+      "vct": [
+        "9===10",
+        "GRADE[me==B]===10"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==A]===10"
+      ],
+      "atkPercent": [
+        "GRADE[me==D]===5"
+      ]
+    }
+  },
+  "510221": {
+    "id": 510221,
+    "aegisName": "ABI_AT_Knife",
+    "flavorText": null,
+    "name": "Frigid Nature Cutter [2]",
+    "unidName": null,
+    "resName": "ABI_AT_Knife",
+    "unidResName": null,
+    "description": "A cutter imbued with the power of a dimensional blizzard ecosystem.\n^ffffff_^000000\nCritical damage +5%.\nPinion Shot damage +10%.\nEvery 2 refine levels, ATK + 25.\nEvery 3 refine levels, P.ATK + 1, ranged physical damage +5%.\nAt +7 refine, ATK + 10%, P.ATK + 5.\nAt +11 refine, Quill Spear damage +10%, Pinion Shot damage +15%.\nAt +12 refine, additionally increases critical damage by 10%.\n^ffffff_^000000\n^CC3D3D[Bonus by Grade]^000000\n[Grade D] ATK + 5%, ranged physical damage +10%.\n[Grade C] critical damage +10%.\n[Grade B] physical damage to enemies of all elements +10%.\n[Grade A] at +12 refine, Quill Spear and Pinion Shot damage +30%.\nClass : ^777777Dagger^000000 Attack : ^777777250^000000\nWeight : ^777777195^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777265^000000\nJobs : ^777777Alitea^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 256,
+    "itemLevel": 5,
+    "attack": 250,
+    "defense": null,
+    "weight": 195,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Alitea"
+    ],
+    "script": {
+      "Pinion Shot": [
+        "10",
+        "11===15",
+        "GRADE[me==A]12===30"
+      ],
+      "Quill Spear": [
+        "11===10",
+        "GRADE[me==A]12===30"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "pAtk": [
+        "3---1",
+        "7===5"
+      ],
+      "range": [
+        "3---5",
+        "GRADE[me==D]===10"
+      ],
+      "atkPercent": [
+        "7===10",
+        "GRADE[me==D]===5"
+      ],
+      "criDmg": [
+        "5",
+        "12===10",
+        "GRADE[me==C]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "540138": {
+    "id": 540138,
+    "aegisName": "ABI_SKE_Book",
+    "flavorText": null,
+    "name": "Venomous Emperor Pad [2]",
+    "unidName": null,
+    "resName": "ABI_SKE_Book",
+    "unidResName": null,
+    "description": "An e-book imbued with the power of a dimensional poison ecosystem.\n^ffffff_^000000\nCritical damage +5%.\nSky Sun damage +10%.\nEvery 2 refine levels, ATK + 25.\nEvery 3 refine levels, P.ATK + 1, melee physical damage +5%.\nAt +7 refine, ATK + 10%, P.ATK + 5.\nAt +11 refine, Noon Blast damage +10%, Sky Sun damage +15%.\nAt +12 refine, additionally increases critical damage by 10%.\n^ffffff_^000000\n^CC3D3D[Bonus by Grade]^000000\n[Grade D] ATK + 5%, melee physical damage +10%.\n[Grade C] critical damage +10%.\n[Grade B] physical damage to enemies of all elements +10%.\n[Grade A] at +12 refine, Noon Blast and Sky Sun damage +30%.\nClass : ^777777Book^000000 Attack : ^777777255^000000\nWeight : ^777777230^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777265^000000\nJobs : ^777777Sky Emperor^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 271,
+    "itemLevel": 5,
+    "attack": 255,
+    "defense": null,
+    "weight": 230,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "SkyEmperor"
+    ],
+    "script": {
+      "Sky Sun": [
+        "10",
+        "11===15",
+        "GRADE[me==A]12===30"
+      ],
+      "Noon Blast": [
+        "11===10",
+        "GRADE[me==A]12===30"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "pAtk": [
+        "3---1",
+        "7===5"
+      ],
+      "melee": [
+        "3---5",
+        "GRADE[me==D]===10"
+      ],
+      "atkPercent": [
+        "7===10",
+        "GRADE[me==D]===5"
+      ],
+      "criDmg": [
+        "5",
+        "12===10",
+        "GRADE[me==C]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "550215": {
+    "id": 550215,
+    "aegisName": "26_6_Staff_AG",
+    "flavorText": null,
+    "name": "Radiant Staff [2]",
+    "unidName": null,
+    "resName": "26_6_Staff_AG",
+    "unidResName": null,
+    "description": "A one-handed staff blazing with radiance.\n \nIndestructible.\nMATK + 230.\nVariable cast time -5%, All Bloom and Crimson Arrow damage +15%.\nEvery 3 refine levels, MATK + 30, Fire magic damage +2%.\nEvery 4 refine levels, All Bloom and Crimson Arrow damage +7%.\nAt +7 refine, Fire magic damage +25%.\nAt +9 refine, variable cast time -10%, S.MATK + 5.\nAt +11 refine, additionally increases All Bloom and Crimson Arrow damage by 15%.\n \n^CC3D3D[Bonus by Grade]^000000\n[Grade D] MATK + 5%.\n[Grade C] All Bloom and Crimson Arrow damage +10%.\n[Grade B] global cooldown -10%.\n[Grade A] S.MATK + 10.\nClass : ^777777One-Handed Staff^000000 Attack : ^777777100^000000\nWeight : ^777777160^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Arch Mage^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 265,
+    "itemLevel": 5,
+    "attack": 100,
+    "defense": null,
+    "weight": 160,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ArchMage"
+    ],
+    "script": {
+      "matk": [
+        "230",
+        "3---30"
+      ],
+      "vct": [
+        "5",
+        "9===10"
+      ],
+      "m_my_element_fire": [
+        "3---2",
+        "7===25"
+      ],
+      "All Bloom": [
+        "15",
+        "4---7",
+        "11===15",
+        "GRADE[me==C]===10"
+      ],
+      "Crimson Arrow": [
+        "15",
+        "4---7",
+        "11===15",
+        "GRADE[me==C]===10"
+      ],
+      "sMatk": [
+        "9===5",
+        "GRADE[me==A]===10"
+      ],
+      "matkPercent": [
+        "GRADE[me==D]===5"
+      ],
+      "acd": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "610102": {
+    "id": 610102,
+    "aegisName": "ABI_SHC_Katar",
+    "flavorText": null,
+    "name": "Venomous Shadow Katar [3]",
+    "unidName": null,
+    "resName": "ABI_SHC_Katar",
+    "unidResName": null,
+    "description": "A katar imbued with the power of a dimensional poison ecosystem.\n^ffffff_^000000\nCritical damage +5%.\nSavage Impact damage +10%.\nEvery 2 refine levels, ATK + 25.\nEvery 3 refine levels, P.ATK + 1, melee physical damage +5%.\nAt +7 refine, ATK + 10%, P.ATK + 5.\nAt +11 refine, Impact Crater damage +10%, Savage Impact damage +15%.\nAt +12 refine, additionally increases critical damage by 10%.\n^ffffff_^000000\n^CC3D3D[Bonus by Grade]^000000\n[Grade D] ATK + 5%, melee physical damage +10%.\n[Grade C] critical damage +10%.\n[Grade B] physical damage to enemies of all elements +10%.\n[Grade A] at +12 refine, Impact Crater and Savage Impact damage +30%.\nClass : ^777777Katar^000000 Attack : ^777777365^000000\nWeight : ^777777240^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777265^000000\nJobs : ^777777Shadow Cross^000000",
+    "slots": 3,
+    "itemTypeId": 1,
+    "itemSubTypeId": 272,
+    "itemLevel": 5,
+    "attack": 365,
+    "defense": null,
+    "weight": 240,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ShadowCross"
+    ],
+    "script": {
+      "Savage Impact": [
+        "10",
+        "11===15",
+        "GRADE[me==A]12===30"
+      ],
+      "Impact Crater": [
+        "11===10",
+        "GRADE[me==A]12===30"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "pAtk": [
+        "3---1",
+        "7===5"
+      ],
+      "melee": [
+        "3---5",
+        "GRADE[me==D]===10"
+      ],
+      "atkPercent": [
+        "7===10",
+        "GRADE[me==D]===5"
+      ],
+      "criDmg": [
+        "5",
+        "12===10",
+        "GRADE[me==C]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "700142": {
+    "id": 700142,
+    "aegisName": "26_6_Bow_ABC",
+    "flavorText": null,
+    "name": "Radiant Crossbow [2]",
+    "unidName": null,
+    "resName": "26_6_Bow_ABC",
+    "unidResName": null,
+    "description": "A bow blazing with radiance.\n \nCRI + 5, Chasing Shot damage +15%.\nEvery 3 refine levels, ATK + 35, critical damage +3%.\nEvery 4 refine levels, Chasing Shot damage +7%.\nAt +7 refine, critical damage +25%.\nAt +9 refine, variable cast time -10%, P.ATK + 5.\nAt +11 refine, CRI + 5, additionally increases Chasing Shot damage by 10%.\n \n^CC3D3D[Bonus by Grade]^000000\n[Grade D] ATK + 5%.\n[Grade C] Chasing Shot damage +10%.\n[Grade B] global cooldown -10%.\n[Grade A] P.ATK + 10.\nClass : ^777777Bow^000000 Attack : ^777777310^000000\nWeight : ^777777140^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Abyss Chaser^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 267,
+    "itemLevel": 5,
+    "attack": 310,
+    "defense": null,
+    "weight": 140,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "AbyssChaser"
+    ],
+    "script": {
+      "cri": [
+        "5",
+        "11===5"
+      ],
+      "Chasing Shot": [
+        "15",
+        "4---7",
+        "11===10",
+        "GRADE[me==C]===10"
+      ],
+      "atk": [
+        "3---35"
+      ],
+      "criDmg": [
+        "3---3",
+        "7===25"
+      ],
+      "vct": [
+        "9===10"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==A]===10"
+      ],
+      "atkPercent": [
+        "GRADE[me==D]===5"
+      ],
+      "acd": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "810052": {
+    "id": 810052,
+    "aegisName": "ABI_NW_Rifle",
+    "flavorText": null,
+    "name": "Frigid Night Rifle [3]",
+    "unidName": null,
+    "resName": "ABI_NW_Rifle",
+    "unidResName": null,
+    "description": "A rifle imbued with the power of a dimensional blizzard ecosystem.\n^ffffff_^000000\nCritical damage +5%.\nWild Shot damage +10%.\nEvery 2 refine levels, ATK + 25.\nEvery 3 refine levels, P.ATK + 1, ranged physical damage +5%.\nAt +7 refine, ATK + 10%, P.ATK + 5.\nAt +11 refine, Only One Bullet damage +10%, Wild Shot damage +15%.\nAt +12 refine, additionally increases critical damage by 10%.\n^ffffff_^000000\n^CC3D3D[Bonus by Grade]^000000\n[Grade D] ATK + 5%, ranged physical damage +10%.\n[Grade C] critical damage +10%.\n[Grade B] physical damage to enemies of all elements +10%.\n[Grade A] at +12 refine, Only One Bullet and Wild Shot damage +30%.\nClass : ^777777Rifle^000000 Attack : ^777777370^000000\nWeight : ^777777265^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777265^000000\nJobs : ^777777Night Watch^000000",
+    "slots": 3,
+    "itemTypeId": 1,
+    "itemSubTypeId": 274,
+    "itemLevel": 5,
+    "attack": 370,
+    "defense": null,
+    "weight": 265,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "NightWatch"
+    ],
+    "script": {
+      "Wild Shot": [
+        "10",
+        "11===15",
+        "GRADE[me==A]12===30"
+      ],
+      "Only One Bullet": [
+        "11===10",
+        "GRADE[me==A]12===30"
+      ],
+      "atk": [
+        "2---25"
+      ],
+      "pAtk": [
+        "3---1",
+        "7===5"
+      ],
+      "range": [
+        "3---5",
+        "GRADE[me==D]===10"
+      ],
+      "atkPercent": [
+        "7===10",
+        "GRADE[me==D]===5"
+      ],
+      "criDmg": [
+        "5",
+        "12===10",
+        "GRADE[me==C]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==B]===10"
       ]
     }
   }
