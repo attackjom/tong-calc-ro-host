@@ -277305,5 +277305,65 @@
         "15"
       ]
     }
+  },
+  "300721": {
+    "id": 300721,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Rekenber Tatio Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "Increases damage taken from neutral property by 10%, increases hit physical damage by 5%.\nEvery 2 refine rate, increases hit physical damage by additional 4%.\nWhen equipped with Helmut Lugenburg Card, increases hit physical damage by 5%.\n^ffffff_^000000\nClass: ^777777Card^000000\nCompound on: ^777777Garment^000000\nWeight: ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "hitDmg": [
+        "5",
+        "2---4",
+        "EQUIP[Helmut Lugenburg Card]===5"
+      ]
+    }
+  },
+  "300722": {
+    "id": 300722,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Rekenber Chairman Rekenber Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "Increases damage taken from neutral property by 10%, CRI + 5, increases critical damage by 4%.\nEvery 2 refine rate, increases critical damage by additional 4%.\nWhen equipped with Helmut Lugenburg Card, CRI + 15, increases critical damage by 3%.\n^ffffff_^000000\nClass: ^777777Card^000000\nCompound on: ^777777Garment^000000\nWeight: ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "cri": [
+        "5",
+        "EQUIP[Helmut Lugenburg Card]===15"
+      ],
+      "criDmg": [
+        "4",
+        "2---4",
+        "EQUIP[Helmut Lugenburg Card]===3"
+      ]
+    }
   }
 }
