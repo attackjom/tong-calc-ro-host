@@ -277365,5 +277365,92 @@
         "EQUIP[Helmut Lugenburg Card]===3"
       ]
     }
+  },
+  "9048": {
+    "id": 9048,
+    "aegisName": "Miyabi_Ningyo_Egg",
+    "flavorText": null,
+    "name": "Miyabi Doll Egg",
+    "unidName": null,
+    "resName": "암속성알",
+    "unidResName": null,
+    "description": "ไข่ที่มี Q-Pet Miyabi Doll อยู่ภายใน สามารถปลุกให้ตื่นขึ้นมาได้ด้วย [Pet Incubator]\nหากความสัมพันธ์อยู่ระดับเป็นมิตร INT + 1, ลด Variable Cast Time 3%\nหากความสัมพันธ์อยู่ระดับสนิทสนม INT + 2, ลด Variable Cast Time 5%\nประเภท : ^777777Monster Egg^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 518,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "int": [
+        "2"
+      ],
+      "vct": [
+        "5"
+      ]
+    }
+  },
+  "9146": {
+    "id": 9146,
+    "aegisName": "Grey_Icewind_Egg",
+    "flavorText": null,
+    "name": "Gray Icewind Egg",
+    "unidName": null,
+    "resName": "암속성알",
+    "unidResName": null,
+    "description": "An egg that contains a Gray Icewind Pet. Can be hatched by using a Pet Incubator.\nWhen intimacy is Awkward or Shy, Atk + 1%.\nWhen intimacy is Neutral, Atk + 2%.\nWhen intimacy is Cordial, Atk + 2%, POW + 1.\nWhen intimacy is Loyal, Atk + 3%, POW + 2.\n\nClass: ^777777Monster Egg^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 518,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "3"
+      ],
+      "pow": [
+        "2"
+      ]
+    }
+  },
+  "9147": {
+    "id": 9147,
+    "aegisName": "Icewind_Egg",
+    "flavorText": null,
+    "name": "Icewind Egg",
+    "unidName": null,
+    "resName": "풍속성알",
+    "unidResName": null,
+    "description": "An egg that contains a Icewind Pet. Can be hatched by using a Pet Incubator.\nWhen intimacy is Awkward or Shy, Matk + 1%.\nWhen intimacy is Neutral, Matk + 2%.\nWhen intimacy is Cordial, Matk + 2%, SPL + 1.\nWhen intimacy is Loyal, Matk + 3%, SPL + 2.\n\nClass: ^777777Monster Egg^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 518,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "matkPercent": [
+        "3"
+      ],
+      "spl": [
+        "2"
+      ]
+    }
   }
 }
