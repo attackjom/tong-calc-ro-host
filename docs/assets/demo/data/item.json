@@ -252072,92 +252072,6 @@
       ]
     }
   },
-  "300733": {
-    "id": 300733,
-    "aegisName": "CLB_GAT_card2",
-    "flavorText": "",
-    "name": "Galactor Army Card",
-    "unidName": "Galactor Army Card",
-    "resName": "이름없는카드",
-    "unidResName": "이름없는카드",
-    "description": "ทุก ๆ Base Lv.10, MATK + 10, DEF + 3, MDEF + 1\n(สูงสุดจนถึง Base Lv.200)\n^CC3D3D[ความสามารถช่วงระยะเวลากิจกรรม]^000000\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อมอนสเตอร์ทุกเผ่า 10% (ยกเว้น Player)\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%\nเพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 15%\nเพิ่มอัตราดรอปไอเทม 7%\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังสิ้นสุดระยะเวลากิจกรรม)\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
-    "slots": 0,
-    "itemTypeId": 6,
-    "itemSubTypeId": 0,
-    "itemLevel": null,
-    "attack": null,
-    "defense": null,
-    "weight": 1,
-    "requiredLevel": null,
-    "location": null,
-    "compositionPos": 4,
-    "script": {
-      "matk": [
-        "level:10(1-200)---10"
-      ],
-      "def": [
-        "level:10(1-200)---3"
-      ],
-      "mdef": [
-        "level:10(1-200)---1"
-      ],
-      "p_race_all": [
-        "10"
-      ],
-      "m_race_all": [
-        "10"
-      ],
-      "p_size_all": [
-        "10"
-      ],
-      "m_size_all": [
-        "10"
-      ]
-    }
-  },
-  "9109": {
-    "id": 9109,
-    "aegisName": "Sweets_Drops_Egg",
-    "flavorText": null,
-    "name": "Sweet Drops Egg KRO",
-    "unidName": "Sweet Drops Egg KRO",
-    "resName": "하트스크롤",
-    "unidResName": "하트스크롤",
-    "description": "An egg in which a cute Switch Drops is sleeping. Using a [Portable Egg Incubator] can hatch the monster inside.,\r\n\r\nWhen intimacy is Loyal, EXP obtained from monsters +1%.,\r\n\r\n^ffffff^4D4DFF[Event Limited Option]^000000^000000,\r\nRegardless of intimacy, ATK +20, MATK +20, HIT +20, CRI +5.,\r\nPhysical/Magic Damage to all elements +7%.,\r\nPhysical/Magic Damage to all races +7% (excluding players).,\r\n(Event limited options will be removed when the event ends.).,\r\n\r\nClass: ^777777Monster Egg^000000",
-    "slots": 0,
-    "itemTypeId": 2,
-    "itemSubTypeId": 518,
-    "itemLevel": null,
-    "attack": null,
-    "defense": null,
-    "weight": null,
-    "requiredLevel": null,
-    "location": null,
-    "compositionPos": null,
-    "usableClass": [
-      "all"
-    ],
-    "script": {
-      "atk": [
-        "20"
-      ],
-      "matk": [
-        "20"
-      ],
-      "p_race_all": [
-        "7"
-      ],
-      "m_race_all": [
-        "7"
-      ],
-      "p_element_all": [
-        "7"
-      ],
-      "m_element_all": [
-        "7"
-      ]
-    }
-  },
   "490947": {
     "id": 490947,
     "aegisName": "SnowPromised_Ring_TH",
@@ -252258,92 +252172,6 @@
       ],
       "mres": [
         "ITEM_LV[me==2]===50"
-      ]
-    }
-  },
-  "300732": {
-    "id": 300732,
-    "aegisName": "CLB_GAT_card1",
-    "flavorText": "",
-    "name": "Gatchaman Card",
-    "unidName": "Gatchaman Card",
-    "resName": "이름없는카드",
-    "unidResName": "이름없는카드",
-    "description": "ทุก ๆ Base Lv.10, ATK + 10, DEF + 3, MDEF + 1\n(สูงสุดจนถึง Base Lv.200)\n^CC3D3D[ความสามารถช่วงระยะเวลากิจกรรม]^000000\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อมอนสเตอร์ทุกเผ่า 10% (ยกเว้น Player)\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%\nเพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 15%\nเพิ่มอัตราดรอปไอเทม 7%\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังสิ้นสุดระยะเวลากิจกรรม)\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
-    "slots": 0,
-    "itemTypeId": 6,
-    "itemSubTypeId": 0,
-    "itemLevel": null,
-    "attack": null,
-    "defense": null,
-    "weight": 1,
-    "requiredLevel": null,
-    "location": null,
-    "compositionPos": 4,
-    "script": {
-      "atk": [
-        "level:10(1-200)---10"
-      ],
-      "def": [
-        "level:10(1-200)---3"
-      ],
-      "mdef": [
-        "level:10(1-200)---1"
-      ],
-      "p_race_all": [
-        "10"
-      ],
-      "m_race_all": [
-        "10"
-      ],
-      "p_size_all": [
-        "10"
-      ],
-      "m_size_all": [
-        "10"
-      ]
-    }
-  },
-  "300734": {
-    "id": 300734,
-    "aegisName": "CLB_GAT_card3",
-    "flavorText": "",
-    "name": "Bird Missile Card",
-    "unidName": "Bird Missile Card",
-    "resName": "이름없는카드",
-    "unidResName": "이름없는카드",
-    "description": "ทุก ๆ Base Lv.10, MHP + 100, DEF + 3, MDEF + 1\n(สูงสุดจนถึง Base Lv.200)\n^CC3D3D[ความสามารถช่วงระยะเวลากิจกรรม]^000000\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อมอนสเตอร์ทุกเผ่า 10% (ยกเว้น Player)\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%\nเพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 15%\nเพิ่มอัตราดรอปไอเทม 7%\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังสิ้นสุดระยะเวลากิจกรรม)\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
-    "slots": 0,
-    "itemTypeId": 6,
-    "itemSubTypeId": 0,
-    "itemLevel": null,
-    "attack": null,
-    "defense": null,
-    "weight": 1,
-    "requiredLevel": null,
-    "location": null,
-    "compositionPos": 4,
-    "script": {
-      "hp": [
-        "level:10(1-200)---100"
-      ],
-      "def": [
-        "level:10(1-200)---3"
-      ],
-      "mdef": [
-        "level:10(1-200)---1"
-      ],
-      "p_race_all": [
-        "10"
-      ],
-      "m_race_all": [
-        "10"
-      ],
-      "p_size_all": [
-        "10"
-      ],
-      "m_size_all": [
-        "10"
       ]
     }
   },
@@ -253150,11 +252978,11 @@
       ]
     }
   },
-  "33300732": {
-    "id": 33300732,
-    "aegisName": "CLB_GAT_card1_2",
+  "300732": {
+    "id": 300732,
+    "aegisName": "CLB_GAT_card1",
     "flavorText": "",
-    "name": "Gatchaman Card (No Event)",
+    "name": "Gatchaman Card",
     "unidName": "Gatchaman Card",
     "resName": "이름없는카드",
     "unidResName": "이름없는카드",
@@ -253181,11 +253009,11 @@
       ]
     }
   },
-  "33300734": {
-    "id": 33300734,
+  "300734": {
+    "id": 300734,
     "aegisName": "CLB_GAT_card3_2",
     "flavorText": "",
-    "name": "Bird Missile Card (No Event)",
+    "name": "Bird Missile Card",
     "unidName": "Bird Missile Card",
     "resName": "이름없는카드",
     "unidResName": "이름없는카드",
@@ -253212,11 +253040,11 @@
       ]
     }
   },
-  "33300733": {
-    "id": 33300733,
-    "aegisName": "CLB_GAT_card2_2",
+  "300733": {
+    "id": 300733,
+    "aegisName": "CLB_GAT_card2",
     "flavorText": "",
-    "name": "Galactor Army Card (No Event)",
+    "name": "Galactor Army Card",
     "unidName": "Galactor Army Card",
     "resName": "이름없는카드",
     "unidResName": "이름없는카드",
@@ -262420,53 +262248,6 @@
       ],
       "sMatk": [
         "EQUIP[Dim Glacier Wand]GRADE[weapon==C]===10"
-      ]
-    }
-  },
-  "400799": {
-    "id": 400799,
-    "aegisName": "C_JP_EV18",
-    "flavorText": null,
-    "name": "Costume Kumamon Hat",
-    "unidName": null,
-    "resName": "C_JP_EV18",
-    "unidResName": null,
-    "description": "Become Kumamon when you wear it!\n^ffffff_^000000\n^CC3D3D[Event Limited Option]^000000\nATK + 50, MATK + 50.\nCRI + 10, Variable Cast Time -10%.\nEXP gained from defeating monsters +5%.\nPhysical/Magical damage to enemies of all elements and all sizes +10%.\nWhen equipped together with Costume Kumamon Doll, EXP gained from defeating monsters +5%.\n^ff0000(The event-limited options will be removed during regular maintenance on May 20, 2026.)^000000\nClass : ^777777Costume^000000 Defense : ^7777770^000000\nPosition : ^777777Upper^000000 Weight : ^7777770^000000\nRequired Level : ^7777771^000000\nJobs : ^777777All Classes^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 519,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "canGrade": false,
-    "script": {
-      "atk": [
-        "50"
-      ],
-      "matk": [
-        "50"
-      ],
-      "cri": [
-        "10"
-      ],
-      "vct": [
-        "10"
-      ],
-      "p_element_all": [
-        "10"
-      ],
-      "m_element_all": [
-        "10"
-      ],
-      "p_size_all": [
-        "10"
-      ],
-      "m_size_all": [
-        "10"
       ]
     }
   },
