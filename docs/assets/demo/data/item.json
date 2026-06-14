@@ -266264,7 +266264,7 @@
         "EQUIP[Orrivane Crown (Elemental Master)]GRADE[headUpper==A]REFINE[weapon,headUpper==22]===10",
         "GRADE[weapon==C]===10"
       ],
-      "m_element_all": [
+      "m_my_element_all": [
         "7===15",
         "GRADE[weapon==B]===10"
       ],
@@ -266324,7 +266324,7 @@
         "EQUIP[Orrivane Crown (Elemental Master)]GRADE[headUpper==A]REFINE[weapon,headUpper==22]===10",
         "GRADE[weapon==C]===10"
       ],
-      "m_element_all": [
+      "m_my_element_all": [
         "7===15",
         "GRADE[weapon==B]===10"
       ],
@@ -266557,7 +266557,7 @@
         "EQUIP[Orrivane Crown (Arch Mage)]GRADE[headUpper==A]REFINE[weapon,headUpper==22]===10",
         "GRADE[weapon==C]===10"
       ],
-      "m_element_all": [
+      "m_my_element_all": [
         "7===15",
         "GRADE[weapon==B]===10"
       ],
@@ -266617,7 +266617,7 @@
         "EQUIP[Orrivane Crown (Soul Ascetic)]GRADE[headUpper==A]REFINE[weapon,headUpper==22]===10",
         "GRADE[weapon==C]===10"
       ],
-      "m_element_all": [
+      "m_my_element_all": [
         "7===15",
         "EQUIP[Orrivane Crown (Soul Ascetic)]===10",
         "GRADE[weapon==B]===10"
@@ -266675,7 +266675,7 @@
         "EQUIP[Orrivane Crown (Soul Ascetic)]GRADE[headUpper==A]REFINE[weapon,headUpper==22]===10",
         "GRADE[weapon==C]===10"
       ],
-      "m_element_all": [
+      "m_my_element_all": [
         "7===15",
         "EQUIP[Orrivane Crown (Soul Ascetic)]===10",
         "GRADE[weapon==B]===10"
@@ -266733,7 +266733,7 @@
         "EQUIP[Orrivane Crown (Hyper Novice)]GRADE[headUpper==A]REFINE[weapon,headUpper==22]===10",
         "GRADE[weapon==C]===10"
       ],
-      "m_element_all": [
+      "m_my_element_all": [
         "7===15",
         "EQUIP[Orrivane Crown (Hyper Novice)]===10",
         "GRADE[weapon==B]===10"
@@ -266791,7 +266791,7 @@
         "EQUIP[Orrivane Crown (Spirit Handler)]GRADE[headUpper==A]REFINE[weapon,headUpper==22]===10",
         "GRADE[weapon==C]===10"
       ],
-      "m_element_all": [
+      "m_my_element_all": [
         "7===15",
         "EQUIP[Orrivane Crown (Spirit Handler)]===10",
         "GRADE[weapon==B]===10"
@@ -266965,7 +266965,7 @@
         "EQUIP[Orrivane Crown (Troubadour & Trouvere)]GRADE[headUpper==A]REFINE[weapon,headUpper==22]===10",
         "GRADE[weapon==C]===10"
       ],
-      "m_element_all": [
+      "m_my_element_all": [
         "7===15",
         "EQUIP[Orrivane Crown (Troubadour & Trouvere)]===10",
         "GRADE[weapon==B]===10"
@@ -267133,7 +267133,7 @@
         "EQUIP[Orrivane Crown (Troubadour & Trouvere)]GRADE[headUpper==A]REFINE[weapon,headUpper==22]===10",
         "GRADE[weapon==C]===10"
       ],
-      "m_element_all": [
+      "m_my_element_all": [
         "7===15",
         "EQUIP[Orrivane Crown (Troubadour & Trouvere)]===10",
         "GRADE[weapon==B]===10"
@@ -277231,6 +277231,67 @@
       ],
       "spl": [
         "2"
+      ]
+    }
+  },
+  "550206": {
+    "id": 550206,
+    "aegisName": "LMN_SH_Foxtail",
+    "flavorText": null,
+    "name": "Orrivane Spirit Foxtail [2]",
+    "unidName": null,
+    "resName": "LMN_SH_Foxtail",
+    "unidResName": null,
+    "description": "Foxtail ของผู้อัญเชิญผู้ตัดขาดห่วงโซ่แห่งการเวียนว่าย ทอดทิ้งอดีตอันซ้ำซาก และก้าวสู่รุ่งอรุณของจุดเริ่มต้นใหม่\n^ffffff_^000000\nไม่สามารถทำลายได้\nCRI + 5, เพิ่ม Damage สกิล Hogogong Strike 5%\nทุก ๆ การอัพเกรด 2 ขั้น ATK + 10, ATK + 1%\nทุก ๆ การอัพเกรด 3 ขั้น เพิ่ม Damage สกิล Hogogong Strike 2%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Critical Damage 15%\nเมื่ออัพเกรดถึงขั้น 9, CRI + 15, C.Rate + 3\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Hogogong Strike 10%\n^ffffff_^000000\nเมื่อสวมใส่ร่วมกันกับ Orrivane Crown (Spirit Handler),\nเพิ่ม Damage สกิล Hogogong Strike 10%,\nเพิ่ม Damage ทางกายภาพระยะไกล 5%\n\nเมื่อ Orrivane Crown (Spirit Hanlder) มี Grade A ขึ้นไป,\nเมื่อขั้นอัพเกรดของ Weapon และ Helm รวมกันตั้งแต่ 22 ขึ้นไป, \nเพิ่ม Damage สกิล Hogogong Strike 10%\nลด Cooldown สกิล Hogogong Strike ลง 0.1 วินาที\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] P.ATK + 2\n[Grade C] เพิ่ม Damage สกิล Hogogong Strike 10%\n[Grade B] เพิ่ม Damage ทางกายภาพระยะไกล 10%\n[Grade A] ทุก ๆ การอัพเกรด 2 ขั้น P.ATK + 2\nประเภท : ^777777One-handed Staff^000000 พลังโจมตี : ^777777300^000000\nน้ำหนัก : ^777777200^000000\nเลเวลอาวุธ : ^7777775^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Spirit Hanlder^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 265,
+    "itemLevel": 5,
+    "attack": 300,
+    "defense": null,
+    "weight": 200,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "SpiritHandler"
+    ],
+    "script": {
+      "cri": [
+        "5",
+        "9===15"
+      ],
+      "Hogogong Strike": [
+        "5",
+        "3---2",
+        "11===10",
+        "EQUIP[Orrivane Crown (Spirit Handler)]===10",
+        "EQUIP[Orrivane Crown (Spirit Handler)]GRADE[headUpper==A]REFINE[weapon,headUpper==22]===10",
+        "GRADE[weapon==C]===10"
+      ],
+      "atk": [
+        "2---10"
+      ],
+      "atkPercent": [
+        "2---1"
+      ],
+      "criDmg": [
+        "7===15"
+      ],
+      "cRate": [
+        "9===3"
+      ],
+      "range": [
+        "EQUIP[Orrivane Crown (Spirit Handler)]===5",
+        "GRADE[weapon==B]===10"
+      ],
+      "cd__Hogogong Strike": [
+        "EQUIP[Orrivane Crown (Spirit Handler)]GRADE[headUpper==A]REFINE[weapon,headUpper==22]===0.1"
+      ],
+      "pAtk": [
+        "GRADE[weapon==D]===2",
+        "GRADE[weapon==A]2---2"
       ]
     }
   }
