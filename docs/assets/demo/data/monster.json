@@ -3,6 +3,7 @@
     "id": 1634,
     "dbname": "SEYREN",
     "name": "Seyren Windsor",
+    "name_k": "세이렌 윈저",
     "spawn": "lhz_dun03",
     "stats": {
       "attackRange": 1,
@@ -56,6 +57,7 @@
     "id": 1635,
     "dbname": "EREMES",
     "name": "Eremes Guile",
+    "name_k": "에레메스 가일",
     "spawn": "lhz_dun02,lhz_dun03",
     "stats": {
       "attackRange": 1,
@@ -109,6 +111,7 @@
     "id": 1636,
     "dbname": "HARWORD",
     "name": "Howard Alt-Eisen",
+    "name_k": "하워드 알트아이젠",
     "spawn": "lhz_dun03",
     "stats": {
       "attackRange": 1,
@@ -162,6 +165,7 @@
     "id": 1637,
     "dbname": "MAGALETA",
     "name": "Margaretha Sorin",
+    "name_k": "마가레타 소린",
     "spawn": "lhz_dun03",
     "stats": {
       "attackRange": 1,
@@ -215,6 +219,7 @@
     "id": 1638,
     "dbname": "SHECIL",
     "name": "Cecil Damon",
+    "name_k": "셰실 디먼",
     "spawn": "lhz_dun03",
     "stats": {
       "attackRange": 14,
@@ -268,6 +273,7 @@
     "id": 1639,
     "dbname": "KATRINN",
     "name": "Kathryne Keyron",
+    "name_k": "카트린느 케이론",
     "spawn": "lhz_dun03",
     "stats": {
       "attackRange": 1,
@@ -321,6 +327,7 @@
     "id": 1646,
     "dbname": "B_SEYREN",
     "name": "Lord Knight Seyren",
+    "name_k": "로드나이트 세이렌",
     "spawn": "",
     "stats": {
       "attackRange": 1,
@@ -374,6 +381,7 @@
     "id": 1651,
     "dbname": "B_KATRINN",
     "name": "High Wizard Kathryne",
+    "name_k": "하이위자드 카트린느",
     "spawn": "",
     "stats": {
       "attackRange": 1,
@@ -427,6 +435,7 @@
     "id": 1652,
     "dbname": "YGNIZEM",
     "name": "Egnigem Cenia",
+    "name_k": "이그니젬 세니아",
     "spawn": "lhz_dun02",
     "stats": {
       "attackRange": 1,
@@ -480,6 +489,7 @@
     "id": 1653,
     "dbname": "WHIKEBAIN",
     "name": "Wickebine Tres",
+    "name_k": "휘케바인 트리스",
     "spawn": "lhz_dun02",
     "stats": {
       "attackRange": 1,
@@ -533,6 +543,7 @@
     "id": 1654,
     "dbname": "ARMAIA",
     "name": "Armeyer Dinze",
+    "name_k": "아르마이어 딘제",
     "spawn": "lhz_dun02",
     "stats": {
       "attackRange": 1,
@@ -586,6 +597,7 @@
     "id": 1655,
     "dbname": "EREND",
     "name": "Errende Ebecee",
+    "name_k": "이렌드 에베시",
     "spawn": "lhz_dun02",
     "stats": {
       "attackRange": 1,
@@ -639,6 +651,7 @@
     "id": 1656,
     "dbname": "KAVAC",
     "name": "Kavach Icarus",
+    "name_k": "카바크 이카루스",
     "spawn": "lhz_dun02",
     "stats": {
       "attackRange": 9,
@@ -692,6 +705,7 @@
     "id": 1657,
     "dbname": "RAWREL",
     "name": "Laurell Weinder",
+    "name_k": "라우렐 뷘더",
     "spawn": "lhz_dun02",
     "stats": {
       "attackRange": 1,
@@ -745,6 +759,7 @@
     "id": 1681,
     "dbname": "GEMINI",
     "name": "Gemini-S58",
+    "name_k": "제미니-S58",
     "spawn": "lhz_dun02",
     "stats": {
       "attackRange": 3,
@@ -798,6 +813,7 @@
     "id": 1682,
     "dbname": "REMOVAL",
     "name": "Remover",
+    "name_k": "리무버",
     "spawn": "lhz_dun02",
     "stats": {
       "attackRange": 1,
@@ -851,6 +867,7 @@
     "id": 1708,
     "dbname": "THANATOS",
     "name": "Thanatos Phantom",
+    "name_k": "마검사 타나토스의 기억",
     "spawn": "",
     "stats": {
       "attackRange": 3,
@@ -905,6 +922,7 @@
     "id": 1713,
     "dbname": "ACIDUS",
     "name": "Acidus (Gold)",
+    "name_k": "어시더스",
     "spawn": "abyss_02,abyss_03",
     "stats": {
       "attackRange": 2,
@@ -958,6 +976,7 @@
     "id": 1714,
     "dbname": "FERUS",
     "name": "Ferus (Red)",
+    "name_k": "페러스",
     "spawn": "abyss_01,abyss_02,abyss_03",
     "stats": {
       "attackRange": 2,
@@ -1011,6 +1030,7 @@
     "id": 1716,
     "dbname": "ACIDUS_",
     "name": "Acidus (Silver)",
+    "name_k": "어시더스",
     "spawn": "abyss_02,abyss_03",
     "stats": {
       "attackRange": 2,
@@ -1064,6 +1084,7 @@
     "id": 1717,
     "dbname": "FERUS_",
     "name": "Ferus (Green)",
+    "name_k": "페러스",
     "spawn": "abyss_01,abyss_03",
     "stats": {
       "attackRange": 2,
@@ -1117,6 +1138,7 @@
     "id": 1719,
     "dbname": "DETALE",
     "name": "Detardeurus",
+    "name_k": "디타르데우르스",
     "spawn": "abyss_03",
     "stats": {
       "attackRange": 3,
@@ -1171,6 +1193,7 @@
     "id": 1734,
     "dbname": "KIEL_",
     "name": "Kiel D-01",
+    "name_k": "키엘-D-01",
     "spawn": "kh_dun02",
     "stats": {
       "attackRange": 3,
@@ -1225,6 +1248,7 @@
     "id": 1751,
     "dbname": "RANDGRIS",
     "name": "Valkyrie Randgris",
+    "name_k": "발키리 란드그리스",
     "spawn": "odin_tem03",
     "stats": {
       "attackRange": 3,
@@ -1279,6 +1303,7 @@
     "id": 1768,
     "dbname": "GLOOMUNDERNIGHT",
     "name": "Gloom Under Night",
+    "name_k": "그룸 언더 나이트",
     "spawn": "ra_san05",
     "stats": {
       "attackRange": 3,
@@ -1333,6 +1358,7 @@
     "id": 1832,
     "dbname": "IFRIT",
     "name": "Ifrit",
+    "name_k": "이프리트",
     "spawn": "thor_v03",
     "stats": {
       "attackRange": 3,
@@ -1387,6 +1413,7 @@
     "id": 1864,
     "dbname": "ZOMBIE_SLAUGHTER",
     "name": "Zombie Slaughter",
+    "name_k": "좀비 슬러터",
     "spawn": "abbey01,abbey02,nameless_n",
     "stats": {
       "attackRange": 1,
@@ -1440,6 +1467,7 @@
     "id": 1865,
     "dbname": "RAGGED_ZOMBIE",
     "name": "Ragged Zombie",
+    "name_k": "누더기 좀비",
     "spawn": "abbey01,abbey02,nameless_n",
     "stats": {
       "attackRange": 9,
@@ -1493,6 +1521,7 @@
     "id": 1866,
     "dbname": "HELL_POODLE",
     "name": "Hellhound",
+    "name_k": "헬 푸들",
     "spawn": "abbey01,nameless_n",
     "stats": {
       "attackRange": 1,
@@ -1546,6 +1575,7 @@
     "id": 1867,
     "dbname": "BANSHEE",
     "name": "Banshee",
+    "name_k": "밴시",
     "spawn": "abbey01,abbey03,nameless_n",
     "stats": {
       "attackRange": 1,
@@ -1599,6 +1629,7 @@
     "id": 1869,
     "dbname": "FLAME_SKULL",
     "name": "Flame Skull",
+    "name_k": "플레임 스컬",
     "spawn": "abbey01,abbey02,abbey03,nameless_n",
     "stats": {
       "attackRange": 1,
@@ -1652,6 +1683,7 @@
     "id": 1870,
     "dbname": "NECROMANCER",
     "name": "Necromancer",
+    "name_k": "네크로맨서",
     "spawn": "abbey02,abbey03",
     "stats": {
       "attackRange": 1,
@@ -1705,6 +1737,7 @@
     "id": 1871,
     "dbname": "FALLINGBISHOP",
     "name": "Fallen Bishop",
+    "name_k": "타락한 대신관 히밤",
     "spawn": "abbey02",
     "stats": {
       "attackRange": 1,
@@ -1759,6 +1792,7 @@
     "id": 2221,
     "dbname": "RANDEL",
     "name": "Randel Lawrence",
+    "name_k": "랜달 로랜스",
     "spawn": "lhz_dun04",
     "stats": {
       "attackRange": 1,
@@ -1812,6 +1846,7 @@
     "id": 2222,
     "dbname": "FLAMEL",
     "name": "Flamel Emure",
+    "name_k": "플라멜 이뮬",
     "spawn": "lhz_dun04",
     "stats": {
       "attackRange": 1,
@@ -1865,6 +1900,7 @@
     "id": 2223,
     "dbname": "CELIA",
     "name": "Celia Alde",
+    "name_k": "실리아 알데",
     "spawn": "lhz_dun04",
     "stats": {
       "attackRange": 1,
@@ -1918,6 +1954,7 @@
     "id": 2224,
     "dbname": "CHEN",
     "name": "Chen Liu",
+    "name_k": "첸 리우",
     "spawn": "lhz_dun04",
     "stats": {
       "attackRange": 1,
@@ -1971,6 +2008,7 @@
     "id": 2225,
     "dbname": "GERTIE",
     "name": "Gertie",
+    "name_k": "거티 위",
     "spawn": "lhz_dun04",
     "stats": {
       "attackRange": 1,
@@ -2024,6 +2062,7 @@
     "id": 2226,
     "dbname": "ALPHOCCIO",
     "name": "Alphoccio",
+    "name_k": "아르보치오 바실",
     "spawn": "lhz_dun04",
     "stats": {
       "attackRange": 1,
@@ -2077,6 +2116,7 @@
     "id": 2227,
     "dbname": "TRENTINI",
     "name": "Trentini",
+    "name_k": "트렌티니",
     "spawn": "lhz_dun04",
     "stats": {
       "attackRange": 2,
@@ -2130,6 +2170,7 @@
     "id": 2228,
     "dbname": "G_RANDEL",
     "name": "Paladin Randall",
+    "name_k": "팔라딘 랜달",
     "spawn": "lhz_dun04",
     "stats": {
       "attackRange": 1,
@@ -2183,6 +2224,7 @@
     "id": 2229,
     "dbname": "G_FLAMEL",
     "name": "Creator Flamel",
+    "name_k": "크리에이터 플라멜",
     "spawn": "lhz_dun04",
     "stats": {
       "attackRange": 1,
@@ -2236,6 +2278,7 @@
     "id": 2230,
     "dbname": "G_CELIA",
     "name": "Professor Celia",
+    "name_k": "프로페서 실리아",
     "spawn": "lhz_dun04",
     "stats": {
       "attackRange": 1,
@@ -2289,6 +2332,7 @@
     "id": 2231,
     "dbname": "G_CHEN",
     "name": "Champion Chen",
+    "name_k": "챔피언 첸",
     "spawn": "lhz_dun04",
     "stats": {
       "attackRange": 1,
@@ -2342,6 +2386,7 @@
     "id": 2232,
     "dbname": "G_GERTIE",
     "name": "Stalker Gertie",
+    "name_k": "스토커 거티",
     "spawn": "lhz_dun04",
     "stats": {
       "attackRange": 1,
@@ -2395,6 +2440,7 @@
     "id": 2233,
     "dbname": "G_ALPHOCCIO",
     "name": "Crown Alphoccio",
+    "name_k": "크로운 아르보치오",
     "spawn": "lhz_dun04",
     "stats": {
       "attackRange": 1,
@@ -2448,6 +2494,7 @@
     "id": 2234,
     "dbname": "G_TRENTINI",
     "name": "Gypsy Trentini",
+    "name_k": "집시 트렌티니",
     "spawn": "lhz_dun04",
     "stats": {
       "attackRange": 2,
@@ -2501,6 +2548,7 @@
     "id": 2251,
     "dbname": "GIOIA",
     "name": "Gioia",
+    "name_k": "지오이아",
     "spawn": "gld2_ald",
     "stats": {
       "attackRange": 1,
@@ -2555,6 +2603,7 @@
     "id": 2362,
     "dbname": "N_AMON_RA",
     "name": "Amon Ra (Nightmare)",
+    "name_k": "아몬 라",
     "spawn": "moc_prydn2",
     "stats": {
       "attackRange": 3,
@@ -2609,6 +2658,7 @@
     "id": 2408,
     "dbname": "DUMMY_10",
     "name": "Lv 10",
+    "name_k": "Lv 10",
     "spawn": "iz_ac01",
     "stats": {
       "attackRange": 0,
@@ -2662,6 +2712,7 @@
     "id": 2410,
     "dbname": "DUMMY_100",
     "name": "Lv 100",
+    "name_k": "Lv 100",
     "spawn": "prontera",
     "stats": {
       "attackRange": 0,
@@ -2715,6 +2766,7 @@
     "id": 2411,
     "dbname": "DUMMY_150",
     "name": "Lv 150",
+    "name_k": "Lv 150",
     "spawn": "prontera",
     "stats": {
       "attackRange": 0,
@@ -2768,6 +2820,7 @@
     "id": 2413,
     "dbname": "DUMMY_10_FIRE",
     "name": "Lv 10 (Fire)",
+    "name_k": "Lv 10 (화속성)",
     "spawn": "iz_ac01",
     "stats": {
       "attackRange": 0,
@@ -2821,6 +2874,7 @@
     "id": 2476,
     "dbname": "MG_AMDARAIS",
     "name": "Amdarais",
+    "name_k": "암다라이스",
     "spawn": "",
     "stats": {
       "attackRange": 3,
@@ -2874,6 +2928,7 @@
     "id": 2529,
     "dbname": "FACEWORM_QUEEN",
     "name": "Faceworm Queen",
+    "name_k": "페이스웜 퀸",
     "spawn": "",
     "stats": {
       "attackRange": 2,
@@ -2927,6 +2982,7 @@
     "id": 2564,
     "dbname": "GEFFEN_FENRIR",
     "name": "Fenrir",
+    "name_k": "펜릴",
     "spawn": "",
     "stats": {
       "attackRange": 1,
@@ -2980,6 +3036,7 @@
     "id": 2667,
     "dbname": "C2_SHECIL",
     "name": "Solid Cecil Damon",
+    "name_k": "튼튼한 셰실 디먼",
     "spawn": "lhz_dun03",
     "stats": {
       "attackRange": 14,
@@ -3033,6 +3090,7 @@
     "id": 2692,
     "dbname": "C3_RAWREL",
     "name": "Laurell Weinder Ringleader",
+    "name_k": "두목 라우렐 뷘더",
     "spawn": "lhz_dun02",
     "stats": {
       "attackRange": 1,
@@ -3086,6 +3144,7 @@
     "id": 2875,
     "dbname": "C3_CELIA",
     "name": "Celia Alde Ringleader",
+    "name_k": "두목 실리아 알데",
     "spawn": "lhz_dun04",
     "stats": {
       "attackRange": 1,
@@ -3139,6 +3198,7 @@
     "id": 3097,
     "dbname": "MM_MOROCC_ADT",
     "name": "Morocc the Desparate god",
+    "name_k": "절망의 신 모로크",
     "spawn": "",
     "stats": {
       "attackRange": 3,
@@ -3192,6 +3252,7 @@
     "id": 3150,
     "dbname": "MG_AMDARAIS_H",
     "name": "Amdarais",
+    "name_k": "암다라이스",
     "spawn": "",
     "stats": {
       "attackRange": 3,
@@ -3245,6 +3306,7 @@
     "id": 3208,
     "dbname": "V_EREMES",
     "name": "Eremes Guile",
+    "name_k": "에레메스 가일",
     "spawn": "lhz_dun_n",
     "stats": {
       "attackRange": 1,
@@ -3298,6 +3360,7 @@
     "id": 3209,
     "dbname": "V_MAGALETA",
     "name": "Margaretha Sorin",
+    "name_k": "마가레타 소린",
     "spawn": "lhz_dun_n",
     "stats": {
       "attackRange": 1,
@@ -3351,6 +3414,7 @@
     "id": 3210,
     "dbname": "V_KATRINN",
     "name": "Kathryne Keyron",
+    "name_k": "카트린느 케이론",
     "spawn": "lhz_dun_n",
     "stats": {
       "attackRange": 1,
@@ -3404,6 +3468,7 @@
     "id": 3211,
     "dbname": "V_SHECIL",
     "name": "Cecil Damon",
+    "name_k": "셰실 디먼",
     "spawn": "lhz_dun_n",
     "stats": {
       "attackRange": 14,
@@ -3457,6 +3522,7 @@
     "id": 3212,
     "dbname": "V_HARWORD",
     "name": "Howard Alt-Eisen",
+    "name_k": "하워드 알트아이젠",
     "spawn": "lhz_dun_n",
     "stats": {
       "attackRange": 1,
@@ -3510,6 +3576,7 @@
     "id": 3213,
     "dbname": "V_SEYREN",
     "name": "Seyren Windsor",
+    "name_k": "세이렌 윈저",
     "spawn": "lhz_dun_n",
     "stats": {
       "attackRange": 1,
@@ -3563,6 +3630,7 @@
     "id": 3220,
     "dbname": "V_B_EREMES",
     "name": "Guillotine Cross Eremes",
+    "name_k": "길로틴크로스 에레메스",
     "spawn": "",
     "stats": {
       "attackRange": 1,
@@ -3616,6 +3684,7 @@
     "id": 3223,
     "dbname": "V_B_HARWORD",
     "name": "Mechanic Howard",
+    "name_k": "미케닉 하워드",
     "spawn": "",
     "stats": {
       "attackRange": 1,
@@ -3669,6 +3738,7 @@
     "id": 3226,
     "dbname": "V_RANDEL",
     "name": "Randel Lawrence",
+    "name_k": "랜달 로렌스",
     "spawn": "lhz_dun_n",
     "stats": {
       "attackRange": 1,
@@ -3722,6 +3792,7 @@
     "id": 3227,
     "dbname": "V_FLAMEL",
     "name": "Flamel Emure",
+    "name_k": "플라멜 이뮬",
     "spawn": "lhz_dun_n",
     "stats": {
       "attackRange": 1,
@@ -3775,6 +3846,7 @@
     "id": 3228,
     "dbname": "V_CELIA",
     "name": "Celia Alde",
+    "name_k": "실리아 알데",
     "spawn": "lhz_dun_n",
     "stats": {
       "attackRange": 1,
@@ -3828,6 +3900,7 @@
     "id": 3229,
     "dbname": "V_CHEN",
     "name": "Chen Liu",
+    "name_k": "첸 리우",
     "spawn": "lhz_dun_n",
     "stats": {
       "attackRange": 1,
@@ -3881,6 +3954,7 @@
     "id": 3230,
     "dbname": "V_GERTIE",
     "name": "Gertie We",
+    "name_k": "거티 위",
     "spawn": "lhz_dun_n",
     "stats": {
       "attackRange": 1,
@@ -3934,6 +4008,7 @@
     "id": 3231,
     "dbname": "V_ALPHOCCIO",
     "name": "Alphoccio Basil",
+    "name_k": "아르보치오 바실",
     "spawn": "lhz_dun_n",
     "stats": {
       "attackRange": 7,
@@ -3987,6 +4062,7 @@
     "id": 3232,
     "dbname": "V_TRENTINI",
     "name": "Trentini",
+    "name_k": "트렌티니",
     "spawn": "lhz_dun_n",
     "stats": {
       "attackRange": 7,
@@ -4040,6 +4116,7 @@
     "id": 3240,
     "dbname": "V_B_RANDEL",
     "name": "Royal Guard Randel",
+    "name_k": "로열가드 랜달",
     "spawn": "",
     "stats": {
       "attackRange": 1,
@@ -4093,6 +4170,7 @@
     "id": 3429,
     "dbname": "MIN_ORK_HERO",
     "name": "Orc Hero",
+    "name_k": "오크 히어로",
     "spawn": "",
     "stats": {
       "attackRange": 1,
@@ -4146,6 +4224,7 @@
     "id": 3430,
     "dbname": "MIN_TAO_GUNKA",
     "name": "Tao Gunka",
+    "name_k": "타오군 카",
     "spawn": "",
     "stats": {
       "attackRange": 2,
@@ -4199,6 +4278,7 @@
     "id": 3450,
     "dbname": "BIJOU",
     "name": "Bijou",
+    "name_k": "비쥬",
     "spawn": "",
     "stats": {
       "attackRange": 3,
@@ -4252,6 +4332,7 @@
     "id": 3484,
     "dbname": "AS_D_RAGGED_GOLEM",
     "name": "Stefan.J.E.Wolf",
+    "name_k": "스테판 잭 어니스트 울프",
     "spawn": "",
     "stats": {
       "attackRange": 1,
@@ -4305,6 +4386,7 @@
     "id": 3503,
     "dbname": "DR_BASILISK2",
     "name": "Charge Basilisk",
+    "name_k": "돌격 바질리스크",
     "spawn": "lasa_dun02",
     "stats": {
       "attackRange": 3,
@@ -4358,6 +4440,7 @@
     "id": 3504,
     "dbname": "DR_BASILISK3",
     "name": "Charge Basilisk",
+    "name_k": "돌격 바질리스크",
     "spawn": "lasa_dun03",
     "stats": {
       "attackRange": 3,
@@ -4411,6 +4494,7 @@
     "id": 3506,
     "dbname": "DR_MANDRAGORA",
     "name": "Jungle Mandragora",
+    "name_k": "정글 만드라고라",
     "spawn": "lasa_dun02",
     "stats": {
       "attackRange": 4,
@@ -4464,6 +4548,7 @@
     "id": 3507,
     "dbname": "DR_POM_SPIDER",
     "name": "Fruit Pom Spider",
+    "name_k": "프루츠 폼 스파이더",
     "spawn": "lasa_dun03",
     "stats": {
       "attackRange": 1,
@@ -4517,6 +4602,7 @@
     "id": 3796,
     "dbname": "ILL_KTULLANUX",
     "name": "Awaken Ktullanux",
+    "name_k": "깨어난 크툴라낙스",
     "spawn": "",
     "stats": {
       "attackRange": 3,
@@ -4570,6 +4656,7 @@
     "id": 3799,
     "dbname": "ILL_ASSULTER",
     "name": "Ominous Assaulter",
+    "name_k": "불길한 어절터",
     "spawn": "tur_d04_i",
     "stats": {
       "attackRange": 2,
@@ -4623,6 +4710,7 @@
     "id": 3800,
     "dbname": "ILL_PERMETER",
     "name": "Ominous Permeter",
+    "name_k": "불길한 퍼머터",
     "spawn": "tur_d03_i,tur_d04_i",
     "stats": {
       "attackRange": 2,
@@ -4676,6 +4764,7 @@
     "id": 3801,
     "dbname": "ILL_FREEZER",
     "name": "Ominous Freezer",
+    "name_k": "불길한 프리저",
     "spawn": "tur_d04_i",
     "stats": {
       "attackRange": 2,
@@ -4729,6 +4818,7 @@
     "id": 3802,
     "dbname": "ILL_SOLIDER",
     "name": "Ominous Solider",
+    "name_k": "불길한 솔리더",
     "spawn": "tur_d03_i,tur_d04_i",
     "stats": {
       "attackRange": 2,
@@ -4782,6 +4872,7 @@
     "id": 3803,
     "dbname": "ILL_HEATER",
     "name": "Ominous Heater",
+    "name_k": "불길한 힛터",
     "spawn": "tur_d04_i",
     "stats": {
       "attackRange": 2,
@@ -4835,6 +4926,7 @@
     "id": 3804,
     "dbname": "ILL_TURTLE_GENERAL",
     "name": "Ominous Turtle General",
+    "name_k": "불길한 터틀 제네럴",
     "spawn": "",
     "stats": {
       "attackRange": 2,
@@ -4888,6 +4980,7 @@
     "id": 20260,
     "dbname": "ILL_TEDDY_BEAR_S",
     "name": "Shining Teddy Bear",
+    "name_k": "빛나는 곰인형",
     "spawn": "",
     "stats": {
       "attackRange": 2,
@@ -4941,6 +5034,7 @@
     "id": 20270,
     "dbname": "ILL_TRI_JOINT",
     "name": "Ancient Tri Joint",
+    "name_k": "고대의 트라이조인트",
     "spawn": "com_d02_i",
     "stats": {
       "attackRange": 1,
@@ -4994,6 +5088,7 @@
     "id": 20271,
     "dbname": "ILL_STALACTIC_GOLEM",
     "name": "Ancient Stalactic Golem",
+    "name_k": "고대의 스터랙틱 고렘",
     "spawn": "com_d02_i",
     "stats": {
       "attackRange": 1,
@@ -5047,6 +5142,7 @@
     "id": 20272,
     "dbname": "ILL_MEGALITH",
     "name": "Ancient Megalith",
+    "name_k": "고대의 메갈리스",
     "spawn": "com_d02_i",
     "stats": {
       "attackRange": 9,
@@ -5100,6 +5196,7 @@
     "id": 20273,
     "dbname": "ILL_TAO_GUNKA",
     "name": "Ancient Tao Gunka",
+    "name_k": "고대의 타오군 카",
     "spawn": "com_d02_i",
     "stats": {
       "attackRange": 2,
@@ -5153,6 +5250,7 @@
     "id": 20274,
     "dbname": "ILL_STONE_SHOOTER",
     "name": "Ancient Stone Shooter",
+    "name_k": "고대의 스톤슈터",
     "spawn": "com_d02_i",
     "stats": {
       "attackRange": 10,
@@ -5206,6 +5304,7 @@
     "id": 20275,
     "dbname": "ILL_WOOTAN_SHOOTER",
     "name": "Ancient Wootan Shooter",
+    "name_k": "고대의 우탄슈터",
     "spawn": "com_d02_i",
     "stats": {
       "attackRange": 10,
@@ -5259,6 +5358,7 @@
     "id": 20276,
     "dbname": "ILL_WOOTAN_FIGHTER",
     "name": "Ancient Wootan Fighter",
+    "name_k": "고대의 우탄파이터",
     "spawn": "com_d02_i",
     "stats": {
       "attackRange": 1,
@@ -5312,6 +5412,7 @@
     "id": 20340,
     "dbname": "MD_EL_A17T",
     "name": "EL-A17T",
+    "name_k": "EL-A17T",
     "spawn": "",
     "stats": {
       "attackRange": 1,
@@ -5365,6 +5466,7 @@
     "id": 20346,
     "dbname": "MD_MIGUEL",
     "name": "Miguel",
+    "name_k": "미구엘",
     "spawn": "",
     "stats": {
       "attackRange": 1,
@@ -5418,6 +5520,7 @@
     "id": 20356,
     "dbname": "EP17_1_BELLARE2",
     "name": "Heart Hunter Velare",
+    "name_k": "상급 하트 헌터 벨라레",
     "spawn": "sp_rudus2",
     "stats": {
       "attackRange": 9,
@@ -5471,6 +5574,7 @@
     "id": 20358,
     "dbname": "EP17_1_SANARE2",
     "name": "Heart Hunter Sanare",
+    "name_k": "상급 하트 헌터 사나레",
     "spawn": "sp_rudus2",
     "stats": {
       "attackRange": 1,
@@ -5524,6 +5628,7 @@
     "id": 20359,
     "dbname": "EP17_1_PLAGA1",
     "name": "Plaga",
+    "name_k": "플라가",
     "spawn": "sp_rudus2",
     "stats": {
       "attackRange": 1,
@@ -5577,6 +5682,7 @@
     "id": 20360,
     "dbname": "EP17_1_PLAGA2",
     "name": "Plaga",
+    "name_k": "변종 플라가",
     "spawn": "sp_rudus3",
     "stats": {
       "attackRange": 1,
@@ -5630,6 +5736,7 @@
     "id": 20362,
     "dbname": "EP17_1_DOLOR2",
     "name": "Dolor",
+    "name_k": "변종 돌로르",
     "spawn": "sp_rudus2,sp_rudus3",
     "stats": {
       "attackRange": 5,
@@ -5683,6 +5790,7 @@
     "id": 20364,
     "dbname": "EP17_1_VENENUM2",
     "name": "Venenum",
+    "name_k": "변종 베네눔",
     "spawn": "sp_rudus3",
     "stats": {
       "attackRange": 1,
@@ -5736,6 +5844,7 @@
     "id": 20366,
     "dbname": "EP17_1_TWIN_CAPUT2",
     "name": "Twin Caput",
+    "name_k": "변종 트윈 카푸트",
     "spawn": "sp_rudus3",
     "stats": {
       "attackRange": 1,
@@ -5789,6 +5898,7 @@
     "id": 20367,
     "dbname": "RAYDRIC_H",
     "name": "Contaminated Raydric",
+    "name_k": "오염된 레이드릭",
     "spawn": "gl_cas01_",
     "stats": {
       "attackRange": 1,
@@ -5842,6 +5952,7 @@
     "id": 20368,
     "dbname": "RAYDRIC_ARCHER_H",
     "name": "Contaminated Raydric Archer",
+    "name_k": "오염된 레이드릭 아쳐",
     "spawn": "gl_cas01_",
     "stats": {
       "attackRange": 9,
@@ -5894,7 +6005,8 @@
   "20369": {
     "id": 20369,
     "dbname": "GARGOYLE_H",
-    "name": "\tFrozen Gargoyle",
+    "name": "Frozen Gargoyle",
+    "name_k": "냉동 가고일",
     "spawn": "gl_cas01_",
     "stats": {
       "attackRange": 9,
@@ -5948,6 +6060,7 @@
     "id": 20370,
     "dbname": "STING_H",
     "name": "Warped Sting",
+    "name_k": "오염된 스팅",
     "spawn": "gl_cas01_",
     "stats": {
       "attackRange": 1,
@@ -6001,6 +6114,7 @@
     "id": 20371,
     "dbname": "RAGGED_ZOMBIE_H",
     "name": "Prison Breaker",
+    "name_k": "프리즌 브레이커",
     "spawn": "gl_cas01_",
     "stats": {
       "attackRange": 5,
@@ -6054,6 +6168,7 @@
     "id": 20372,
     "dbname": "BLAZZER_H",
     "name": "Rigid Blazer",
+    "name_k": "굳은 블레이저",
     "spawn": "mag_dun03",
     "stats": {
       "attackRange": 1,
@@ -6107,6 +6222,7 @@
     "id": 20373,
     "dbname": "NIGHTMARE_TERROR_H",
     "name": "Rigid Nightmare Terror",
+    "name_k": "굳은 나이트메어 테러",
     "spawn": "mag_dun03",
     "stats": {
       "attackRange": 1,
@@ -6160,6 +6276,7 @@
     "id": 20374,
     "dbname": "DELETER1_H",
     "name": "Rigid Sky Deleter",
+    "name_k": "굳은 공중 딜리터",
     "spawn": "mag_dun03",
     "stats": {
       "attackRange": 1,
@@ -6213,6 +6330,7 @@
     "id": 20375,
     "dbname": "DELETER2_H",
     "name": "Rigid Earth Deleter",
+    "name_k": "굳은 지상 딜리터",
     "spawn": "mag_dun03",
     "stats": {
       "attackRange": 1,
@@ -6266,6 +6384,7 @@
     "id": 20376,
     "dbname": "EXPLOSION_H",
     "name": "Rigid Explosion",
+    "name_k": "굳은 익스플로젼",
     "spawn": "mag_dun03",
     "stats": {
       "attackRange": 1,
@@ -6319,6 +6438,7 @@
     "id": 20377,
     "dbname": "KAHO_H",
     "name": "Rigid Kaho",
+    "name_k": "굳은 카호",
     "spawn": "mag_dun03",
     "stats": {
       "attackRange": 1,
@@ -6372,6 +6492,7 @@
     "id": 20378,
     "dbname": "LAVA_GOLEM_H",
     "name": "Rigid Lava Golem",
+    "name_k": "굳은 라바 골렘",
     "spawn": "mag_dun03",
     "stats": {
       "attackRange": 1,
@@ -6425,6 +6546,7 @@
     "id": 20379,
     "dbname": "ICE_GHOST_H",
     "name": "Ice Ghost",
+    "name_k": "아이스 고스트",
     "spawn": "gl_cas01_",
     "stats": {
       "attackRange": 2,
@@ -6478,6 +6600,7 @@
     "id": 20380,
     "dbname": "FLAME_GHOST_H",
     "name": "Flame Ghost",
+    "name_k": "플레임 고스트",
     "spawn": "gl_cas01_",
     "stats": {
       "attackRange": 2,
@@ -6531,6 +6654,7 @@
     "id": 20386,
     "dbname": "MD_GH_KING_SCHMIDT_N",
     "name": "Curse-swallowed King",
+    "name_k": "저주를 삼킨 왕",
     "spawn": "",
     "stats": {
       "attackRange": 2,
@@ -6584,6 +6708,7 @@
     "id": 20387,
     "dbname": "MD_GH_KING_SCHMIDT_H",
     "name": "Curse-swallowed King",
+    "name_k": "저주를 삼킨 왕",
     "spawn": "",
     "stats": {
       "attackRange": 2,
@@ -6637,6 +6762,7 @@
     "id": 20420,
     "dbname": "WANDER_MAN_H",
     "name": "Corrupted Wanderer",
+    "name_k": "오염된 배회하는 자",
     "spawn": "gl_cas01_",
     "stats": {
       "attackRange": 1,
@@ -6690,6 +6816,7 @@
     "id": 20421,
     "dbname": "BRINARANEA_H",
     "name": "Corrupted Spider Queen",
+    "name_k": "오염된 거미여왕",
     "spawn": "gl_cas01_",
     "stats": {
       "attackRange": 1,
@@ -6744,6 +6871,7 @@
     "id": 20422,
     "dbname": "DARK_LORD_H",
     "name": "Corrupted Dark Lord",
+    "name_k": "오염된 다크로드",
     "spawn": "gl_cas01_",
     "stats": {
       "attackRange": 2,
@@ -6798,6 +6926,7 @@
     "id": 20525,
     "dbname": "ILL_BAPHOMET_J",
     "name": "Chaos Baphomet Jr.",
+    "name_k": "혼돈의 바포메트 주니어",
     "spawn": "prt_mz03_i",
     "stats": {
       "attackRange": 1,
@@ -6851,6 +6980,7 @@
     "id": 20526,
     "dbname": "ILL_SIDE_WINDER",
     "name": "Chaos Side Winder",
+    "name_k": "혼돈의 사이드 와인더",
     "spawn": "prt_mz03_i",
     "stats": {
       "attackRange": 1,
@@ -6904,6 +7034,7 @@
     "id": 20527,
     "dbname": "ILL_HUNTER_FLY",
     "name": "Chaos Hunter Fly",
+    "name_k": "혼돈의 헌터 플라이",
     "spawn": "prt_mz03_i",
     "stats": {
       "attackRange": 1,
@@ -6957,6 +7088,7 @@
     "id": 20528,
     "dbname": "ILL_MANTIS",
     "name": "Chaos Mantis",
+    "name_k": "혼돈의 맨티스",
     "spawn": "prt_mz03_i",
     "stats": {
       "attackRange": 1,
@@ -7010,6 +7142,7 @@
     "id": 20529,
     "dbname": "ILL_GHOSTRING",
     "name": "Chaos Ghostring",
+    "name_k": "혼돈의 고스트링",
     "spawn": "prt_mz03_i",
     "stats": {
       "attackRange": 1,
@@ -7063,6 +7196,7 @@
     "id": 20530,
     "dbname": "ILL_KILLER_MANTIS",
     "name": "Chaos Killer Mantis",
+    "name_k": "혼돈의 킬러 맨티스",
     "spawn": "prt_mz03_i",
     "stats": {
       "attackRange": 1,
@@ -7116,6 +7250,7 @@
     "id": 20531,
     "dbname": "ILL_POPORING",
     "name": "Chaos Poporing",
+    "name_k": "혼돈의 포포링",
     "spawn": "prt_mz03_i",
     "stats": {
       "attackRange": 1,
@@ -7169,6 +7304,7 @@
     "id": 20532,
     "dbname": "ILL_STEM_WORM",
     "name": "Chaotic Stem Worm",
+    "name_k": "혼돈의 스템웜",
     "spawn": "prt_mz03_i",
     "stats": {
       "attackRange": 1,
@@ -7222,6 +7358,7 @@
     "id": 20536,
     "dbname": "MD_ED_B_YGNIZEM",
     "name": "Unknown Swordsman",
+    "name_k": "무명의 검사",
     "spawn": "",
     "stats": {
       "attackRange": 1,
@@ -7275,6 +7412,7 @@
     "id": 20572,
     "dbname": "MD_C_HEMEL",
     "name": "Phantom of Himmelmez",
+    "name_k": "히멜메즈",
     "spawn": "1@gl_he",
     "stats": {
       "attackRange": 1,
@@ -7328,6 +7466,7 @@
     "id": 20573,
     "dbname": "MD_C_AMDARAIS",
     "name": "Phantom of Amdarais",
+    "name_k": "암다라이스의 환영",
     "spawn": "",
     "stats": {
       "attackRange": 3,
@@ -7381,6 +7520,7 @@
     "id": 20592,
     "dbname": "POISONOUS",
     "name": "Poisonous",
+    "name_k": "포이즈너스",
     "spawn": "ein_dun03",
     "stats": {
       "attackRange": 1,
@@ -7434,6 +7574,7 @@
     "id": 20593,
     "dbname": "TOXIOUS",
     "name": "Toxious",
+    "name_k": "톡시어스",
     "spawn": "ein_dun03",
     "stats": {
       "attackRange": 1,
@@ -7487,6 +7628,7 @@
     "id": 20594,
     "dbname": "MINERAL_G",
     "name": "Green Mineral",
+    "name_k": "그린 미네랄",
     "spawn": "ein_dun03",
     "stats": {
       "attackRange": 1,
@@ -7540,6 +7682,7 @@
     "id": 20595,
     "dbname": "MINERAL_R",
     "name": "Red Mineral",
+    "name_k": "레드 미네랄",
     "spawn": "ein_dun03",
     "stats": {
       "attackRange": 1,
@@ -7593,6 +7736,7 @@
     "id": 20596,
     "dbname": "MINERAL_W",
     "name": "White Mineral",
+    "name_k": "화이트 미네랄",
     "spawn": "ein_dun03",
     "stats": {
       "attackRange": 1,
@@ -7646,6 +7790,7 @@
     "id": 20597,
     "dbname": "MINERAL_P",
     "name": "Purple Mineral",
+    "name_k": "퍼플 미네랄",
     "spawn": "ein_dun03",
     "stats": {
       "attackRange": 1,
@@ -7699,6 +7844,7 @@
     "id": 20598,
     "dbname": "JEWELIANT",
     "name": "Jeweliant",
+    "name_k": "쥬얼리안트",
     "spawn": "ein_dun03",
     "stats": {
       "attackRange": 1,
@@ -7752,6 +7898,7 @@
     "id": 20601,
     "dbname": "JUNGOLIANT",
     "name": "Jewgoliant",
+    "name_k": "쥬골리안트",
     "spawn": "ein_dun03",
     "stats": {
       "attackRange": 3,
@@ -7806,6 +7953,7 @@
     "id": 20602,
     "dbname": "PORCELLIO_W",
     "name": "White Porcellio",
+    "name_k": "화이트 폴셀리오",
     "spawn": "ein_dun03",
     "stats": {
       "attackRange": 1,
@@ -7859,6 +8007,7 @@
     "id": 20603,
     "dbname": "ABYSSMAN",
     "name": "Abyssman",
+    "name_k": "어비스맨",
     "spawn": "ein_dun03",
     "stats": {
       "attackRange": 1,
@@ -7912,6 +8061,7 @@
     "id": 20604,
     "dbname": "ANGELGOLT",
     "name": "Angelgolt",
+    "name_k": "엔젤골트",
     "spawn": "odin_past",
     "stats": {
       "attackRange": 2,
@@ -7965,6 +8115,7 @@
     "id": 20605,
     "dbname": "ANGELGOLT2",
     "name": "Angelgolt",
+    "name_k": "엔젤골트",
     "spawn": "odin_past",
     "stats": {
       "attackRange": 2,
@@ -8018,6 +8169,7 @@
     "id": 20606,
     "dbname": "HOLY_FRUS",
     "name": "Holy Frus",
+    "name_k": "홀리 프루스",
     "spawn": "odin_past",
     "stats": {
       "attackRange": 2,
@@ -8071,6 +8223,7 @@
     "id": 20607,
     "dbname": "HOLY_SKOGUL",
     "name": "Holy Skogul",
+    "name_k": "홀리 스코글",
     "spawn": "odin_past",
     "stats": {
       "attackRange": 2,
@@ -8124,6 +8277,7 @@
     "id": 20608,
     "dbname": "PLASMA_ARCH",
     "name": "Arch Plasma",
+    "name_k": "아크 플라즈마",
     "spawn": "odin_past",
     "stats": {
       "attackRange": 3,
@@ -8177,6 +8331,7 @@
     "id": 20609,
     "dbname": "PLASMA_SPT",
     "name": "Spectral Plasma",
+    "name_k": "스펙트럼 플라즈마",
     "spawn": "odin_past",
     "stats": {
       "attackRange": 1,
@@ -8230,6 +8385,7 @@
     "id": 20610,
     "dbname": "REGINLEIF",
     "name": "Valkyrie Reginleif",
+    "name_k": "발키리 레긴레이브",
     "spawn": "odin_past",
     "stats": {
       "attackRange": 3,
@@ -8284,6 +8440,7 @@
     "id": 20611,
     "dbname": "INGRID",
     "name": "Valkyrie Ingrid",
+    "name_k": "발키리 잉그리드",
     "spawn": "odin_past",
     "stats": {
       "attackRange": 2,
@@ -8338,6 +8495,7 @@
     "id": 20612,
     "dbname": "FERUS_P",
     "name": "Purple Ferus",
+    "name_k": "퍼플 페러스",
     "spawn": "abyss_04",
     "stats": {
       "attackRange": 2,
@@ -8391,6 +8549,7 @@
     "id": 20613,
     "dbname": "TREASURE_MIMIC",
     "name": "Treasure Mimic",
+    "name_k": "트레져 미믹",
     "spawn": "abyss_04",
     "stats": {
       "attackRange": 1,
@@ -8444,6 +8603,7 @@
     "id": 20614,
     "dbname": "ACIDUS_B",
     "name": "Black Acidus",
+    "name_k": "블랙 어시더스",
     "spawn": "abyss_04",
     "stats": {
       "attackRange": 2,
@@ -8497,6 +8657,7 @@
     "id": 20615,
     "dbname": "ACIDUS_S",
     "name": "Silver Acidus",
+    "name_k": "실버 어시더스",
     "spawn": "abyss_04",
     "stats": {
       "attackRange": 2,
@@ -8550,6 +8711,7 @@
     "id": 20616,
     "dbname": "BONE_FERUS",
     "name": "Bone Ferus",
+    "name_k": "본 페러스",
     "spawn": "abyss_04",
     "stats": {
       "attackRange": 2,
@@ -8603,6 +8765,7 @@
     "id": 20617,
     "dbname": "BONE_ACIDUS",
     "name": "Bone Acidus",
+    "name_k": "본 어시더스",
     "spawn": "abyss_04",
     "stats": {
       "attackRange": 2,
@@ -8656,6 +8819,7 @@
     "id": 20618,
     "dbname": "BONE_DETALE",
     "name": "Bone Detardeurus",
+    "name_k": "본 디타르데우르스",
     "spawn": "abyss_04",
     "stats": {
       "attackRange": 3,
@@ -8710,6 +8874,7 @@
     "id": 20621,
     "dbname": "MD_REDPEPPER_H",
     "name": "Senior Red Pepper",
+    "name_k": "레드페퍼",
     "spawn": "",
     "stats": {
       "attackRange": 1,
@@ -8763,6 +8928,7 @@
     "id": 20649,
     "dbname": "EP17_2_PITAYA_R",
     "name": "Pitaya",
+    "name_k": "피타야",
     "spawn": "ba_lost",
     "stats": {
       "attackRange": 1,
@@ -8816,6 +8982,7 @@
     "id": 20650,
     "dbname": "EP17_2_PITAYA_Y",
     "name": "Pitaya",
+    "name_k": "피타야",
     "spawn": "ba_lost",
     "stats": {
       "attackRange": 1,
@@ -8869,6 +9036,7 @@
     "id": 20651,
     "dbname": "EP17_2_PITAYA_B",
     "name": "Pitaya",
+    "name_k": "피타야",
     "spawn": "ba_lost",
     "stats": {
       "attackRange": 1,
@@ -8922,6 +9090,7 @@
     "id": 20652,
     "dbname": "EP17_2_PITAYA_V",
     "name": "Pitaya",
+    "name_k": "피타야",
     "spawn": "ba_lost",
     "stats": {
       "attackRange": 1,
@@ -8975,6 +9144,7 @@
     "id": 20653,
     "dbname": "EP17_2_PITAYA_G",
     "name": "Pitaya",
+    "name_k": "피타야",
     "spawn": "ba_lost",
     "stats": {
       "attackRange": 1,
@@ -9028,6 +9198,7 @@
     "id": 20668,
     "dbname": "MD_GRAN_PAPILIA",
     "name": "Grand Papillia",
+    "name_k": "그랑 파필리아",
     "spawn": "",
     "stats": {
       "attackRange": 1,
@@ -9081,6 +9252,7 @@
     "id": 20691,
     "dbname": "EP17_2_PLAGA3",
     "name": "Spell Addicted Plaga",
+    "name_k": "마력중독 플라가",
     "spawn": "ba_pw03",
     "stats": {
       "attackRange": 2,
@@ -9134,6 +9306,7 @@
     "id": 20692,
     "dbname": "EP17_2_SANARE3",
     "name": "Spell Addicted Sanare",
+    "name_k": "마력중독 사나레",
     "spawn": "ba_pw03",
     "stats": {
       "attackRange": 1,
@@ -9187,6 +9360,7 @@
     "id": 20693,
     "dbname": "EP17_2_PLASMA_R",
     "name": "Powerful Spell",
+    "name_k": "강력한 마력",
     "spawn": "ba_pw03",
     "stats": {
       "attackRange": 1,
@@ -9240,6 +9414,7 @@
     "id": 20694,
     "dbname": "EP17_2_PLASMA_R2",
     "name": "Sharp Spell",
+    "name_k": "날카로운 마력",
     "spawn": "ba_pw03",
     "stats": {
       "attackRange": 1,
@@ -9293,6 +9468,7 @@
     "id": 20773,
     "dbname": "EMPATHIZER",
     "name": "Empathizer",
+    "name_k": "공감하는 자",
     "spawn": "tha_t10,tha_t11",
     "stats": {
       "attackRange": 2,
@@ -9346,6 +9522,7 @@
     "id": 20774,
     "dbname": "HAPPY_GIVER",
     "name": "Happiness Giver",
+    "name_k": "행복을 주는 자",
     "spawn": "tha_t10,tha_t11",
     "stats": {
       "attackRange": 2,
@@ -9399,6 +9576,7 @@
     "id": 20775,
     "dbname": "THA_ANGER",
     "name": "Anger of Thanatos",
+    "name_k": "타나토스의 분노",
     "spawn": "tha_t12",
     "stats": {
       "attackRange": 2,
@@ -9452,6 +9630,7 @@
     "id": 20776,
     "dbname": "THA_HORROR",
     "name": "Horror of Thanatos",
+    "name_k": "타나토스의 공포",
     "spawn": "tha_t11,tha_t12",
     "stats": {
       "attackRange": 2,
@@ -9505,6 +9684,7 @@
     "id": 20777,
     "dbname": "THA_RESENT",
     "name": "Resentment of Thanatos",
+    "name_k": "타나토스의 원망",
     "spawn": "tha_t11,tha_t12",
     "stats": {
       "attackRange": 2,
@@ -9558,6 +9738,7 @@
     "id": 20778,
     "dbname": "THA_REGRET",
     "name": "Regret of Thanatos",
+    "name_k": "타나토스의 후회",
     "spawn": "tha_t12",
     "stats": {
       "attackRange": 2,
@@ -9611,6 +9792,7 @@
     "id": 20779,
     "dbname": "VOID_MIMIC",
     "name": "Void Mimic",
+    "name_k": "보이드 미믹",
     "spawn": "tha_t09,tha_t10,tha_t11",
     "stats": {
       "attackRange": 2,
@@ -9664,6 +9846,7 @@
     "id": 20780,
     "dbname": "BOOK_OF_DEATH",
     "name": "Book of Death",
+    "name_k": "죽음의 책",
     "spawn": "tha_t09,tha_t10,tha_t11,tha_t12",
     "stats": {
       "attackRange": 1,
@@ -9717,6 +9900,7 @@
     "id": 20781,
     "dbname": "ELDEST",
     "name": "Eldest",
+    "name_k": "엘디스트",
     "spawn": "tha_t09,tha_t10",
     "stats": {
       "attackRange": 3,
@@ -9770,6 +9954,7 @@
     "id": 20782,
     "dbname": "CROW_DUKE",
     "name": "Crow Duke",
+    "name_k": "크로우 듀크",
     "spawn": "tha_t09",
     "stats": {
       "attackRange": 1,
@@ -9823,6 +10008,7 @@
     "id": 20783,
     "dbname": "CROW_BARON",
     "name": "Crow Baron",
+    "name_k": "크로우 바론",
     "spawn": "tha_t09",
     "stats": {
       "attackRange": 2,
@@ -9876,6 +10062,7 @@
     "id": 20785,
     "dbname": "MD_BROKEN_THANATOS",
     "name": "Broken Memory of Thanatos",
+    "name_k": "파괴된 타나토스의 기억",
     "spawn": "",
     "stats": {
       "attackRange": 3,
@@ -10459,6 +10646,7 @@
     "id": 20844,
     "dbname": "PRAY_GIVER",
     "name": "Pray Giver",
+    "name_k": "축원하는 자",
     "spawn": "tha_t11",
     "stats": {
       "attackRange": 2,
@@ -10512,6 +10700,7 @@
     "id": 20845,
     "dbname": "SMILE_GIVER",
     "name": "Smile Giver",
+    "name_k": "웃음을 주는 자",
     "spawn": "tha_t11",
     "stats": {
       "attackRange": 2,
@@ -10565,6 +10754,7 @@
     "id": 20892,
     "dbname": "MD_SAKRAY",
     "name": "Sakray",
+    "name_k": "마검사 사크라이",
     "spawn": "",
     "stats": {
       "attackRange": 3,
@@ -10619,6 +10809,7 @@
     "id": 20893,
     "dbname": "MD_TIARA",
     "name": "Tiara",
+    "name_k": "티아라 공주",
     "spawn": "",
     "stats": {
       "attackRange": 9,
@@ -10673,6 +10864,7 @@
     "id": 20920,
     "dbname": "CHIMERA_LAVA",
     "name": "Chimera Lava Eter",
+    "name_k": "변이 키메라 라바이터",
     "spawn": "amicitia2",
     "stats": {
       "attackRange": 2,
@@ -10726,6 +10918,7 @@
     "id": 20921,
     "dbname": "CHIMERA_FULGOR",
     "name": "Chimera Fulgor",
+    "name_k": "변이 키메라 풀고르",
     "spawn": "amicitia2",
     "stats": {
       "attackRange": 2,
@@ -10779,6 +10972,7 @@
     "id": 20922,
     "dbname": "CHIMERA_NAPEO",
     "name": "Chimera Napeo",
+    "name_k": "변이 키메라 나페오",
     "spawn": "amicitia2",
     "stats": {
       "attackRange": 2,
@@ -10832,6 +11026,7 @@
     "id": 20923,
     "dbname": "CHIMERA_GALENSIS",
     "name": "Chimera Galensis",
+    "name_k": "변이 키메라 갈렌시스",
     "spawn": "amicitia2",
     "stats": {
       "attackRange": 2,
@@ -10885,6 +11080,7 @@
     "id": 20924,
     "dbname": "CHIMERA_AMITERA",
     "name": "Chimera Amitera",
+    "name_k": "변이 키메라 아미테라",
     "spawn": "amicitia1",
     "stats": {
       "attackRange": 2,
@@ -10938,6 +11134,7 @@
     "id": 20925,
     "dbname": "CHIMERA_LITUS",
     "name": "Chimera Litus",
+    "name_k": "변이 키메라 리투스",
     "spawn": "amicitia1",
     "stats": {
       "attackRange": 2,
@@ -10991,6 +11188,7 @@
     "id": 20926,
     "dbname": "CHIMERA_FILLIA",
     "name": "Chimera Fillia",
+    "name_k": "변이 키메라 필리아",
     "spawn": "amicitia1",
     "stats": {
       "attackRange": 2,
@@ -11044,6 +11242,7 @@
     "id": 20927,
     "dbname": "CHIMERA_VANILAQUS",
     "name": "Chimera Vanilaqus",
+    "name_k": "변이 키메라 바닐아쿠스",
     "spawn": "amicitia1",
     "stats": {
       "attackRange": 2,
@@ -11097,6 +11296,7 @@
     "id": 20928,
     "dbname": "CHIMERA_THEONE",
     "name": "The One",
+    "name_k": "변이 키메라 디 원",
     "spawn": "amicitia2",
     "stats": {
       "attackRange": 2,
@@ -11151,6 +11351,7 @@
     "id": 20929,
     "dbname": "GIANT_CAPUT",
     "name": "Giant Caput",
+    "name_k": "자이언트 카푸트",
     "spawn": "sp_rudus4",
     "stats": {
       "attackRange": 1,
@@ -11204,6 +11405,7 @@
     "id": 20930,
     "dbname": "DOLORIAN",
     "name": "Dolorian",
+    "name_k": "돌로리안",
     "spawn": "sp_rudus4",
     "stats": {
       "attackRange": 1,
@@ -11257,6 +11459,7 @@
     "id": 20931,
     "dbname": "PLAGARION",
     "name": "Plagarion",
+    "name_k": "플라가리온",
     "spawn": "sp_rudus4",
     "stats": {
       "attackRange": 2,
@@ -11310,6 +11513,7 @@
     "id": 20932,
     "dbname": "DEADRE",
     "name": "Deadre",
+    "name_k": "데드레",
     "spawn": "sp_rudus4",
     "stats": {
       "attackRange": 1,
@@ -11363,6 +11567,7 @@
     "id": 20933,
     "dbname": "VENEDI",
     "name": "Venedi",
+    "name_k": "베네디",
     "spawn": "sp_rudus4",
     "stats": {
       "attackRange": 1,
@@ -11416,6 +11621,7 @@
     "id": 20934,
     "dbname": "R001_BESTIA",
     "name": "R001-Bestia",
+    "name_k": "R001-베스티아",
     "spawn": "sp_rudus4",
     "stats": {
       "attackRange": 1,
@@ -11470,6 +11676,7 @@
     "id": 20935,
     "dbname": "GAN_CEANN",
     "name": "Gan Ceann",
+    "name_k": "간칸",
     "spawn": "nif_dun01",
     "stats": {
       "attackRange": 2,
@@ -11523,6 +11730,7 @@
     "id": 20936,
     "dbname": "DISGUISER",
     "name": "Disguiser",
+    "name_k": "디스가이저",
     "spawn": "nif_dun02",
     "stats": {
       "attackRange": 2,
@@ -11576,6 +11784,7 @@
     "id": 20937,
     "dbname": "BRUTAL_MURDERER",
     "name": "Brutal Murderer",
+    "name_k": "브루탈 머더러",
     "spawn": "nif_dun01",
     "stats": {
       "attackRange": 2,
@@ -11629,6 +11838,7 @@
     "id": 20938,
     "dbname": "GHOST_CUBE",
     "name": "Ghost Cube",
+    "name_k": "고스트 큐브",
     "spawn": "nif_dun01",
     "stats": {
       "attackRange": 1,
@@ -11682,6 +11892,7 @@
     "id": 20939,
     "dbname": "LUDE_GAL",
     "name": "Lude Gal",
+    "name_k": "루드갈",
     "spawn": "nif_dun01",
     "stats": {
       "attackRange": 2,
@@ -11735,6 +11946,7 @@
     "id": 20940,
     "dbname": "BLUEMOON_LOLI_RURI",
     "name": "Blue Moon Loli Ruri",
+    "name_k": "블루 문 로리루리",
     "spawn": "nif_dun02",
     "stats": {
       "attackRange": 2,
@@ -11788,6 +12000,7 @@
     "id": 20941,
     "dbname": "GROTE",
     "name": "Grote",
+    "name_k": "그로트",
     "spawn": "nif_dun02",
     "stats": {
       "attackRange": 1,
@@ -11841,6 +12054,7 @@
     "id": 20942,
     "dbname": "PIERROTZOIST",
     "name": "Pierrotzoist",
+    "name_k": "삐에로조이스트",
     "spawn": "nif_dun02",
     "stats": {
       "attackRange": 1,
@@ -11894,6 +12108,7 @@
     "id": 20943,
     "dbname": "DEATH_WITCH",
     "name": "Death Witch",
+    "name_k": "죽음의 대마녀",
     "spawn": "nif_dun02",
     "stats": {
       "attackRange": 3,
@@ -11948,6 +12163,7 @@
     "id": 20994,
     "dbname": "MD_BETELGEUSE",
     "name": "Betelgeuse",
+    "name_k": "베텔기우스",
     "spawn": "MD_BETELGEUSE",
     "stats": {
       "attackRange": 3,
@@ -12002,6 +12218,7 @@
     "id": 21064,
     "dbname": "S_DUMMY_100_SMALL",
     "name": "Training Dummy (Small)",
+    "name_k": "허수아비(소형)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -12055,6 +12272,7 @@
     "id": 21065,
     "dbname": "S_DUMMY_100_MEDIUM",
     "name": "Training Dummy (Medium)",
+    "name_k": "허수아비(중형)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -12108,6 +12326,7 @@
     "id": 21066,
     "dbname": "S_DUMMY_100_LARGE",
     "name": "Training Dummy (Large)",
+    "name_k": "허수아비(대형)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -12161,6 +12380,7 @@
     "id": 21067,
     "dbname": "S_DUMMY_100_NOTHING",
     "name": "Training Dummy (Neutral)",
+    "name_k": "허수아비(무형)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -12214,6 +12434,7 @@
     "id": 21068,
     "dbname": "S_DUMMY_100_DRAGON",
     "name": "Training Dummy (Dragon)",
+    "name_k": "허수아비(용족)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -12267,6 +12488,7 @@
     "id": 21069,
     "dbname": "S_DUMMY_100_ANIMAL",
     "name": "Training Dummy (Brute)",
+    "name_k": "허수아비(동물형)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -12320,6 +12542,7 @@
     "id": 21070,
     "dbname": "S_DUMMY_100_HUMAN",
     "name": "Training Dummy (Human)",
+    "name_k": "허수아비(인간형)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -12373,6 +12596,7 @@
     "id": 21071,
     "dbname": "S_DUMMY_100_INSECT",
     "name": "Training Dummy (Insect)",
+    "name_k": "허수아비(곤충형)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -12426,6 +12650,7 @@
     "id": 21072,
     "dbname": "S_DUMMY_100_FISH",
     "name": "Training Dummy (Fish)",
+    "name_k": "허수아비(어패형)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -12479,6 +12704,7 @@
     "id": 21073,
     "dbname": "S_DUMMY_100_DEMON",
     "name": "Training Dummy (Demon)",
+    "name_k": "허수아비(악마형)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -12532,6 +12758,7 @@
     "id": 21074,
     "dbname": "S_DUMMY_100_PLANT",
     "name": "Training Dummy (Plant)",
+    "name_k": "허수아비(식물형)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -12585,6 +12812,7 @@
     "id": 21075,
     "dbname": "S_DUMMY_100_ANGEL",
     "name": "Training Dummy (Angel)",
+    "name_k": "허수아비(천사형)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -12638,6 +12866,7 @@
     "id": 21076,
     "dbname": "S_DUMMY_100_UNDEAD",
     "name": "Training Dummy (Undead)",
+    "name_k": "허수아비(불사형)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -12691,6 +12920,7 @@
     "id": 21077,
     "dbname": "S_DUMMY_100_NOTHING2",
     "name": "Training Dummy (Neutral Lv1)",
+    "name_k": "허수아비(무속성)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -12744,6 +12974,7 @@
     "id": 21078,
     "dbname": "S_DUMMY_100_WATER",
     "name": "Training Dummy (Water Lv1)",
+    "name_k": "허수아비(수속성)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -12797,6 +13028,7 @@
     "id": 21079,
     "dbname": "S_DUMMY_100_GROUND",
     "name": "Training Dummy (Earth Lv1)",
+    "name_k": "허수아비(지속성)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -12850,6 +13082,7 @@
     "id": 21080,
     "dbname": "S_DUMMY_100_FIRE",
     "name": "Training Dummy (Fire Lv1)",
+    "name_k": "허수아비(화속성)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -12903,6 +13136,7 @@
     "id": 21081,
     "dbname": "S_DUMMY_100_WIND",
     "name": "Training Dummy (Wind Lv1)",
+    "name_k": "허수아비(풍속성)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -12956,6 +13190,7 @@
     "id": 21082,
     "dbname": "S_DUMMY_100_POISON",
     "name": "Training Dummy (Poison Lv1)",
+    "name_k": "허수아비(독속성)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -13009,6 +13244,7 @@
     "id": 21083,
     "dbname": "S_DUMMY_100_SAINT",
     "name": "Training Dummy (Holy Lv1)",
+    "name_k": "허수아비(성속성)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -13062,6 +13298,7 @@
     "id": 21084,
     "dbname": "S_DUMMY_100_DARKNESS",
     "name": "Training Dummy (Dark Lv1)",
+    "name_k": "허수아비(암속성)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -13115,6 +13352,7 @@
     "id": 21085,
     "dbname": "S_DUMMY_100_TELEKINESIS",
     "name": "Training Dummy (Ghost Lv1)",
+    "name_k": "허수아비(염속성)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -13168,6 +13406,7 @@
     "id": 21086,
     "dbname": "S_DUMMY_100_UNDEAD2",
     "name": "Training Dummy (Undead Lv1)",
+    "name_k": "허수아비(불사속성)",
     "spawn": "hero_tra,tra_fild",
     "stats": {
       "attackRange": 1,
@@ -13221,6 +13460,7 @@
     "id": 21317,
     "dbname": "EP18_MD_DEMI_FREYJA_R",
     "name": "Twisted God Freyja (Normal)",
+    "name_k": "일그러진 신",
     "spawn": "",
     "stats": {
       "attackRange": 3,
@@ -13275,6 +13515,7 @@
     "id": 21361,
     "dbname": "EP18_MD_DEMI_FREYJA_L",
     "name": "Twisted God Freyja (Hard)",
+    "name_k": "일그러진 신",
     "spawn": "",
     "stats": {
       "attackRange": 3,
@@ -13329,6 +13570,7 @@
     "id": 21386,
     "dbname": "ILL_ANDRE",
     "name": "Diligent Andre",
+    "name_k": "부지런한 앙드레",
     "spawn": "ant_d02_i",
     "stats": {
       "attackRange": 1,
@@ -13382,6 +13624,7 @@
     "id": 21387,
     "dbname": "ILL_SOLDIER_ANDR",
     "name": "Diligent Soldier Andre",
+    "name_k": "부지런한 병정 앙드레",
     "spawn": "ant_d02_i",
     "stats": {
       "attackRange": 1,
@@ -13435,6 +13678,7 @@
     "id": 21388,
     "dbname": "ILL_ANDRE_LARVA",
     "name": "Diligent Andre Larva",
+    "name_k": "부지런한 앙드레 유충",
     "spawn": "ant_d02_i",
     "stats": {
       "attackRange": 1,
@@ -13488,6 +13732,7 @@
     "id": 21389,
     "dbname": "ILL_DENIRO",
     "name": "Diligent Deniro",
+    "name_k": "부지런한 데니로",
     "spawn": "ant_d02_i",
     "stats": {
       "attackRange": 1,
@@ -13541,6 +13786,7 @@
     "id": 21390,
     "dbname": "ILL_PIERE",
     "name": "Diligent Piere",
+    "name_k": "부지런한 피에르",
     "spawn": "ant_d02_i",
     "stats": {
       "attackRange": 1,
@@ -13594,6 +13840,7 @@
     "id": 21391,
     "dbname": "ILL_ANT_EGG",
     "name": "Mushy Ant Egg",
+    "name_k": "물컹한 개미알",
     "spawn": "ant_d02_i",
     "stats": {
       "attackRange": 0,
@@ -13647,6 +13894,7 @@
     "id": 21392,
     "dbname": "ILL_GIEARTH",
     "name": "Intrepid Giearth",
+    "name_k": "배짱 좋은 가이아스",
     "spawn": "ant_d02_i",
     "stats": {
       "attackRange": 1,
@@ -13700,6 +13948,7 @@
     "id": 21393,
     "dbname": "ILL_FARMILIAR",
     "name": "Intrepid Familiar",
+    "name_k": "배짱 좋은 퍼밀리어",
     "spawn": "ant_d02_i",
     "stats": {
       "attackRange": 1,
@@ -13753,6 +14002,7 @@
     "id": 21394,
     "dbname": "ILL_VITATA",
     "name": "Diligent Vitata",
+    "name_k": "부지런한 비타타",
     "spawn": "ant_d02_i",
     "stats": {
       "attackRange": 3,
@@ -13806,6 +14056,7 @@
     "id": 21981,
     "dbname": "MD_EP20_BOSS_LASGAND",
     "name": "Ultimate Lasgand",
+    "name_k": "라스간드",
     "spawn": "",
     "stats": {
       "attackRange": 3,
@@ -13860,6 +14111,7 @@
     "id": 22476,
     "dbname": "CH1_TOXIT",
     "name": "Toxit",
+    "name_k": "톡시트",
     "spawn": "ch1_gfn03",
     "stats": {
       "attackRange": 1,
@@ -13914,6 +14166,7 @@
     "id": 22477,
     "dbname": "CP_CH1_TOXIT",
     "name": "Strong - Toxit",
+    "name_k": "강인한 톡시트",
     "spawn": "ch1_gfn03",
     "stats": {
       "attackRange": 1,
@@ -13968,6 +14221,7 @@
     "id": 22478,
     "dbname": "CH1_LUNARINA",
     "name": "Lunarina",
+    "name_k": "루나리나",
     "spawn": "ch1_gfn03",
     "stats": {
       "attackRange": 1,
@@ -14022,6 +14276,7 @@
     "id": 22479,
     "dbname": "CP_CH1_LUNARINA",
     "name": "Strong - Lunarina",
+    "name_k": "강인한 루나리나",
     "spawn": "ch1_gfn03",
     "stats": {
       "attackRange": 1,
@@ -14076,6 +14331,7 @@
     "id": 22480,
     "dbname": "CH1_BLOODY_SLASHER",
     "name": "Bloody Slasher",
+    "name_k": "블러디슬래셔",
     "spawn": "ch1_gfn03",
     "stats": {
       "attackRange": 1,
@@ -14130,6 +14386,7 @@
     "id": 22481,
     "dbname": "CP_CH1_BLOODY_SLASHER",
     "name": "Strong - Bloody Slasher",
+    "name_k": "강인한 블러디슬래셔",
     "spawn": "ch1_gfn03",
     "stats": {
       "attackRange": 1,
@@ -14184,6 +14441,7 @@
     "id": 22482,
     "dbname": "CH1_SHADIEST",
     "name": "Shadist",
+    "name_k": "쉐이디스트",
     "spawn": "ch1_gfn03",
     "stats": {
       "attackRange": 1,
@@ -14238,6 +14496,7 @@
     "id": 22483,
     "dbname": "CP_CH1_SHADIEST",
     "name": "Strong - Shadist",
+    "name_k": "강인한 쉐이디스트",
     "spawn": "ch1_gfn03",
     "stats": {
       "attackRange": 1,
@@ -14292,6 +14551,7 @@
     "id": 22484,
     "dbname": "CH1_SUCCUBUS",
     "name": "High Succubus",
+    "name_k": "하이 서큐버스",
     "spawn": "ch1_gfn03",
     "stats": {
       "attackRange": 1,
@@ -14346,6 +14606,7 @@
     "id": 22485,
     "dbname": "CP_CH1_SUCCUBUS",
     "name": "Strong - High Succubus",
+    "name_k": "강인한 하이 서큐버스",
     "spawn": "ch1_gfn03",
     "stats": {
       "attackRange": 1,
@@ -14400,6 +14661,7 @@
     "id": 22486,
     "dbname": "CH1_INCCUBUS",
     "name": "High Incubus",
+    "name_k": "하이 인큐버스",
     "spawn": "ch1_gfn03",
     "stats": {
       "attackRange": 1,
@@ -14454,6 +14716,7 @@
     "id": 22487,
     "dbname": "CP_CH1_INCCUBUS",
     "name": "Strong - High Incubus",
+    "name_k": "강인한 하이 인큐버스",
     "spawn": "ch1_gfn03",
     "stats": {
       "attackRange": 1,
@@ -14508,6 +14771,7 @@
     "id": 22488,
     "dbname": "CH1_ABYSS_KNIGHT",
     "name": "Abysmal Knight Commander",
+    "name_k": "심연의 기사단장",
     "spawn": "ch1_gfn03",
     "stats": {
       "attackRange": 1,
@@ -14562,6 +14826,7 @@
     "id": 22489,
     "dbname": "CP_CH1_ABYSS_KNIGHT",
     "name": "Strong - Abysmal Knight Commander",
+    "name_k": "강인한 심연의 기사단장",
     "spawn": "ch1_gfn03",
     "stats": {
       "attackRange": 1,
@@ -14616,6 +14881,7 @@
     "id": 21525,
     "dbname": "EP19_ICE_GANGU",
     "name": "Ice Gangu",
+    "name_k": "아이스강구",
     "spawn": "jor_tail",
     "stats": {
       "attackRange": 1,
@@ -14669,6 +14935,7 @@
     "id": 21548,
     "dbname": "ECO_CORNUS",
     "name": "Cornus of Prairie",
+    "name_k": "초원의 코르누스",
     "spawn": "bl_grass",
     "stats": {
       "attackRange": 1,
@@ -14723,6 +14990,7 @@
     "id": 21549,
     "dbname": "ECO_PINGUICULA",
     "name": "Pinguicula of Prairie",
+    "name_k": "초원의 핀귀큘라",
     "spawn": "bl_grass",
     "stats": {
       "attackRange": 1,
@@ -14777,6 +15045,7 @@
     "id": 21550,
     "dbname": "ECO_HUNTER_FLY",
     "name": "Hunter Fly of Prairie",
+    "name_k": "초원의 헌터 플라이",
     "spawn": "bl_grass",
     "stats": {
       "attackRange": 1,
@@ -14831,6 +15100,7 @@
     "id": 21551,
     "dbname": "ECO_ROCKER",
     "name": "Rocker of Prairie",
+    "name_k": "초원의 로커",
     "spawn": "bl_grass",
     "stats": {
       "attackRange": 1,
@@ -14885,6 +15155,7 @@
     "id": 21552,
     "dbname": "ECO_SAVAGE",
     "name": "Savage of Prairie",
+    "name_k": "초원의 세비지",
     "spawn": "bl_grass",
     "stats": {
       "attackRange": 1,
@@ -14939,6 +15210,7 @@
     "id": 21553,
     "dbname": "ECO_FLORA",
     "name": "Flora of Prairie",
+    "name_k": "초원의 플로라",
     "spawn": "bl_grass",
     "stats": {
       "attackRange": 2,
@@ -14993,6 +15265,7 @@
     "id": 21554,
     "dbname": "ECO_HILL_WIND",
     "name": "Hill Wind of Prairie",
+    "name_k": "초원의 힐윈드",
     "spawn": "bl_grass",
     "stats": {
       "attackRange": 1,
@@ -15047,6 +15320,7 @@
     "id": 21555,
     "dbname": "ECO_MISTRESS",
     "name": "Mistress of Prairie",
+    "name_k": "초원의 미스트레스",
     "spawn": "bl_grass",
     "stats": {
       "attackRange": 1,
@@ -15101,6 +15375,7 @@
     "id": 21556,
     "dbname": "ECO_EXPLOSION",
     "name": "Explosion of Fire",
+    "name_k": "화염의 익스플로젼",
     "spawn": "bl_lava",
     "stats": {
       "attackRange": 1,
@@ -15155,6 +15430,7 @@
     "id": 21557,
     "dbname": "ECO_DELETER",
     "name": "Deleter of Fire(Sky)",
+    "name_k": "화염의 공중 딜리터",
     "spawn": "bl_lava",
     "stats": {
       "attackRange": 1,
@@ -15209,6 +15485,7 @@
     "id": 21558,
     "dbname": "ECO_JAKK",
     "name": "Jakk of Fire",
+    "name_k": "화염의 잭",
     "spawn": "bl_lava",
     "stats": {
       "attackRange": 1,
@@ -15263,6 +15540,7 @@
     "id": 21559,
     "dbname": "ECO_LAVA_GOLEM",
     "name": "Lava Golem of Fire",
+    "name_k": "화염의 라바골렘",
     "spawn": "bl_lava",
     "stats": {
       "attackRange": 1,
@@ -15317,6 +15595,7 @@
     "id": 21560,
     "dbname": "ECO_MAJORUROS",
     "name": "Majoruros of Fire",
+    "name_k": "화염의 메이저우로스",
     "spawn": "bl_lava",
     "stats": {
       "attackRange": 1,
@@ -15371,6 +15650,7 @@
     "id": 21561,
     "dbname": "ECO_HYDRO",
     "name": "Hydrolancer of Fire",
+    "name_k": "화염의 하이드로랜서",
     "spawn": "bl_lava",
     "stats": {
       "attackRange": 2,
@@ -15425,6 +15705,7 @@
     "id": 21562,
     "dbname": "ECO_ACIDUS",
     "name": "Acidus of Fire",
+    "name_k": "화염의 어시더스",
     "spawn": "bl_lava",
     "stats": {
       "attackRange": 2,
@@ -15479,6 +15760,7 @@
     "id": 21563,
     "dbname": "ECO_DETALE",
     "name": "Ditardeurs of Fire",
+    "name_k": "화염의 디타르데우르스",
     "spawn": "bl_lava",
     "stats": {
       "attackRange": 1,
@@ -15533,6 +15815,7 @@
     "id": 21564,
     "dbname": "ECO_ICE_TITAN",
     "name": "Ice Titan of Iceberg",
+    "name_k": "빙하의 아이스 티탄",
     "spawn": "bl_ice",
     "stats": {
       "attackRange": 2,
@@ -15587,6 +15870,7 @@
     "id": 21565,
     "dbname": "ECO_SIROMA",
     "name": "Siroma of Iceberg",
+    "name_k": "빙하의 시로마",
     "spawn": "bl_ice",
     "stats": {
       "attackRange": 1,
@@ -15641,6 +15925,7 @@
     "id": 21566,
     "dbname": "ECO_SNOWIER",
     "name": "Snowier of Iceberg",
+    "name_k": "빙하의 스노이어",
     "spawn": "bl_ice",
     "stats": {
       "attackRange": 1,
@@ -15695,6 +15980,7 @@
     "id": 21567,
     "dbname": "ECO_CENTIPEDE",
     "name": "Centipede of Iceberg",
+    "name_k": "빙하의 센티페데",
     "spawn": "bl_ice",
     "stats": {
       "attackRange": 1,
@@ -15749,6 +16035,7 @@
     "id": 21568,
     "dbname": "ECO_AQUA_ELEMENTAL",
     "name": "Aqua Elemental of Iceberg",
+    "name_k": "빙하의 아쿠아 엘레멘탈",
     "spawn": "bl_ice",
     "stats": {
       "attackRange": 1,
@@ -15803,6 +16090,7 @@
     "id": 21569,
     "dbname": "ECO_ANGELGOLT",
     "name": "Angelgolt of Iceberg",
+    "name_k": "빙하의 엔젤골트",
     "spawn": "bl_ice",
     "stats": {
       "attackRange": 2,
@@ -15857,6 +16145,7 @@
     "id": 21570,
     "dbname": "ECO_RHYNCHO",
     "name": "Rhyncho of Prairie",
+    "name_k": "빙하의 링코",
     "spawn": "bl_ice",
     "stats": {
       "attackRange": 2,
@@ -15911,6 +16200,7 @@
     "id": 21571,
     "dbname": "ECO_KTULLANUX",
     "name": "Ktullanux of Iceberg",
+    "name_k": "빙하의 크툴라낙스",
     "spawn": "bl_ice",
     "stats": {
       "attackRange": 1,
@@ -15965,6 +16255,7 @@
     "id": 21572,
     "dbname": "ECO_ANCIENT_MUMMY",
     "name": "Ancient Mummy of Death",
+    "name_k": "죽음의 에인션트 미이라",
     "spawn": "bl_death",
     "stats": {
       "attackRange": 1,
@@ -16019,6 +16310,7 @@
     "id": 21573,
     "dbname": "ECO_LUDE",
     "name": "Lude of Death",
+    "name_k": "죽음의 루드",
     "spawn": "bl_death",
     "stats": {
       "attackRange": 1,
@@ -16073,6 +16365,7 @@
     "id": 21574,
     "dbname": "ECO_RAGGED_ZOMBIE",
     "name": "Ragged Zombie of Death",
+    "name_k": "죽음의 누더기 좀비",
     "spawn": "bl_death",
     "stats": {
       "attackRange": 9,
@@ -16127,6 +16420,7 @@
     "id": 21575,
     "dbname": "ECO_WRAITH",
     "name": "Wraith of Death",
+    "name_k": "죽음의 레이쓰",
     "spawn": "bl_death",
     "stats": {
       "attackRange": 1,
@@ -16181,6 +16475,7 @@
     "id": 21576,
     "dbname": "ECO_FLAME_SKULL",
     "name": "Flame Skull of Fire",
+    "name_k": "죽음의 플레임 스컬",
     "spawn": "bl_death",
     "stats": {
       "attackRange": 1,
@@ -16235,6 +16530,7 @@
     "id": 21577,
     "dbname": "ECO_BANSHEE",
     "name": "Banshee of Death",
+    "name_k": "죽음의 밴시",
     "spawn": "bl_death",
     "stats": {
       "attackRange": 2,
@@ -16289,6 +16585,7 @@
     "id": 21578,
     "dbname": "ECO_KNIGHT_OF_ABYSS",
     "name": "Knight of Abyss in Death",
+    "name_k": "죽음의 심연의기사",
     "spawn": "bl_death",
     "stats": {
       "attackRange": 2,
@@ -16343,6 +16640,7 @@
     "id": 21579,
     "dbname": "ECO_LORD_OF_DEATH",
     "name": "Lord of Death",
+    "name_k": "죽은자들의 주인",
     "spawn": "bl_death",
     "stats": {
       "attackRange": 1,
@@ -16397,6 +16695,7 @@
     "id": 21920,
     "dbname": "ECO_RUDO",
     "name": "Temple Rudo",
+    "name_k": "성전의 루도",
     "spawn": "bl_temple",
     "stats": {
       "attackRange": 1,
@@ -16451,6 +16750,7 @@
     "id": 21921,
     "dbname": "ECO_ARCHANGELING",
     "name": "Temple Arc Angeling",
+    "name_k": "성전의 아크엔젤링",
     "spawn": "bl_temple",
     "stats": {
       "attackRange": 1,
@@ -16505,6 +16805,7 @@
     "id": 21922,
     "dbname": "ECO_FAKE_ANGEL",
     "name": "Temple False Angel",
+    "name_k": "성전의 페이크 엔젤",
     "spawn": "bl_temple",
     "stats": {
       "attackRange": 2,
@@ -16559,6 +16860,7 @@
     "id": 21923,
     "dbname": "ECO_PLASMA_P",
     "name": "Temple Plasma",
+    "name_k": "성전의 플라즈마",
     "spawn": "bl_temple",
     "stats": {
       "attackRange": 1,
@@ -16613,6 +16915,7 @@
     "id": 21924,
     "dbname": "ECO_SOLACE",
     "name": "Temple Solace",
+    "name_k": "성전의 위로하는자",
     "spawn": "bl_temple",
     "stats": {
       "attackRange": 2,
@@ -16667,6 +16970,7 @@
     "id": 21925,
     "dbname": "ECO_ANOPHELES",
     "name": "Temple Anopheles",
+    "name_k": "성전의 위레스",
     "spawn": "bl_temple",
     "stats": {
       "attackRange": 1,
@@ -16721,6 +17025,7 @@
     "id": 21926,
     "dbname": "ECO_GRYPHON",
     "name": "Temple Gryphon",
+    "name_k": "성전의 그리폰",
     "spawn": "bl_temple",
     "stats": {
       "attackRange": 1,
@@ -16775,6 +17080,7 @@
     "id": 21927,
     "dbname": "ECO_RANDGRIS",
     "name": "Temple Valkyrie Randgris",
+    "name_k": "성전의 란드그리스",
     "spawn": "bl_temple",
     "stats": {
       "attackRange": 2,
@@ -16829,6 +17135,7 @@
     "id": 21928,
     "dbname": "ECO_COMODO",
     "name": "Venom Comodo",
+    "name_k": "맹독의 코모도",
     "spawn": "bl_venom",
     "stats": {
       "attackRange": 2,
@@ -16883,6 +17190,7 @@
     "id": 21929,
     "dbname": "ECO_POISON_TOAD",
     "name": "Venom Poison Toad",
+    "name_k": "맹독의 독두꺼비",
     "spawn": "bl_venom",
     "stats": {
       "attackRange": 3,
@@ -16937,6 +17245,7 @@
     "id": 21930,
     "dbname": "ECO_SIDE_WINDER",
     "name": "Venom Side Winder",
+    "name_k": "맹독의 사이드와인더",
     "spawn": "bl_venom",
     "stats": {
       "attackRange": 1,
@@ -16991,6 +17300,7 @@
     "id": 21931,
     "dbname": "ECO_CRAMP",
     "name": "Venom Cramp",
+    "name_k": "맹독의 크램프",
     "spawn": "bl_venom",
     "stats": {
       "attackRange": 1,
@@ -17045,6 +17355,7 @@
     "id": 21932,
     "dbname": "ECO_KUKRE",
     "name": "Venom Kukre",
+    "name_k": "맹독의 쿠크레",
     "spawn": "bl_venom",
     "stats": {
       "attackRange": 1,
@@ -17099,6 +17410,7 @@
     "id": 21933,
     "dbname": "ECO_NEPENTHES",
     "name": "Venom Nephentes",
+    "name_k": "맹독의 네펜데스",
     "spawn": "bl_venom",
     "stats": {
       "attackRange": 7,
@@ -17153,6 +17465,7 @@
     "id": 21934,
     "dbname": "ECO_ANGRA_MANTIS",
     "name": "Venom Angra Mantis",
+    "name_k": "맹독의 앙그라 맨티스",
     "spawn": "bl_venom",
     "stats": {
       "attackRange": 1,
@@ -17207,6 +17520,7 @@
     "id": 21935,
     "dbname": "ECO_VENOM_KIMERA",
     "name": "Enhanced Venomous Chimera",
+    "name_k": "맹독의 독성 강화 키메라",
     "spawn": "bl_venom",
     "stats": {
       "attackRange": 1,
@@ -17261,6 +17575,7 @@
     "id": 21936,
     "dbname": "ECO_NIGHTMARE",
     "name": "Soul Nightmare",
+    "name_k": "영혼의 나이트메어",
     "spawn": "bl_soul",
     "stats": {
       "attackRange": 1,
@@ -17315,6 +17630,7 @@
     "id": 21937,
     "dbname": "ECO_WHISPER",
     "name": "Soul Whisper",
+    "name_k": "영혼의 위스퍼",
     "spawn": "bl_soul",
     "stats": {
       "attackRange": 1,
@@ -17369,6 +17685,7 @@
     "id": 21938,
     "dbname": "ECO_MARIONETTE",
     "name": "Soul Marionette",
+    "name_k": "영혼의 마리오네트",
     "spawn": "bl_soul",
     "stats": {
       "attackRange": 1,
@@ -17423,6 +17740,7 @@
     "id": 21939,
     "dbname": "ECO_NOXIOUS",
     "name": "Soul Noxious",
+    "name_k": "영혼의 녹시어스",
     "spawn": "bl_soul",
     "stats": {
       "attackRange": 1,
@@ -17477,6 +17795,7 @@
     "id": 21940,
     "dbname": "ECO_THE_PAPER",
     "name": "Soul The Paper",
+    "name_k": "영혼의 더 페이퍼",
     "spawn": "bl_soul",
     "stats": {
       "attackRange": 1,
@@ -17531,6 +17850,7 @@
     "id": 21941,
     "dbname": "ECO_GAJOMART",
     "name": "Soul Gajomart",
+    "name_k": "영혼의 가조마르트",
     "spawn": "bl_soul",
     "stats": {
       "attackRange": 1,
@@ -17585,6 +17905,7 @@
     "id": 21942,
     "dbname": "ECO_ODIUM",
     "name": "Soul Odium of Thanatos",
+    "name_k": "영혼의 증오",
     "spawn": "bl_soul",
     "stats": {
       "attackRange": 1,
@@ -17639,6 +17960,7 @@
     "id": 21943,
     "dbname": "ECO_GLOOMUNDERNIGHT",
     "name": "Soul Gloom Under Night",
+    "name_k": "영혼의 그룸 언더 나이트",
     "spawn": "bl_soul",
     "stats": {
       "attackRange": 3,
@@ -17693,6 +18015,7 @@
     "id": 22140,
     "dbname": "BIO_ANOLIAN",
     "name": "Deep Anolian",
+    "name_k": "심층의 아놀리안",
     "spawn": "bl_depth1",
     "stats": {
       "attackRange": 1,
@@ -17747,6 +18070,7 @@
     "id": 22141,
     "dbname": "BIO_SKEL_ARCHER",
     "name": "Deep Skeleton Archer",
+    "name_k": "심층의 아쳐 스켈레톤",
     "spawn": "bl_depth1",
     "stats": {
       "attackRange": 10,
@@ -17801,6 +18125,7 @@
     "id": 22142,
     "dbname": "BIO_DRAGON_TAIL",
     "name": "Deep Dragon Tail",
+    "name_k": "심층의 드래곤 테일",
     "spawn": "bl_depth1",
     "stats": {
       "attackRange": 2,
@@ -17855,6 +18180,7 @@
     "id": 22143,
     "dbname": "BIO_LAVA_TOAD",
     "name": "Deep Lava Toad",
+    "name_k": "심층의 용암 두꺼비",
     "spawn": "bl_depth1",
     "stats": {
       "attackRange": 1,
@@ -17909,6 +18235,7 @@
     "id": 22144,
     "dbname": "BIO_LITTLE_FATUM",
     "name": "Deep Little Fatum",
+    "name_k": "심층의 꼬마 파툼",
     "spawn": "bl_depth1",
     "stats": {
       "attackRange": 2,
@@ -17963,6 +18290,7 @@
     "id": 22145,
     "dbname": "BIO_STING",
     "name": "Deep Sting",
+    "name_k": "심층의 스팅",
     "spawn": "bl_depth1",
     "stats": {
       "attackRange": 1,
@@ -18017,6 +18345,7 @@
     "id": 22146,
     "dbname": "BIO_EMPATHIZER",
     "name": "Deep Empathizer",
+    "name_k": "심층의 공감하는 자",
     "spawn": "bl_depth1",
     "stats": {
       "attackRange": 2,
@@ -18071,6 +18400,7 @@
     "id": 22147,
     "dbname": "BIO_FIRE_FRILLDORA",
     "name": "Deep Fire Frilldora",
+    "name_k": "심층의 화염 프릴도라",
     "spawn": "bl_depth1",
     "stats": {
       "attackRange": 1,
@@ -18125,6 +18455,7 @@
     "id": 22148,
     "dbname": "BIO_HOLY_FRUS",
     "name": "Deep Holy Frus",
+    "name_k": "심층의 홀리 프루스",
     "spawn": "bl_depth1",
     "stats": {
       "attackRange": 2,
@@ -18179,6 +18510,7 @@
     "id": 22149,
     "dbname": "BIO_HOLY_SKOGUL",
     "name": "Deep Holy Skogul",
+    "name_k": "심층의 홀리 스코글",
     "spawn": "bl_depth1",
     "stats": {
       "attackRange": 2,
@@ -18233,6 +18565,7 @@
     "id": 22150,
     "dbname": "BIO_KAPHA",
     "name": "Deep Kapha",
+    "name_k": "심층의 캇파",
     "spawn": "bl_depth1",
     "stats": {
       "attackRange": 1,
@@ -18287,6 +18620,7 @@
     "id": 22151,
     "dbname": "BIO_SKEL_SOLDIER",
     "name": "Deep Skeleton Soldier",
+    "name_k": "심층의 솔져 스켈레톤",
     "spawn": "bl_depth1",
     "stats": {
       "attackRange": 1,
@@ -18341,6 +18675,7 @@
     "id": 22152,
     "dbname": "BIO_PINGUICULA_D",
     "name": "Deep Dark Pinguicula",
+    "name_k": "심층의 핀귀큘라 다크",
     "spawn": "bl_depth1",
     "stats": {
       "attackRange": 2,
@@ -18395,6 +18730,7 @@
     "id": 22153,
     "dbname": "BIO_POM_SPIDER",
     "name": "Deep Pom Spider",
+    "name_k": "심층의 폼 스파이더",
     "spawn": "bl_depth1",
     "stats": {
       "attackRange": 1,
@@ -18449,6 +18785,7 @@
     "id": 22154,
     "dbname": "BIO_PRAY_GIVER",
     "name": "Deep Pray Giver",
+    "name_k": "심층의 축원하는 자",
     "spawn": "bl_depth1",
     "stats": {
       "attackRange": 2,
@@ -18503,6 +18840,7 @@
     "id": 22155,
     "dbname": "BIO_WOOD_GOBLIN",
     "name": "Deep Wood Goblin",
+    "name_k": "심층의 우드 고블린",
     "spawn": "bl_depth1",
     "stats": {
       "attackRange": 1,
@@ -18557,6 +18895,7 @@
     "id": 22252,
     "dbname": "BIO_DUNEYRR",
     "name": "Abyss Duneyrr",
+    "name_k": "심연의 두네이르",
     "spawn": "bl_depth2",
     "stats": {
       "attackRange": 2,
@@ -18611,6 +18950,7 @@
     "id": 22253,
     "dbname": "BIO_NAGA",
     "name": "Abyss Naga",
+    "name_k": "심연의 나가",
     "spawn": "bl_depth2",
     "stats": {
       "attackRange": 2,
@@ -18665,6 +19005,7 @@
     "id": 22254,
     "dbname": "BIO_ANCIENT_TREE",
     "name": "Abyss Ancient Tree",
+    "name_k": "심연의 에인션트 트리",
     "spawn": "bl_depth2",
     "stats": {
       "attackRange": 1,
@@ -18719,6 +19060,7 @@
     "id": 22255,
     "dbname": "BIO_DOLLOCARIS",
     "name": "Abyss Dollocaris",
+    "name_k": "심연의 돌로카리스",
     "spawn": "bl_depth2",
     "stats": {
       "attackRange": 1,
@@ -18773,6 +19115,7 @@
     "id": 22256,
     "dbname": "BIO_ICE_GARGOYLE",
     "name": "Abyss Ice Gargoyle",
+    "name_k": "심연의 냉동 가고일",
     "spawn": "bl_depth2",
     "stats": {
       "attackRange": 11,
@@ -18827,6 +19170,7 @@
     "id": 22257,
     "dbname": "BIO_FLAME_GHOST",
     "name": "Abyss Flame Ghost",
+    "name_k": "심연의 플레임 고스트",
     "spawn": "bl_depth2",
     "stats": {
       "attackRange": 3,
@@ -18881,6 +19225,7 @@
     "id": 22258,
     "dbname": "BIO_ACIDUS_",
     "name": "Abyss Acidus",
+    "name_k": "심연의 어시더스",
     "spawn": "bl_depth2",
     "stats": {
       "attackRange": 2,
@@ -18935,6 +19280,7 @@
     "id": 22259,
     "dbname": "BIO_MOROCC_1",
     "name": "Abyss Incarnation of Morocc",
+    "name_k": "심연의 모로크의 현신",
     "spawn": "bl_depth2",
     "stats": {
       "attackRange": 2,
@@ -18989,6 +19335,7 @@
     "id": 22260,
     "dbname": "BIO_SALAMANDER",
     "name": "Abyss Salamander",
+    "name_k": "심연의 살라만다",
     "spawn": "bl_depth2",
     "stats": {
       "attackRange": 2,
@@ -19043,6 +19390,7 @@
     "id": 22261,
     "dbname": "BIO_MOSKILLO",
     "name": "Abyss Mosquito",
+    "name_k": "심연의 모스킬로",
     "spawn": "bl_depth2",
     "stats": {
       "attackRange": 1,
@@ -19097,6 +19445,7 @@
     "id": 21295,
     "dbname": "EP18_ASH_TOAD",
     "name": "Ash Toad",
+    "name_k": "재두꺼비",
     "spawn": "oz_dun01",
     "stats": {
       "attackRange": 1,
@@ -19150,6 +19499,7 @@
     "id": 21296,
     "dbname": "EP18_RAKEHAND",
     "name": "Rakehand",
+    "name_k": "갈퀴손",
     "spawn": "oz_dun01",
     "stats": {
       "attackRange": 1,
@@ -19203,6 +19553,7 @@
     "id": 21297,
     "dbname": "EP18_SPARK",
     "name": "Spark",
+    "name_k": "불티",
     "spawn": "oz_dun01",
     "stats": {
       "attackRange": 1,
@@ -19256,6 +19607,7 @@
     "id": 21298,
     "dbname": "EP18_HOT_MOLAR",
     "name": "Hot Molar",
+    "name_k": "뜨거운 어금니",
     "spawn": "oz_dun02",
     "stats": {
       "attackRange": 1,
@@ -19309,6 +19661,7 @@
     "id": 21299,
     "dbname": "EP18_VOLCARING",
     "name": "Volcaring",
+    "name_k": "볼케링",
     "spawn": "oz_dun02",
     "stats": {
       "attackRange": 1,
@@ -19362,6 +19715,7 @@
     "id": 21300,
     "dbname": "EP18_LAVA_TOAD",
     "name": "Lava Toad",
+    "name_k": "용암 두꺼비",
     "spawn": "oz_dun02",
     "stats": {
       "attackRange": 1,
@@ -19415,6 +19769,7 @@
     "id": 21301,
     "dbname": "EP18_BURNING_FANG",
     "name": "Burning Fang",
+    "name_k": "불태우는 송곳니",
     "spawn": "oz_dun02",
     "stats": {
       "attackRange": 3,
@@ -19469,6 +19824,7 @@
     "id": 20175,
     "dbname": "EXTRA_JOKER",
     "name": "Extra Joker",
+    "name_k": "엑스트라 조커",
     "spawn": "clock_01",
     "stats": {
       "attackRange": 2,
@@ -19522,6 +19878,7 @@
     "id": 20176,
     "dbname": "ERZSEBET",
     "name": "Erzsebet",
+    "name_k": "에르제베트",
     "spawn": "clock_01",
     "stats": {
       "attackRange": 1,
@@ -19575,6 +19932,7 @@
     "id": 20177,
     "dbname": "JENIFFER",
     "name": "Jennifer",
+    "name_k": "제니퍼",
     "spawn": "clock_01",
     "stats": {
       "attackRange": 7,
@@ -19628,6 +19986,7 @@
     "id": 20178,
     "dbname": "GENERAL_ORC",
     "name": "General Orc",
+    "name_k": "장군 오크",
     "spawn": "clock_01",
     "stats": {
       "attackRange": 1,
@@ -19681,6 +20040,7 @@
     "id": 20179,
     "dbname": "SIEGLOUSE",
     "name": "Sieglouse",
+    "name_k": "지크라우스",
     "spawn": "clock_01",
     "stats": {
       "attackRange": 2,
@@ -19734,6 +20094,7 @@
     "id": 20118,
     "dbname": "GOBLIN_KING",
     "name": "Goblin King",
+    "name_k": "고블린 킹",
     "spawn": "clock_01",
     "stats": {
       "attackRange": 1,
@@ -21515,6 +21876,7 @@
     "id": 22177,
     "dbname": "MD_PRI_DRAGON_1",
     "name": "Floral Pegasus",
+    "name_k": "플로랄 페가수스",
     "spawn": "1@f_lake",
     "stats": {
       "attackRange": 2,
@@ -21569,6 +21931,7 @@
     "id": 22178,
     "dbname": "MD_PRI_DRAGON_2",
     "name": "Coral Marine",
+    "name_k": "코랄 마린",
     "spawn": "1@f_lake",
     "stats": {
       "attackRange": 3,
@@ -21623,6 +21986,7 @@
     "id": 22179,
     "dbname": "MD_PRI_DRAGON_3",
     "name": "Maple Tree",
+    "name_k": "메이플 트리",
     "spawn": "1@f_lake",
     "stats": {
       "attackRange": 2,
@@ -21677,6 +22041,7 @@
     "id": 22180,
     "dbname": "MD_PRI_DRAGON_4",
     "name": "Monarch Penguin",
+    "name_k": "모나크 펭귄",
     "spawn": "1@f_lake",
     "stats": {
       "attackRange": 3,
@@ -21731,6 +22096,7 @@
     "id": 21533,
     "dbname": "EP19_MD_JUNCEA_S",
     "name": "Simulation Juncea",
+    "name_k": "시뮬레이션 융케아",
     "spawn": "jor_tail2",
     "stats": {
       "attackRange": 2,
@@ -21785,6 +22151,7 @@
     "id": 21531,
     "dbname": "EP19_MD_AQUILA",
     "name": "Aquila (Economy Mode)",
+    "name_k": "아퀼라",
     "spawn": "jor_tail2",
     "stats": {
       "attackRange": 1,
@@ -21838,7 +22205,7 @@
   "221531": {
     "id": 221531,
     "dbname": "EP19_MD_AQUILA",
-    "name": "Aquila (Business Mode)",
+    "name": "아퀼라 (비지니스)",
     "spawn": "jor_tail2",
     "stats": {
       "attackRange": 1,
@@ -21892,7 +22259,7 @@
   "221532": {
     "id": 221532,
     "dbname": "EP19_MD_AQUILA",
-    "name": "Aquila (First Class Mode)",
+    "name": "아퀼라 (일등석)",
     "spawn": "jor_tail2",
     "stats": {
       "attackRange": 1,
@@ -21947,6 +22314,7 @@
     "id": 21523,
     "dbname": "EP19_ICE_STRAW",
     "name": "Ice Straw",
+    "name_k": "아이스 스트로우",
     "spawn": "jor_tail",
     "stats": {
       "attackRange": 1,
@@ -22000,6 +22368,7 @@
     "id": 21524,
     "dbname": "EP19_SHINING_SEAWEED",
     "name": "Shining Seaweed",
+    "name_k": "빛나는 미역",
     "spawn": "jor_tail",
     "stats": {
       "attackRange": 1,
@@ -22053,6 +22422,7 @@
     "id": 21520,
     "dbname": "EP19_LIMACINA",
     "name": "Limacina",
+    "name_k": "리마키나",
     "spawn": "jor_tail",
     "stats": {
       "attackRange": 7,
@@ -22106,6 +22476,7 @@
     "id": 21521,
     "dbname": "EP19_UNFROST_FLOWER",
     "name": "Unfrost Flower",
+    "name_k": "얼지 않는 꽃",
     "spawn": "jor_tail",
     "stats": {
       "attackRange": 1,
@@ -22159,6 +22530,7 @@
     "id": 21538,
     "dbname": "EP19_WASTED_RGAN_A",
     "name": "Discarded Primitive Rgan",
+    "name_k": "폐기된 원시르간",
     "spawn": "jor_ab01",
     "stats": {
       "attackRange": 1,
@@ -22212,6 +22584,7 @@
     "id": 21539,
     "dbname": "EP19_WASTED_RGAN_C",
     "name": "Discarded Intermediate Rgan",
+    "name_k": "폐기된 중급르간",
     "spawn": "jor_ab02",
     "stats": {
       "attackRange": 1,
@@ -22265,6 +22638,7 @@
     "id": 21540,
     "dbname": "EP19_CAVE_CALMARING",
     "name": "Cave Calmaring",
+    "name_k": "동굴 깔라마링",
     "spawn": "jor_ab01",
     "stats": {
       "attackRange": 1,
@@ -22318,6 +22692,7 @@
     "id": 21541,
     "dbname": "EP19_CAVE_FLOWER",
     "name": "Cave Flower",
+    "name_k": "동굴 부동화",
     "spawn": "jor_ab01",
     "stats": {
       "attackRange": 1,
@@ -22371,6 +22746,7 @@
     "id": 21542,
     "dbname": "EP19_HALLUCIGENIA",
     "name": "Hallucigenia",
+    "name_k": "할루키게니아",
     "spawn": "jor_ab02",
     "stats": {
       "attackRange": 1,
@@ -22424,6 +22800,7 @@
     "id": 21543,
     "dbname": "EP19_HALLUCIGENIA_BABY",
     "name": "Hallucigenia Baby",
+    "name_k": "새끼 할루키게니아",
     "spawn": "jor_ab01",
     "stats": {
       "attackRange": 1,
@@ -22477,6 +22854,7 @@
     "id": 21544,
     "dbname": "EP19_ONE_EYE_DOLLOCARIS",
     "name": "One Eye Dollocaris",
+    "name_k": "외눈 돌로카리스",
     "spawn": "jor_ab02",
     "stats": {
       "attackRange": 1,
@@ -22530,6 +22908,7 @@
     "id": 21545,
     "dbname": "EP19_DOLLOCARIS",
     "name": "Two Eyes Dollocaris",
+    "name_k": "쌍눈 돌로카리스",
     "spawn": "jor_ab02",
     "stats": {
       "attackRange": 1,
@@ -22583,6 +22962,7 @@
     "id": 21600,
     "dbname": "EP19_RE_RGAN_E",
     "name": "Renovated Superior Rgan",
+    "name_k": "개조된 상급 르간",
     "spawn": "jor_ab01",
     "stats": {
       "attackRange": 1,
@@ -22636,6 +23016,7 @@
     "id": 21522,
     "dbname": "EP19_CALMARING",
     "name": "Calmaring",
+    "name_k": "깔라마링",
     "spawn": "jor_tail",
     "stats": {
       "attackRange": 1,
@@ -22689,6 +23070,7 @@
     "id": 21601,
     "dbname": "EP19_ET_RGAN_D",
     "name": "Entangled Intermediate Rgan",
+    "name_k": "휘말린 중급 르간",
     "spawn": "jor_ab02",
     "stats": {
       "attackRange": 1,
@@ -22742,6 +23124,7 @@
     "id": 21526,
     "dbname": "EP19_RGAN_A",
     "name": "Primitive Rgan",
+    "name_k": "원시 르간",
     "spawn": "jor_dun01",
     "stats": {
       "attackRange": 1,
@@ -22795,6 +23178,7 @@
     "id": 21527,
     "dbname": "EP19_RGAN_B",
     "name": "Lowest Rgan",
+    "name_k": "최하급 르간",
     "spawn": "jor_dun01",
     "stats": {
       "attackRange": 1,
@@ -22848,6 +23232,7 @@
     "id": 21528,
     "dbname": "EP19_RGAN_C",
     "name": "Junior Rgan",
+    "name_k": "하급 르간",
     "spawn": "jor_dun01",
     "stats": {
       "attackRange": 1,
@@ -22901,6 +23286,7 @@
     "id": 21529,
     "dbname": "EP19_RGAN_D",
     "name": "Intermediate Rgan",
+    "name_k": "중급 르간",
     "spawn": "jor_dun01",
     "stats": {
       "attackRange": 1,
@@ -22954,6 +23340,7 @@
     "id": 21599,
     "dbname": "EP19_HEARTHUNTER_AT",
     "name": "Heart Hunter AT",
+    "name_k": "하트헌터AT",
     "spawn": "jor_dun01",
     "stats": {
       "attackRange": 1,
