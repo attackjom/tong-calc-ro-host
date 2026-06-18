@@ -262849,7 +262849,7 @@
     "name": "6th Anniversary Ayothaya Ring [1]",
     "unidName": "Accessory",
     "resName": "",
-    "description": "แหวนที่ถูกสร้างขึ้นเพื่อฉลิมฉลองการครบรอบปีที่ 6\nเต็มไปด้วยพลังแห่งคำอวยพรและความทรงจำของการผจญภัยที่ผ่านมา\n\n[สามารถ Refine ได้]\nAll State +6, All Trait Status +6.\nทุก ๆ การอัพเกรด 1 ขั้น เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 1% MATK + 1%.\nเมื่ออัพเกรดถึงขั้น 7, P.ATK, S.MATK + 3.\nเมื่ออัพเกรดถึงขั้น 9, ลด Global Cooldown 10%\nเมื่ออัพเกรดถึงขั้น 12,\nเพิ่ม Damage ทางกายภาพ / เวทมนตร์ต่อศัตรูทุกเผ่า (ยกเว้น Player) 10%\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] ลดระยะเวลาร่ายเวทแบบคงที่ 0.3 วินาที\n[Grade C] เพิ่มความต้านทาน Res, MRes 10\n[Grade B] เพิ่ม Res, MRes 60, Perfect Dodge +20\n[Grade A] เพิ่มอัตราการได้รับ Item 3%, เพิกเฉยพลังป้องกันทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า (ยกเว้น Player) 40%\nประเภท : ^777777Accessory^000000  พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Accessory (Left)^000000 น้ำหนัก : ^77777720^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nแหวนที่ถูกสร้างขึ้นเพื่อเฉลิมฉลองการครบรอบปีที่ 6\nเต็มไปด้วยพลังแห่งคำอวยพรและความทรงจำของการผจญภัยที่ผ่านมา\n\n[สามารถ Refine ได้]\nAll State + 6, All Trait Status + 6\nทุก ๆ การอัพเกรด 1 ขั้น, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 1%, MATK + 1%\nเมื่ออัพเกรดถึงขั้น 7, P.ATK, S.MATK + 3\nเมื่ออัพเกรดถึงขั้น 9, ลด Global Cooldown 10%\nเมื่ออัพเกรดถึงขั้น 12, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 10% (ยกเว้น Player)\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] ลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที\n[Grade C] เพิ่มความต้านทานต่อศัตรูประเภท Boss 10%\n[Grade B] RES/MRES + 60, Perfect Dodge + 20\n[Grade A] เพิ่มอัตรา Drop 3%, เพิกเฉยต่อพลังป้องกันทางกายภาพ/เวทมนตร์ของศัตรูทุกเผ่า 40% (ยกเว้น Player)\nประเภท : ^777777Accessory (Left)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 511,
@@ -262890,27 +262890,19 @@
       "acd": [
         "9===10"
       ],
-      "p_class_normal": [
+      "p_race_all": [
         "12===10"
       ],
-      "p_class_boss": [
-        "12===10"
-      ],
-      "m_class_normal": [
-        "12===10"
-      ],
-      "m_class_boss": [
+      "m_race_all": [
         "12===10"
       ],
       "fct": [
         "GRADE[me==D]===0.3"
       ],
       "res": [
-        "GRADE[me==C]===10",
         "GRADE[me==B]===60"
       ],
       "mres": [
-        "GRADE[me==C]===10",
         "GRADE[me==B]===60"
       ],
       "perfectDodge": [
@@ -263898,9 +263890,11 @@
         "EQUIP[4th Anniversary Card]6"
       ],
       "atk": [
+        "166",
         "EQUIP[1st Anniversary Card&&2nd Anniversary Card&&4th Anniversary Card]60"
       ],
       "matk": [
+        "166",
         "EQUIP[1st Anniversary Card&&2nd Anniversary Card&&4th Anniversary Card]60"
       ],
       "p_race_all": [
@@ -263911,6 +263905,9 @@
       ],
       "acd": [
         "EQUIP[1st Anniversary Card&&2nd Anniversary Card&&4th Anniversary Card]6"
+      ],
+      "allTrait": [
+        "16"
       ]
     }
   },
