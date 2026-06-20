@@ -277297,5 +277297,74 @@
         "GRADE[weapon==A]2---2"
       ]
     }
+  },
+  "3223700": {
+    "id": 3223700,
+    "aegisName": "Celine_Brooch_KRO",
+    "flavorText": null,
+    "name": "Celine's Brooch KRO [1]",
+    "unidName": null,
+    "resName": "Celine_Brooch",
+    "unidResName": null,
+    "description": "Matk + 5%.\nReduces variable casting time by 10%.\n\nWhen equipped with Evil Spirit Glove.\nAtk, Matk + 50, ASPD + 1.\n\nWhen equipped with Celine's Ribbon,\nReduces fixed casting time by 0.3 second.\nMatk + 10 per refine rate of Celine's Ribbon.\n\nIf refine rate of Celine's Ribbon is 7 or higher, increases magical damage against demihuman and demon race monsters by 10%.\nIf refine rate of Celine's Ribbon is 9 or higher, increases water, wind, earth, fire and neutral magical damage by 10%.\nIf refine rate of Celine's Ribbon is 11 or higher, increases magical damage against boss monsters by 20%.\n\nClass: ^777777Accessory^000000 Defense: ^7777770^000000\nWeight: ^77777750^000000\nRequired Level: ^777777100^000000\nJobs: ^777777All^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 517,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 50,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matkPercent": [
+        "5"
+      ],
+      "vct": [
+        "10"
+      ],
+      "atk": [
+        "EQUIP[Evilspirit Gloves]50"
+      ],
+      "matk": [
+        "EQUIP[Evilspirit Gloves]50",
+        "EQUIP[Celine's Ribbon]REFINE[headUpper==1]---10"
+      ],
+      "aspd": [
+        "EQUIP[Evilspirit Gloves]1"
+      ],
+      "fct": [
+        "EQUIP[Celine's Ribbon]0.3"
+      ],
+      "m_race_demihuman": [
+        "EQUIP[Celine's Ribbon]REFINE[headUpper==7]===10"
+      ],
+      "m_race_demon": [
+        "EQUIP[Celine's Ribbon]REFINE[headUpper==7]===10"
+      ],
+      "m_my_element_water": [
+        "EQUIP[Celine's Ribbon]REFINE[headUpper==9]===10"
+      ],
+      "m_my_element_wind": [
+        "EQUIP[Celine's Ribbon]REFINE[headUpper==9]===10"
+      ],
+      "m_my_element_earth": [
+        "EQUIP[Celine's Ribbon]REFINE[headUpper==9]===10"
+      ],
+      "m_my_element_fire": [
+        "EQUIP[Celine's Ribbon]REFINE[headUpper==9]===10"
+      ],
+      "m_my_element_neutral": [
+        "EQUIP[Celine's Ribbon]REFINE[headUpper==9]===10"
+      ],
+      "m_class_boss": [
+        "EQUIP[Celine's Ribbon]REFINE[headUpper==11]===20"
+      ]
+    }
   }
 }
