@@ -233682,7 +233682,7 @@
     ],
     "script": {
       "atk": [
-        "2---120",
+        "120",
         "2---15",
         "10===25"
       ],
@@ -233693,12 +233693,13 @@
       ],
       "range": [
         "7===5",
-        "EQUIP[Glacier Ring&&Glacier Pendant]===10"
+        "EQUIP[Glacier Ring&&Glacier Pendant]===10",
+        "EQUIP[Soul Magic Ring&&Soul Rune Ring]===15"
       ],
-      "aspd": [
+      "aspdPercent": [
         "7===10"
       ],
-      "patk": [
+      "pAtk": [
         "9===3"
       ],
       "def": [
