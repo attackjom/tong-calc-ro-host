@@ -263917,6 +263917,80 @@
       ]
     }
   },
+  "3300798": {
+    "id": 3300798,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "6th Anniversary Card (No Event)",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nการ์ดที่ถูกสร้างขึ้นเพื่อฉลองครบรอบ 6 ปีของการเดินทางในโลก Midgard ตลอดเวลาที่ผ่านมานักผจญภัยมากมายได้พบทั้งความท้าทาย มิตรภาพ และ เรื่องราวที่น่าจดจำ\nการ์ดใบนี้จึงถูกมอบขึ้นเพื่อเป็นเหมือนเครื่องหมายแห่งความทรงจำให้ทุกคนได้นึกถึงช่วงเวลาที่เคยต่อสู้ ล่ามอนสเตอร์ และผจญภัยร่วมกัน\nว่ากันว่าพลังของการ์ดจะยิ่งตอบสนองมากขึ้นเมื่อถูกสวมใส่ร่วมกับการ์ดฉลองครบรอบปีอื่น ๆ ราวกับเรื่องราวจากแต่ละปีค่อย ๆ ถูกนำมารวมกันอยู่ในการ์ดใบเดียว\n\nP.ATK, S.MATK + 6,\nMHP + 666,\nMSP + 66\n\nเมื่อสวมใส่ร่วมกับ 1st Anniversary Card,\nAll Status + 6,\nลดระยะเวลาร่ายแบบแปรผัน 10%\n\nเมื่อสวมใส่ร่วมกับ 2nd Anniversary Card,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกทุกขนาด 6%\n\nเมื่อสวมใส่ร่วมกับ 4th Anniversary Card,\nRES, MRES + 6,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภท Boss 6%\n\nเมื่อสวมใส่ร่วมกับ 1st Anniversary Card, 2nd Anniversary Card, 4th Anniversary Card,\nATK, MATK + 60,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 6% (ยกเว้น Player),\nลด Global Cooldown 6%\n \nประเภท : ^777777Card^000000\nใช้กับ : ^777777Headgear^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 769,
+    "canGrade": false,
+    "script": {
+      "pAtk": [
+        "6"
+      ],
+      "sMatk": [
+        "6"
+      ],
+      "hp": [
+        "666"
+      ],
+      "sp": [
+        "66"
+      ],
+      "allStatus": [
+        "EQUIP[1st Anniversary Card]6"
+      ],
+      "vct": [
+        "EQUIP[1st Anniversary Card]10"
+      ],
+      "p_size_all": [
+        "EQUIP[2nd Anniversary Card]6"
+      ],
+      "m_size_all": [
+        "EQUIP[2nd Anniversary Card]6"
+      ],
+      "res": [
+        "EQUIP[4th Anniversary Card]6"
+      ],
+      "mres": [
+        "EQUIP[4th Anniversary Card]6"
+      ],
+      "p_class_boss": [
+        "EQUIP[4th Anniversary Card]6"
+      ],
+      "m_class_boss": [
+        "EQUIP[4th Anniversary Card]6"
+      ],
+      "atk": [
+        "EQUIP[1st Anniversary Card&&2nd Anniversary Card&&4th Anniversary Card]60"
+      ],
+      "matk": [
+        "EQUIP[1st Anniversary Card&&2nd Anniversary Card&&4th Anniversary Card]60"
+      ],
+      "p_race_all": [
+        "EQUIP[1st Anniversary Card&&2nd Anniversary Card&&4th Anniversary Card]6"
+      ],
+      "m_race_all": [
+        "EQUIP[1st Anniversary Card&&2nd Anniversary Card&&4th Anniversary Card]6"
+      ],
+      "acd": [
+        "EQUIP[1st Anniversary Card&&2nd Anniversary Card&&4th Anniversary Card]6"
+      ]
+    }
+  },
   "315286": {
     "id": 315286,
     "aegisName": "Orrivane_Enc_WH",
