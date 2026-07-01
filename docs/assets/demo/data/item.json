@@ -278129,9 +278129,6 @@
       "fct": [
         "GRADE[me==D]===0.5"
       ],
-      "m_class_boss": [
-        "GRADE[me==C]===15"
-      ],
       "res": [
         "GRADE[me==B]===120"
       ],
