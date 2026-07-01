@@ -278337,5 +278337,752 @@
         "7"
       ]
     }
+  },
+  "401446": {
+    "id": 401446,
+    "aegisName": "26_7_Circlet_EM",
+    "flavorText": null,
+    "name": "Radiant Rune Circlet (Elemental Master) [1]",
+    "unidName": null,
+    "resName": "어센드크라운",
+    "unidResName": null,
+    "description": "A circlet engraved with radiant runes.\n\nFor every 2 refine levels, MATK +5.\nFor every 3 refine levels, MATK +2% and Water/Earth magic damage +2%.\nFor every 4 refine levels, Venom Swamp, Lightning Land, Terra Drive, and Diamond Storm damage +5%.\nAt +7 refine, Water/Earth magic damage +10%.\nAt +9 refine, S.MATK +5.\nAt +11 refine, Fixed Cast Time -0.5 sec.\n\nWhen equipped with Radiant Wand: Terra Drive and Diamond Storm damage +15%, Water/Earth magic damage +15%.\nIf Radiant Rune Circlet (Elemental Master) and Radiant Wand have combined refine 24 or more, both are Grade A or higher, and Venom Swamp is learned at Lv.5 or higher: Terra Drive cooldown +0.35 sec, and casting Terra Drive additionally triggers Venom Swamp Lv.5.\nIf Lightning Land is learned at Lv.5 or higher: Diamond Storm cooldown +0.35 sec, and casting Diamond Storm additionally triggers Lightning Land Lv.5.\n(Venom Swamp and Lightning Land trigger centered on the caster.)\n\n[Grade Bonus Effects]\n[D Grade] S.MATK +5.\n[C Grade] Terra Drive and Diamond Storm damage +10%.\n[B Grade] Magic damage to all size targets +10%.\n[A Grade] Magic damage to all element targets +10%.\nType: Headgear | DEF: 50\nPosition: Upper | Weight: 0\nArmor Level: 2\nRequired Level: 240\nClass: Elemental Master",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 50,
+    "weight": 0,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ElementalMaster"
+    ],
+    "script": {
+      "matk": [
+        "2---5"
+      ],
+      "matkPercent": [
+        "3---2"
+      ],
+      "m_my_element_water": [
+        "3---2",
+        "7===10",
+        "EQUIP[Radiant Wand]===15"
+      ],
+      "m_my_element_earth": [
+        "3---2",
+        "7===10",
+        "EQUIP[Radiant Wand]===15"
+      ],
+      "Venom Swamp": [
+        "4---5"
+      ],
+      "Lightning Land": [
+        "4---5"
+      ],
+      "Terra Drive": [
+        "4---5",
+        "EQUIP[Radiant Wand]===15",
+        "GRADE[me==C]===10"
+      ],
+      "Diamond Storm": [
+        "4---5",
+        "EQUIP[Radiant Wand]===15",
+        "GRADE[me==C]===10"
+      ],
+      "sMatk": [
+        "9===5",
+        "GRADE[me==D]===5"
+      ],
+      "fct": [
+        "11===0.5"
+      ],
+      "cd__Terra Drive": [
+        "EQUIP[Radiant Wand]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL[Venom Swamp==5]===-0.35"
+      ],
+      "cd__Diamond Storm": [
+        "EQUIP[Radiant Wand]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL[Lightning Land==5]===-0.35"
+      ],
+      "m_size_all": [
+        "GRADE[me==B]===10"
+      ],
+      "m_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "401447": {
+    "id": 401447,
+    "aegisName": "26_7_Circlet_SH",
+    "flavorText": null,
+    "name": "Radiant Rune Circlet (Spirit Handler) [1]",
+    "unidName": null,
+    "resName": "어센드크라운",
+    "unidResName": null,
+    "description": "A circlet engraved with radiant runes.\n\nFor every 2 refine levels, MATK +5.\nFor every 3 refine levels, MATK +2% and All-element magic damage +2%.\nFor every 4 refine levels, Hyunrok Breeze and Hyunrok Spirit Power damage +5%.\nAt +7 refine, All-element magic damage +10%.\nAt +9 refine, S.MATK +5.\nAt +11 refine, Fixed Cast Time -0.5 sec.\n\nWhen equipped with Radiant Foxtail: Hyunrok Spirit Power damage +40%, All-element magic damage +15%.\nIf Radiant Rune Circlet (Spirit Handler) and Radiant Foxtail have combined refine 24 or more, both are Grade A or higher, and Hyunrok Spirit Power is learned at Lv.7 or higher: Hyunrok Spirit Power cooldown -0.3 sec and All-element magic damage +10%.\n\n[Grade Bonus Effects]\n[D Grade] S.MATK +5.\n[C Grade] Hyunrok Spirit Power damage +10%.\n[B Grade] Magic damage to all size targets +10%.\n[A Grade] Magic damage to all element targets +10%.\nType: Headgear | DEF: 50\nPosition: Upper | Weight: 0\nArmor Level: 2\nRequired Level: 240\nClass: Spirit Handler",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 50,
+    "weight": 0,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "SpiritHandler"
+    ],
+    "script": {
+      "matk": [
+        "2---5"
+      ],
+      "matkPercent": [
+        "3---2"
+      ],
+      "m_my_element_all": [
+        "3---2",
+        "7===10",
+        "EQUIP[Radiant Foxtail]===15",
+        "EQUIP[Radiant Foxtail]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL[Hyunrok Spirit Power==7]===10"
+      ],
+      "Hyunrok Breeze": [
+        "4---5"
+      ],
+      "Hyunrok Spirit Power": [
+        "4---5",
+        "EQUIP[Radiant Foxtail]===40",
+        "GRADE[me==C]===10"
+      ],
+      "sMatk": [
+        "9===5",
+        "GRADE[me==D]===5"
+      ],
+      "fct": [
+        "11===0.5"
+      ],
+      "cd__Hyunrok Spirit Power": [
+        "EQUIP[Radiant Foxtail]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL[Hyunrok Spirit Power==7]===0.3"
+      ],
+      "m_size_all": [
+        "GRADE[me==B]===10"
+      ],
+      "m_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "401448": {
+    "id": 401448,
+    "aegisName": "26_7_Circlet_SKE",
+    "flavorText": null,
+    "name": "Radiant Rune Circlet (Sky Emperor) [1]",
+    "unidName": null,
+    "resName": "어센드크라운",
+    "unidResName": null,
+    "description": "A circlet engraved with radiant runes.\n\nFor every 2 refine levels, ATK +3 and CRI +2.\nFor every 3 refine levels, ATK +2% and Critical Damage +3%.\nFor every 4 refine levels, Sky Sun and Noon Blast damage +5%.\nAt +7 refine, Melee physical damage +10%.\nAt +9 refine, P.ATK +5.\nAt +11 refine, Global Cooldown -10%.\n\nWhen equipped with Radiant Grimoire: Noon Blast damage +40% and Critical Damage +15%.\nIf Radiant Rune Circlet (Sky Emperor) and Radiant Grimoire have combined refine 24 or more, both are Grade A or higher, and Sky Sun is learned at Lv.5 or higher: Noon Blast cooldown -0.2 sec, and casting Noon Blast additionally triggers Sky Sun Lv.5.\n(Sky Sun triggers while Enchanting Sky is active.)\n\n[Grade Bonus Effects]\n[D Grade] P.ATK +5.\n[C Grade] Noon Blast damage +10%.\n[B Grade] Physical damage to all size targets +10%.\n[A Grade] Physical damage to all element targets +10%.\nType: Headgear | DEF: 50\nPosition: Upper | Weight: 0\nArmor Level: 2\nRequired Level: 240\nClass: Sky Emperor",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 50,
+    "weight": 0,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "SkyEmperor"
+    ],
+    "script": {
+      "atk": [
+        "2---3"
+      ],
+      "cri": [
+        "2---2"
+      ],
+      "atkPercent": [
+        "3---2"
+      ],
+      "criDmg": [
+        "3---3",
+        "EQUIP[Radiant Grimoire]===15"
+      ],
+      "Sky Sun": [
+        "4---5"
+      ],
+      "Noon Blast": [
+        "4---5",
+        "EQUIP[Radiant Grimoire]===40",
+        "GRADE[me==C]===10"
+      ],
+      "melee": [
+        "7===10"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==D]===5"
+      ],
+      "acd": [
+        "11===10"
+      ],
+      "cd__Noon Blast": [
+        "EQUIP[Radiant Grimoire]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL[Sky Sun==5]===0.2"
+      ],
+      "p_size_all": [
+        "GRADE[me==B]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "470448": {
+    "id": 470448,
+    "aegisName": "Boots_Of_Fighter",
+    "flavorText": null,
+    "name": "Boots of Warrior [1]",
+    "unidName": null,
+    "resName": "Juggernaut",
+    "unidResName": null,
+    "description": "Boots worn by warriors who roamed countless battlefields.\n\nMHP +5%, MSP +5%.\nFor every 2 refine levels: ATK +10, DEF +5.\nAt +7 refine: DEF +125, ASPD increased (After-Cast Delay -10%).\nAt +9 refine: P.ATK +5, Melee and Ranged Physical Damage +7%.\nAt +11 refine: ATK +10%, and additional Melee and Ranged Physical Damage +8%.\nAt +12 refine: Hit-based Physical Damage +10%, Variable Cast Time -10%.\n\nWhen equipped with Manteau of Warrior: Melee and Ranged Physical Damage +10%, Hit-based Physical Damage +10%.\nIf Manteau of Warrior and Boots of Warrior are both Grade A or higher: Guided Attack chance +15%, Physical damage to all element targets +15%.\n\n[Grade Bonus Effects]\n[D Grade] POW +5, CON +5.\n[C Grade] ATK +7%, P.ATK +7.\n[B Grade] Global Cooldown -3%, Fixed Cast Time -1 sec.\n[A Grade] Every 2 refine levels, Physical damage to all size targets +3%.\nType: Shoes | DEF: 120\nWeight: 200\nArmor Level: 2\nRequired Level: 250\nClass: All Classes",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 516,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 120,
+    "weight": 200,
+    "requiredLevel": 250,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "hpPercent": [
+        "5"
+      ],
+      "spPercent": [
+        "5"
+      ],
+      "atk": [
+        "2---10"
+      ],
+      "def": [
+        "2---5",
+        "7===125"
+      ],
+      "aspdPercent": [
+        "7===10"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==C]===7"
+      ],
+      "melee": [
+        "9===7",
+        "11===8",
+        "EQUIP[Manteau of Warrior]===10"
+      ],
+      "range": [
+        "9===7",
+        "11===8",
+        "EQUIP[Manteau of Warrior]===10"
+      ],
+      "atkPercent": [
+        "11===10",
+        "GRADE[me==C]===7"
+      ],
+      "hitDmg": [
+        "12===10",
+        "EQUIP[Manteau of Warrior]===10"
+      ],
+      "vct": [
+        "12===10"
+      ],
+      "pow": [
+        "GRADE[me==D]===5"
+      ],
+      "con": [
+        "GRADE[me==D]===5"
+      ],
+      "acd": [
+        "GRADE[me==B]===3"
+      ],
+      "fct": [
+        "GRADE[me==B]===1"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]2---3"
+      ],
+      "perfectHit": [
+        "EQUIP[Manteau of Warrior]GRADES[garment==A&&boot==A]===15"
+      ],
+      "p_element_all": [
+        "EQUIP[Manteau of Warrior]GRADES[garment==A&&boot==A]===15"
+      ]
+    }
+  },
+  "470449": {
+    "id": 470449,
+    "aegisName": "Boots_Of_Champion",
+    "flavorText": null,
+    "name": "Boots of Champion [1]",
+    "unidName": null,
+    "resName": "Magia_Vita",
+    "unidResName": null,
+    "description": "Boots worn by those who sat in the champion's seat through great endurance.\n\nMHP +5%, MSP +5%.\nFor every 2 refine levels: MHP +1%, MSP +1%.\nAt +7 refine: DEF +125, ASPD increased (After-Cast Delay -10%).\nAt +9 refine: P.ATK +5, Melee and Ranged Physical Damage +7%.\nAt +11 refine: ATK +10%, and additional Melee and Ranged Physical Damage +8%.\nAt +12 refine: MSP +5%, Variable Cast Time -10%.\n\nWhen equipped with Manteau of Champion: Melee and Ranged Physical Damage +10%, MHP +5%.\nIf Manteau of Champion and Boots of Champion are both Grade A or higher: Guided Attack chance +15%, Physical damage to all element targets +15%.\n\n[Grade Bonus Effects]\n[D Grade] POW +5, CON +5.\n[C Grade] ATK +7%, P.ATK +7.\n[B Grade] Global Cooldown -3%, Fixed Cast Time -1 sec.\n[A Grade] Every 2 refine levels, Physical damage to all size targets +3%.\nType: Shoes | DEF: 120\nWeight: 200\nArmor Level: 2\nRequired Level: 250\nClass: All Classes",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 516,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 120,
+    "weight": 200,
+    "requiredLevel": 250,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "hpPercent": [
+        "5",
+        "2---1",
+        "EQUIP[Manteau of Champion]===5"
+      ],
+      "spPercent": [
+        "5",
+        "2---1",
+        "12===5"
+      ],
+      "def": [
+        "7===125"
+      ],
+      "aspdPercent": [
+        "7===10"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==C]===7"
+      ],
+      "melee": [
+        "9===7",
+        "11===8",
+        "EQUIP[Manteau of Champion]===10"
+      ],
+      "range": [
+        "9===7",
+        "11===8",
+        "EQUIP[Manteau of Champion]===10"
+      ],
+      "atkPercent": [
+        "11===10",
+        "GRADE[me==C]===7"
+      ],
+      "vct": [
+        "12===10"
+      ],
+      "pow": [
+        "GRADE[me==D]===5"
+      ],
+      "con": [
+        "GRADE[me==D]===5"
+      ],
+      "acd": [
+        "GRADE[me==B]===3"
+      ],
+      "fct": [
+        "GRADE[me==B]===1"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]2---3"
+      ],
+      "perfectHit": [
+        "EQUIP[Manteau of Champion]GRADES[garment==A&&boot==A]===15"
+      ],
+      "p_element_all": [
+        "EQUIP[Manteau of Champion]GRADES[garment==A&&boot==A]===15"
+      ]
+    }
+  },
+  "540142": {
+    "id": 540142,
+    "aegisName": "26_7_Book_SKE",
+    "flavorText": null,
+    "name": "Radiant Grimoire [2]",
+    "unidName": null,
+    "resName": "26_7_Book_SKE",
+    "unidResName": null,
+    "description": "A grimoire burning with radiance.\n\nCRI +5, Sky Sun damage +15%.\nFor every 3 refine levels: ATK +30, Critical Damage +2%.\nFor every 4 refine levels: Sky Sun damage +7%.\nAt +7 refine: Critical Damage +25%.\nAt +9 refine: CRI +10, P.ATK +5.\nAt +11 refine: CRI +5, additional Sky Sun damage +10%.\n\n[Grade Bonus Effects]\n[D Grade] ATK +5%.\n[C Grade] Sky Sun damage +10%.\n[B Grade] ASPD increased (After-Cast Delay -10%).\n[A Grade] P.ATK +10.\nType: Book | ATK: 220\nWeight: 180\nWeapon Level: 5\nRequired Level: 240\nClass: Sky Emperor",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 271,
+    "itemLevel": 5,
+    "attack": 220,
+    "defense": null,
+    "weight": 180,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "SkyEmperor"
+    ],
+    "script": {
+      "cri": [
+        "5",
+        "9===10",
+        "11===5"
+      ],
+      "Sky Sun": [
+        "15",
+        "4---7",
+        "11===10",
+        "GRADE[me==C]===10"
+      ],
+      "atk": [
+        "3---30"
+      ],
+      "criDmg": [
+        "3---2",
+        "7===25"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==A]===10"
+      ],
+      "atkPercent": [
+        "GRADE[me==D]===5"
+      ],
+      "acd": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "550227": {
+    "id": 550227,
+    "aegisName": "26_7_Wand_EM",
+    "flavorText": null,
+    "name": "Radiant Wand [2]",
+    "unidName": null,
+    "resName": "26_7_Wand_EM",
+    "unidResName": null,
+    "description": "A wand burning with radiance.\n\nIndestructible.\nMATK +230.\nVariable Cast Time -5%, Venom Swamp and Lightning Land damage +15%.\nFor every 3 refine levels: MATK +30, Poison/Wind magic damage +2%.\nFor every 4 refine levels: Venom Swamp and Lightning Land damage +7%.\nAt +7 refine: Poison/Wind magic damage +25%.\nAt +9 refine: Variable Cast Time -10%, S.MATK +5.\nAt +11 refine: additional Venom Swamp and Lightning Land damage +15%.\n\n[Grade Bonus Effects]\n[D Grade] MATK +5%.\n[C Grade] Venom Swamp and Lightning Land damage +10%.\n[B Grade] Global Cooldown -10%.\n[A Grade] S.MATK +10.\nType: One-Handed Rod | ATK: 110\nWeight: 140\nWeapon Level: 5\nRequired Level: 240\nClass: Elemental Master",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 265,
+    "itemLevel": 5,
+    "attack": 110,
+    "defense": null,
+    "weight": 140,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ElementalMaster"
+    ],
+    "script": {
+      "matk": [
+        "230",
+        "3---30"
+      ],
+      "vct": [
+        "5",
+        "9===10"
+      ],
+      "m_my_element_poison": [
+        "3---2",
+        "7===25"
+      ],
+      "m_my_element_wind": [
+        "3---2",
+        "7===25"
+      ],
+      "Venom Swamp": [
+        "15",
+        "4---7",
+        "11===15",
+        "GRADE[me==C]===10"
+      ],
+      "Lightning Land": [
+        "15",
+        "4---7",
+        "11===15",
+        "GRADE[me==C]===10"
+      ],
+      "sMatk": [
+        "9===5",
+        "GRADE[me==A]===10"
+      ],
+      "matkPercent": [
+        "GRADE[me==D]===5"
+      ],
+      "acd": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "550228": {
+    "id": 550228,
+    "aegisName": "26_7_Foxtail_SH",
+    "flavorText": null,
+    "name": "Radiant Foxtail [2]",
+    "unidName": null,
+    "resName": "26_7_Foxtail_SH",
+    "unidResName": null,
+    "description": "A foxtail burning with radiance.\n\nIndestructible.\nMATK +230.\nVariable Cast Time -5%, Hyunrok Breeze damage +15%.\nFor every 3 refine levels: MATK +30, All-element magic damage +2%.\nFor every 4 refine levels: Hyunrok Breeze damage +7%.\nAt +7 refine: All-element magic damage +25%.\nAt +9 refine: Variable Cast Time -10%, S.MATK +5.\nAt +11 refine: additional Hyunrok Breeze damage +15%.\n\n[Grade Bonus Effects]\n[D Grade] MATK +5%.\n[C Grade] Hyunrok Breeze damage +10%.\n[B Grade] Global Cooldown -10%.\n[A Grade] S.MATK +10.\nType: One-Handed Rod | ATK: 140\nWeight: 140\nWeapon Level: 5\nRequired Level: 240\nClass: Spirit Handler",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 265,
+    "itemLevel": 5,
+    "attack": 140,
+    "defense": null,
+    "weight": 140,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "SpiritHandler"
+    ],
+    "script": {
+      "matk": [
+        "230",
+        "3---30"
+      ],
+      "vct": [
+        "5",
+        "9===10"
+      ],
+      "m_my_element_all": [
+        "3---2",
+        "7===25"
+      ],
+      "Hyunrok Breeze": [
+        "15",
+        "4---7",
+        "11===15",
+        "GRADE[me==C]===10"
+      ],
+      "sMatk": [
+        "9===5",
+        "GRADE[me==A]===10"
+      ],
+      "matkPercent": [
+        "GRADE[me==D]===5"
+      ],
+      "acd": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "1270234": {
+    "id": 1270234,
+    "aegisName": "S_HolyUndead_Weapon",
+    "flavorText": null,
+    "name": "Holy Undead Weapon Shadow",
+    "unidName": null,
+    "resName": "SV_Weapon_Shadow",
+    "unidResName": null,
+    "description": "A glove worn on the weapon hand that draws out the wearer's latent power.\n\nATK +3%.\nFor every 2 refine levels: Physical damage to Holy and Undead property enemies +1%.\nAt +7 refine: Physical damage to Holy and Undead property enemies +2%.\nAt +9 refine: Additional physical damage to Holy and Undead property enemies +3%.\nAt +10 refine: Melee and Ranged Physical Damage +5%, ignore 5% physical resistance of all races (except players).\n\n[Shadow-exclusive magic book]\nCan receive random options using 2 Shadow Essences.\nType: Shadow Equipment\nPosition: Weapon | Weight: 0\nRequired Level: 200\nClass: All Classes",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 280,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "1---1"
+      ],
+      "matk": [
+        "1---1"
+      ],
+      "atkPercent": [
+        "3"
+      ],
+      "p_element_holy": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "p_element_undead": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "melee": [
+        "10===5"
+      ],
+      "range": [
+        "10===5"
+      ],
+      "pene_res": [
+        "10===5"
+      ]
+    }
+  },
+  "1270235": {
+    "id": 1270235,
+    "aegisName": "S_HolyUndead_Shield",
+    "flavorText": null,
+    "name": "Holy Undead Shield Shadow",
+    "unidName": null,
+    "resName": "SV_Shield_Shadow",
+    "unidResName": null,
+    "description": "A small shield worn on the arm for additional defensive effect. Usable alone, but with lower defensive effect.\n\nATK +3%.\nFor every 2 refine levels: Physical damage to Holy and Undead property enemies +1%.\nAt +7 refine: Physical damage to Holy and Undead property enemies +2%.\nAt +9 refine: Additional physical damage to Holy and Undead property enemies +3%.\nAt +10 refine: Melee and Ranged Physical Damage +5%, ignore 5% physical resistance of all races (except players).\n\nWhen equipped with Holy Undead Weapon Shadow: MHP +3%, MSP +3%, Physical damage to Holy and Undead property enemies +10%.\nIf combined refine is 18 or more: ignore 5% physical resistance of all races (except players).\n\n[Shadow-exclusive magic book]\nCan receive random options using 2 Shadow Essences.\nType: Shadow Equipment\nPosition: Shield | Weight: 0\nRequired Level: 200\nClass: All Classes",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "3"
+      ],
+      "p_element_holy": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Holy Undead Weapon Shadow]===10"
+      ],
+      "p_element_undead": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Holy Undead Weapon Shadow]===10"
+      ],
+      "melee": [
+        "10===5"
+      ],
+      "range": [
+        "10===5"
+      ],
+      "pene_res": [
+        "10===5",
+        "EQUIP[Holy Undead Weapon Shadow]REFINE[shadowWeapon,shadowShield==18]===5"
+      ],
+      "hpPercent": [
+        "EQUIP[Holy Undead Weapon Shadow]===3"
+      ],
+      "spPercent": [
+        "EQUIP[Holy Undead Weapon Shadow]===3"
+      ]
+    }
+  },
+  "1270236": {
+    "id": 1270236,
+    "aegisName": "S_M_HolyUndead_Weapon",
+    "flavorText": null,
+    "name": "Magic Holy Undead Weapon Shadow",
+    "unidName": null,
+    "resName": "SV_Weapon_Shadow",
+    "unidResName": null,
+    "description": "A glove worn on the weapon hand that draws out the wearer's latent power.\n\nMATK +3%.\nFor every 2 refine levels: Magic damage to Holy and Undead property enemies +1%.\nAt +7 refine: Magic damage to Holy and Undead property enemies +2%.\nAt +9 refine: Additional magic damage to Holy and Undead property enemies +3%.\nAt +10 refine: All-element magic damage +5%, ignore 5% magic resistance of all races (except players).\n\n[Shadow-exclusive magic book]\nCan receive random options using 2 Shadow Essences.\nType: Shadow Equipment\nPosition: Weapon | Weight: 0\nRequired Level: 200\nClass: All Classes",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 280,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "1---1"
+      ],
+      "matk": [
+        "1---1"
+      ],
+      "matkPercent": [
+        "3"
+      ],
+      "m_element_holy": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "m_element_undead": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "m_my_element_all": [
+        "10===5"
+      ],
+      "pene_mres": [
+        "10===5"
+      ]
+    }
+  },
+  "1270237": {
+    "id": 1270237,
+    "aegisName": "S_M_HolyUndead_Shield",
+    "flavorText": null,
+    "name": "Magic Holy Undead Shield Shadow",
+    "unidName": null,
+    "resName": "SV_Shield_Shadow",
+    "unidResName": null,
+    "description": "A small shield worn on the arm for additional defensive effect. Usable alone, but with lower defensive effect.\n\nMATK +3%.\nFor every 2 refine levels: Magic damage to Holy and Undead property enemies +1%.\nAt +7 refine: Magic damage to Holy and Undead property enemies +2%.\nAt +9 refine: Additional magic damage to Holy and Undead property enemies +3%.\nAt +10 refine: All-element magic damage +5%, ignore 5% magic resistance of all races (except players).\n\nWhen equipped with Magic Holy Undead Weapon Shadow: MHP +3%, MSP +3%, Magic damage to Holy and Undead property enemies +10%.\nIf combined refine is 18 or more: ignore 5% magic resistance of all races (except players).\n\n[Shadow-exclusive magic book]\nCan receive random options using 2 Shadow Essences.\nType: Shadow Equipment\nPosition: Shield | Weight: 0\nRequired Level: 200\nClass: All Classes",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "matkPercent": [
+        "3"
+      ],
+      "m_element_holy": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Magic Holy Undead Weapon Shadow]===10"
+      ],
+      "m_element_undead": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Magic Holy Undead Weapon Shadow]===10"
+      ],
+      "m_my_element_all": [
+        "10===5"
+      ],
+      "pene_mres": [
+        "10===5",
+        "EQUIP[Magic Holy Undead Weapon Shadow]REFINE[shadowWeapon,shadowShield==18]===5"
+      ],
+      "hpPercent": [
+        "EQUIP[Magic Holy Undead Weapon Shadow]===3"
+      ],
+      "spPercent": [
+        "EQUIP[Magic Holy Undead Weapon Shadow]===3"
+      ]
+    }
   }
 }
