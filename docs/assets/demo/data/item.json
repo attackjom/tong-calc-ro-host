@@ -25324,6 +25324,9 @@
       ],
       "allStatus": [
         "EQUIP[Candy Bag Backpack (Physical)||Candy Bag Backpack (Range)||Candy Bag Backpack (Magical)]REFINE[garment==12]===1"
+      ],
+      "drop": [
+        "5"
       ]
     }
   },
@@ -232587,6 +232590,9 @@
       "allStatus": [
         "EQUIP[Fortune Boost Shadow Shoes&&Fortune Boost Shadow Earring&&Fortune Boost Shadow Pendant]REFINE[shadowArmor,shadowBoot,shadowEarring,shadowPendant==10]---1",
         "EQUIP[Fortune Boost Shadow Shoes&&Fortune Boost Shadow Earring&&Fortune Boost Shadow Pendant]REFINE[shadowArmor,shadowBoot,shadowEarring,shadowPendant==40]===3"
+      ],
+      "drop": [
+        "drop 5---1"
       ]
     }
   },
@@ -232612,7 +232618,11 @@
     "usableClass": [
       "all"
     ],
-    "script": {}
+    "script": {
+      "drop": [
+        "drop 5---1"
+      ]
+    }
   },
   "1270150": {
     "id": 1270150,
@@ -232636,7 +232646,11 @@
     "usableClass": [
       "all"
     ],
-    "script": {}
+    "script": {
+      "drop": [
+        "drop 5---1"
+      ]
+    }
   },
   "1270151": {
     "id": 1270151,
@@ -232660,7 +232674,11 @@
     "usableClass": [
       "all"
     ],
-    "script": {}
+    "script": {
+      "drop": [
+        "drop 5---1"
+      ]
+    }
   },
   "1270152": {
     "id": 1270152,
@@ -232690,6 +232708,9 @@
       ],
       "sta": [
         "EQUIP[Double Fortune Boost Shadow Shield (Physical)]REFINE[shadowWeapon,shadowShield==20]===5"
+      ],
+      "drop": [
+        "drop 3---1"
       ]
     }
   },
@@ -232715,7 +232736,11 @@
     "usableClass": [
       "all"
     ],
-    "script": {}
+    "script": {
+      "drop": [
+        "drop 3---1"
+      ]
+    }
   },
   "1270154": {
     "id": 1270154,
@@ -232745,6 +232770,9 @@
       ],
       "wis": [
         "EQUIP[Double Fortune Boost Shadow Shield (Magic)]REFINE[shadowWeapon,shadowShield==20]===5"
+      ],
+      "drop": [
+        "drop 3---1"
       ]
     }
   },
@@ -232770,7 +232798,11 @@
     "usableClass": [
       "all"
     ],
-    "script": {}
+    "script": {
+      "drop": [
+        "drop 3---1"
+      ]
+    }
   },
   "1270156": {
     "id": 1270156,
@@ -232797,6 +232829,10 @@
     "script": {
       "pAtk": [
         "2---2"
+      ],
+      "drop": [
+        "2---1",
+        "EQUIP[Max Fortune Boost Shadow Shoes (Physical)]REFINE[shadowArmor,shadowBoot==20]===10"
       ]
     }
   },
@@ -232822,7 +232858,11 @@
     "usableClass": [
       "all"
     ],
-    "script": {}
+    "script": {
+      "drop": [
+        "2---1"
+      ]
+    }
   },
   "1270158": {
     "id": 1270158,
@@ -232849,6 +232889,10 @@
     "script": {
       "sMatk": [
         "2---2"
+      ],
+      "drop": [
+        "2---1",
+        "EQUIP[Max Fortune Boost Shadow Shoes (Magic)]REFINE[shadowArmor,shadowBoot==20]===10"
       ]
     }
   },
@@ -232874,7 +232918,11 @@
     "usableClass": [
       "all"
     ],
-    "script": {}
+    "script": {
+      "drop": [
+        "2---1"
+      ]
+    }
   },
   "314243": {
     "id": 314243,
@@ -245798,6 +245846,10 @@
       ],
       "spPercent": [
         "GRADE[me==A]===50"
+      ],
+      "drop": [
+        "LEVEL[200]===5",
+        "[me==A]===5"
       ]
     }
   },
@@ -249998,6 +250050,9 @@
       ],
       "melee": [
         "10===5"
+      ],
+      "drop": [
+        "10===5"
       ]
     }
   },
@@ -250027,6 +250082,9 @@
       ],
       "range": [
         "10===5"
+      ],
+      "drop": [
+        "10===5"
       ]
     }
   },
@@ -250055,6 +250113,9 @@
         "2---1"
       ],
       "matkPercent": [
+        "10===5"
+      ],
+      "drop": [
         "10===5"
       ]
     }
@@ -262952,6 +263013,9 @@
       ],
       "m_pene_race_all": [
         "GRADE[me==A]===40"
+      ],
+      "drop": [
+        "GRADE[me==A]===3"
       ]
     }
   },
@@ -265598,6 +265662,9 @@
       ],
       "allTrait": [
         "GRADE[me==A]1---1"
+      ],
+      "drop": [
+        "EQUIP[6th Anniversary Ayothaya Ring]GRADE[me==A]===5"
       ]
     }
   },
@@ -277966,6 +278033,307 @@
       ],
       "cd__Hack and Slasher": [
         "EQUIP[Furious Slayer]GRADE[weapon==C]===0.5"
+      ]
+    }
+  },
+  "19095": {
+    "id": 19095,
+    "aegisName": "Happy_Balloon_K",
+    "flavorText": null,
+    "name": "Happy Balloon",
+    "unidName": null,
+    "resName": "해피벌룬",
+    "unidResName": null,
+    "description": "ลูกโป่งที่มีรูป Poring น่ารักวาดอยู่  \nถ้าได้ถือลูกโป่งนี้เดินไปเดินมาในงานเทศกาล จะต้องมีความสุขมาก ๆ เลยว่าไหม? \nเพิ่ม EXP ที่ได้รับจากมอนสเตอร์ +5%, เพิ่มอัตราดรอปของไอเทม +10%  \nประเภท : ^777777Helm^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower ^000000น้ำหนัก : ^7777771^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": 1,
+    "location": "Lower",
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "drop": [
+        "10"
+      ]
+    }
+  },
+  "491070": {
+    "id": 491070,
+    "aegisName": "6th_Anni_Ring_LT_TH",
+    "flavorText": null,
+    "name": "6th Anniversary Ayothaya Ring-LT [1]",
+    "unidName": null,
+    "resName": "Gluttony_Expert_Ring",
+    "unidResName": null,
+    "description": "แหวนที่ถูกสร้างขึ้นเพื่อเฉลิมฉลองการครบรอบปีที่ 6\nเต็มไปด้วยพลังแห่งคำอวยพรและความทรงจำของการผจญภัยที่ผ่านมา\n\n[สามารถ Refine ได้]\nAll Status + 10, All Trait + 10\nทุก ๆ การอัพเกรด 1 ขั้น, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 2%, MATK + 2%, ATK MATK + 10\nเมื่ออัพเกรดถึงขั้น 7, P.ATK/S.MATK + 6\nเมื่ออัพเกรดถึงขั้น 9, ลด Global Cooldown 15%\nเมื่ออัพเกรดถึงขั้น 12,  เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 15% (ยกเว้น Player), เพิกเฉยต่อพลังป้องกันทางกายภาพ/เวทมนตร์ของศัตรูทุกเผ่า 40% (ยกเว้น Player)\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\n[Grade C] เพิ่มความต้านทานต่อศัตรูประเภท Boss 15%\n[Grade B] RES/MRES + 120,  Perfect Dodge + 30\n[Grade A] เพิ่มค่าประสบการณ์เมื่อกำจัดมอนสเตอร์ 10%, เพิ่มอัตรา Drop ไอเทม 10%\nประเภท : ^777777Accessory (Left)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 511,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "allStatus": [
+        "10"
+      ],
+      "allTrait": [
+        "10"
+      ],
+      "melee": [
+        "1---2"
+      ],
+      "range": [
+        "1---2"
+      ],
+      "matkPercent": [
+        "1---2"
+      ],
+      "atk": [
+        "1---10"
+      ],
+      "matk": [
+        "1---10"
+      ],
+      "pAtk": [
+        "7===6"
+      ],
+      "sMatk": [
+        "7===6"
+      ],
+      "acd": [
+        "9===15"
+      ],
+      "p_race_all": [
+        "12===15"
+      ],
+      "m_race_all": [
+        "12===15"
+      ],
+      "p_pene_race_all": [
+        "12===40"
+      ],
+      "m_pene_race_all": [
+        "12===40"
+      ],
+      "fct": [
+        "GRADE[me==D]===0.5"
+      ],
+      "m_class_boss": [
+        "GRADE[me==C]===15"
+      ],
+      "res": [
+        "GRADE[me==B]===120"
+      ],
+      "mres": [
+        "GRADE[me==B]===120"
+      ],
+      "perfectDodge": [
+        "GRADE[me==B]===30"
+      ],
+      "drop": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "470456": {
+    "id": 470456,
+    "aegisName": "Ayothaya_Boots_LT_TH",
+    "flavorText": null,
+    "name": "Ayothaya Adventurer's Boots-LT [1]",
+    "unidName": null,
+    "resName": "Gluttony_Variant_Shoes",
+    "unidResName": null,
+    "description": "รองเท้าสำหรับนักผจญภัยผู้กล้า สวมใส่เพื่อก้าวข้ามทุกอุปสรรค และออกเดินทางสู่การผจญภัยครั้งใหม่อย่างมั่นใจ\n\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 12%, MATK + 12%\nASPD + 15%\nMaxHP + 15%\nMaxSP + 10%\n\nทุก ๆ การอัพเกรด 2 ขั้น, ATK/MATK + 15\nเมื่ออัพเกรดถึงขั้น 7, P.ATK, S.MATK + 10\nเมื่ออัพเกรดถึงขั้น 9, ลดระยะเวลาร่ายแบบแปรผัน 20%, ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเมื่ออัพเกรดถึงขั้น 12, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 15%\n\nเมื่อสวมใส่ร่วมกับ 6th Anniversary Ayothaya Ring-LT,\nมีโอกาส 6% ที่จะนำ 1% ของ Damage ทางกายภาพต่อศัตรู มาเป็น HP, SP ของตนเอง,\nเมื่อโจมตีทางเวทมนตร์ มีโอกาส 6% ที่จะฟื้นฟู HP 1000, SP 100 หน่วย 8 ครั้ง เป็นเวลา 10 วินาที,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 15%\n\nเมื่อ Ayothaya Adventurer's Boots-LT มี Grade A ขึ้นไป และสวมใส่กับ 6th Anniversary Ayothaya Ring-LT,\nเพิ่มค่าประสบการณ์เมื่อกำจัดมอนสเตอร์ 10%, เพิ่มอัตรา Drop ไอเทม 10%,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 15% (ยกเว้น Player)\n\nเมื่อสวมใส่ 6th Anniversary Ayothaya Ring-LT และสวมใส่ร่วมกับ Upgrade Memory of Thanatos Card,\nเพิกเฉยพลังป้องกันทางกายภาพต่อศัตรูทุกเผ่าลดลง -40%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\n[Grade C] เพิ่ม Hit Damage ทางกายภาพ 20%, Critical Damage + 20%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 25%\n[Grade B] P.ATK, S.MATK + 10\n[Grade A] ทุก ๆ การอัพเกรด 1 ขั้น All Status + 2, All Trait + 2\nประเภท : ^777777Shoes^000000  พลังป้องกัน : ^77777720^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 516,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 20,
+    "weight": 20,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "melee": [
+        "12"
+      ],
+      "range": [
+        "12"
+      ],
+      "matkPercent": [
+        "12"
+      ],
+      "aspdPercent": [
+        "15"
+      ],
+      "hpPercent": [
+        "15"
+      ],
+      "spPercent": [
+        "10"
+      ],
+      "atk": [
+        "2---15"
+      ],
+      "matk": [
+        "2---15"
+      ],
+      "pAtk": [
+        "7===10",
+        "GRADE[me==B]===10"
+      ],
+      "sMatk": [
+        "7===10",
+        "GRADE[me==B]===10"
+      ],
+      "vct": [
+        "9===20"
+      ],
+      "fct": [
+        "9===0.5",
+        "GRADE[me==D]===0.5"
+      ],
+      "p_element_all": [
+        "12===15"
+      ],
+      "m_element_all": [
+        "12===15"
+      ],
+      "p_size_all": [
+        "EQUIP[6th Anniversary Ayothaya Ring-LT]===15"
+      ],
+      "m_size_all": [
+        "EQUIP[6th Anniversary Ayothaya Ring-LT]===15"
+      ],
+      "p_race_all": [
+        "EQUIP[6th Anniversary Ayothaya Ring-LT]GRADE[me==A]===15"
+      ],
+      "m_race_all": [
+        "EQUIP[6th Anniversary Ayothaya Ring-LT]GRADE[me==A]===15"
+      ],
+      "p_pene_race_all": [
+        "EQUIP[6th Anniversary Ayothaya Ring-LT&&Upgrade Memory of Thanatos Card]===40"
+      ],
+      "hitDmg": [
+        "GRADE[me==C]===20"
+      ],
+      "criDmg": [
+        "GRADE[me==C]===20"
+      ],
+      "m_my_element_all": [
+        "GRADE[me==C]===25"
+      ],
+      "allStatus": [
+        "GRADE[me==A]1---2"
+      ],
+      "allTrait": [
+        "GRADE[me==A]1---2"
+      ],
+      "drop": [
+        "EQUIP[6th Anniversary Ayothaya Ring-LT]GRADE[me==A]===10"
+      ]
+    }
+  },
+  "460176": {
+    "id": 460176,
+    "aegisName": "Feather_Shield_LT_TH",
+    "flavorText": null,
+    "name": "Feather Shield-LT [1]",
+    "unidName": null,
+    "resName": "Feather_Shield_LT_TW",
+    "unidResName": null,
+    "description": "ลด Global Cooldown 5%\nASPD + 3%\nMDEF + 8\n\nทุก ๆ การอัพเกรด 2 ขั้น, ATK/MATK + 10.\nเมื่ออัพเกรดถึงขั้น 7, ลด Global Cooldown ลงอีก 5%, ASPD + 3% เพิ่มเติม\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพต่อมอนสเตอร์ทุกเผ่า 10%, MATK + 10%\nเมื่ออัพเกรดถึงขั้น 12, ลด Global Cooldown ลงอีก 5%, ASPD + 2, สามารถใช้สกิล Shield Spell Lv. 3 ได้\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] All Trait + 2\n[Grade C] P.ATK/S.MATK + 10\n[Grade B] ทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางกายภาพและเวทมนตร์ต่อศัตรูทุกขนาด 4%\n[Grade A] เมื่ออัพเกรดถึงขั้น 12, ต้านทานสถานะ Frozen, Stone Curse, Stun และ Sleep 100%, สามารถใช้สกิล Odin's Power Lv. 2 ได้\nประเภท : ^777777Shield^000000  พลังป้องกัน : ^777777150^000000\nน้ำหนัก : ^77777740^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^77777790^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 150,
+    "weight": 40,
+    "requiredLevel": 90,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "acd": [
+        "5",
+        "7===5",
+        "12===5"
+      ],
+      "aspdPercent": [
+        "3",
+        "7===3"
+      ],
+      "aspd": [
+        "12===2"
+      ],
+      "mdef": [
+        "8"
+      ],
+      "atk": [
+        "2---10"
+      ],
+      "matk": [
+        "2---10"
+      ],
+      "p_race_all": [
+        "9===10"
+      ],
+      "matkPercent": [
+        "9===10"
+      ],
+      "allTrait": [
+        "GRADE[me==D]===2"
+      ],
+      "pAtk": [
+        "GRADE[me==C]===10"
+      ],
+      "sMatk": [
+        "GRADE[me==C]===10"
+      ],
+      "p_size_all": [
+        "GRADE[me==B]3---4"
+      ],
+      "m_size_all": [
+        "GRADE[me==B]3---4"
+      ]
+    }
+  },
+  "31504": {
+    "id": 31504,
+    "aegisName": "C_Starving_Fish_Hat",
+    "flavorText": null,
+    "name": "Costume Hungry Fish Hat",
+    "unidName": null,
+    "resName": "굶주린대어모자",
+    "unidResName": null,
+    "description": "หมวกรูปปลายักษ์ผู้หิวโหยที่กำลังเขมือบมนุษย์\nเพิ่มอัตราดรอปไอเทม 7%, เพิ่มความเร็วในการเคลื่อนที่\n\n(ความสามารถจะถูกลบหลังจากสิ้นสุดระยะเวลากิจกรรม)\n\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "drop": [
+        "7"
       ]
     }
   }
