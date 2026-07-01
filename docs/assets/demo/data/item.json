@@ -278082,6 +278082,7 @@
     "location": null,
     "compositionPos": null,
     "canGrade": true,
+    "isRefinable": true,
     "script": {
       "allStatus": [
         "10"
