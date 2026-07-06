@@ -155593,6 +155593,9 @@
       ],
       "m_pene_race_all": [
         "EQUIP[Gray Wolf Robe&&Gray Wolf Manteau||Gray Wolf Muffler]REFINE[armor,garment==21]===30"
+      ],
+      "drop": [
+        "8"
       ]
     }
   },
@@ -265474,7 +265477,7 @@
     "unidName": null,
     "resName": "C_Eye_of_Necromancer",
     "unidResName": null,
-    "description": "ดวงตาที่เต็มไปด้วยเงามืด\nแฝงพลังปลุกทหารเงาจากซากศพ ผู้ใดถือครอง จะสามารถเรียกเหล่าทหารรับใช้จากความตายได้\n\nลด Global Cooldown 10%\n\nทุก ๆ 20 ผลรวมของ Base STR และ DEX, เพิ่ม HIT Damage ทางกายภาพ 1%\n\nทุก ๆ Base CON 1, ATK + 1\n\nเพิ่ม HIT Damage ทางกายภาพ 10%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 10%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "description": "ดวงตาที่เต็มไปด้วยเงามืด\nแฝงพลังปลุกทหารเงาจากซากศพ ผู้ใดถือครอง จะสามารถเรียกเหล่าทหารรับใช้จากความตายได้\n\nลด Global Cooldown 10%\n\nทุก ๆ 20 ผลรวมของ Base STR และ DEX, เพิ่ม HIT Damage ทางกายภาพ 1%\n\nทุก ๆ Base CON 1, ATK + 1\n\nเมื่อ CON 100, เพิ่ม HIT Damage ทางกายภาพ 10%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 10%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 512,
@@ -265492,13 +265495,13 @@
       ],
       "hitDmg": [
         "SUM[str,dex==20]---1",
-        "10"
+        "SUM[con==100]===10"
       ],
       "atk": [
         "SUM[con==1]---1"
       ],
       "p_element_all": [
-        "10"
+        "SUM[con==100]===10"
       ]
     }
   },
@@ -273158,6 +273161,9 @@
       ],
       "m_pene_race_all": [
         "EQUIP[Gray Wolf Manteau||Gray Wolf Muffler]REFINE[garment==11]===30"
+      ],
+      "drop": [
+        "10"
       ]
     }
   },
