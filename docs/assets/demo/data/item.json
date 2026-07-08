@@ -175360,102 +175360,6 @@
       ]
     }
   },
-  "480616": {
-    "id": 480616,
-    "aegisName": null,
-    "name": "Costume Champion ROS 2025 Thailand",
-    "unidName": "Hood",
-    "resName": "C_Qualifier_1st",
-    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nCostume เกียรติยศสำหรับผู้คว้าชัยชนะสุดยิ่งใหญ่จาก Ragnarok Stars 2025 Thailand Championship มาได้\nสวมใส่ชิ้นนี้เพื่อเพิ่มความแข็งแกร่งให้อย่างไม่มีที่สิ้นสุด\n\nสามารถใช้สกิล Cloaking Exceed Lv.5 ได้\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 20%\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 20%\nเมื่อฟื้นคืนชีพ จะฟื้นฟู HP, SP ทั้งหมด\n\nไอเท็มชิ้นนี้ไม่สามารถใช้ในพื้นที่ War of Emperium Herosria ได้\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 1 กรกฎาคม 2569)\n\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 522,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "usableClass": [
-      "all"
-    ],
-    "script": {
-      "melee": [
-        "20"
-      ],
-      "range": [
-        "20"
-      ],
-      "m_my_element_all": [
-        "20"
-      ]
-    }
-  },
-  "480617": {
-    "id": 480617,
-    "aegisName": null,
-    "name": "Costume 1st Runner Up ROS 2025",
-    "unidName": "Hood",
-    "resName": "C_Qualifier_2nd",
-    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nCostume เกียรติยศสำหรับผู้กล้าของรองชนะเลิศอันดับหนึ่งจาก Ragnarok Stars 2025 Thailand Championship\nสวมใส่ชิ้นนี้เพื่อเพิ่มความแข็งแกร่งให้อย่างไม่มีที่สิ้นสุด\n\nสามารถใช้สกิล Cloaking Exceed Lv.4 ได้\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 15%\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%\nเมื่อฟื้นคืนชีพ จะฟื้นฟู HP, SP ทั้งหมด\n\nไอเท็มชิ้นนี้ไม่สามารถใช้ในพื้นที่ War of Emperium Herosria ได้\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 1 กรกฎาคม 2569)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 522,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "usableClass": [
-      "all"
-    ],
-    "script": {
-      "melee": [
-        "15"
-      ],
-      "range": [
-        "15"
-      ],
-      "m_my_element_all": [
-        "15"
-      ]
-    }
-  },
-  "480618": {
-    "id": 480618,
-    "aegisName": null,
-    "name": "Costume 2nd Runner Up ROS 2025",
-    "unidName": "Hood",
-    "resName": "C_Qualifier_3rd",
-    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nCostume เกียรติยศสำหรับผู้กล้าของรองชนะเลิศอันดับสองจาก Ragnarok Stars 2025 Thailand Championship\nสวมใส่ชิ้นนี้เพื่อเพิ่มความแข็งแกร่งให้อย่างไม่มีที่สิ้นสุด\n\nสามารถใช้สกิล Cloaking Exceed Lv.3 ได้\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\nเมื่อฟื้นคืนชีพ จะฟื้นฟู HP, SP ทั้งหมด\n\nไอเท็มชิ้นนี้ไม่สามารถใช้ในพื้นที่ War of Emperium Herosria ได้\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 1 กรกฎาคม 2569)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 522,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "usableClass": [
-      "all"
-    ],
-    "script": {
-      "melee": [
-        "10"
-      ],
-      "range": [
-        "10"
-      ],
-      "m_my_element_all": [
-        "10"
-      ]
-    }
-  },
   "490004": {
     "id": 490004,
     "aegisName": "Atker_Ring",
@@ -279085,6 +278989,171 @@
       ],
       "spPercent": [
         "EQUIP[Magic Holy Undead Weapon Shadow]===3"
+      ]
+    }
+  },
+  "400799": {
+    "id": 400799,
+    "aegisName": "C_JP_EV18",
+    "flavorText": null,
+    "name": "Costume Kumamon Hat",
+    "unidName": null,
+    "resName": "C_JP_EV18",
+    "unidResName": null,
+    "description": "หมวกคอสตูมที่เมื่อสวมใส่แล้วคุณก็จะกลายเป็นคุมะมง!\n^ffffff_^000000\n^CC3D3D[ความสามารถจำกัดเวลาช่วงกิจกรรม]^000000\nATK + 50, MATK + 50\nCRI + 10, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 5%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาดและทุกธาตุ 10%\nเมื่อสวมใส่ร่วมกับ Costume Kumamon Doll, เพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 5%\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 5 สิงหาคม 2569)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "50"
+      ],
+      "matk": [
+        "50"
+      ],
+      "cri": [
+        "10"
+      ],
+      "vct": [
+        "10"
+      ],
+      "p_size_all": [
+        "10"
+      ],
+      "m_size_all": [
+        "10"
+      ],
+      "p_element_all": [
+        "10"
+      ],
+      "m_element_all": [
+        "10"
+      ]
+    }
+  },
+  "410609": {
+    "id": 410609,
+    "aegisName": "C_Nine_Tailed_Fox",
+    "flavorText": null,
+    "name": "Costume Nine-Tailed Fox",
+    "unidName": null,
+    "resName": "C_Nine_Tailed_Fox",
+    "unidResName": null,
+    "description": "ATK/MATK + 100\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภท Boss 30%\nเพิ่มอัตราดรอป + 10%\nMaxHP + 10%\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 9 กันยายน 2569)\n^ffffff^4D4DFF[Designer Heidam]^000000^000000\n^b4b4b4สามารถแลกเปลี่ยนเป็น Costume Enchant Stone Box 32 ได้^000000\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 520,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "matk": [
+        "100"
+      ],
+      "p_class_boss": [
+        "30"
+      ],
+      "m_class_boss": [
+        "30"
+      ],
+      "drop": [
+        "10"
+      ],
+      "hpPercent": [
+        "10"
+      ]
+    }
+  },
+  "480559": {
+    "id": 480559,
+    "aegisName": "C_JP_EV19",
+    "flavorText": null,
+    "name": "Costume Kumamon Doll",
+    "unidName": null,
+    "resName": "C_JP_EV19",
+    "unidResName": null,
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nตุ๊กตาคุมะมงขนาดใหญ่ที่สามารถสะพายไว้บนหลังได้\nมาร่วมผจญภัยไปด้วยกันเถอะ!\n\n[ความสามารถจำกัดเวลาช่วงกิจกรรม]\nเพิ่มค่าประสบการณ์ที่ได้รับจากมอนสเตอร์, เพิ่มอัตราดรอปไอเทม 10%,\nลด Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากศัตรูประเภท Boss 30%,\nเพิ่ม Damage ทางกายภาพ/เวทมนตตร์ที่ได้รับจากศัตรูประเภททั่วไป 10%\n\nเมื่อสวมใส่ร่วมกับ Costume Kumamon Hat,\nเพิ่มค่าประสบการณ์ที่ได้รับจากมอนสเตอร์, เพิ่มอัตราดรอปไอเทมขึ้นอีก 10%,\nเพิ่ม HIT Damage ทางกายภาพ 15%,\nCritical Damage + 15%,\nMATK + 15%,\nMaxHP + 15%.\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 5 สิงหาคม 2569)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 522,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "drop": [
+        "10",
+        "EQUIP[Costume Kumamon Hat]===10"
+      ],
+      "hitDmg": [
+        "EQUIP[Costume Kumamon Hat]===15"
+      ],
+      "criDmg": [
+        "EQUIP[Costume Kumamon Hat]===15"
+      ],
+      "matkPercent": [
+        "EQUIP[Costume Kumamon Hat]===15"
+      ],
+      "hpPercent": [
+        "EQUIP[Costume Kumamon Hat]===15"
+      ]
+    }
+  },
+  "480876": {
+    "id": 480876,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Kumamon Doll",
+    "unidName": null,
+    "resName": "C_JP_EV19",
+    "unidResName": null,
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nตุ๊กตาคุมะมงตัวใหญ่ที่สามารถสะพายไว้บนหลังได้\nออกผจญภัยไปด้วยกันเถอะ!\n\nเพิ่มความต้านทานต่อการโจมตีธาตุ Neutral 20%,\nเพิ่มค่าประสบการณ์ที่ได้รับจากมอนสเตอร์ 10%\nเพิ่มอัตราการได้รับไอเทม 5%\n\nทุก ๆ Base Lv.1, ATK,MATK + 1, MaxHP + 20, MaxSP + 2\nเมื่ออัพเกรดถึงขั้น 5, เพิ่มความต้านทานต่อการโจมตีธาตุ Ghost 80%\nเมื่ออัพเกรดถึงขั้น 7, เมื่อกำจัดมอนเตอร์ทางกายภาพ/เวทมนตร์จะฟื้นฟู HP 100, SP 10\nประเภท : ^777777Garment^000000  พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777730^000000\nเลเวลของเกราะ : ^7777771^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 30,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "drop": [
+        "5"
+      ],
+      "atk": [
+        "level:1---1"
+      ],
+      "matk": [
+        "level:1---1"
+      ],
+      "hp": [
+        "level:1---20"
+      ],
+      "sp": [
+        "level:1---2"
       ]
     }
   }
