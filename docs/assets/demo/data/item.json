@@ -78812,10 +78812,10 @@
       ],
       "p_size_all": [
         "EQUIP[Scalleg Card]===15",
-        "ITEM_LV[me==5]WEAPON_TYPE[twohandSword||twohandSpear||twohandRod||twohandAxe||katar||bow||shuriken||gun]===25"
+        "EQUIP[Scalleg Card]ITEM_LV[me==5]WEAPON_TYPE[twohandSword||twohandSpear||twohandRod||twohandAxe||katar||bow||shuriken||gun]===25"
       ],
       "pAtk": [
-        "ITEM_LV[me==5]WEAPON_TYPE[twohandSword||twohandSpear||twohandRod||twohandAxe||katar||bow||shuriken||gun]===5"
+        "EQUIP[Scalleg Card]ITEM_LV[me==5]WEAPON_TYPE[twohandSword||twohandSpear||twohandRod||twohandAxe||katar||bow||shuriken||gun]===5"
       ]
     }
   },
@@ -78848,10 +78848,10 @@
       ],
       "m_size_all": [
         "EQUIP[Velelling Card]===15",
-        "ITEM_LV[me==5]WEAPON_TYPE[twohandSword||twohandSpear||twohandRod||twohandAxe||katar||bow||shuriken||gun]===25"
+        "EQUIP[Velelling Card]ITEM_LV[me==5]WEAPON_TYPE[twohandSword||twohandSpear||twohandRod||twohandAxe||katar||bow||shuriken||gun]===25"
       ],
       "sMatk": [
-        "ITEM_LV[me==5]WEAPON_TYPE[twohandSword||twohandSpear||twohandRod||twohandAxe||katar||bow||shuriken||gun]===5"
+        "EQUIP[Velelling Card]ITEM_LV[me==5]WEAPON_TYPE[twohandSword||twohandSpear||twohandRod||twohandAxe||katar||bow||shuriken||gun]===5"
       ]
     }
   },
