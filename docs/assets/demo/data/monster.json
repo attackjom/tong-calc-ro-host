@@ -22205,7 +22205,8 @@
   "221531": {
     "id": 221531,
     "dbname": "EP19_MD_AQUILA",
-    "name": "아퀼라 (비지니스)",
+    "name": "Aquila (Business Mode)",
+    "name_k": "아퀼라 (비지니스)",
     "spawn": "jor_tail2",
     "stats": {
       "attackRange": 1,
@@ -22259,7 +22260,8 @@
   "221532": {
     "id": 221532,
     "dbname": "EP19_MD_AQUILA",
-    "name": "아퀼라 (일등석)",
+    "name": "Aquila (First Class)",
+    "name_k": "아퀼라 (일등석)",
     "spawn": "jor_tail2",
     "stats": {
       "attackRange": 1,
@@ -25118,6 +25120,60 @@
       "elementShortName": "Earth",
       "scaleName": "Large",
       "raceName": "Brute"
+    }
+  },
+  "20872": {
+    "id": 20872,
+    "dbname": "MD_GEFFEN_FENRIR_N",
+    "name": "Midnight Fenrir",
+    "spawn": "",
+    "stats": {
+      "attackRange": 1,
+      "level": 210,
+      "health": 2000000000,
+      "sp": 1,
+      "str": 200,
+      "int": 200,
+      "vit": 200,
+      "dex": 220,
+      "agi": 100,
+      "luk": 100,
+      "rechargeTime": 900,
+      "atk1": 5000,
+      "atk2": 3000,
+      "attack": {
+        "minimum": 4410,
+        "maximum": 6410
+      },
+      "magicAttack": {
+        "minimum": 2510,
+        "maximum": 4310
+      },
+      "defense": 200,
+      "baseExperience": 0,
+      "jobExperience": 0,
+      "aggroRange": 10,
+      "escapeRange": 12,
+      "movementSpeed": 200,
+      "attackSpeed": 864,
+      "attackedSpeed": 480,
+      "element": 48,
+      "scale": 1,
+      "race": 7,
+      "magicDefense": 70,
+      "hit": 510,
+      "flee": 600,
+      "ai": "MONSTER_TYPE_04",
+      "mvp": 0,
+      "class": 1,
+      "attr": 8,
+      "res": 0,
+      "mres": 0,
+      "dmgtaken": 1,
+      "elementName": "Ghost 2",
+      "elementShortName": "Ghost",
+      "scaleName": "Medium",
+      "raceName": "DemiHuman"
     }
   }
 }
