@@ -244429,6 +244429,9 @@
       ],
       "cd__Overslash": [
         "EQUIP[Holy Light Spear]GRADE[weapon==C]===0.2"
+      ],
+      "power": [
+        "EQUIP[Good Spell]===80"
       ]
     }
   },
@@ -246163,6 +246166,9 @@
       ],
       "cd__Mighty Smash": [
         "EQUIP[Divine Buster]GRADE[weapon==C]===0.3"
+      ],
+      "power": [
+        "EQUIP[Good Spell]===80"
       ]
     }
   },
@@ -246764,6 +246770,9 @@
       ],
       "p_race_all": [
         "EQUIP[Good Spell]===20"
+      ],
+      "power": [
+        "EQUIP[Good Spell]===80"
       ]
     }
   },
@@ -246830,6 +246839,9 @@
       ],
       "cd__Deft Stab": [
         "EQUIP[Holy Light Dagger]GRADE[weapon==C]===0.5"
+      ],
+      "power": [
+        "EQUIP[Good Spell]===80"
       ]
     }
   },
@@ -247566,6 +247578,9 @@
       ],
       "chance__pAtk": [
         "EQUIP[Good Spell]===10"
+      ],
+      "power": [
+        "EQUIP[Good Spell]===80"
       ]
     }
   },
@@ -248292,6 +248307,9 @@
       ],
       "perfectHit": [
         "EQUIP[Good Spell]===90"
+      ],
+      "power": [
+        "EQUIP[Good Spell]===80"
       ]
     }
   },
@@ -248455,6 +248473,9 @@
       ],
       "chance__pAtk": [
         "EQUIP[Evil Spell]===10"
+      ],
+      "power": [
+        "EQUIP[Evil Spell]===80"
       ]
     }
   },
@@ -249329,6 +249350,9 @@
       ],
       "p_race_all": [
         "EQUIP[Guardian Saber]GRADE[weapon==C]===15"
+      ],
+      "power": [
+        "EQUIP[Good Spell]===80"
       ]
     }
   },
@@ -250367,6 +250391,9 @@
       ],
       "cd__Spark Blaster": [
         "EQUIP[Dim Glacier Mechanic Mace]GRADE[weapon==C]===0.35"
+      ],
+      "power": [
+        "EQUIP[Dim Glacier Mechanic Mace]GRADE[weapon==C]REFINE[weapon==12]===80"
       ]
     }
   },
@@ -250399,6 +250426,9 @@
       ],
       "cd__Rhythm Shooting": [
         "EQUIP[Dim Glacier Violin||Dim Glacier Whip]GRADE[weapon==C]===0.15"
+      ],
+      "power": [
+        "EQUIP[Dim Glacier Violin||Dim Glacier Whip]GRADE[weapon==C]REFINE[weapon==12]===80"
       ]
     }
   },
@@ -261901,6 +261931,9 @@
       ],
       "cd__The Vigilante at Night": [
         "EQUIP[Dim Glacier Gatling Gun]GRADE[weapon==C]===0.5"
+      ],
+      "power": [
+        "EQUIP[Dim Glacier Gatling Gun]GRADE[weapon==C]REFINE[weapon==12]===80"
       ]
     }
   },
@@ -264041,6 +264074,10 @@
       "cd__Calamity Gale": [
         "EQUIP[Orrivane Wind Bow]REFINE[weapon==10]GRADE[weapon==C]===30",
         "EQUIP[Orrivane Wind Crossbow]REFINE[weapon==10]GRADE[weapon==C]===30"
+      ],
+      "power": [
+        "EQUIP[Orrivane Wind Bow]GRADE[weapon==C]REFINE[weapon==10]===40",
+        "EQUIP[Orrivane Wind Crossbow]GRADE[weapon==C]REFINE[weapon==10]===40"
       ]
     }
   },
@@ -264105,6 +264142,10 @@
       ],
       "cd__Frenzy Shot": [
         "EQUIP[Orrivane Abyss Crossbow]GRADE[weapon==C]===0.2"
+      ],
+      "power": [
+        "EQUIP[Orrivane Abyss Dagger]GRADE[weapon==C]REFINE[weapon==10]===80",
+        "EQUIP[Orrivane Abyss Crossbow]GRADE[weapon==C]REFINE[weapon==10]===40"
       ]
     }
   },
@@ -276903,6 +276944,9 @@
       ],
       "cd__Dragonic Aura": [
         "EQUIP[Orrivane Dragon Lance]GRADE[weapon==C]REFINE[weapon==10]===30"
+      ],
+      "power": [
+        "EQUIP[Orrivane Dragon Sword]GRADE[weapon==C]REFINE[weapon==10]===40"
       ]
     }
   },
@@ -276948,6 +276992,10 @@
       ],
       "cd__Spark Blaster": [
         "EQUIP[Orrivane Mechanical Mace]GRADE[weapon==C]===0.35"
+      ],
+      "power": [
+        "EQUIP[Orrivane Mechanical Axe]GRADE[weapon==C]REFINE[weapon==10]===80",
+        "EQUIP[Orrivane Mechanical Mace]GRADE[weapon==C]REFINE[weapon==10]===80"
       ]
     }
   },
@@ -277010,6 +277058,9 @@
       ],
       "Grand Judgement": [
         "EQUIP[Orrivane Imperial Spear]GRADE[weapon==C]REFINE[weapon==10]===25"
+      ],
+      "power": [
+        "EQUIP[Orrivane Imperial Spear]GRADE[weapon==C]REFINE[weapon==10]===80"
       ]
     }
   },
@@ -277497,6 +277548,10 @@
       "cd__Dark Claw": [
         "EQUIP[Orrivane Shadow Cakram]REFINE[weapon==10]GRADE[weapon==C]===30",
         "EQUIP[Orrivane Shadow Katar]REFINE[weapon==10]GRADE[weapon==C]===30"
+      ],
+      "power": [
+        "EQUIP[Orrivane Shadow Cakram]GRADE[weapon==C]REFINE[weapon==10]===40",
+        "EQUIP[Orrivane Shadow Katar]GRADE[weapon==C]REFINE[weapon==10]===40"
       ]
     }
   },
@@ -277544,6 +277599,10 @@
       ],
       "cd__Mayhemic Thorns": [
         "EQUIP[Orrivane Biologic Sword]GRADE[weapon==C]===0.4"
+      ],
+      "power": [
+        "EQUIP[Orrivane Biologic Scepter]GRADE[weapon==C]REFINE[weapon==10]===80",
+        "EQUIP[Orrivane Biologic Sword]GRADE[weapon==C]REFINE[weapon==10]===40"
       ]
     }
   },
@@ -277606,6 +277665,9 @@
       ],
       "m_my_element_water": [
         "EQUIP[Orrivane Wheel Shuriken]REFINE[weapon==10]GRADE[weapon==C]===25"
+      ],
+      "power": [
+        "EQUIP[Orrivane Huuma Shuriken]GRADE[weapon==C]REFINE[weapon==10]===40"
       ]
     }
   },
@@ -277943,6 +278005,9 @@
       ],
       "cd__Hack and Slasher": [
         "EQUIP[Furious Slayer]GRADE[weapon==C]===0.5"
+      ],
+      "power": [
+        "EQUIP[Furious Slayer]GRADE[weapon==B]===40"
       ]
     }
   },
