@@ -254177,12 +254177,10 @@
     "script": {
       "pow": [
         "5",
-        "GRADE[me==D]===5",
-        "GRADE[me==B]===5"
+        "GRADE[me==D]===5"
       ],
       "con": [
-        "5",
-        "GRADE[me==B]===5"
+        "5"
       ],
       "atk": [
         "2---30",
@@ -254242,12 +254240,10 @@
     "script": {
       "spl": [
         "5",
-        "GRADE[me==D]===5",
-        "GRADE[me==B]===5"
+        "GRADE[me==D]===5"
       ],
       "con": [
-        "5",
-        "GRADE[me==B]===5"
+        "5"
       ],
       "matk": [
         "2---25",
@@ -254265,7 +254261,7 @@
         "11===8",
         "GRADE[me==C]===7"
       ],
-      "m_element_all": [
+      "m_my_element_all": [
         "11===25"
       ],
       "acd": [
