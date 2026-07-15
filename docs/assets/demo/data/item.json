@@ -254498,7 +254498,7 @@
         "GRADE[me==A]===15",
         "EQUIP[Violet Stardust Crown]===15"
       ],
-      "m_my_element_shadow": [
+      "m_my_element_dark": [
         "2---3",
         "11===15",
         "GRADE[me==C]===10",
@@ -254599,7 +254599,7 @@
         "GRADE[me==A]===15",
         "EQUIP[Violet Stardust Crown]===15"
       ],
-      "m_my_element_shadow": [
+      "m_my_element_dark": [
         "2---3",
         "11===15",
         "GRADE[me==C]===10",
@@ -255429,7 +255429,7 @@
       "matkPercent": [
         "3---2"
       ],
-      "m_my_element_shadow": [
+      "m_my_element_dark": [
         "3---2",
         "7===10",
         "GRADE[me==C]===10"
@@ -256660,7 +256660,7 @@
         "7===15",
         "GRADE[me==D]===10"
       ],
-      "m_my_element_shadow": [
+      "m_my_element_dark": [
         "7===15",
         "GRADE[me==D]===10"
       ],
@@ -259165,7 +259165,7 @@
       "m_my_element_poison": [
         "9===12"
       ],
-      "m_my_element_shadow": [
+      "m_my_element_dark": [
         "9===12"
       ],
       "m_my_element_neutral": [
@@ -259209,7 +259209,7 @@
       "m_my_element_wind": [
         "9===12"
       ],
-      "m_my_element_shadow": [
+      "m_my_element_dark": [
         "9===12"
       ],
       "m_my_element_ghost": [
@@ -259428,7 +259428,7 @@
         "GRADE[me==B]===5",
         "GRADE[me==A]===5"
       ],
-      "m_my_element_shadow": [
+      "m_my_element_dark": [
         "9===10",
         "GRADE[me==D]===5",
         "GRADE[me==C]===5",
@@ -259502,7 +259502,7 @@
         "GRADE[me==B]===5",
         "GRADE[me==A]===5"
       ],
-      "m_my_element_shadow": [
+      "m_my_element_dark": [
         "9===10",
         "GRADE[me==D]===5",
         "GRADE[me==C]===5",
@@ -260024,7 +260024,7 @@
         "GRADE[me==B]===5",
         "GRADE[me==A]===5"
       ],
-      "m_my_element_shadow": [
+      "m_my_element_dark": [
         "5",
         "7===6",
         "9===6",
@@ -260110,7 +260110,7 @@
         "GRADE[me==B]===5",
         "GRADE[me==A]===5"
       ],
-      "m_my_element_shadow": [
+      "m_my_element_dark": [
         "5",
         "7===6",
         "9===6",
@@ -260554,7 +260554,7 @@
         "GRADE[me==B]===5",
         "GRADE[me==A]===5"
       ],
-      "m_my_element_shadow": [
+      "m_my_element_dark": [
         "GRADE[me==D]===5",
         "GRADE[me==C]===5",
         "GRADE[me==B]===5",
@@ -260622,7 +260622,7 @@
         "GRADE[me==B]===5",
         "GRADE[me==A]===5"
       ],
-      "m_my_element_shadow": [
+      "m_my_element_dark": [
         "GRADE[me==D]===5",
         "GRADE[me==C]===5",
         "GRADE[me==B]===5",
@@ -260824,7 +260824,7 @@
       "m_my_element_poison": [
         "10"
       ],
-      "m_my_element_shadow": [
+      "m_my_element_dark": [
         "10"
       ],
       "m_my_element_neutral": [
@@ -260868,7 +260868,7 @@
       "m_my_element_wind": [
         "10"
       ],
-      "m_my_element_shadow": [
+      "m_my_element_dark": [
         "10"
       ],
       "m_my_element_ghost": [
@@ -261034,7 +261034,7 @@
       "m_my_element_poison": [
         "12"
       ],
-      "m_my_element_shadow": [
+      "m_my_element_dark": [
         "12"
       ],
       "m_my_element_neutral": [
@@ -261194,7 +261194,7 @@
       "m_my_element_wind": [
         "12"
       ],
-      "m_my_element_shadow": [
+      "m_my_element_dark": [
         "12"
       ],
       "m_my_element_ghost": [
@@ -279215,6 +279215,1793 @@
       ],
       "sp": [
         "level:1---2"
+      ]
+    }
+  },
+  "300907": {
+    "id": 300907,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Isgard Crafting Competition Card",
+    "unidName": null,
+    "resName": "Nameless_Card",
+    "unidResName": null,
+    "description": "ATK +3%, increases physical damage against all sizes and all elemental enemies by 3%.\n^ffffff_^000000\nWhen equipped with Isgard Ring, increases Perfect Hit physical damage and Critical damage by 5%, and increases physical damage against all sizes and all elemental enemies by 5%.\n^ffffff_^000000\nType: ^777777Card^000000\nCompound On: ^777777Accessory (Right)^000000\nWeight: ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 8,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "3"
+      ],
+      "p_size_all": [
+        "3",
+        "EQUIP[Isgard Ring]===5"
+      ],
+      "p_element_all": [
+        "3",
+        "EQUIP[Isgard Ring]===5"
+      ],
+      "hitDmg": [
+        "EQUIP[Isgard Ring]===5"
+      ],
+      "criDmg": [
+        "EQUIP[Isgard Ring]===5"
+      ]
+    }
+  },
+  "300908": {
+    "id": 300908,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "How to Survive in the Demon King's Castle Card",
+    "unidName": null,
+    "resName": "Nameless_Card",
+    "unidResName": null,
+    "description": "MATK +3%, increases magic damage against all sizes and all elemental enemies by 3%.\n^ffffff_^000000\nWhen equipped with Demon King's Castle Necklace, increases all elemental magic damage by 7%, and increases magic damage against all sizes and all elemental enemies by 5%.\n^ffffff_^000000\nType: ^777777Card^000000\nCompound On: ^777777Accessory (Right)^000000\nWeight: ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 8,
+    "canGrade": false,
+    "script": {
+      "matkPercent": [
+        "3"
+      ],
+      "m_size_all": [
+        "3",
+        "EQUIP[Demon King's Castle Necklace]===5"
+      ],
+      "m_element_all": [
+        "3",
+        "EQUIP[Demon King's Castle Necklace]===5"
+      ],
+      "m_my_element_all": [
+        "EQUIP[Demon King's Castle Necklace]===7"
+      ]
+    }
+  },
+  "315324": {
+    "id": 315324,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Wind Hawk Stone II (Garment)",
+    "unidName": null,
+    "resName": "Sniper_Figure",
+    "unidResName": null,
+    "description": "Flame Trap and Swift Trap damage +10%.\nWhen equipped with Ranger Stone II (Upper), Hawk Rush and Hawk Boomerang damage +15%.\nWhen equipped with Ranger Stone II (Middle), Solid Trap and Deep Blind Trap damage +10%.\nWhen equipped with Ranger Stone II (Lower), increases physical damage against all elemental enemies by 3% per level of Nature Friendly.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 74,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Flame Trap": [
+        "10"
+      ],
+      "Swift Trap": [
+        "10"
+      ],
+      "Hawk Rush": [
+        "EQUIP[Ranger Stone II (Upper)]===15"
+      ],
+      "Hawk Boomerang": [
+        "EQUIP[Ranger Stone II (Upper)]===15"
+      ],
+      "Solid Trap": [
+        "EQUIP[Ranger Stone II (Middle)]===10"
+      ],
+      "Deep Blind Trap": [
+        "EQUIP[Ranger Stone II (Middle)]===10"
+      ],
+      "p_element_all": [
+        "EQUIP[Ranger Stone II (Lower)]LEARN_SKILL[Nature Friendly==1]---3"
+      ]
+    }
+  },
+  "315325": {
+    "id": 315325,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Ranger Stone II (Upper)",
+    "unidName": null,
+    "resName": "Sniper_Figure",
+    "unidResName": null,
+    "description": "Reduces Global Cooldown by 1% per 2 levels of Arrow Storm.\nWhen equipped with Ranger Stone (Garment), Arrow Storm damage +20%.\nWhen equipped with Ranger Stone II (Garment), Focused Arrow Strike damage +15%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 71,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "acd": [
+        "LEARN_SKILL[Arrow Storm==2]---1"
+      ],
+      "Arrow Storm": [
+        "EQUIP[Ranger Stone (Garment)]===20"
+      ],
+      "Focused Arrow Strike": [
+        "EQUIP[Ranger Stone II (Garment)]===15"
+      ]
+    }
+  },
+  "315326": {
+    "id": 315326,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Ranger Stone II (Middle)",
+    "unidName": null,
+    "resName": "Sniper_Figure",
+    "unidResName": null,
+    "description": "Aimed Bolt damage +5% per level of Trap Research.\nWhen equipped with Ranger Stone (Garment), Arrow Storm damage +15%.\nWhen equipped with Ranger Stone II (Garment), Focused Arrow Strike damage +15%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 72,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Aimed Bolt": [
+        "LEARN_SKILL[Trap Research==1]---5"
+      ],
+      "Arrow Storm": [
+        "EQUIP[Ranger Stone (Garment)]===15"
+      ],
+      "Focused Arrow Strike": [
+        "EQUIP[Ranger Stone II (Garment)]===15"
+      ]
+    }
+  },
+  "315327": {
+    "id": 315327,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Ranger Stone II (Lower)",
+    "unidName": null,
+    "resName": "Sniper_Figure",
+    "unidResName": null,
+    "description": "Increases physical damage against all sizes by 3% per 2 levels of Aimed Bolt.\nWhen equipped with Ranger Stone (Garment), Arrow Storm damage +15%.\nWhen equipped with Ranger Stone II (Garment), Aimed Bolt damage +15%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 73,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "p_size_all": [
+        "LEARN_SKILL[Aimed Bolt==2]---3"
+      ],
+      "Arrow Storm": [
+        "EQUIP[Ranger Stone (Garment)]===15"
+      ],
+      "Aimed Bolt": [
+        "EQUIP[Ranger Stone II (Garment)]===15"
+      ]
+    }
+  },
+  "315328": {
+    "id": 315328,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Elemental Master Stone II (Garment)",
+    "unidName": null,
+    "resName": "Professor_Figure",
+    "unidResName": null,
+    "description": "Diamond Storm damage +15%.\nWhen equipped with Sorcerer Stone II (Upper), Terra Drive damage +15%.\nWhen equipped with Sorcerer Stone II (Middle), Lightning Land damage +10%.\nWhen equipped with Sorcerer Stone II (Lower), Earth, Water, and Wind magic damage +10%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 74,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Diamond Storm": [
+        "15"
+      ],
+      "Terra Drive": [
+        "EQUIP[Sorcerer Stone II (Upper)]===15"
+      ],
+      "Lightning Land": [
+        "EQUIP[Sorcerer Stone II (Middle)]===10"
+      ],
+      "m_my_element_earth": [
+        "EQUIP[Sorcerer Stone II (Lower)]===10"
+      ],
+      "m_my_element_water": [
+        "EQUIP[Sorcerer Stone II (Lower)]===10"
+      ],
+      "m_my_element_wind": [
+        "EQUIP[Sorcerer Stone II (Lower)]===10"
+      ]
+    }
+  },
+  "315329": {
+    "id": 315329,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Sorcerer Stone II (Upper)",
+    "unidName": null,
+    "resName": "Professor_Figure",
+    "unidResName": null,
+    "description": "Reduces Fixed Cast Time by 0.1 seconds per level of Psychic Wave.\nWhen equipped with Sorcerer Stone (Garment), Psychic Wave damage +15%.\nWhen equipped with Sorcerer Stone II (Garment), Varetyr Spear damage +15%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 71,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "fct": [
+        "LEARN_SKILL[Psychic Wave==1]---0.1"
+      ],
+      "Psychic Wave": [
+        "EQUIP[Sorcerer Stone (Garment)]===15"
+      ],
+      "Varetyr Spear": [
+        "EQUIP[Sorcerer Stone II (Garment)]===15"
+      ]
+    }
+  },
+  "315330": {
+    "id": 315330,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Sorcerer Stone II (Middle)",
+    "unidName": null,
+    "resName": "Professor_Figure",
+    "unidResName": null,
+    "description": "Reduces Variable Cast Time by 2% per level of Poison Burst.\nWhen equipped with Sorcerer Stone (Garment), Poison Burst damage +15%.\nWhen equipped with Sorcerer Stone II (Garment), Diamond Dust damage +15%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 72,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "vct": [
+        "LEARN_SKILL[Poison Burst==1]---2"
+      ],
+      "Poison Burst": [
+        "EQUIP[Sorcerer Stone (Garment)]===15"
+      ],
+      "Diamond Dust": [
+        "EQUIP[Sorcerer Stone II (Garment)]===15"
+      ]
+    }
+  },
+  "315331": {
+    "id": 315331,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Sorcerer Stone II (Lower)",
+    "unidName": null,
+    "resName": "Professor_Figure",
+    "unidResName": null,
+    "description": "Increases magic damage against all sizes by 3% per level of Diamond Dust.\nWhen equipped with Sorcerer Stone (Garment), Psychic Wave damage +15%.\nWhen equipped with Sorcerer Stone II (Garment), Diamond Dust damage +15%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 73,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "m_size_all": [
+        "LEARN_SKILL[Diamond Dust==1]---3"
+      ],
+      "Psychic Wave": [
+        "EQUIP[Sorcerer Stone (Garment)]===15"
+      ],
+      "Diamond Dust": [
+        "EQUIP[Sorcerer Stone II (Garment)]===15"
+      ]
+    }
+  },
+  "315332": {
+    "id": 315332,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Shinkiro Stone II (Garment)",
+    "unidName": null,
+    "resName": "Kagerou_Figure",
+    "unidResName": null,
+    "description": "Increases Shadow Dance damage by 10%.\nWhen equipped with Kagerou Stone II (Upper), every 2 levels of Shadow Hunting increases Physical Damage against all elemental enemies by 3%.\nWhen equipped with Kagerou Stone II (Middle), C.RATE +3, increases Shadow Flash damage by 10%.\nWhen equipped with Kagerou Stone II (Lower), every 2 levels of Shadow Dance grants CRI +1 and increases Melee Physical Damage by 3%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 74,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Shadow Dance": [
+        "10"
+      ],
+      "p_element_all": [
+        "EQUIP[Kagerou Stone II (Upper)]LEARN_SKILL[Shadow Hunting==2]---3"
+      ],
+      "cRate": [
+        "EQUIP[Kagerou Stone II (Middle)]===3"
+      ],
+      "Shadow Flash": [
+        "EQUIP[Kagerou Stone II (Middle)]===10"
+      ],
+      "cri": [
+        "EQUIP[Kagerou Stone II (Lower)]LEARN_SKILL[Shadow Dance==2]---1"
+      ],
+      "melee": [
+        "EQUIP[Kagerou Stone II (Lower)]LEARN_SKILL[Shadow Dance==2]---3"
+      ]
+    }
+  },
+  "315333": {
+    "id": 315333,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Kagerou Stone II (Upper)",
+    "unidName": null,
+    "resName": "Fire Talisman",
+    "unidResName": null,
+    "description": "Every 1 level of Kagerou & Oboro Right-Hand Training increases Cross Slash damage by 5%.\nWhen equipped with Kagerou Stone (Garment), increases Swirling Petal damage by 25%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 71,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Cross Slash": [
+        "LEARN_SKILL[Righthand Mastery==1]---5"
+      ],
+      "Swirling Petal": [
+        "EQUIP[Kagerou Stone (Garment)]===25"
+      ]
+    }
+  },
+  "315334": {
+    "id": 315334,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Kagerou Stone II (Middle)",
+    "unidName": null,
+    "resName": "Fire Talisman",
+    "unidResName": null,
+    "description": "Every 1 level of Cross Slash increases Kunai Explosion damage by 3%.\nWhen equipped with Kagerou Stone (Garment), increases Swirling Petal damage by 25%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 72,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Kunai Explosion": [
+        "LEARN_SKILL[Cross Slash==1]---3"
+      ],
+      "Swirling Petal": [
+        "EQUIP[Kagerou Stone (Garment)]===25"
+      ]
+    }
+  },
+  "315335": {
+    "id": 315335,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Kagerou Stone II (Lower)",
+    "unidName": null,
+    "resName": "Fire Talisman",
+    "unidResName": null,
+    "description": "Every 1 level of 16th Night increases Swirling Petal damage by 5%.\nWhen equipped with Kagerou Stone (Garment), increases Cross Slash damage by 25%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 73,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Swirling Petal": [
+        "LEARN_SKILL[16th Night==1]---5"
+      ],
+      "Cross Slash": [
+        "EQUIP[Kagerou Stone (Garment)]===25"
+      ]
+    }
+  },
+  "315336": {
+    "id": 315336,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Shiranui Stone II (Garment)",
+    "unidName": null,
+    "resName": "Oboro_Figure",
+    "unidResName": null,
+    "description": "Increases Darkening Cannon damage by 10%.\nWhen equipped with Oboro Stone II (Upper), increases Red Flame Cannon damage by 15%.\nWhen equipped with Oboro Stone II (Middle), every 2 levels of Red Flame Cannon increases magic damage against all elemental enemies by 3%.\nWhen equipped with Oboro Stone II (Lower), increases Cold Blooded Cannon damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 74,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Darkening Cannon": [
+        "10"
+      ],
+      "Red Flame Cannon": [
+        "EQUIP[Oboro Stone II (Upper)]===15"
+      ],
+      "m_element_all": [
+        "EQUIP[Oboro Stone II (Middle)]LEARN_SKILL[Red Flame Cannon==2]---3"
+      ],
+      "Cold Blooded Cannon": [
+        "EQUIP[Oboro Stone II (Lower)]===10"
+      ]
+    }
+  },
+  "315337": {
+    "id": 315337,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Oboro Stone II (Upper)",
+    "unidName": null,
+    "resName": "Fire Talisman",
+    "unidResName": null,
+    "description": "Every 1 level of Kagerou & Oboro Righthand Mastery increases Flaming Petals, Freezing Spear, and Wind Blade damage by 7%.\nWhen equipped with Oboro Stone (Garment), increases Flaming Petals, Freezing Spear, and Wind Blade damage by 25%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 71,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Flaming Petals": [
+        "LEARN_SKILL[Righthand Mastery==1]---7",
+        "EQUIP[Oboro Stone (Garment)]===25"
+      ],
+      "Freezing Spear": [
+        "LEARN_SKILL[Righthand Mastery==1]---7",
+        "EQUIP[Oboro Stone (Garment)]===25"
+      ],
+      "Wind Blade": [
+        "LEARN_SKILL[Righthand Mastery==1]---7",
+        "EQUIP[Oboro Stone (Garment)]===25"
+      ]
+    }
+  },
+  "315338": {
+    "id": 315338,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Oboro Stone II (Middle)",
+    "unidName": null,
+    "resName": "Fire Talisman",
+    "unidResName": null,
+    "description": "Every 1 level of Melt Away increases Fire, Water, and Wind magic damage by 3%.\nWhen equipped with Oboro Stone (Garment), increases Flaming Petals, Freezing Spear, and Wind Blade damage by 30%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 72,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "m_my_element_fire": [
+        "LEARN_SKILL[Melt Away==1]---3"
+      ],
+      "m_my_element_water": [
+        "LEARN_SKILL[Melt Away==1]---3"
+      ],
+      "m_my_element_wind": [
+        "LEARN_SKILL[Melt Away==1]---3"
+      ],
+      "Flaming Petals": [
+        "EQUIP[Oboro Stone (Garment)]===30"
+      ],
+      "Freezing Spear": [
+        "EQUIP[Oboro Stone (Garment)]===30"
+      ],
+      "Wind Blade": [
+        "EQUIP[Oboro Stone (Garment)]===30"
+      ]
+    }
+  },
+  "315339": {
+    "id": 315339,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Oboro Stone II (Lower)",
+    "unidName": null,
+    "resName": "Fire Talisman",
+    "unidResName": null,
+    "description": "Every 1 level of 16th Night increases Flaming Petals, Freezing Spear, and Wind Blade damage by 4%.\nWhen equipped with Oboro Stone (Garment), increases Flaming Petals, Freezing Spear, and Wind Blade damage by 25%.",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 73,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "Flaming Petals": [
+        "LEARN_SKILL[16th Night==1]---4",
+        "EQUIP[Oboro Stone (Garment)]===25"
+      ],
+      "Freezing Spear": [
+        "LEARN_SKILL[16th Night==1]---4",
+        "EQUIP[Oboro Stone (Garment)]===25"
+      ],
+      "Wind Blade": [
+        "LEARN_SKILL[16th Night==1]---4",
+        "EQUIP[Oboro Stone (Garment)]===25"
+      ]
+    }
+  },
+  "450579": {
+    "id": 450579,
+    "aegisName": "Elementality_Robe",
+    "flavorText": null,
+    "name": "Elementality Robe [1]",
+    "unidName": null,
+    "resName": "Elementality_Robe",
+    "unidResName": null,
+    "description": "A robe crafted through the Isgard Crafting Competition.\nMATK +5%, MATK +120.\nEvery 3 refine levels: MATK +12.\nAt +7 refine: MATK +8%, increases Fire, Wind, and Poison magic damage by 10%.\nAt +9 refine: Increases Water, Earth, and Neutral magic damage by 15%.\nAt +11 refine: Increases Conflagration, Lightning Land, and Venom Swamp damage by 15%.\nAt +12 refine: Increases Diamond Storm, Terra Drive, and Psychic Stream damage by 20%.\n^ffffff_^000000\nWhen equipped with Glacier Book:\nVariable Cast Time -10%, increases Water, Wind, Earth, Fire, Poison, and Neutral magic damage by 15%.\n^ffffff_^000000\nWhen equipped with Dim Glacier Book:\nMATK +8%, Variable Cast Time -15%, increases Water, Wind, Earth, Fire, Poison, and Neutral magic damage by 20%.\nIf the weapon is refined to +12 or higher, reduces Diamond Storm and Terra Drive skill cooldown by 0.25 seconds.\n^ffffff_^000000\n^CC3D3D[Grade Bonus Effects]^000000\n[D Grade] SPL +8, MATK +5%.\n[C Grade] Increases Water, Wind, Earth, Fire, Poison, and Neutral magic damage by 10%.\n[B Grade] S.MATK +5, Global Cooldown -8%.\n[A Grade] Increases magic damage against all elemental enemies by 15%.\nType: ^777777Armor^000000  Defense: ^77777765^000000\nWeight: ^777777120^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777225^000000\nClass: ^777777Elemental Master^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 65,
+    "weight": 120,
+    "requiredLevel": 225,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [],
+    "script": {
+      "matkPercent": [
+        "5",
+        "7===8",
+        "EQUIP[Dim Glacier Book]===8",
+        "GRADE[me==D]===5"
+      ],
+      "matk": [
+        "120",
+        "12---3"
+      ],
+      "m_my_element_fire": [
+        "7===10",
+        "EQUIP[Glacier Book]===15",
+        "EQUIP[Dim Glacier Book]===20",
+        "GRADE[me==C]===10"
+      ],
+      "m_my_element_wind": [
+        "7===10",
+        "EQUIP[Glacier Book]===15",
+        "EQUIP[Dim Glacier Book]===20",
+        "GRADE[me==C]===10"
+      ],
+      "m_my_element_poison": [
+        "7===10",
+        "EQUIP[Glacier Book]===15",
+        "EQUIP[Dim Glacier Book]===20",
+        "GRADE[me==C]===10"
+      ],
+      "m_my_element_water": [
+        "9===15",
+        "EQUIP[Glacier Book]===15",
+        "EQUIP[Dim Glacier Book]===20",
+        "GRADE[me==C]===10"
+      ],
+      "m_my_element_earth": [
+        "9===15",
+        "EQUIP[Glacier Book]===15",
+        "EQUIP[Dim Glacier Book]===20",
+        "GRADE[me==C]===10"
+      ],
+      "m_my_element_neutral": [
+        "9===15",
+        "EQUIP[Glacier Book]===15",
+        "EQUIP[Dim Glacier Book]===20",
+        "GRADE[me==C]===10"
+      ],
+      "Conflagration": [
+        "11===15"
+      ],
+      "Lightning Land": [
+        "11===15"
+      ],
+      "Venom Swamp": [
+        "11===15"
+      ],
+      "Diamond Storm": [
+        "12===20"
+      ],
+      "Terra Drive": [
+        "12===20"
+      ],
+      "Psychic Stream": [
+        "12===20"
+      ],
+      "vct": [
+        "EQUIP[Glacier Book]===10",
+        "EQUIP[Dim Glacier Book]===15"
+      ],
+      "cd__Diamond Storm": [
+        "EQUIP[Dim Glacier Book]REFINE[weapon==12]===0.25"
+      ],
+      "cd__Terra Drive": [
+        "EQUIP[Dim Glacier Book]REFINE[weapon==12]===0.25"
+      ],
+      "spl": [
+        "GRADE[me==D]===8"
+      ],
+      "sMatk": [
+        "GRADE[me==B]===5"
+      ],
+      "acd": [
+        "GRADE[me==B]===8"
+      ],
+      "m_element_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "450580": {
+    "id": 450580,
+    "aegisName": "Shadow_Crossing_Armor",
+    "flavorText": null,
+    "name": "Shadow Crossing Armor [1]",
+    "unidName": null,
+    "resName": "Shadow_Crossing_Armor",
+    "unidResName": null,
+    "description": "Armor of shadows discovered in the Demon King's Castle.\nCRI +7, ATK +120.\nEvery 3 refine levels: ATK +12, CRI +2.\nAt +7 refine: CRI +10, increases melee physical damage by 10%.\nAt +9 refine: Critical damage +15%, Savage Impact damage +10%.\nAt +11 refine: Additional Savage Impact damage +10%, Impact Crater damage +25%.\nAt +12 refine: CRI +8, P.ATK +5.\n^ffffff_^000000\nWhen equipped with Wicked Katar:\nSavage Impact and Impact Crater damage +15%.\nIf the weapon is refined to +12 or higher, increases melee physical damage by 10%, reduces Savage Impact skill cooldown by 0.15 seconds, and reduces Impact Crater skill cooldown by 0.4 seconds.\n^ffffff_^000000\nWhen equipped with Muqaddas Dayats:\nSavage Impact damage +20%, Impact Crater damage +45%.\nIf the weapon is refined to +12 or higher, increases melee physical damage by 10%, reduces Savage Impact skill cooldown by 0.2 seconds, and reduces Impact Crater skill cooldown by 0.5 seconds.\n^ffffff_^000000\n^CC3D3D[Grade Bonus Effects]^000000\n[D Grade] POW +5, Critical damage +15%.\n[C Grade] Increases melee physical damage by 10%.\n[B Grade] Global Cooldown -10%.\n[A Grade] CRI +5, C.RATE +5.\nType: ^777777Armor^000000  Defense: ^777777125^000000\nWeight: ^777777220^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777230^000000\nClass: ^777777Shadow Cross^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 125,
+    "weight": 220,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ShadowCross"
+    ],
+    "script": {
+      "cri": [
+        "7",
+        "3---2",
+        "7===10",
+        "12===8",
+        "GRADE[me==A]===5"
+      ],
+      "atk": [
+        "120",
+        "12---3"
+      ],
+      "melee": [
+        "7===10",
+        "EQUIP[Wicked Katar]REFINE[weapon==12]===10",
+        "EQUIP[Muqaddas Dayats]REFINE[weapon==12]===10",
+        "GRADE[me==C]===10"
+      ],
+      "criDmg": [
+        "9===15",
+        "GRADE[me==D]===15"
+      ],
+      "Savage Impact": [
+        "9===10",
+        "11===10",
+        "EQUIP[Wicked Katar]===15",
+        "EQUIP[Muqaddas Dayats]===20"
+      ],
+      "Impact Crater": [
+        "11===25",
+        "EQUIP[Wicked Katar]===15",
+        "EQUIP[Muqaddas Dayats]===45"
+      ],
+      "cd__Savage Impact": [
+        "EQUIP[Wicked Katar]REFINE[weapon==12]===0.15",
+        "EQUIP[Muqaddas Dayats]REFINE[weapon==12]===0.2"
+      ],
+      "cd__Impact Crater": [
+        "EQUIP[Wicked Katar]REFINE[weapon==12]===0.4",
+        "EQUIP[Muqaddas Dayats]REFINE[weapon==12]===0.5"
+      ],
+      "pAtk": [
+        "12===5"
+      ],
+      "pow": [
+        "GRADE[me==D]===5"
+      ],
+      "acd": [
+        "GRADE[me==B]===10"
+      ],
+      "cRate": [
+        "GRADE[me==A]===5"
+      ]
+    }
+  },
+  "460172": {
+    "id": 460172,
+    "aegisName": "Shooting_Shield",
+    "flavorText": null,
+    "name": "Shooting Shield [1]",
+    "unidName": null,
+    "resName": "Shooting_Shield",
+    "unidResName": null,
+    "description": "A heavy and sturdy shield crafted through the Isgard Crafting Competition.\n^ffffff_^000000\nRES +20.\nAt +7 refine: Increases ranged physical damage by 10%.\nAt +9 refine: DEF +75, increases perfect hit physical damage by 10%.\nAt +11 refine: Increases Shield Shooting damage by 15%.\n^ffffff_^000000\n^CC3D3D[Grade Bonus Effects]^000000\n[D Grade] P.ATK +5, RES +15.\n[C Grade] ATK +5%, increases Attack Speed (reduces after-attack delay by 10%).\n[B Grade] Shield Shooting damage +10%.\n[A Grade] Variable Cast Time -10%.\nType: ^777777Shield^000000  Defense: ^777777250^000000\nWeight: ^777777650^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777225^000000\nClass: ^777777Imperial Guard^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 250,
+    "weight": 650,
+    "requiredLevel": 225,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ImperialGuard"
+    ],
+    "script": {
+      "res": [
+        "20",
+        "GRADE[me==D]===15"
+      ],
+      "range": [
+        "7===10"
+      ],
+      "def": [
+        "9===75"
+      ],
+      "hitDmg": [
+        "9===10"
+      ],
+      "Shield Shooting": [
+        "11===15",
+        "GRADE[me==B]===10"
+      ],
+      "pAtk": [
+        "GRADE[me==D]===5"
+      ],
+      "atkPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "acd": [
+        "GRADE[me==C]===10"
+      ],
+      "vct": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "460173": {
+    "id": 460173,
+    "aegisName": "Rush_Guard",
+    "flavorText": null,
+    "name": "Rush Guard [1]",
+    "unidName": null,
+    "resName": "Rush_Guard",
+    "unidResName": null,
+    "description": "A standard shield crafted through the Isgard Crafting Competition.\n^ffffff_^000000\nMDEF +5, RES +15.\nAt +7 refine: Increases ranged physical damage by 10%.\nAt +9 refine: DEF +50, RES +5, increases perfect hit physical damage by 10%.\nAt +11 refine: Increases Shield Chain Rush damage by 15%.\n^ffffff_^000000\n^CC3D3D[Grade Bonus Effects]^000000\n[D Grade] P.ATK +5, RES +15.\n[C Grade] ATK +5%, increases Attack Speed (reduces after-attack delay by 10%).\n[B Grade] Shield Chain Rush damage +10%.\n[A Grade] Variable Cast Time -10%.\nType: ^777777Shield^000000  Defense: ^777777200^000000\nWeight: ^777777450^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777225^000000\nClass: ^777777Hyper Novice^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 200,
+    "weight": 450,
+    "requiredLevel": 225,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "HyperNovice"
+    ],
+    "script": {
+      "mdef": [
+        "5"
+      ],
+      "res": [
+        "15",
+        "9===5",
+        "GRADE[me==D]===15"
+      ],
+      "range": [
+        "7===10"
+      ],
+      "def": [
+        "9===50"
+      ],
+      "hitDmg": [
+        "9===10"
+      ],
+      "Shield Chain Rush": [
+        "11===15",
+        "GRADE[me==B]===10"
+      ],
+      "pAtk": [
+        "GRADE[me==D]===5"
+      ],
+      "atkPercent": [
+        "GRADE[me==C]===5"
+      ],
+      "acd": [
+        "GRADE[me==C]===10"
+      ],
+      "vct": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "470444": {
+    "id": 470444,
+    "aegisName": "Madonium_Booster",
+    "flavorText": null,
+    "name": "Madonium Booster [1]",
+    "unidName": null,
+    "resName": "Madonium_Booster",
+    "unidResName": null,
+    "description": "A Madogear booster device created for the Isgard Crafting Competition.\n^ffffff_^000000\nMax HP +5%, HIT +30.\nEvery 2 refine levels: Max HP +200.\nAt +7 refine: Increases melee physical damage by 7%.\nAt +9 refine: Increases perfect hit physical damage by 10%.\nAt +11 refine: Increases Rush Strike damage by 15%.\n^ffffff_^000000\nWhen equipped with Glacier Mechanic Axe:\nATK +50, Global Cooldown -5%, Rush Strike and Powerful Swing damage +10%.\n^ffffff_^000000\nWhen equipped with Dim Glacier Mechanic Axe:\nATK +70, Global Cooldown -7%, Rush Strike and Powerful Swing damage +15%.\nIf the weapon is refined to +12 or higher, increases physical damage against all elemental enemies by 15%, and reduces Rush Strike skill cooldown by 0.15 seconds.\n^ffffff_^000000\n^CC3D3D[Grade Bonus Effects]^000000\n[D Grade] POW +5, RES +25.\n[C Grade] Powerful Swing damage +10%.\n[B Grade] P.ATK +5, CON +5.\n[A Grade] Global Cooldown -5%.\nType: ^777777Shoes^000000  Defense: ^77777765^000000\nWeight: ^777777100^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777225^000000\nClass: ^777777Meister^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 516,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 65,
+    "weight": 100,
+    "requiredLevel": 225,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Meister"
+    ],
+    "script": {
+      "hpPercent": [
+        "5"
+      ],
+      "hit": [
+        "30"
+      ],
+      "hp": [
+        "2---200"
+      ],
+      "melee": [
+        "7===7"
+      ],
+      "hitDmg": [
+        "9===10"
+      ],
+      "Rush Strike": [
+        "11===15",
+        "EQUIP[Glacier Mechanic Axe]===10",
+        "EQUIP[Dim Glacier Mechanic Axe]===15"
+      ],
+      "Powerful Swing": [
+        "EQUIP[Glacier Mechanic Axe]===10",
+        "EQUIP[Dim Glacier Mechanic Axe]===15",
+        "GRADE[me==C]===10"
+      ],
+      "atk": [
+        "EQUIP[Glacier Mechanic Axe]===50",
+        "EQUIP[Dim Glacier Mechanic Axe]===70"
+      ],
+      "acd": [
+        "EQUIP[Glacier Mechanic Axe]===5",
+        "EQUIP[Dim Glacier Mechanic Axe]===7",
+        "GRADE[me==A]===5"
+      ],
+      "p_element_all": [
+        "EQUIP[Dim Glacier Mechanic Axe]REFINE[weapon==12]===15"
+      ],
+      "cd__Rush Strike": [
+        "EQUIP[Dim Glacier Mechanic Axe]REFINE[weapon==12]===0.15"
+      ],
+      "pow": [
+        "GRADE[me==D]===5"
+      ],
+      "res": [
+        "GRADE[me==D]===25"
+      ],
+      "pAtk": [
+        "GRADE[me==B]===5"
+      ],
+      "con": [
+        "GRADE[me==B]===5"
+      ]
+    }
+  },
+  "470445": {
+    "id": 470445,
+    "aegisName": "Ninja_Step_Shoes",
+    "flavorText": null,
+    "name": "Unknown Ninja's Footsteps [1]",
+    "unidName": null,
+    "resName": "Ninja_Step_Shoes",
+    "unidResName": null,
+    "description": "Specially made shoes found in Demon King's Castle to reduce noise.\n^ffffff_^000000\nMHP +7%.\nEvery 3 Refine, MHP +450.\nAt +7 Refine, Ranged Physical Damage +10%.\nAt +9 Refine, Hit Physical Damage +10%.\nAt +11 Refine, Huuma Shuriken - Construct damage +10%.\n^ffffff_^000000\nWhen equipped with Precision Slasher, ATK +50, Huuma Shuriken - Grasp and Huuma Shuriken - Construct damage +15%; if the weapon is refined to +12 or higher, Ranged Physical Damage +10% and Huuma Shuriken - Construct cooldown -0.2 sec.\n^ffffff_^000000\nWhen equipped with Flush Grinder Huuma Shuriken, ATK +50, Huuma Shuriken - Grasp and Huuma Shuriken - Construct damage +20%; if the weapon is refined to +12 or higher, Ranged Physical Damage +15% and Huuma Shuriken - Construct cooldown -0.3 sec.\n^ffffff_^000000\nWhen equipped with Engraved Icy Storm Rune Suit, Physical Damage against all Element enemies +15%; if the armor is refined to +12 or higher, Ranged Physical Damage +15% and Hit Physical Damage +20%.\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] POW +5, RES +25.\n[C Grade] Huuma Shuriken - Construct damage +10%.\n[B Grade] P.ATK +5, Hit Physical Damage +5%.\n[A Grade] Ranged Physical Damage +10%.\nType: ^777777Shoes^000000 Def: ^77777750^000000\nWeight: ^77777775^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777230^000000\nClass: ^777777Shinkiro, Shiranui^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 516,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 50,
+    "weight": 75,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Shinkiro",
+      "Shiranui"
+    ],
+    "script": {
+      "hpPercent": [
+        "7"
+      ],
+      "hp": [
+        "3---450"
+      ],
+      "range": [
+        "7===10",
+        "EQUIP[Precision Slasher]REFINE[weapon==12]===10",
+        "EQUIP[Flush Grinder Huuma Shuriken]REFINE[weapon==12]===15",
+        "EQUIP[Engraved Icy Storm Rune Suit]REFINE[armor==12]===15",
+        "GRADE[me==A]===10"
+      ],
+      "hitDmg": [
+        "9===10",
+        "EQUIP[Engraved Icy Storm Rune Suit]REFINE[armor==12]===20",
+        "GRADE[me==B]===5"
+      ],
+      "Huuma Shuriken - Construct": [
+        "11===10",
+        "EQUIP[Precision Slasher]===15",
+        "EQUIP[Flush Grinder Huuma Shuriken]===20",
+        "GRADE[me==C]===10"
+      ],
+      "Huuma Shuriken - Grasp": [
+        "EQUIP[Precision Slasher]===15",
+        "EQUIP[Flush Grinder Huuma Shuriken]===20"
+      ],
+      "atk": [
+        "EQUIP[Precision Slasher]===50",
+        "EQUIP[Flush Grinder Huuma Shuriken]===50"
+      ],
+      "cd__Huuma Shuriken - Construct": [
+        "EQUIP[Precision Slasher]REFINE[weapon==12]===0.2",
+        "EQUIP[Flush Grinder Huuma Shuriken]REFINE[weapon==12]===0.3"
+      ],
+      "p_element_all": [
+        "EQUIP[Engraved Icy Storm Rune Suit]===15"
+      ],
+      "pow": [
+        "GRADE[me==D]===5"
+      ],
+      "res": [
+        "GRADE[me==D]===25"
+      ],
+      "pAtk": [
+        "GRADE[me==B]===5"
+      ]
+    }
+  },
+  "480853": {
+    "id": 480853,
+    "aegisName": "Vermilion_B_F_Muffler",
+    "flavorText": null,
+    "name": "Vermilion Feather [1]",
+    "unidName": null,
+    "resName": "Vermilion_B_F_Muffler",
+    "unidResName": null,
+    "description": "A muffler decorated with red feathers, crafted for the Isgard Craft Competition.\n^ffffff_^000000\nMHP +3000, DEF +75.\nEvery 2 Refine, MHP +150 and DEF +15.\nAt +7 Refine, Talisman of Red Phoenix damage +10%.\nAt +9 Refine, Variable Cast Time -5% and Talisman of Red Phoenix damage +5% more.\nAt +11 Refine, MHP +3% and Variable Cast Time -5% more.\n^ffffff_^000000\nWhen equipped with Glacier Robe, MATK +50, MHP +5%, Variable Cast Time -5%, all Element magic damage +5%, and Talisman of Red Phoenix damage +7%.\n^ffffff_^000000\nWhen equipped with Dim Glacier Robe, MATK +70, MHP +7%, Variable Cast Time -7%, all Element magic damage +7%, magic damage against all Element enemies +10%, and Talisman of Red Phoenix damage +12%.\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] SPL +3, CON +3.\n[C Grade] All Element magic damage +10%.\n[B Grade] Talisman of Red Phoenix damage +10%.\n[A Grade] MATK +3%, Variable Cast Time -5%.\nType: ^777777Garment^000000 Def: ^77777745^000000\nWeight: ^77777770^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777225^000000\nClass: ^777777Soul Ascetic^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 45,
+    "weight": 70,
+    "requiredLevel": 225,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "SoulAscetic"
+    ],
+    "script": {
+      "hp": [
+        "3000",
+        "2---150"
+      ],
+      "def": [
+        "75",
+        "2---15"
+      ],
+      "Talisman of Red Phoenix": [
+        "7===10",
+        "9===5",
+        "EQUIP[Glacier Robe]===7",
+        "EQUIP[Dim Glacier Robe]===12",
+        "GRADE[me==B]===10"
+      ],
+      "vct": [
+        "9===5",
+        "11===5",
+        "EQUIP[Glacier Robe]===5",
+        "EQUIP[Dim Glacier Robe]===7",
+        "GRADE[me==A]===5"
+      ],
+      "hpPercent": [
+        "11===3",
+        "EQUIP[Glacier Robe]===5",
+        "EQUIP[Dim Glacier Robe]===7"
+      ],
+      "matk": [
+        "EQUIP[Glacier Robe]===50",
+        "EQUIP[Dim Glacier Robe]===70"
+      ],
+      "spl": [
+        "GRADE[me==D]===3"
+      ],
+      "con": [
+        "GRADE[me==D]===3"
+      ],
+      "m_my_element_all": [
+        "EQUIP[Glacier Robe]===5",
+        "EQUIP[Dim Glacier Robe]===7",
+        "GRADE[me==C]===10"
+      ],
+      "m_element_all": [
+        "EQUIP[Dim Glacier Robe]===10"
+      ],
+      "matkPercent": [
+        "GRADE[me==A]===3"
+      ]
+    }
+  },
+  "491060": {
+    "id": 491060,
+    "aegisName": "Mystery_S_Ring",
+    "flavorText": null,
+    "name": "Mystery Soul Ring [1]",
+    "unidName": null,
+    "resName": "Mystery_S_Ring",
+    "unidResName": null,
+    "description": "A ring crafted for the Isgard Craft Competition.\n^ffffff_^000000\nIncreases Shadow and Ghost Element magic damage by 10%.\nIncreases magic damage against Holy and Ghost Element enemies by 10%.\nIf Base Level is 235 or higher, Variable Cast Time -10%, Global Cooldown -5%, and Mystery Illusion / Soul Vulcan Strike damage +15%.\nType: ^777777Accessory (Left)^000000 Def: ^7777770^000000\nWeight: ^77777710^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777225^000000\nClass: ^777777Arch Mage^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 511,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 225,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "ArchMage"
+    ],
+    "script": {
+      "m_my_element_dark": [
+        "10"
+      ],
+      "m_my_element_ghost": [
+        "10"
+      ],
+      "m_element_holy": [
+        "10"
+      ],
+      "m_element_ghost": [
+        "10"
+      ],
+      "vct": [
+        "LEVEL[235]===10"
+      ],
+      "acd": [
+        "LEVEL[235]===5"
+      ],
+      "Mystery Illusion": [
+        "LEVEL[235]===15"
+      ],
+      "Soul Vulcan Strike": [
+        "LEVEL[235]===15"
+      ]
+    }
+  },
+  "491061": {
+    "id": 491061,
+    "aegisName": "Isgard_Ring",
+    "flavorText": null,
+    "name": "Isgard Ring [1]",
+    "unidName": null,
+    "resName": "Isgard_Ring",
+    "unidResName": null,
+    "description": "A commemorative ring made for the Isgard Craft Competition.\n^ffffff_^000000\nCRI +8, Variable Cast Time -7%, Global Cooldown -4%.\nIf Base Level is 240 or higher, melee and ranged physical damage +10%.\nType: ^777777Accessory (Right)^000000 Def: ^7777770^000000\nWeight: ^77777710^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777220^000000\nClass: ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 220,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "cri": [
+        "8"
+      ],
+      "vct": [
+        "7"
+      ],
+      "acd": [
+        "4"
+      ],
+      "melee": [
+        "LEVEL[240]===10"
+      ],
+      "range": [
+        "LEVEL[240]===10"
+      ]
+    }
+  },
+  "491062": {
+    "id": 491062,
+    "aegisName": "Demon_K_Cas_Necklace",
+    "flavorText": null,
+    "name": "Demon King's Castle Necklace [1]",
+    "unidName": null,
+    "resName": "Demon_K_Cas_Necklace",
+    "unidResName": null,
+    "description": "A magical necklace discovered in Demon King's Castle.\n^ffffff_^000000\nIncreases attack speed (reduces after-attack delay by 7%), Variable Cast Time -7%, Global Cooldown -4%.\nIf Base Level is 240 or higher, MATK +7% and all Element magic damage +10%.\nType: ^777777Accessory (Right)^000000 Def: ^7777770^000000\nWeight: ^77777710^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777220^000000\nClass: ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 220,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "acd": [
+        "11"
+      ],
+      "vct": [
+        "7"
+      ],
+      "matkPercent": [
+        "LEVEL[240]===7"
+      ],
+      "m_my_element_all": [
+        "LEVEL[240]===10"
+      ]
+    }
+  },
+  "500160": {
+    "id": 500160,
+    "aegisName": "Lopping_Sword",
+    "flavorText": null,
+    "name": "Lopping Sword [2]",
+    "unidName": null,
+    "resName": "Lopping_Sword",
+    "unidResName": null,
+    "description": "A sharp pruning sword found in Demon King's Castle.\n^ffffff_^000000\nCRI +7, Variable Cast Time -7%.\nEvery 4 Refine, Ranged Physical Damage +5% and Mayhemic Thorns damage +5%.\nAt +7 Refine, CRI +12 and ATK +75.\nAt +9 Refine, Ranged Physical Damage +15% and Mayhemic Thorns damage +10%.\nAt +11 Refine, Variable Cast Time -8% and Critical Damage +15%.\nAt +12 Refine, CRI +10, C.RATE +5, and Critical Damage +10% more.\n^ffffff_^000000\nWhen equipped with Isgard Ring, CRI +8 and Ranged Physical Damage +15%; if the weapon is refined to +12 or higher, Mayhemic Thorns damage +10% and Mayhemic Thorns cooldown -0.15 sec.\n^ffffff_^000000\nWhen equipped with Engraved Corrupted Poison Rune Cloth, Variable Cast Time -10% and Mayhemic Thorns damage +15%; if the armor is refined to +12 or higher, CRI +15 and Critical Damage +20%.\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] P.ATK +5, Ranged Physical Damage +10%.\n[C Grade] Mayhemic Thorns damage +10%.\n[B Grade] C.RATE +3, Critical Damage +15%.\n[A Grade] ATK +7%, P.ATK +5.\nType: ^777777Sword^000000 Attack: ^777777230^000000\nWeight: ^777777150^000000\nWeapon Level: ^7777775^000000\nRequired Level: ^777777235^000000\nClass: ^777777Biolo^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 257,
+    "itemLevel": 5,
+    "attack": 230,
+    "defense": null,
+    "weight": 150,
+    "requiredLevel": 235,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Biolo"
+    ],
+    "script": {
+      "cri": [
+        "7",
+        "7===12",
+        "12===10",
+        "EQUIP[Isgard Ring]===8",
+        "EQUIP[Engraved Corrupted Poison Rune Cloth]REFINE[armor==12]===15"
+      ],
+      "vct": [
+        "7",
+        "11===8",
+        "EQUIP[Engraved Corrupted Poison Rune Cloth]===10"
+      ],
+      "range": [
+        "4---5",
+        "9===15",
+        "GRADE[weapon==D]===10",
+        "EQUIP[Isgard Ring]===15"
+      ],
+      "Mayhemic Thorns": [
+        "4---5",
+        "9===10",
+        "GRADE[weapon==C]===10",
+        "EQUIP[Isgard Ring]REFINE[weapon==12]===10",
+        "EQUIP[Engraved Corrupted Poison Rune Cloth]===15"
+      ],
+      "atk": [
+        "7===75"
+      ],
+      "criDmg": [
+        "11===15",
+        "12===10",
+        "GRADE[weapon==B]===15",
+        "EQUIP[Engraved Corrupted Poison Rune Cloth]REFINE[armor==12]===20"
+      ],
+      "cRate": [
+        "12===5",
+        "GRADE[weapon==B]===3"
+      ],
+      "pAtk": [
+        "GRADE[weapon==D]===5",
+        "GRADE[weapon==A]===5"
+      ],
+      "atkPercent": [
+        "GRADE[weapon==A]===7"
+      ],
+      "cd__Mayhemic Thorns": [
+        "EQUIP[Isgard Ring]REFINE[weapon==12]===0.15"
+      ]
+    }
+  },
+  "530093": {
+    "id": 530093,
+    "aegisName": "Tournament_G_Lance",
+    "flavorText": null,
+    "name": "Jousting Gold Lance [2]",
+    "unidName": null,
+    "resName": "Tournament_G_Lance",
+    "unidResName": null,
+    "description": "A shining lance for mounted tournaments found in Demon King's Castle.\n^ffffff_^000000\nCRI +7, ATK +5%.\nEvery 2 Refine, ATK +10 and CRI +1.\nAt +7 Refine, CRI +10 and Ranged Physical Damage +15%.\nAt +9 Refine, CRI +5 and Radiant Spear damage +15%.\nAt +11 Refine, Ranged Physical Damage +15% more and Radiant Spear damage +20% more.\nAt +12 Refine, Global Cooldown -5% more and Critical Damage +20%.\n^ffffff_^000000\nWhen equipped with Isgard Ring, CRI +5 and Radiant Spear damage +15%; if the weapon is refined to +12 or higher, Variable Cast Time -10% and Radiant Spear cooldown -0.2 sec.\n^ffffff_^000000\nWhen equipped with Engraved Corrupted Poison Rune Cloth, Physical Damage against all Property enemies +15%; if the armor is refined to +12 or higher, CRI +15, Critical Damage +20%, and Radiant Spear damage +10%.\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] P.ATK +5, Ranged Physical Damage +10%.\n[C Grade] ATK +8%, Radiant Spear damage +10%.\n[B Grade] C.RATE +3, Critical Damage +15%.\n[A Grade] Variable Cast Time -5%, Global Cooldown -5%.\nType: ^777777One-Handed Spear^000000 Attack: ^777777230^000000\nWeight: ^777777260^000000\nWeapon Level: ^7777775^000000\nRequired Level: ^777777235^000000\nClass: ^777777Imperial Guard^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 259,
+    "itemLevel": 5,
+    "attack": 230,
+    "defense": null,
+    "weight": 260,
+    "requiredLevel": 235,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ImperialGuard"
+    ],
+    "script": {
+      "cri": [
+        "7",
+        "2---1",
+        "7===10",
+        "9===5",
+        "EQUIP[Isgard Ring]===5",
+        "EQUIP[Engraved Corrupted Poison Rune Cloth]REFINE[armor==12]===15"
+      ],
+      "atkPercent": [
+        "5",
+        "GRADE[weapon==C]===8"
+      ],
+      "atk": [
+        "2---10"
+      ],
+      "range": [
+        "7===15",
+        "11===15",
+        "GRADE[weapon==D]===10"
+      ],
+      "Radiant Spear": [
+        "9===15",
+        "11===20",
+        "EQUIP[Isgard Ring]===15",
+        "EQUIP[Engraved Corrupted Poison Rune Cloth]REFINE[armor==12]===10",
+        "GRADE[weapon==C]===10"
+      ],
+      "acd": [
+        "12===5",
+        "GRADE[weapon==A]===5"
+      ],
+      "criDmg": [
+        "12===20",
+        "EQUIP[Engraved Corrupted Poison Rune Cloth]REFINE[armor==12]===20",
+        "GRADE[weapon==B]===15"
+      ],
+      "pAtk": [
+        "GRADE[weapon==D]===5"
+      ],
+      "cRate": [
+        "GRADE[weapon==B]===3"
+      ],
+      "vct": [
+        "EQUIP[Isgard Ring]REFINE[weapon==12]===10",
+        "GRADE[weapon==A]===5"
+      ],
+      "cd__Radiant Spear": [
+        "EQUIP[Isgard Ring]REFINE[weapon==12]===0.2"
+      ],
+      "p_element_all": [
+        "EQUIP[Engraved Corrupted Poison Rune Cloth]===15"
+      ]
+    }
+  },
+  "540141": {
+    "id": 540141,
+    "aegisName": "Core_Of_Element",
+    "flavorText": null,
+    "name": "Core of Element [2]",
+    "unidName": null,
+    "resName": "Core_Of_Element",
+    "unidResName": null,
+    "description": "A magic book found in the Demon King's Castle containing the essence of elemental magic.\nMATK +230.\nSPL +10, and increases Fire Bolt, Cold Bolt, and Lightning Bolt damage by 30%.\nIncreases the fixed cast time of Fire Bolt, Cold Bolt, and Lightning Bolt by 2.5 sec.\nFor every 2 Refine, increases Fire Bolt, Cold Bolt, and Lightning Bolt damage by 20%.\nFor every 3 Refine, increases attack speed (reduces after-attack delay by 2%), and increases Diamond Storm and Terra Drive damage by 5%.\nAt +7 Refine, additionally increases Fire Bolt, Cold Bolt, and Lightning Bolt damage by 40%.\nAt +9 Refine, additionally increases Fire Bolt, Cold Bolt, and Lightning Bolt damage by 50%.\nAt +11 Refine, increases Water, Wind, Fire, and Earth magic damage by 15%.\nAt +12 Refine, ASPD +1, and increases Diamond Storm and Terra Drive damage by 10%.\n^ffffff_^000000\nWhen equipped with Elementality Robe, MATK +10%, MATK +75, and increases magic damage against all sizes by 15%. If Diamond Storm and Terra Drive are both learned at Level 5 or higher, there is a 7% chance when physically attacking to trigger an additional effect for 10 sec.\n^8041D9[Additional Effect]^000000\nSPL +45, and when performing normal melee physical attacks, a 5% chance to cast Diamond Storm Lv. 5 and Terra Drive Lv. 5.\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] SPL +12, Fire, Water, Wind, and Earth magic damage +10%.\n[C Grade] MATK +7%, Diamond Storm damage +10%.\n[B Grade] ASPD +1, Terra Drive damage +10%.\n[A Grade] For every 3 Refine, S.MATK +4.\nType: ^777777Book^000000 Attack: ^777777100^000000\nWeight: ^777777120^000000\nWeapon Level: ^7777775^000000\nRequired Level: ^777777235^000000\nClass: ^777777Elemental Master^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 271,
+    "itemLevel": 5,
+    "attack": 100,
+    "defense": null,
+    "weight": 120,
+    "requiredLevel": 235,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ElementalMaster"
+    ],
+    "script": {
+      "matk": [
+        "230",
+        "EQUIP[Elementality Robe]===75"
+      ],
+      "spl": [
+        "10",
+        "GRADE[weapon==D]===12"
+      ],
+      "Fire Bolt": [
+        "30",
+        "2---20",
+        "7===40",
+        "9===50"
+      ],
+      "Cold Bolt": [
+        "30",
+        "2---20",
+        "7===40",
+        "9===50"
+      ],
+      "Lightning Bolt": [
+        "30",
+        "2---20",
+        "7===40",
+        "9===50"
+      ],
+      "fct": [
+        "2.5"
+      ],
+      "acd": [
+        "3---2"
+      ],
+      "Diamond Storm": [
+        "3---5",
+        "12===10",
+        "GRADE[weapon==C]===10"
+      ],
+      "Terra Drive": [
+        "3---5",
+        "12===10",
+        "GRADE[weapon==B]===10"
+      ],
+      "m_my_element_water": [
+        "11===15",
+        "GRADE[weapon==D]===10"
+      ],
+      "m_my_element_wind": [
+        "11===15",
+        "GRADE[weapon==D]===10"
+      ],
+      "m_my_element_fire": [
+        "11===15",
+        "GRADE[weapon==D]===10"
+      ],
+      "m_my_element_earth": [
+        "11===15",
+        "GRADE[weapon==D]===10"
+      ],
+      "aspd": [
+        "12===1",
+        "GRADE[weapon==B]===1"
+      ],
+      "matkPercent": [
+        "EQUIP[Elementality Robe]===10",
+        "GRADE[weapon==C]===7"
+      ],
+      "m_size_all": [
+        "EQUIP[Elementality Robe]===15"
+      ],
+      "sMatk": [
+        "GRADE[weapon==A]3---4"
+      ]
+    }
+  },
+  "560100": {
+    "id": 560100,
+    "aegisName": "Is_Knuckle",
+    "flavorText": null,
+    "name": "Is Knuckle [2]",
+    "unidName": null,
+    "resName": "Is_Knuckle",
+    "unidResName": null,
+    "description": "A knuckle weapon crafted through the Isgard Craft Competition.\n^ffffff_^000000\nIncreases Second Faith damage by 25%.\nFor every 3 Refine, ATK +12 and CRI +2.\nAt +7 Refine, increases melee physical damage by 12% and critical damage by 12%.\nAt +9 Refine, CRI +12 and increases Third Punish damage by 15%.\nAt +11 Refine, additionally increases melee physical damage by 7% and Third Punish damage by 20%.\nAt +12 Refine, increases physical damage against all Property enemies by 12%.\n^ffffff_^000000\nWhen equipped with Glacier Armor, CRI +5, MHP +7%, and critical damage +15%.\n^ffffff_^000000\nWhen equipped with Dim Glacier Armor, CRI +7, MHP +12%, P.ATK +10, critical damage +20%, for every 2 weapon Refine ATK +1%, ATK +10, and Third Punish damage +5%.\n^ffffff_^000000\nWhen equipped with Isgard Ring, CRI +5, melee physical damage +10%, and Third Punish damage +10%.\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] P.ATK +5, increases melee physical damage by 10%.\n[C Grade] Increases Third Punish damage by 10%.\n[B Grade] ATK +8%, critical damage +15%.\n[A Grade] CRI +5, C.RATE +5.\nType: ^777777Knuckle^000000 Attack: ^777777225^000000\nWeight: ^777777180^000000\nWeapon Level: ^7777775^000000\nRequired Level: ^777777225^000000\nClass: ^777777Inquisitor^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 268,
+    "itemLevel": 5,
+    "attack": 225,
+    "defense": null,
+    "weight": 180,
+    "requiredLevel": 225,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Inquisitor"
+    ],
+    "script": {
+      "Second Faith": [
+        "25"
+      ],
+      "atk": [
+        "12---3"
+      ],
+      "cri": [
+        "2---3",
+        "9===12",
+        "EQUIP[Glacier Armor]===5",
+        "EQUIP[Dim Glacier Armor]===7",
+        "EQUIP[Isgard Ring]===5",
+        "GRADE[weapon==A]===5"
+      ],
+      "melee": [
+        "7===12",
+        "11===7",
+        "EQUIP[Isgard Ring]===10",
+        "GRADE[weapon==D]===10"
+      ],
+      "criDmg": [
+        "7===12",
+        "EQUIP[Glacier Armor]===15",
+        "EQUIP[Dim Glacier Armor]===20",
+        "GRADE[weapon==B]===15"
+      ],
+      "Third Punish": [
+        "9===15",
+        "11===20",
+        "EQUIP[Dim Glacier Armor]===5",
+        "EQUIP[Isgard Ring]===10",
+        "GRADE[weapon==C]===10"
+      ],
+      "p_element_all": [
+        "12===12"
+      ],
+      "pAtk": [
+        "GRADE[weapon==D]===5",
+        "EQUIP[Dim Glacier Armor]===10"
+      ],
+      "atkPercent": [
+        "EQUIP[Dim Glacier Armor]REFINE[weapon==2]---1",
+        "GRADE[weapon==B]===8"
+      ],
+      "cRate": [
+        "GRADE[weapon==A]===5"
+      ],
+      "hpPercent": [
+        "EQUIP[Glacier Armor]===7",
+        "EQUIP[Dim Glacier Armor]===12"
+      ]
+    }
+  },
+  "600086": {
+    "id": 600086,
+    "aegisName": "Deadmen_Slasher",
+    "flavorText": null,
+    "name": "Deadmen Slasher [2]",
+    "unidName": null,
+    "resName": "Deadmen_Slasher",
+    "unidResName": null,
+    "description": "A huge two-handed sword found in the Demon King's Castle.\n^ffffff_^000000\nIncreases Storm Slash damage by 25%.\nFor every 3 Refine, ATK +12 and CRI +2.\nAt +7 Refine, increases melee physical damage by 12% and critical damage by 12%.\nAt +9 Refine, CRI +12 and increases Hack and Slasher damage by 15%.\nAt +11 Refine, additionally increases melee physical damage by 15% and Hack and Slasher damage by 20%.\nAt +12 Refine, CRI +5 and increases critical damage by 15%.\n^ffffff_^000000\nWhen equipped with Isgard Ring, increases melee physical damage by 15%; if the weapon is refined to +12 or higher, reduces Hack and Slasher cooldown by 0.2 sec.\n^ffffff_^000000\nWhen equipped with Engraved Corrupted Poison Rune Cloth, increases Hack and Slasher and Storm Slash damage by 20%; if the armor is refined to +12 or higher, CRI +15 and critical damage +20%.\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] C.RATE +5, increases melee physical damage by 10%.\n[C Grade] ATK +8%, critical damage +15%.\n[B Grade] Increases Hack and Slasher damage by 10%.\n[A Grade] CRI +7, P.ATK +5.\nType: ^777777Two-Handed Sword^000000 Attack: ^777777350^000000\nWeight: ^777777400^000000\nWeapon Level: ^7777775^000000\nRequired Level: ^777777235^000000\nClass: ^777777Dragon Knight^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 258,
+    "itemLevel": 5,
+    "attack": 350,
+    "defense": null,
+    "weight": 400,
+    "requiredLevel": 235,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "DragonKnight"
+    ],
+    "script": {
+      "Storm Slash": [
+        "25",
+        "EQUIP[Engraved Corrupted Poison Rune Cloth]===20"
+      ],
+      "atk": [
+        "12---3"
+      ],
+      "cri": [
+        "2---3",
+        "9===12",
+        "12===5",
+        "EQUIP[Engraved Corrupted Poison Rune Cloth]REFINE[armor==12]===15",
+        "GRADE[weapon==A]===7"
+      ],
+      "melee": [
+        "7===12",
+        "11===15",
+        "EQUIP[Isgard Ring]===15",
+        "GRADE[weapon==D]===10"
+      ],
+      "criDmg": [
+        "7===12",
+        "12===15",
+        "EQUIP[Engraved Corrupted Poison Rune Cloth]REFINE[armor==12]===20",
+        "GRADE[weapon==C]===15"
+      ],
+      "Hack and Slasher": [
+        "9===15",
+        "11===20",
+        "EQUIP[Engraved Corrupted Poison Rune Cloth]===20",
+        "GRADE[weapon==B]===10"
+      ],
+      "cd__Hack and Slasher": [
+        "EQUIP[Isgard Ring]REFINE[weapon==12]===0.2"
+      ],
+      "cRate": [
+        "GRADE[weapon==D]===5"
+      ],
+      "atkPercent": [
+        "GRADE[weapon==C]===8"
+      ],
+      "pAtk": [
+        "GRADE[weapon==A]===5"
+      ]
+    }
+  },
+  "9178": {
+    "id": 9178,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dancing Marionette Egg",
+    "unidName": null,
+    "resName": "Fire Element Egg",
+    "unidResName": null,
+    "description": "An egg containing a Dancing Marionette pet. You can awaken the sleeping monster with a Portable Egg Hatchery.\n\nAt Awkward or Shy intimacy: Variable Cast Time -1%.\nAt Neutral intimacy: Variable Cast Time -2%.\nAt Cordial intimacy: Variable Cast Time -3%, Neutral resistance +1%.\nAt Loyal intimacy: Variable Cast Time -3%, Neutral resistance +2%.\n\nClass: ^777777Monster Egg^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 518,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "vct": [
+        "3"
+      ]
+    }
+  },
+  "9179": {
+    "id": 9179,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Hylozoist Egg",
+    "unidName": null,
+    "resName": "Fire Element Egg",
+    "unidResName": null,
+    "description": "An egg containing a Hylozoist pet. You can awaken the sleeping monster with a Portable Egg Hatchery.\n\nAt Cordial intimacy: LUK +1, CRI +2.\nAt Loyal intimacy: LUK +2, CRI +3.\n\nClass: ^777777Monster Egg^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 518,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "luk": [
+        "2"
+      ],
+      "cri": [
+        "3"
+      ]
+    }
+  },
+  "9180": {
+    "id": 9180,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Malicious Ghost Egg",
+    "unidName": null,
+    "resName": "Fire Element Egg",
+    "unidResName": null,
+    "description": "An egg containing a Malicious Ghost pet. You can awaken the sleeping monster with a Portable Egg Hatchery.\nAt Awkward or Shy intimacy: CRI +3.\nAt Neutral intimacy: CRI +5, Melee Physical Damage +1%.\nAt Cordial intimacy: CRI +7, Melee Physical Damage +2%.\nAt Loyal intimacy: CRI +9, Melee Physical Damage +3%.\n\nClass: ^777777Monster Egg^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 518,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "cri": [
+        "9"
+      ],
+      "melee": [
+        "3"
+      ]
+    }
+  },
+  "9181": {
+    "id": 9181,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Disguise Egg",
+    "unidName": null,
+    "resName": "Earth Element Egg",
+    "unidResName": null,
+    "description": "An egg containing a Disguise pet. You can awaken the sleeping monster with a Portable Egg Hatchery.\n\nAt Cordial intimacy: AGI +2, Silence resistance +5%.\nAt Loyal intimacy: AGI +3, Silence resistance +8%.\n\nClass: ^777777Monster Egg^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 518,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "agi": [
+        "3"
       ]
     }
   }
