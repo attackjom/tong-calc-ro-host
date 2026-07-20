@@ -96959,7 +96959,7 @@
     "compositionPos": 65535,
     "script": {
       "fct": [
-        "LEARN_SKILL[Sword Mastery==1]---0.1"
+        "LEARN_SKILL[Sword Mastery (GN)==1]---0.1"
       ],
       "Acid Bomb": [
         "EQUIP[Genetic Stone (Garment)]===15"
@@ -182069,7 +182069,7 @@
         "5"
       ],
       "melee": [
-        "EQUIP[Toy Ring]LEARN_SKILL[Sword Mastery==1]---4",
+        "EQUIP[Toy Ring]LEARN_SKILL[Sword Mastery (GN)==1]---4",
         "EQUIP[Toy Ring]LEARN_SKILL[Fire Earth Research==1]---2"
       ],
       "p_size_all": [
@@ -187943,7 +187943,7 @@
         "level:15(1-195)---3"
       ],
       "melee": [
-        "REFINE[7]LEARN_SKILL[Sword Mastery==1]---2"
+        "REFINE[7]LEARN_SKILL[Sword Mastery (GN)==1]---2"
       ],
       "acd": [
         "9===5",
@@ -188539,7 +188539,7 @@
         "5"
       ],
       "melee": [
-        "LEARN_SKILL[Sword Mastery==1]---2"
+        "LEARN_SKILL[Sword Mastery (GN)==1]---2"
       ],
       "acd": [
         "SUM[level==105]===5",
@@ -245536,7 +245536,7 @@
     "compositionPos": 65535,
     "script": {
       "fct": [
-        "LEARN_SKILL[Sword Mastery==1]---0.1"
+        "LEARN_SKILL[Sword Mastery (GN)==1]---0.1"
       ],
       "Cart Cannon": [
         "EQUIP[Genetic Stone (Garment)]===15"
@@ -253163,7 +253163,7 @@
         "25",
         "level:10(150-275)----2"
       ],
-      "all_stat": [
+      "allStatus": [
         "EQUIP[Limit Break Shadow Earring]===12"
       ],
       "p_race_all": [
