@@ -50930,7 +50930,8 @@
     "name": "Full Power Shadow Armor",
     "unidName": "Shadow Armor",
     "resName": "SV_Armor_Shadow",
-    "description": "Atk + 3%.\r\nEvery 2 refine rate, increases melee / long ranged physical damage by 1%.\r\nIf refine rate is 10, P.Atk + 2.\r\n\r\nWhen equipped with Full Power Shadow Shoes, Atk + 2%, P.Atk + 2,\r\nif the sum of refine rate is 18 or higher, increases melee / long ranged physical damage by 5%,\r\nincreases physical damage against all size enemies by 10%.\r\n\r\nWhen equipped with Physical Power Shadow Weapon, Atk + 3%,\r\nif the sum of refine rate is 18 or higher, POW + 3, P.Atk + 3.\r\nClass: ^777777Shadow Equipment^000000\r\nLocation: ^777777Armor^000000 Weight: ^7777770^000000\r\nRequired Level: ^777777200^000000\r\nJobs: ^777777All Jobs^000000",
+    "description": "ชุดเกราะที่เพิ่มพลังป้องกันเมื่อสวมใส่เพิ่มบนเกราะอีกที สามารถใส่แบบชิ้นเดียวได้ แต่ความสามารถในการป้องกันจะน้อย\nATK + 3%\nทุก ๆ การอัพเกรด 2 ขั้น, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 1%\nเมื่ออัพเกรดถึงขั้น 10, P.ATK + 2\n \nเมื่อสวมใส่ร่วมกับ Full Power Shadow Shoes, ATK + 2%, P.ATK + 2,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 18 ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 5%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%\n \nเมื่อสวมใส่ร่วมกับ Physical Power Shadow Weapon, ATK + 3%,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 18 ขึ้นไป, POW + 3, P.ATK + 3\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Armor^000000 น้ำหนัก :: ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "description_en": "Atk + 3%.\r\nEvery 2 refine rate, increases melee / long ranged physical damage by 1%.\r\nIf refine rate is 10, P.Atk + 2.\r\n\r\nWhen equipped with Full Power Shadow Shoes, Atk + 2%, P.Atk + 2,\r\nif the sum of refine rate is 18 or higher, increases melee / long ranged physical damage by 5%,\r\nincreases physical damage against all size enemies by 10%.\r\n\r\nWhen equipped with Physical Power Shadow Weapon, Atk + 3%,\r\nif the sum of refine rate is 18 or higher, POW + 3, P.Atk + 3.\r\nClass: ^777777Shadow Equipment^000000\r\nLocation: ^777777Armor^000000 Weight: ^7777770^000000\r\nRequired Level: ^777777200^000000\r\nJobs: ^777777All Jobs^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 526,
@@ -50977,7 +50978,8 @@
     "name": "Full Power Shadow Shoes",
     "unidName": "Shadow Shoes",
     "resName": "SV_Shoes_Shadow",
-    "description": "Atk + 3%.\r\nEvery 2 refine rate, increases melee / long ranged physical damage by 1%.\r\nIf refine rate is 10, P.Atk + 2.\r\n\r\nWhen equipped with Physical Power Shadow Shield, Atk + 3%,\r\nif the sum of refine rate is 18 or higher, POW + 3, P.Atk + 3.\r\nClass: ^777777Shadow Equipment^000000\r\nLocation: ^777777Shoes^000000 Weight: ^7777770^000000\r\nRequired Level: ^777777200^000000\r\nJobs: ^777777All Jobs^000000",
+    "description": "รองเท้าที่สวมใส่เพิ่มเติม สามารถใช้งานแบบชิ้นเดียวได้ แต่ความสามารถของมันจะน้อย\nATK + 3%\nทุก ๆ การอัพเกรด 2 ขั้น, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 1%\nเมื่ออัพเกรดถึงขั้น 10, P.ATK + 2\n \nเมื่อสวมใส่ร่วมกับ Physical Power Shadow Shield, ATK + 3%,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 18 ขึ้นไป, POW + 3, P.ATK + 3.\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Shoes^000000 น้ำหนัก :: ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "description_en": "Atk + 3%.\r\nEvery 2 refine rate, increases melee / long ranged physical damage by 1%.\r\nIf refine rate is 10, P.Atk + 2.\r\n\r\nWhen equipped with Physical Power Shadow Shield, Atk + 3%,\r\nif the sum of refine rate is 18 or higher, POW + 3, P.Atk + 3.\r\nClass: ^777777Shadow Equipment^000000\r\nLocation: ^777777Shoes^000000 Weight: ^7777770^000000\r\nRequired Level: ^777777200^000000\r\nJobs: ^777777All Jobs^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 528,
@@ -51105,7 +51107,8 @@
     "name": "Focusing Shadow Pendant",
     "unidName": "Shadow Pendant",
     "resName": "SV_Pendant_Shadow",
-    "description": "Atk + 3%.\r\nEvery 2 refine rate, reduces variable casting time by 1%.\r\nIf refine rate is 10, P.Atk + 2.\r\n\r\nWhen equipped with Focusing Shadow Earring, Atk + 2%, P.Atk + 2,\r\nif the sum of refine rate is 18 or higher, increases physical damage against all property enemies by 10%.\r\n\r\nWhen equipped with Concentration Shadow Weapon, Atk + 3%,\r\nif the sum of refine rate is 18 or higher, CON + 3, P.Atk + 3.\r\nClass: ^777777Shadow Equipment^000000\r\nLocation: ^777777Pendant^000000 Weight: ^7777770^000000\r\nRequired Level: ^777777200^000000\r\nJobs: ^777777All Jobs^000000",
+    "description": "สร้อยคอศักดิ์สิทธิ์ที่เล่าขานกันว่าสามารถปกป้องผู้สวมใส่ได้ ช่วยดึงศักยภาพที่ซ่อนอยู่ของผู้สวมใส่ออกมา\nATK + 3%\nทุก ๆ การอัพเกรด 2 ขั้น, ลดระยะเวลาร่ายแบบแปรผัน 1%\nเมื่ออัพเกรดถึงขั้น 10, P.ATK + 2\n \nเมื่อสวมใส่ร่วมกับ Focusing Shadow Earring, ATK + 2%, P.ATK + 2,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 18 ขึ้นไป, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 10%\n \nเมื่อสวมใส่ร่วมกับ Concentration Shadow Weapon, ATK + 3%,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 18 ขึ้นไป, CON + 3, P.ATK + 3.\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Pendant^000000 น้ำหนัก :: ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "description_en": "Atk + 3%.\r\nEvery 2 refine rate, reduces variable casting time by 1%.\r\nIf refine rate is 10, P.Atk + 2.\r\n\r\nWhen equipped with Focusing Shadow Earring, Atk + 2%, P.Atk + 2,\r\nif the sum of refine rate is 18 or higher, increases physical damage against all property enemies by 10%.\r\n\r\nWhen equipped with Concentration Shadow Weapon, Atk + 3%,\r\nif the sum of refine rate is 18 or higher, CON + 3, P.Atk + 3.\r\nClass: ^777777Shadow Equipment^000000\r\nLocation: ^777777Pendant^000000 Weight: ^7777770^000000\r\nRequired Level: ^777777200^000000\r\nJobs: ^777777All Jobs^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 530,
@@ -51147,7 +51150,8 @@
     "name": "Focusing Shadow Earring",
     "unidName": "Shadow Earring",
     "resName": "SV_Earring_Shadow",
-    "description": "Atk + 3%.\r\nEvery 2 refine rate, reduces variable casting time by 1%.\r\nIf refine rate is 10, P.Atk + 2.\r\n\r\nWhen equipped with Concentration Shadow Shield, Atk + 3%,\r\nif the sum of refine rate is 18 or higher, CON + 3, P.Atk + 3.\r\nClass: ^777777Shadow Equipment^000000\r\nLocation: ^777777Earring^000000 Weight: ^7777770^000000\r\nRequired Level: ^777777200^000000\r\nJobs: ^777777All Jobs^000000",
+    "description": "ต่างหูศักดิ์สิทธิ์ที่เล่าขานกันว่าสามารถปกป้องผู้สวมใส่ได้ ช่วยดึงศักยภาพที่ซ่อนอยู่ของผู้สวมใส่ออกมา\nATK + 3%\nทุก ๆ การอัพเกรด 2 ขั้น, ลดระยะเวลาร่ายแบบแปรผัน 1%\nเมื่ออัพเกรดถึงขั้น 10, P.ATK + 2\n \nเมื่อสวมใส่ร่วมกับ Concentration Shadow Shield, ATK + 3%,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 18 ขึ้นไป, CON + 3, P.ATK + 3\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Earring^000000 น้ำหนัก :: ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "description_en": "Atk + 3%.\r\nEvery 2 refine rate, reduces variable casting time by 1%.\r\nIf refine rate is 10, P.Atk + 2.\r\n\r\nWhen equipped with Concentration Shadow Shield, Atk + 3%,\r\nif the sum of refine rate is 18 or higher, CON + 3, P.Atk + 3.\r\nClass: ^777777Shadow Equipment^000000\r\nLocation: ^777777Earring^000000 Weight: ^7777770^000000\r\nRequired Level: ^777777200^000000\r\nJobs: ^777777All Jobs^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 529,
@@ -51349,7 +51353,8 @@
     "name": "Centering Shadow Pendant",
     "unidName": "Shadow Pendant",
     "resName": "SV_Pendant_Shadow",
-    "description": "Matk + 3%.\r\nEvery 2 refine rate, reduces variable casting time by 1%.\r\nIf refine rate is 10, S.Matk + 2.\r\n\r\nWhen equipped with Centering Shadow Earring, Matk + 2%, S.Matk + 2,\r\nif the sum of refine rate is 18 or higher, increases magical damage against all property enemies by 10%.\r\n\r\nWhen equipped with Concentration Shadow Weapon, Matk + 3%,\r\nif the sum of refine rate is 18 or higher, CON + 3, S.Matk + 3.\r\nClass: ^777777Shadow Equipment^000000\r\nLocation: ^777777Pendant^000000 Weight: ^7777770^000000\r\nRequired Level: ^777777200^000000\r\nJobs: ^777777All Jobs^000000",
+    "description": "สร้อยคอศักดิ์สิทธิ์ที่เล่าขานกันว่าสามารถปกป้องผู้สวมใส่ได้ ช่วยดึงศักยภาพที่ซ่อนอยู่ของผู้สวมใส่ออกมา\nMATK + 3%\nทุก ๆ การอัพเกรด 2 ขั้น, ลดระยะเวลาร่ายแบบแปรผัน 1%\nเมื่ออัพเกรดถึงขั้น 10, S.MATK + 2\n \nเมื่อสวมใส่ร่วมกับ Centering Shadow Earring, MATK + 2%, S.MATK + 2,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 18 ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%\n \nเมื่อสวมใส่ร่วมกับ Concentration Shadow Weapon, MATK + 3%,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 18 ขึ้นไป, CON + 3, S.MATK + 3\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Pendant^000000 น้ำหนัก :: ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "description_en": "Matk + 3%.\r\nEvery 2 refine rate, reduces variable casting time by 1%.\r\nIf refine rate is 10, S.Matk + 2.\r\n\r\nWhen equipped with Centering Shadow Earring, Matk + 2%, S.Matk + 2,\r\nif the sum of refine rate is 18 or higher, increases magical damage against all property enemies by 10%.\r\n\r\nWhen equipped with Concentration Shadow Weapon, Matk + 3%,\r\nif the sum of refine rate is 18 or higher, CON + 3, S.Matk + 3.\r\nClass: ^777777Shadow Equipment^000000\r\nLocation: ^777777Pendant^000000 Weight: ^7777770^000000\r\nRequired Level: ^777777200^000000\r\nJobs: ^777777All Jobs^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 530,
@@ -51391,7 +51396,8 @@
     "name": "Centering Shadow Earring",
     "unidName": "Shadow Earring",
     "resName": "SV_Earring_Shadow",
-    "description": "Matk + 3%.\r\nEvery 2 refine rate, reduces variable casting time by 1%.\r\nIf refine rate is 10, S.Matk + 2.\r\n\r\nWhen equipped with Concentration Shadow Shield, Matk + 3%,\r\nif the sum of refine rate is 18 or higher, CON + 3, S.Matk + 3.\r\nClass: ^777777Shadow Equipment^000000\r\nLocation: ^777777Earring^000000 Weight: ^7777770^000000\r\nRequired Level: ^777777200^000000\r\nJobs: ^777777All Jobs^000000",
+    "description": "ต่างหูศักดิ์สิทธิ์ที่เล่าขานกันว่าสามารถปกป้องผู้สวมใส่ได้ ช่วยดึงศักยภาพที่ซ่อนอยู่ของผู้สวมใส่ออกมา\nMATK + 3%\nทุก ๆ การอัพเกรด 2 ขั้น, ลดระยะเวลาร่ายแบบแปรผัน 1%\nเมื่ออัพเกรดถึงขั้น 10, S.MATK + 2\n \nเมื่อสวมใส่ร่วมกับ Concentration Shadow Shield, MATK + 3%,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 18 ขึ้นไป, CON + 3, S.MATK + 3.\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Earring^000000 น้ำหนัก :: ^7777770^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "description_en": "Matk + 3%.\r\nEvery 2 refine rate, reduces variable casting time by 1%.\r\nIf refine rate is 10, S.Matk + 2.\r\n\r\nWhen equipped with Concentration Shadow Shield, Matk + 3%,\r\nif the sum of refine rate is 18 or higher, CON + 3, S.Matk + 3.\r\nClass: ^777777Shadow Equipment^000000\r\nLocation: ^777777Earring^000000 Weight: ^7777770^000000\r\nRequired Level: ^777777200^000000\r\nJobs: ^777777All Jobs^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 529,
@@ -150975,7 +150981,8 @@
     "name": "Furious Crown (Elemental Master) [1]",
     "unidName": "Headgear",
     "resName": "Flash_of_Lightning",
-    "description": "Every 2 refine rate, Matk + 10.\r\nEvery 3 refine rate, increases Conflagration, Lightning Land, Diamond Storm and Terra Drive damage by 4%.\r\nIf refine rate is 7 or higher, increases attack speed (reduces delay after attack by 15%).\r\nIf refine rate is 9 or higher, increases all property magical damage by 10%.\r\nIf refine rate is 11 or higher, Matk + 5%, reduces fixed casting time by 0.3 seconds.\r\n\r\nWhen equipped with Furious Master Spellbook, increases magical damage against all race monsters (except players) by 10%.\r\n\r\nWhen equipped with Furious Grimoire, increases Terra Drive damage by 15%, when dealing normal melee physical damage, has a 7% chance to auto-cast Terra Drive level 4 (the user must have learned Terra Drive at level 4 or higher for auto-casting).\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] SPL + 5, CON + 5, S.Matk + 3.\r\n[Grade C] Increases all property magical damage by 10%.\r\n[Grade B] Matk + 5%, reduces fixed casting time by additional 0.2 seconds.\r\n[Grade A] S.Matk + 5, increases all property magical damage by 15%.\r\n\r\nClass: ^777777Headgear^000000 Defense: ^77777730^000000\r\nLocation: ^777777Upper^000000 Weight: ^77777730^000000\r\nArmor Level: ^7777772^000000\r\nRequired Level: ^777777235^000000\r\nJobs: ^777777Elemental Master^000000",
+    "description": "Headgear ที่สั่นพ้องกับ Furious Weapon เพื่อปลุกพลังที่หลับใหลภายใน\n \nทุก ๆ การอัพเกรด 2 ขั้น MATK + 10\nทุก ๆ การอัพเกรด 3 ขั้น เพิ่ม Damage สกิล Conflagration, Lightning Land, Diamond Storm, Terra Drive 4%\nเมื่ออัพเกรดถึงขั้น 7, ASPD + 15%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\nเมื่ออัพเกรดถึงขั้น 11, MATK + 5%, ลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที\n \nเมื่อสวมใส่ร่วมกับ Furious Master Spellbook, เพิ่ม Damage ทางเวทมนตร์ต่อมอนสเตอร์ทุกเผ่า 10% (ยกเว้น Player)\n \nเมื่อสวมใส่ร่วมกับ Furious Grimoire, เพิ่ม Damage สกิล Terra Drive 15%, เมื่อโจมตีทางกายภาพระยะใกล้ทั่วไป มีโอกาส 7% ที่จะ Autospell สกิล Terra Drive Lv.4 (มีผลต่อเมื่อเรียนรู้ Terra Drive Lv.4 ขึ้นไป)\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] SPL + 5, CON + 5, S.MATK + 3\n[Grade C] เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\n[Grade B] MATK + 5%, ลดระยะเวลาร่ายแบบคงที่ลงอีก 0.2 วินาที\n[Grade A] S.MATK + 5, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%\n \nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^77777730^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^77777730^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777235^000000\nอาชีพที่ใส่ได้ : ^777777Elemental Master^000000",
+    "description_en": "Every 2 refine rate, Matk + 10.\r\nEvery 3 refine rate, increases Conflagration, Lightning Land, Diamond Storm and Terra Drive damage by 4%.\r\nIf refine rate is 7 or higher, increases attack speed (reduces delay after attack by 15%).\r\nIf refine rate is 9 or higher, increases all property magical damage by 10%.\r\nIf refine rate is 11 or higher, Matk + 5%, reduces fixed casting time by 0.3 seconds.\r\n\r\nWhen equipped with Furious Master Spellbook, increases magical damage against all race monsters (except players) by 10%.\r\n\r\nWhen equipped with Furious Grimoire, increases Terra Drive damage by 15%, when dealing normal melee physical damage, has a 7% chance to auto-cast Terra Drive level 4 (the user must have learned Terra Drive at level 4 or higher for auto-casting).\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] SPL + 5, CON + 5, S.Matk + 3.\r\n[Grade C] Increases all property magical damage by 10%.\r\n[Grade B] Matk + 5%, reduces fixed casting time by additional 0.2 seconds.\r\n[Grade A] S.Matk + 5, increases all property magical damage by 15%.\r\n\r\nClass: ^777777Headgear^000000 Defense: ^77777730^000000\r\nLocation: ^777777Upper^000000 Weight: ^77777730^000000\r\nArmor Level: ^7777772^000000\r\nRequired Level: ^777777235^000000\r\nJobs: ^777777Elemental Master^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 512,
@@ -196565,7 +196572,8 @@
     "name": "Furious Master Spellbook [2]",
     "unidName": "Book",
     "resName": "MasterSpellBook_Furious",
-    "description": "Matk + 190.\r\nIncreases Conflagration damage by 15%.\r\nIf the user's base level is 210 or higher, Matk + 4%, Matk + 40.\r\nIf the user's base level is 220 or higher, increases Lightning Land damage by 15%.\r\nIf the user's base level is 230 or higher, increases magical damage against all size enemies by 10%.\r\nIf refine rate is 7 or higher, increases fire, wind and poison property magical damage by 10%.\r\nIf refine rate is 9 or higher, increases Venom Swamp damage by additional 10%.\r\nIf refine rate is 10 or higher, reduces variable casting time by 10%.\r\nIf refine rate is 11 or higher, increases Conflagration and Lightning Land damage by additional 10%.\r\n\r\nWhen equipped with Furious Boots, increases Venom Swamp damage by (the sum of refine rate)%.\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] Increases water and earth property magical damage by 10%.\r\n[Grade C] Increases Lightning Land damage by 10%.\r\n[Grade B] Increases Conflagration damage by 10%.\r\n[Grade A] Every 2 refine rate, Matk + 3%, S.Matk + 3.\r\nClass: ^777777Book^000000 Attack: ^777777100^000000\r\nWeight: ^777777100^000000\r\nWeapon Level: ^7777775^000000\r\nRequired Level: ^777777205^000000\r\nJobs: ^777777Elemental Master^000000",
+    "description": "Master Spellbook ซึ่งบรรจุพลังแห่งโทสะเอาไว้\n \nMATK + 190\nเพิ่ม Damage สกิล Conflagration 15%\nเมื่อ Base Lv.210 ขึ้นไป, MATK + 4%, MATK + 40\nเมื่อ Base Lv.220 ขึ้นไป, เพิ่ม Damage สกิล Lightning Land 15%\nเมื่อ Base Lv.230 ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 10%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางเวทมนตร์ธาตุ Fire, Wind, Poison 10%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Venom Swamp 10%\nเมื่ออัพเกรดถึงขั้น 10, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Conflagration, Lightning Land ขึ้นอีก 10%\n \nเมื่อสวมใส่ร่วมกับ Furious Boot, เพิ่ม Damage สกิล Venom Swamp จำนวน % เท่ากับผลรวมของขั้นอัพเกรด\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] เพิ่ม Damage ทางเวทมนตร์ธาตุ Fire, Wind, Poison 10%\n[Grade C] เพิ่ม Damage สกิล Lightning Land 10%\n[Grade B] เพิ่ม Damage สกิล Conflagration 10%\n[Grade A] ทุก ๆ การอัพเกรด 2 ขั้น, MATK + 3%, S.MATK + 3\nประเภท : ^777777Book^000000 พลังโจมตี : ^777777100^000000\nน้ำหนัก : ^777777100^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Elemental Master^000000",
+    "description_en": "Matk + 190.\r\nIncreases Conflagration damage by 15%.\r\nIf the user's base level is 210 or higher, Matk + 4%, Matk + 40.\r\nIf the user's base level is 220 or higher, increases Lightning Land damage by 15%.\r\nIf the user's base level is 230 or higher, increases magical damage against all size enemies by 10%.\r\nIf refine rate is 7 or higher, increases fire, wind and poison property magical damage by 10%.\r\nIf refine rate is 9 or higher, increases Venom Swamp damage by additional 10%.\r\nIf refine rate is 10 or higher, reduces variable casting time by 10%.\r\nIf refine rate is 11 or higher, increases Conflagration and Lightning Land damage by additional 10%.\r\n\r\nWhen equipped with Furious Boots, increases Venom Swamp damage by (the sum of refine rate)%.\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] Increases water and earth property magical damage by 10%.\r\n[Grade C] Increases Lightning Land damage by 10%.\r\n[Grade B] Increases Conflagration damage by 10%.\r\n[Grade A] Every 2 refine rate, Matk + 3%, S.Matk + 3.\r\nClass: ^777777Book^000000 Attack: ^777777100^000000\r\nWeight: ^777777100^000000\r\nWeapon Level: ^7777775^000000\r\nRequired Level: ^777777205^000000\r\nJobs: ^777777Elemental Master^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 271,
@@ -196635,7 +196643,8 @@
     "name": "Furious Grimoire [2]",
     "unidName": "Book",
     "resName": "Grimoire_Furious",
-    "description": "Matk + 190.\r\nIncreases Diamond Storm damage by 10%.\r\nIncreases Fire Bolt, Cold Bolt and Lightning Bolt damage by 100%.\r\nIncreases fixed casting time of Fire Bolt, Cold Bolt and Lightning Bolt by 2.5 seconds.\r\nIf the user's base level is 210 or higher, Matk + 4%, Matk + 40.\r\nIf the user's base level is 220 or higher, increases Terra Drive damage by 10%.\r\nIf the user's base level is 230 or higher, increases magical damage against all size enemies by 10%.\r\nIf refine rate is 7 or higher, increases fire, water, wind and earth property magical damage by 10%.\r\nIf refine rate is 9 or higher, increases Fire Bolt, Cold Bolt and Lightning Bolt damage by additional 60%.\r\nIf refine rate is 10 or higher, increases attack speed (reduces delay after attack by 10%).\r\nIf refine rate is 11 or higher, increases Diamond Storm and Terra Drive damage by additional 15%, increases Fire Bolt, Cold Bolt and Lightning Bolt damage by additional 40%.\r\n\r\nWhen equipped with Furious Boots, increases Diamond Storm damage by 15%, when dealing normal melee physical damage, has a 5% chance to auto-cast Diamond Storm level 4 (the user must have learned Diamond Storm at level 4 or higher for auto-casting, if grade of Furious Boots is B or higher, increases the auto-casting chance to 7%).\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] Increases fire, water, wind and earth property magical damage by 10%.\r\n[Grade C] Increases Diamond Storm damage by 10%.\r\n[Grade B] Increases Terra Drive damage by 10%.\r\n[Grade A] Every 2 refine rate, Matk + 3%, S.Matk + 3.\r\nClass: ^777777Book^000000 Attack: ^777777100^000000\r\nWeight: ^777777100^000000\r\nWeapon Level: ^7777775^000000\r\nRequired Level: ^777777205^000000\r\nJobs: ^777777Elemental Master^000000",
+    "description": "Grimoire ซึ่งบรรจุพลังแห่งโทสะเอาไว้\n \nMATK + 190\nเพิ่ม Damage สกิล Diamond Storm 10%\nเพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 100%\nเพิ่มระยะเวลาร่ายแบบคงที่สกิล Fire Bolt, Cold Bolt, Lightning Bolt 2.5 วินาที\nเมื่อ Base Lv.210 ขึ้นไป, MATK + 4%, MATK + 40\nเมื่อ Base Lv.220 ขึ้นไป, เพิ่ม Damage สกิล Terra Drive 10%\nเมื่อ Base Lv.230 ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 10%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางเวทมนตร์ธาตุ Fire, Water, Wind, Earth 10%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt ขึ้นอีก 60%\nเมื่ออัพเกรดถึงขั้น 10, ASPD + 10%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Diamond Storm, Terra Drive ขึ้นอีก 15%, เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt ขึ้นอีก 40%\n \nเมื่อสวมใส่ร่วมกับ Furious Boot, เพิ่ม Damage สกิล Diamond Storm 15%, เมื่อโจมตีทางกายภายระยะใกล้ทั่วไป มีโอกาส 5% ที่จะ Autospell สกิล Diamond Storm Lv.4 (มีผลต่อเมื่อเรียนรู้ Diamond Storm Lv.4 ขึ้นไป, เมื่อ Furious Boot มี Grade B ขึ้นอีก มีโอกาส 7% ที่จะเกิด)\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] เพิ่ม Damage ทางเวทมนตร์ธาตุ Fire, Water, Wind, Earth 10%\n[Grade C] เพิ่ม Damage สกิล Diamond Storm 10%\n[Grade B] เพิ่ม Damage สกิล Terra Drive 10%\n[Grade A] ทุก ๆ การอัพเกรด 2 ขั้น, MATK + 3%, S.MATK + 3\nประเภท : ^777777Book^000000 พลังโจมตี : ^777777100^000000\nน้ำหนัก : ^777777100^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Elemental Master^000000",
+    "description_en": "Matk + 190.\r\nIncreases Diamond Storm damage by 10%.\r\nIncreases Fire Bolt, Cold Bolt and Lightning Bolt damage by 100%.\r\nIncreases fixed casting time of Fire Bolt, Cold Bolt and Lightning Bolt by 2.5 seconds.\r\nIf the user's base level is 210 or higher, Matk + 4%, Matk + 40.\r\nIf the user's base level is 220 or higher, increases Terra Drive damage by 10%.\r\nIf the user's base level is 230 or higher, increases magical damage against all size enemies by 10%.\r\nIf refine rate is 7 or higher, increases fire, water, wind and earth property magical damage by 10%.\r\nIf refine rate is 9 or higher, increases Fire Bolt, Cold Bolt and Lightning Bolt damage by additional 60%.\r\nIf refine rate is 10 or higher, increases attack speed (reduces delay after attack by 10%).\r\nIf refine rate is 11 or higher, increases Diamond Storm and Terra Drive damage by additional 15%, increases Fire Bolt, Cold Bolt and Lightning Bolt damage by additional 40%.\r\n\r\nWhen equipped with Furious Boots, increases Diamond Storm damage by 15%, when dealing normal melee physical damage, has a 5% chance to auto-cast Diamond Storm level 4 (the user must have learned Diamond Storm at level 4 or higher for auto-casting, if grade of Furious Boots is B or higher, increases the auto-casting chance to 7%).\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] Increases fire, water, wind and earth property magical damage by 10%.\r\n[Grade C] Increases Diamond Storm damage by 10%.\r\n[Grade B] Increases Terra Drive damage by 10%.\r\n[Grade A] Every 2 refine rate, Matk + 3%, S.Matk + 3.\r\nClass: ^777777Book^000000 Attack: ^777777100^000000\r\nWeight: ^777777100^000000\r\nWeapon Level: ^7777775^000000\r\nRequired Level: ^777777205^000000\r\nJobs: ^777777Elemental Master^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 271,
@@ -262955,37 +262964,6 @@
       ]
     }
   },
-  "19557": {
-    "id": 19557,
-    "aegisName": "C_Ayothaya_Hat",
-    "flavorText": null,
-    "name": "Costume Ayothaya Hat",
-    "unidName": "Cap",
-    "resName": "아요타야모자",
-    "unidResName": "캡",
-    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nหมวกโบราณของนักรบชาวอโยธยา ผู้กล้าที่แท้จริงเท่านั้นที่สามารถสวมใส่ได้\n\nATK, MATK + 100,\nEXP + 20%\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 15 กรกฎาคม 2569)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 519,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "usableClass": [
-      "all"
-    ],
-    "script": {
-      "atk": [
-        "100"
-      ],
-      "matk": [
-        "100"
-      ]
-    }
-  },
   "401390": {
     "id": 401390,
     "aegisName": null,
@@ -273211,88 +273189,6 @@
       ]
     }
   },
-  "401426": {
-    "id": 401426,
-    "aegisName": null,
-    "flavorText": null,
-    "name": "Costume Mask of Blue Flame",
-    "unidName": null,
-    "resName": "C_Mask_of_Ifrit",
-    "unidResName": null,
-    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nหน้ากากแห่งเปลวเพลิงสีน้ำเงินอันเยือกเย็น แต่แฝงไว้ด้วยอำนาจแห่งเปลวไฟบริสุทธิ์\nเป็นที่เลื่องลือว่าผู้สวมใส่จะสามารถควบคุมเพลิงสีครามให้ลุกโชนและแผดเผาศัตรูได้ดั่งเจตจำนง\n\nเมื่อโจมตีทางกายภาพ มีโอกาส 30% ที่จะร่ายสกิล All Bloom, Crimson Arrow Lv.5 ใส่ศัตรูโดยอัติโนมัติ\nเพิ่ม Damage สกิล All Bloom, Crimson Arrow 30%\n\n(ไอเท็มดังกล่าวจะถูกลบหลังความสามารถหลังจากปิดปรับปรุงเซิร์ฟเวอร์วันที่ 15 กรกฎาคม 2569)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 519,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "canGrade": false,
-    "script": {
-      "All Bloom": [
-        "30"
-      ],
-      "Crimson Arrow": [
-        "30"
-      ],
-      "chance__pow": [
-        "EQUIP[Costume Tao Gas]===30"
-      ],
-      "chance__con": [
-        "EQUIP[Costume Tao Gas]===30"
-      ],
-      "chance__spl": [
-        "EQUIP[Costume Tao Gas]===30"
-      ],
-      "chance__pAtk": [
-        "EQUIP[Costume Tao Gas]===10"
-      ],
-      "chance__sMatk": [
-        "EQUIP[Costume Tao Gas]===10"
-      ]
-    }
-  },
-  "31203": {
-    "id": 31203,
-    "aegisName": "C_Charcoal_Stove",
-    "flavorText": null,
-    "name": "Costume Tao Gas",
-    "unidName": null,
-    "resName": "Charcoal_Stove",
-    "unidResName": null,
-    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nคอสตูมที่ไม่ใช่ธรรมดานะ แม้รูปร่างเหมือนเตาถ่านสำหรับทำอาหารแต่ใช้แก๊สเป็นเชื้อเพลิง เมื่อใช้งานถูกจะเกิดเปลวไฟสีน้ำเงินอันร้อนแรงแซงดวงอาทิตย์\nใคร ๆ ก็เลือกใช้จนได้รับรีวิว 5 ดาวรัว ๆ ส่วนใหญ่บอกว่าใช้แล้วโชคดี อยู่ดี ๆ ก็รู้สึกเหมือนมีพลังงานบางอย่าง\n\nเมื่อโจมตีทางกายภาพ/เวทมนตร์ มีโอกาส 4% ที่จะได้รับสถานะ [Lucky Flame] เป็นเวลา 10 วินาที\n\nผลเอฟเฟกต์ [Lucky Flame]\nPOW, CON, SPL + 30,\nP.ATK/S.MATK + 10,\nเมื่อกำจัดมอนเตอร์จะมีโอกาส 0.5% ที่จะได้รับ Flame Heart\n\nเมื่อสวมใส่ร่วมกับ Costume Mask of Blue Flame Ifrit, \nเมื่อโจมตีทางกายภาพ/เวทมนตร์ มีโอกาส 4% ที่จะได้รับสถานะ [Lucky Flame II] POW, CON, SPL + 30, P.ATK/S.MATK + 10 เป็นเวลา 10 วินาที\n\n(ไอเท็มดังกล่าวจะถูกลบความสามารถหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 15 กรกฎาคม 2569)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 520,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "canGrade": false,
-    "script": {
-      "chance__pow": [
-        "30"
-      ],
-      "chance__con": [
-        "30"
-      ],
-      "chance__spl": [
-        "30"
-      ],
-      "chance__pAtk": [
-        "10"
-      ],
-      "chance__sMatk": [
-        "10"
-      ]
-    }
-  },
   "401340": {
     "id": 401340,
     "aegisName": "26_5_Circlet_AT",
@@ -281002,6 +280898,1620 @@
     "script": {
       "agi": [
         "3"
+      ]
+    }
+  },
+  "20344": {
+    "id": 20344,
+    "aegisName": "C_Happy_Balloon_J",
+    "flavorText": null,
+    "name": "Costume Happy Balloon",
+    "unidName": null,
+    "resName": "해피벌룬",
+    "unidResName": null,
+    "description": "ลูกโป่งสีสันสดใสประดับด้วยเหล่า Poring สุดน่ารัก\nเห็นเมื่อใดก็ชวนให้ผู้คนยิ้มตามได้เสมอ!\n\n[ความสามารถพิเศษจำกัดระยะเวลา]\nเพิ่ม EXP ที่ได้รับจากมอนสเตอร์ 10%, เพิ่มอัตราดรอปของไอเทม 10%,\nเมื่อกำจัดมอนสเตอร์ มีโอกาส 0.3% ที่จะดรอปไอเทม Golden X\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 19 พฤษภาคม 2570)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 521,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "drop": [
+        "10"
+      ]
+    }
+  },
+  "300912": {
+    "id": 300912,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Arch Mage Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 5%,\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Arch Mage,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 20%,\nMaxHP + 20%, \nMATK + 100\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "m_my_element_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "allStatus": [
+        "LEVEL[200]===20",
+        "REFINE[garment==10]===20"
+      ],
+      "allTrait": [
+        "LEVEL[200]===5",
+        "REFINE[garment==10]===5"
+      ],
+      "m_race_all": [
+        "USED[ArchMage]===20"
+      ],
+      "hpPercent": [
+        "USED[ArchMage]===20"
+      ],
+      "matk": [
+        "USED[ArchMage]===100"
+      ]
+    }
+  },
+  "300913": {
+    "id": 300913,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Elemental Master Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Elemental Master,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 20%,\nMaxHP + 20%, \nMATK + 100\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "m_my_element_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "allStatus": [
+        "LEVEL[200]===20",
+        "REFINE[garment==10]===20"
+      ],
+      "allTrait": [
+        "LEVEL[200]===5",
+        "REFINE[garment==10]===5"
+      ],
+      "m_race_all": [
+        "USED[ElementalMaster]===20"
+      ],
+      "hpPercent": [
+        "USED[ElementalMaster]===20"
+      ],
+      "matk": [
+        "USED[ElementalMaster]===100"
+      ]
+    }
+  },
+  "300914": {
+    "id": 300914,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Meister Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Meister,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 20%,\nMaxHP + 20%,\nATK + 100\n\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "p_size_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "allStatus": [
+        "LEVEL[200]===20",
+        "REFINE[garment==10]===20"
+      ],
+      "allTrait": [
+        "LEVEL[200]===5",
+        "REFINE[garment==10]===5"
+      ],
+      "p_race_all": [
+        "USED[Meister]===20"
+      ],
+      "hpPercent": [
+        "USED[Meister]===20"
+      ],
+      "atk": [
+        "USED[Meister]===100"
+      ]
+    }
+  },
+  "300917": {
+    "id": 300917,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Biolo Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Biolo,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 20%,\nMaxHP + 20%,\nATK + 100\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "p_size_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "allStatus": [
+        "LEVEL[200]===20",
+        "REFINE[garment==10]===20"
+      ],
+      "allTrait": [
+        "LEVEL[200]===5",
+        "REFINE[garment==10]===5"
+      ],
+      "p_race_all": [
+        "USED[Biolo]===20"
+      ],
+      "hpPercent": [
+        "USED[Biolo]===20"
+      ],
+      "atk": [
+        "USED[Biolo]===100"
+      ]
+    }
+  },
+  "300918": {
+    "id": 300918,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Cardinal Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Cardinal,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 15%,\nMaxHP + 20%,\nATK, MATK + 100\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "p_size_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "m_size_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "allStatus": [
+        "LEVEL[200]===20",
+        "REFINE[garment==10]===20"
+      ],
+      "allTrait": [
+        "LEVEL[200]===5",
+        "REFINE[garment==10]===5"
+      ],
+      "p_race_all": [
+        "USED[Cardinal]===15"
+      ],
+      "m_race_all": [
+        "USED[Cardinal]===15"
+      ],
+      "hpPercent": [
+        "USED[Cardinal]===20"
+      ],
+      "atk": [
+        "USED[Cardinal]===100"
+      ],
+      "matk": [
+        "USED[Cardinal]===100"
+      ]
+    }
+  },
+  "300919": {
+    "id": 300919,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Inquisitor Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Inquisitor,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 20%,\nMaxHP + 20%,\nATK + 100\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "p_size_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "allStatus": [
+        "LEVEL[200]===20",
+        "REFINE[garment==10]===20"
+      ],
+      "allTrait": [
+        "LEVEL[200]===5",
+        "REFINE[garment==10]===5"
+      ],
+      "p_race_all": [
+        "USED[Inquisitor]===20"
+      ],
+      "hpPercent": [
+        "USED[Inquisitor]===20"
+      ],
+      "atk": [
+        "USED[Inquisitor]===100"
+      ]
+    }
+  },
+  "300920": {
+    "id": 300920,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Shadow Cross Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Shadow Cross,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 20%,\nMaxHP + 20%,\nATK + 100\n\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "p_size_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "allStatus": [
+        "LEVEL[200]===20",
+        "REFINE[garment==10]===20"
+      ],
+      "allTrait": [
+        "LEVEL[200]===5",
+        "REFINE[garment==10]===5"
+      ],
+      "p_race_all": [
+        "USED[ShadowCross]===20"
+      ],
+      "hpPercent": [
+        "USED[ShadowCross]===20"
+      ],
+      "atk": [
+        "USED[ShadowCross]===100"
+      ]
+    }
+  },
+  "300921": {
+    "id": 300921,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Abyss Chaser Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Abyss Chaser,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 15%,\nMaxHP +20%,\nATK, MATK + 100\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "p_size_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "m_size_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "allStatus": [
+        "LEVEL[200]===20",
+        "REFINE[garment==10]===20"
+      ],
+      "allTrait": [
+        "LEVEL[200]===5",
+        "REFINE[garment==10]===5"
+      ],
+      "p_race_all": [
+        "USED[AbyssChaser]===15"
+      ],
+      "m_race_all": [
+        "USED[AbyssChaser]===15"
+      ],
+      "hpPercent": [
+        "USED[AbyssChaser]===20"
+      ],
+      "atk": [
+        "USED[AbyssChaser]===100"
+      ],
+      "matk": [
+        "USED[AbyssChaser]===100"
+      ]
+    }
+  },
+  "300922": {
+    "id": 300922,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Windhawk Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Windhawk,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 20%,\nMaxHP + 20%,\nATK + 100\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "p_size_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "allStatus": [
+        "LEVEL[200]===20",
+        "REFINE[garment==10]===20"
+      ],
+      "allTrait": [
+        "LEVEL[200]===5",
+        "REFINE[garment==10]===5"
+      ],
+      "p_race_all": [
+        "USED[Windhawk]===20"
+      ],
+      "hpPercent": [
+        "USED[Windhawk]===20"
+      ],
+      "atk": [
+        "USED[Windhawk]===100"
+      ]
+    }
+  },
+  "300923": {
+    "id": 300923,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Trouvere Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Troubadour/Trouvere,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 20%,\nMaxHP + 20%,\nATK + 100\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "p_size_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "allStatus": [
+        "LEVEL[200]===20",
+        "REFINE[garment==10]===20"
+      ],
+      "allTrait": [
+        "LEVEL[200]===5",
+        "REFINE[garment==10]===5"
+      ],
+      "p_race_all": [
+        "USED[Troubadour||Trouvere]===20"
+      ],
+      "hpPercent": [
+        "USED[Troubadour||Trouvere]===20"
+      ],
+      "atk": [
+        "USED[Troubadour||Trouvere]===100"
+      ]
+    }
+  },
+  "300924": {
+    "id": 300924,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Soul Ascetic Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Soul Ascetic,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 20%,\nMaxHP + 20%, \nMATK + 100\n\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "m_my_element_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "allStatus": [
+        "LEVEL[200]===20",
+        "REFINE[garment==10]===20"
+      ],
+      "allTrait": [
+        "LEVEL[200]===5",
+        "REFINE[garment==10]===5"
+      ],
+      "m_race_all": [
+        "USED[SoulAscetic]===20"
+      ],
+      "hpPercent": [
+        "USED[SoulAscetic]===20"
+      ],
+      "matk": [
+        "USED[SoulAscetic]===100"
+      ]
+    }
+  },
+  "300925": {
+    "id": 300925,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Shiranui Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Shiranui,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 20%,\nMaxHP + 20%, \nMATK + 100\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "m_my_element_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "allStatus": [
+        "LEVEL[200]===20",
+        "REFINE[garment==10]===20"
+      ],
+      "allTrait": [
+        "LEVEL[200]===5",
+        "REFINE[garment==10]===5"
+      ],
+      "m_race_all": [
+        "USED[Shiranui]===20"
+      ],
+      "hpPercent": [
+        "USED[Shiranui]===20"
+      ],
+      "matk": [
+        "USED[Shiranui]===100"
+      ]
+    }
+  },
+  "300926": {
+    "id": 300926,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Shinkiro Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Shinkiro,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 20%,\nMaxHP + 20%,\nATK + 100\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "p_size_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "allStatus": [
+        "LEVEL[200]===20",
+        "REFINE[garment==10]===20"
+      ],
+      "allTrait": [
+        "LEVEL[200]===5",
+        "REFINE[garment==10]===5"
+      ],
+      "p_race_all": [
+        "USED[Shinkiro]===20"
+      ],
+      "hpPercent": [
+        "USED[Shinkiro]===20"
+      ],
+      "atk": [
+        "USED[Shinkiro]===100"
+      ]
+    }
+  },
+  "300927": {
+    "id": 300927,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Night Watch Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Night Watch,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 20%,\nMaxHP + 20%,\nATK + 100\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "p_size_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "allStatus": [
+        "LEVEL[200]===20",
+        "REFINE[garment==10]===20"
+      ],
+      "allTrait": [
+        "LEVEL[200]===5",
+        "REFINE[garment==10]===5"
+      ],
+      "p_race_all": [
+        "USED[NightWatch]===20"
+      ],
+      "hpPercent": [
+        "USED[NightWatch]===20"
+      ],
+      "atk": [
+        "USED[NightWatch]===100"
+      ]
+    }
+  },
+  "300928": {
+    "id": 300928,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Hyper Novice Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Hyper Novice,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 15%,\nMaxHP +20%,\nATK, MATK + 100\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "p_size_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "m_size_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "allStatus": [
+        "LEVEL[200]===20",
+        "REFINE[garment==10]===20"
+      ],
+      "allTrait": [
+        "LEVEL[200]===5",
+        "REFINE[garment==10]===5"
+      ],
+      "p_race_all": [
+        "USED[HyperNovice]===15"
+      ],
+      "m_race_all": [
+        "USED[HyperNovice]===15"
+      ],
+      "hpPercent": [
+        "USED[HyperNovice]===20"
+      ],
+      "atk": [
+        "USED[HyperNovice]===100"
+      ],
+      "matk": [
+        "USED[HyperNovice]===100"
+      ]
+    }
+  },
+  "300929": {
+    "id": 300929,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Spirit Handler Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Spirit Handler,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 15%,\nMaxHP +20%,\nATK, MATK + 100\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "p_size_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "m_size_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "allStatus": [
+        "LEVEL[200]===20",
+        "REFINE[garment==10]===20"
+      ],
+      "allTrait": [
+        "LEVEL[200]===5",
+        "REFINE[garment==10]===5"
+      ],
+      "p_race_all": [
+        "USED[SpiritHandler]===15"
+      ],
+      "m_race_all": [
+        "USED[SpiritHandler]===15"
+      ],
+      "hpPercent": [
+        "USED[SpiritHandler]===20"
+      ],
+      "atk": [
+        "USED[SpiritHandler]===100"
+      ],
+      "matk": [
+        "USED[SpiritHandler]===100"
+      ]
+    }
+  },
+  "315411": {
+    "id": 315411,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Upgrade Sky Emperor Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด Garment 3 ขั้น, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 5%\nเมื่อ Base Lv.200 ขึ้นไป, All State + 20, All Trait + 5\nเมื่อขั้นอัพเกรด Garment ตั้งแต่ 10 ขึ้นไป, All State + 20, All Trait + 5\n\nเมื่อผู้ใช้งานเป็นอาชีพ Sky Emperor,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 20%,\nMaxHP + 20%,\nATK + 100\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "p_size_all": [
+        "REFINE[garment==3]---5"
+      ],
+      "allStatus": [
+        "LEVEL[200]===20",
+        "REFINE[garment==10]===20"
+      ],
+      "allTrait": [
+        "LEVEL[200]===5",
+        "REFINE[garment==10]===5"
+      ],
+      "p_race_all": [
+        "USED[SkyEmperor]===20"
+      ],
+      "hpPercent": [
+        "USED[SkyEmperor]===20"
+      ],
+      "atk": [
+        "USED[SkyEmperor]===100"
+      ]
+    }
+  },
+  "300934": {
+    "id": 300934,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Ragnarok Stars 2026 Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ทุกๆ Base Lv. 50, All State + 1\n\nเมื่อใช้งานร่วมกับ Ragnarok Stars 2026 Ring (Right),\nเพิ่มค่าประสบการณ์ที่ได้รับจากมอนสเตอร์ทุกประเภท 5%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Accessory (Right)^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 8,
+    "canGrade": false,
+    "script": {
+      "allStatus": [
+        "level:50---1"
+      ]
+    }
+  },
+  "460178": {
+    "id": 460178,
+    "aegisName": "Ignis_Guard_TH",
+    "flavorText": null,
+    "name": "Ignis Flame Guard [1]",
+    "unidName": null,
+    "resName": "Ignis_Guard_TH",
+    "unidResName": null,
+    "description": "โล่เวทมนตร์น้ำหนักเบาที่หลอมจากเปลวเพลิงศักดิ์สิทธิ์\nมอบการป้องกันพร้อมเสริมพลังแห่งไฟให้แก่ผู้ใช้เวทมนตร์\n\nASPD + 10%,\nทุก ๆ การอัพเกรด 1 ขั้น, MaxHP + 100,\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 4%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 7 ขึ้นไป, ASPD + 2\nเมื่อขั้นอัพเกรดตั้งแต่ 9 ขึ้นไป, ลด Cooldown สกิล Floral Flare Road 0.3 วินาที, ลด Cooldown สกิล All Bloom 0.3 วินาที\nเมื่อขั้นอัพเกรดตั้งแต่ 11 ขึ้นไป, เมื่อโจมตีทางเวทมนตร์ มีโอกาส 4% ที่ INT + 150 เป็นเวลา 10 วินาที แต่จะสูญเสีย HP 100, SP 100 หน่วยต่อวินาที\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป, เพิ่ม Damage สกิล Crimson Arrow, Floral Flare Road, All Bloom 15%\nประเภท : ^777777Shield^000000  พลังป้องกัน : ^77777725^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777Arch Mage^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 25,
+    "weight": 20,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "ArchMage"
+    ],
+    "script": {
+      "aspdPercent": [
+        "10"
+      ],
+      "hp": [
+        "1---100"
+      ],
+      "m_my_element_all": [
+        "3---4"
+      ],
+      "aspd": [
+        "7===2"
+      ],
+      "cd__Floral Flare Road": [
+        "9===0.3"
+      ],
+      "cd__All Bloom": [
+        "9===0.3"
+      ],
+      "chance__int": [
+        "11===150"
+      ],
+      "Crimson Arrow": [
+        "12===15"
+      ],
+      "Floral Flare Road": [
+        "12===15"
+      ],
+      "All Bloom": [
+        "12===15"
+      ]
+    }
+  },
+  "460179": {
+    "id": 460179,
+    "aegisName": "Ignis_Guard_LT_TH",
+    "flavorText": null,
+    "name": "Ignis Flame Guard-LT [1]",
+    "unidName": null,
+    "resName": "Ignis_Guard_TH",
+    "unidResName": null,
+    "description": "โล่เวทมนตร์น้ำหนักเบาที่หลอมจากเปลวเพลิงศักดิ์สิทธิ์\nมอบการป้องกันพร้อมเสริมพลังแห่งไฟให้แก่ผู้ใช้เวทมนตร์\n\nASPD + 3,\nเมื่อกำจัดมอนสเตอร์ด้วยการโจมตีทางเวทมนตร์ ฟื้นฟู HP 500\nทุก ๆ การอัพเกรด 1 ขั้น, MaxHP + 500\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 8%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 9 ขึ้นไป, ลด Cooldown สกิล Floral Flare Road 0.6 วินาที, ลด Cooldown สกิล All Bloom 0.6 วินาที\nเมื่อขั้นอัพเกรดตั้งแต่ 11 ขึ้นไป, เมื่อโจมตีทางเวทมนตร์ มีโอกาส 4% ที่จะได้รับสถานะ [Flame Destroyer] เป็นเวลา 10 วินาที\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป, เพิ่ม Damage สกิล Crimson Arrow, Floral Flare Road, All Bloom 20%\n\nผลเอฟเฟกต์ [Flame Destroyer]\nSPL + 50,\nS.MATK + 10,\nสูญเสีย HP 500 หน่วยต่อวินาที\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] ลด Global Cooldown 10%\n[Grade C] ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\n[Grade B] เพิ่มผลเอฟเฟกต์ [Flame Destroyer] SPL + 50, S.MATK + 10 เพิ่มเติม\n[Grade A] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 20%\nประเภท : ^777777Shield^000000  พลังป้องกัน : ^77777725^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777210^000000\nอาชีพที่ใส่ได้ : ^777777Arch Mage^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 25,
+    "weight": 20,
+    "requiredLevel": 210,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ArchMage"
+    ],
+    "script": {
+      "aspd": [
+        "3"
+      ],
+      "hp": [
+        "1---500"
+      ],
+      "m_my_element_all": [
+        "3---8"
+      ],
+      "cd__Floral Flare Road": [
+        "9===0.6"
+      ],
+      "cd__All Bloom": [
+        "9===0.6"
+      ],
+      "chance__spl": [
+        "11===50",
+        "GRADE[me==B]11===50"
+      ],
+      "chance__sMatk": [
+        "11===10",
+        "GRADE[me==B]11===10"
+      ],
+      "Crimson Arrow": [
+        "12===20"
+      ],
+      "Floral Flare Road": [
+        "12===20"
+      ],
+      "All Bloom": [
+        "12===20"
+      ],
+      "acd": [
+        "GRADE[me==D]===10"
+      ],
+      "fct": [
+        "GRADE[me==C]===0.5"
+      ],
+      "m_size_all": [
+        "GRADE[me==A]===20"
+      ]
+    }
+  },
+  "460180": {
+    "id": 460180,
+    "aegisName": "Forbidden_Grimoire_LT_T",
+    "flavorText": null,
+    "name": "Forbidden Grimoire-LT [1]",
+    "unidName": null,
+    "resName": "금기의마도서",
+    "unidResName": null,
+    "description": "คัมภีร์ต้องห้ามบันทึกศาสตร์ที่ไม่สมบูรณ์ ผู้ไม่รู้จริงมิควรศึกษามัน\nASPD + 3\nเมื่อกำจัดมอนสเตอร์ด้วยเวทมนตร์, ฟื้นฟู HP 500 หน่วย\nทุก ๆ การอัพเกรด 1 ขั้น, MaxHP + 500\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางเวทมนตร์ธาตุ Eath, Water 8%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 9 ขึ้นไป, ลด Cooldown สกิล Terra Drive, Diamond Storm 0.3 วินาที\nเมื่อขั้นอัพเกรดตั้งแต่ 11 ขึ้นไป, เมื่อโจมตีทางเวทมนตร์ มีโอกาส 4% ที่จะได้รับสถานะ [Encounter Confusion] เป็นเวลา 10 วินาที\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป, เพิ่ม Damage สกิล Terra Drive, Diamond Storm 20%\n\nผลเอฟเฟกต์ [Encounter Confusion]\nSPL + 50,\nS.MATK + 10,\nสูญเสีย HP 500 หน่วยต่อวินาที\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] ลด Global Cooldown 10%\n[Grade C] ลด Cooldown สกิล Terra Drive, Diamond Storm 0.3 วินาที\n[Grade B] เพิ่มผลเอฟเฟกต์ [Encounter Confusion] SPL + 50, S.MATK + 10 เพิ่มเติม\n[Grade A] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 20%, ลด Cooldown สกิล Call Tera, Call Aqua 40 วินาที, ลด Cooldown สกิล Summon Elemental: Terremotus, Summon Elemental: Diluvio 300 วินาที\nประเภท : ^777777Shield^000000  พลังป้องกัน : ^777777100^000000\nน้ำหนัก : ^77777750^000000\nเลเวลที่ต้องการ : ^777777210^000000\nอาชีพที่ใส่ได้ : ^777777Elemental Master^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 100,
+    "weight": 50,
+    "requiredLevel": 210,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ElementalMaster"
+    ],
+    "script": {
+      "aspd": [
+        "3"
+      ],
+      "hp": [
+        "1---500"
+      ],
+      "m_my_element_earth": [
+        "3---8"
+      ],
+      "m_my_element_water": [
+        "3---8"
+      ],
+      "cd__Terra Drive": [
+        "9===0.3",
+        "GRADE[me==C]===0.3"
+      ],
+      "cd__Diamond Storm": [
+        "9===0.3",
+        "GRADE[me==C]===0.3"
+      ],
+      "chance__spl": [
+        "11===50",
+        "GRADE[me==B]===50"
+      ],
+      "chance__sMatk": [
+        "11===10",
+        "GRADE[me==B]===10"
+      ],
+      "Terra Drive": [
+        "12===20"
+      ],
+      "Diamond Storm": [
+        "12===20"
+      ],
+      "acd": [
+        "GRADE[me==D]===10"
+      ],
+      "m_class_all": [
+        "GRADE[me==A]===20"
+      ],
+      "cd__Call Tera": [
+        "GRADE[me==A]===40"
+      ],
+      "cd__Call Aqua": [
+        "GRADE[me==A]===40"
+      ],
+      "cd__Summon Elemental: Terremotus": [
+        "GRADE[me==A]===300"
+      ],
+      "cd__Summon Elemental: Diluvio": [
+        "GRADE[me==A]===300"
+      ]
+    }
+  },
+  "491074": {
+    "id": 491074,
+    "aegisName": "FuriousRing_EM2",
+    "flavorText": null,
+    "name": "White Furious Ring (Elemental Master) [1]",
+    "unidName": null,
+    "resName": "루파크의반지",
+    "unidResName": null,
+    "description": "แหวนที่สั่นพ้องกับ Furious Weapon เพื่อปลุกพลังที่หลับใหลภายใน\nMATK + 100\nลด Global Cooldown 10%\nSPL + 10\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Furious Master Spellbook,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Conflagration,Lightning Land,Venom Swamp 20%\n\nเมื่อ Furious Master Spellbook มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Conflagration,Lightning Land,Venom Swamp 20%\n\nเมื่อ Furious Master Spellbook มี Grade C ขึ้นไป,\nS.MATK + 10,\nลด Cooldown สกิล Conflagration, Lightning Land 1 วินาที,\nลด Cooldown สกิล Venom Swamp 1.5 วินาที,\nเพิ่ม Damage สกิล Conflagration,Lightning Land,Venom Swamp 20%\n\nเมื่อ Furious Master Spellbook มี Grade B ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ธาตุ Fire, Wind, Poison 20%,\nเพิ่ม Damage สกิล Conflagration,Lightning Land,Venom Swamp 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Elemental Master^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 205,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "ElementalMaster"
+    ],
+    "script": {
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "fct": [
+        "0.5"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "m_size_all": [
+        "EQUIP[Furious Master Spellbook]===15"
+      ],
+      "Conflagration": [
+        "EQUIP[Furious Master Spellbook]===20",
+        "EQUIP[Furious Master Spellbook]REFINE[weapon==10]===20",
+        "EQUIP[Furious Master Spellbook]GRADE[weapon==C]===20",
+        "EQUIP[Furious Master Spellbook]GRADE[weapon==B]===20"
+      ],
+      "Lightning Land": [
+        "EQUIP[Furious Master Spellbook]===20",
+        "EQUIP[Furious Master Spellbook]REFINE[weapon==10]===20",
+        "EQUIP[Furious Master Spellbook]GRADE[weapon==C]===20",
+        "EQUIP[Furious Master Spellbook]GRADE[weapon==B]===20"
+      ],
+      "Venom Swamp": [
+        "EQUIP[Furious Master Spellbook]===20",
+        "EQUIP[Furious Master Spellbook]REFINE[weapon==10]===20",
+        "EQUIP[Furious Master Spellbook]GRADE[weapon==C]===20",
+        "EQUIP[Furious Master Spellbook]GRADE[weapon==B]===20"
+      ],
+      "m_element_all": [
+        "EQUIP[Furious Master Spellbook]REFINE[weapon==10]===15"
+      ],
+      "sMatk": [
+        "EQUIP[Furious Master Spellbook]GRADE[weapon==C]===10"
+      ],
+      "cd__Conflagration": [
+        "EQUIP[Furious Master Spellbook]GRADE[weapon==C]===1"
+      ],
+      "cd__Lightning Land": [
+        "EQUIP[Furious Master Spellbook]GRADE[weapon==C]===1"
+      ],
+      "cd__Venom Swamp": [
+        "EQUIP[Furious Master Spellbook]GRADE[weapon==C]===1.5"
+      ],
+      "m_my_element_fire": [
+        "EQUIP[Furious Master Spellbook]GRADE[weapon==B]===20"
+      ],
+      "m_my_element_wind": [
+        "EQUIP[Furious Master Spellbook]GRADE[weapon==B]===20"
+      ],
+      "m_my_element_poison": [
+        "EQUIP[Furious Master Spellbook]GRADE[weapon==B]===20"
+      ]
+    }
+  },
+  "491075": {
+    "id": 491075,
+    "aegisName": "FuriousRing_DK2",
+    "flavorText": null,
+    "name": "White Furious Ring (Dragon Knight) [1]",
+    "unidName": null,
+    "resName": "루파크의반지",
+    "unidResName": null,
+    "description": "แหวนที่สั่นพ้องกับ Furious Weapon เพื่อปลุกพลังที่หลับใหลภายใน\nATK + 100\nลด Global Cooldown 10%\nPOW + 10\nเพิ่ม Hit Damage ทางกายภาพ 10%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Furious Trident,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Madness Crusher 25%\n\nเมื่อ Furious Trident มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Madness Crusher 25%\n\nเมื่อ Furious Trident มี Grade C ขึ้นไป,\nP.ATK + 10,\nลด Cooldown สกิล Madness Crusher 0.25 วินาที,\nเพิ่ม Damage สกิล Madness Crusher 25%\n\nเมื่อ Furious Trident มี Grade B ขึ้นไป,\nสามารถใช้งานสกิล Power Lv.4,\nเมื่อใช้งานสกิล Madness Crusher มีโอกาส 30% ที่จะ Autospell สกิล Madness Crusher Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Madness Crusher มีโอกาส 3% ที่จะใช้ได้รับสถานะ POW + 100, P.ATK + 20 เป็นเวลา 5 วินาที,\nเพิ่ม Damage สกิล Madness Crusher 25%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Dragon Knight^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 205,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "DragonKnight"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "hitDmg": [
+        "10"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Furious Trident]===15"
+      ],
+      "Madness Crusher": [
+        "EQUIP[Furious Trident]===25",
+        "EQUIP[Furious Trident]REFINE[weapon==10]===25",
+        "EQUIP[Furious Trident]GRADE[weapon==C]===25",
+        "EQUIP[Furious Trident]GRADE[weapon==B]===25"
+      ],
+      "p_element_all": [
+        "EQUIP[Furious Trident]REFINE[weapon==10]===15"
+      ],
+      "pAtk": [
+        "EQUIP[Furious Trident]GRADE[weapon==C]===10"
+      ],
+      "cd__Madness Crusher": [
+        "EQUIP[Furious Trident]GRADE[weapon==C]===0.25"
+      ],
+      "power": [
+        "EQUIP[Furious Trident]GRADE[weapon==B]===80"
+      ],
+      "chance__pow": [
+        "EQUIP[Furious Trident]GRADE[weapon==B]===100"
+      ],
+      "chance__pAtk": [
+        "EQUIP[Furious Trident]GRADE[weapon==B]===20"
+      ]
+    }
+  },
+  "491076": {
+    "id": 491076,
+    "aegisName": "CA_Orrivane_R_TH",
+    "flavorText": null,
+    "name": "Orrivane Ring (Cardinal) [1]",
+    "unidName": null,
+    "resName": "Colourful_Ring",
+    "unidResName": null,
+    "description": "แหวนแห่ง Orrivane ที่เมื่อสวมใส่จะสัมผัสได้ถึงพลังแห่งพรศักดิ์สิทธิ์และแสงอันศักดิ์สิทธิ์\nATK, MATK + 100\nลด Global Cooldown 10%\nPOW,SPL + 10\nCRI + 15, ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Orrivane Crown (Cardinal),\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Petitio, Arbitrium 20%\n\nเมื่อ Orrivane Crown (Cardinal) มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Petitio, Arbitrium 20%\n\nเมื่อ Orrivane Crown (Cardinal) มี Grade C ขึ้นไป,\nP.ATK, S.MATK + 10,\nเพิ่ม Damage สกิล Petitio, Arbitrium 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Cardinal^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Cardinal"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "cri": [
+        "15"
+      ],
+      "fct": [
+        "0.5"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Orrivane Crown (Cardinal)]===15"
+      ],
+      "m_size_all": [
+        "EQUIP[Orrivane Crown (Cardinal)]===15"
+      ],
+      "Petitio": [
+        "EQUIP[Orrivane Crown (Cardinal)]===20",
+        "EQUIP[Orrivane Crown (Cardinal)]REFINE[headUpper==10]===20",
+        "EQUIP[Orrivane Crown (Cardinal)]GRADE[headUpper==C]===20"
+      ],
+      "Arbitrium": [
+        "EQUIP[Orrivane Crown (Cardinal)]===20",
+        "EQUIP[Orrivane Crown (Cardinal)]REFINE[headUpper==10]===20",
+        "EQUIP[Orrivane Crown (Cardinal)]GRADE[headUpper==C]===20"
+      ],
+      "p_element_all": [
+        "EQUIP[Orrivane Crown (Cardinal)]REFINE[headUpper==10]===15"
+      ],
+      "m_element_all": [
+        "EQUIP[Orrivane Crown (Cardinal)]REFINE[headUpper==10]===15"
+      ],
+      "pAtk": [
+        "EQUIP[Orrivane Crown (Cardinal)]GRADE[headUpper==C]===10"
+      ],
+      "sMatk": [
+        "EQUIP[Orrivane Crown (Cardinal)]GRADE[headUpper==C]===10"
+      ]
+    }
+  },
+  "491077": {
+    "id": 491077,
+    "aegisName": "SKE_Orrivane_R_TH",
+    "flavorText": null,
+    "name": "Orrivane Ring (Sky Emperor) [1]",
+    "unidName": null,
+    "resName": "Colourful_Ring",
+    "unidResName": null,
+    "description": "แหวนแห่ง Orrivane ที่สถิตด้วยพลังของผู้สำเร็จวิชาสวรรค์ ผู้โอบอุ้มพลังแห่งท้องนภาและดวงดารา\nATK + 100\nลด Global Cooldown 10%\nPOW + 10\nCRI + 15, เพิ่ม Hit Damage ทางกายภาพ 10%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Orrivane Crown (Sky Emperor),\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%\nเพิ่ม Damage สกิล Noon Blast, Star Cannon 20%\n\nเมื่อ Orrivane Crown (Sky Emperor) มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%\nเพิ่ม Damage สกิล Noon Blast, Star Cannon 20%\n\nเมื่อ Orrivane Crown (Sky Emperor) มี Grade C ขึ้นไป,\nP.ATK + 10,\nเพิ่ม Damage สกิล Noon Blast, Star Cannon 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Sky Emperor^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "SkyEmperor"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "cri": [
+        "15"
+      ],
+      "hitDmg": [
+        "10"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Orrivane Crown (Sky Emperor)]===15"
+      ],
+      "Noon Blast": [
+        "EQUIP[Orrivane Crown (Sky Emperor)]===20",
+        "EQUIP[Orrivane Crown (Sky Emperor)]REFINE[headUpper==10]===20",
+        "EQUIP[Orrivane Crown (Sky Emperor)]GRADE[headUpper==C]===20"
+      ],
+      "Star Cannon": [
+        "EQUIP[Orrivane Crown (Sky Emperor)]===20",
+        "EQUIP[Orrivane Crown (Sky Emperor)]REFINE[headUpper==10]===20",
+        "EQUIP[Orrivane Crown (Sky Emperor)]GRADE[headUpper==C]===20"
+      ],
+      "p_element_all": [
+        "EQUIP[Orrivane Crown (Sky Emperor)]REFINE[headUpper==10]===15"
+      ],
+      "pAtk": [
+        "EQUIP[Orrivane Crown (Sky Emperor)]GRADE[headUpper==C]===10"
+      ]
+    }
+  },
+  "491078": {
+    "id": 491078,
+    "aegisName": "HN_Orrivane_R_TH",
+    "flavorText": null,
+    "name": "Orrivane Ring (Hyper Novice) [1]",
+    "unidName": null,
+    "resName": "Colourful_Ring",
+    "unidResName": null,
+    "description": "แหวนแห่ง Orrivane ที่เมื่อสวมใส่จะสัมผัสได้ถึงเจตจำนงอันแน่วแน่ของ Novice ผู้ก้าวข้ามขีดจำกัด\nATK, MATK + 100\nลด Global Cooldown 10%\nPOW, SPL + 10\nCRI + 15, ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Orrivane Crown (Hyper Novice),\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Mega Sonic Blow, Jack Frost Nova 20%\n\nเมื่อ Orrivane Crown (Hyper Novice) มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Mega Sonic Blow, Jack Frost Nova 20%\n\nเมื่อ Orrivane Crown (Hyper Novice) มี Grade C ขึ้นไป,\nP.ATK, S.MATK + 10,\nเพิ่ม Damage สกิล Mega Sonic Blow, Jack Frost Nova 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Hyper Novice^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "HyperNovice"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "cri": [
+        "15"
+      ],
+      "fct": [
+        "0.5"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Orrivane Crown (Hyper Novice)]===15"
+      ],
+      "m_size_all": [
+        "EQUIP[Orrivane Crown (Hyper Novice)]===15"
+      ],
+      "Mega Sonic Blow": [
+        "EQUIP[Orrivane Crown (Hyper Novice)]===20",
+        "EQUIP[Orrivane Crown (Hyper Novice)]REFINE[headUpper==10]===20",
+        "EQUIP[Orrivane Crown (Hyper Novice)]GRADE[headUpper==C]===20"
+      ],
+      "Jack Frost Nova": [
+        "EQUIP[Orrivane Crown (Hyper Novice)]===20",
+        "EQUIP[Orrivane Crown (Hyper Novice)]REFINE[headUpper==10]===20",
+        "EQUIP[Orrivane Crown (Hyper Novice)]GRADE[headUpper==C]===20"
+      ],
+      "p_element_all": [
+        "EQUIP[Orrivane Crown (Hyper Novice)]REFINE[headUpper==10]===15"
+      ],
+      "m_element_all": [
+        "EQUIP[Orrivane Crown (Hyper Novice)]REFINE[headUpper==10]===15"
+      ],
+      "pAtk": [
+        "EQUIP[Orrivane Crown (Hyper Novice)]GRADE[headUpper==C]===10"
+      ],
+      "sMatk": [
+        "EQUIP[Orrivane Crown (Hyper Novice)]GRADE[headUpper==C]===10"
+      ]
+    }
+  },
+  "491079": {
+    "id": 491079,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Ragnarok Stars 2026 Ring (Right) [1]",
+    "unidName": null,
+    "resName": "Ring_Of_Ceryneian",
+    "unidResName": null,
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nASPD + 5%,\nทุก ๆ Base Lv.5, ATK/MATK + 2\n\nเมื่อใช้งานร่วมกับ Ragnarok Stars 2025 Ring,\nเพิ่มค่าประสบการณ์ที่ได้รับจากมอนสเตอร์ทุกประเภท 5%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "aspdPercent": [
+        "5"
+      ],
+      "atk": [
+        "level:5---2"
+      ],
+      "matk": [
+        "level:5---2"
+      ]
+    }
+  },
+  "315412": {
+    "id": 315412,
+    "aegisName": "Orrivane_Enc_CA",
+    "flavorText": null,
+    "name": "Orrivane Orb (Cardinal)",
+    "unidName": null,
+    "resName": "Auto_Orb_Priest",
+    "unidResName": null,
+    "description": "เมื่อสวมใส่ร่วมกับ Orrivane Saint Book,\nCritical Damage + 20%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Petitio 4%\n\nเมื่อ Orrivane Saint Book มี Grade C ขึ้นไป,\nP.ATK + 10,\nลด Cooldown สกิล Petitio 0.15 วินาที\n\nเมื่อ Orrivane Saint Book มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,\nสามารถใช้งานสกิล Power Lv.2,\nสามารถใช้งานสกิล Unlucky Rush Lv.5,\nเมื่อใช้งานสกิล Unlucky Rush จะ Autospell สกิล Petitio Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Petitio มีโอกาส 30% ที่จะ Autospell สกิล Petitio Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเพิ่ม Damage สกิล Petitio 20%\n\nเมื่อสวมใส่ร่วมกับ Orrivane Saint Wand,\nMATK + 10%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Arbitrium 4%\n\nเมื่อ Orrivane Saint Wand มี Grade C ขึ้นไป,\nS.MATK + 10,\nSPL + 10\n\nเมื่อ Orrivane Saint Wand มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,\nเมื่อใช้งานสกิล Arbitrium  มีโอกาส 30% ที่จะ Autospell สกิล Arbitrium Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Framen มีโอกาส 40% ที่จะ Autospell สกิล Mystery Illusion Lv.5\nเพิ่ม Damage สกิล Arbitrium 20%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "criDmg": [
+        "EQUIP[Orrivane Saint Book]===20"
+      ],
+      "Petitio": [
+        "EQUIP[Orrivane Saint Book]REFINE[weapon==2]---4",
+        "EQUIP[Orrivane Saint Book]GRADE[weapon==C]REFINE[weapon==10]===20"
+      ],
+      "pAtk": [
+        "EQUIP[Orrivane Saint Book]GRADE[weapon==C]===10"
+      ],
+      "cd__Petitio": [
+        "EQUIP[Orrivane Saint Book]GRADE[weapon==C]===0.15"
+      ],
+      "power": [
+        "EQUIP[Orrivane Saint Book]GRADE[weapon==C]REFINE[weapon==10]===40"
+      ],
+      "matkPercent": [
+        "EQUIP[Orrivane Saint Wand]===10"
+      ],
+      "Arbitrium": [
+        "EQUIP[Orrivane Saint Wand]REFINE[weapon==2]---4",
+        "EQUIP[Orrivane Saint Wand]GRADE[weapon==C]REFINE[weapon==10]===20"
+      ],
+      "sMatk": [
+        "EQUIP[Orrivane Saint Wand]GRADE[weapon==C]===10"
+      ],
+      "spl": [
+        "EQUIP[Orrivane Saint Wand]GRADE[weapon==C]===10"
+      ]
+    }
+  },
+  "315413": {
+    "id": 315413,
+    "aegisName": "Orrivane_Enc_SKE",
+    "flavorText": null,
+    "name": "Orrivane Orb (Sky Emperor)",
+    "unidName": null,
+    "resName": "Auto_Orb_Priest",
+    "unidResName": null,
+    "description": "เมื่อสวมใส่ร่วมกับ Orrivane Emperor Noon Book,\nCritical Damage + 20%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Noon Blast 6%.\n\nเมื่อ Orrivane Emperor Noon Book มี Grade C ขึ้นไป,\nP.ATK + 10,\nลด Cooldown สกิล Noon Blast 0.5 วินาที.\n\nเมื่อ Orrivane Emperor Noon Book มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,\nทุก ๆ การเรียนรู้สกิล Power 1 เลเวล, เพิ่ม Damage ทางกายภาพระยะใกล้ 6%,\nเมื่อใช้งานสกิล Flying Kick จะ Autospell สกิล Noon Blast Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Noon Blast มีโอกาส 30% ที่จะ Autospell สกิล Noon Blast Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเพิ่ม Damage สกิล Noon Blast 25%\n\nเมื่อสวมใส่ร่วมกับ Orrivane Emperor Star Book,\nเพิ่ม HIT Damage ทางกายภาพ 10%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Twinkling Galaxy, Star Cannon, Star Burst 6%\n\nเมื่อ Orrivane Emperor Star Book มี Grade C ขึ้นไป,\nP.ATK + 10,\nลด Cooldown สกิล Twinkling Galaxy 3.3 วินาที,\nลด Cooldown สกิล Star Cannon 3 วินาที\n\nเมื่อ Orrivane Emperor Star Book มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,\nทุก ๆ การเรียนรู้สกิล Power 1 เลเวล, เพิ่ม Damage ทางกายภาพระยะใกล้ 6%,\nเมื่อโจมตีทางกายภาพระยะใกล้ มีโอกาส 40% ที่จะ Autospell สกิล Star Burst Lv.1 (หากเรียนรู้ในระดับที่สูงกว่าจะใช้งานในระดับสูงสุด),\nเมื่อโจมตีทางกายภาพ มีโอกาส 40% ที่จะฟื้นฟู HP 1% ของ Damage ที่ทำได้,\nเพิ่ม Damage สกิล Twinkling Galaxy, Star Cannon, Star Burst 25%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "criDmg": [
+        "EQUIP[Orrivane Emperor Noon Book]===20"
+      ],
+      "Noon Blast": [
+        "EQUIP[Orrivane Emperor Noon Book]REFINE[weapon==2]---6",
+        "EQUIP[Orrivane Emperor Noon Book]GRADE[weapon==C]REFINE[weapon==10]===25"
+      ],
+      "pAtk": [
+        "EQUIP[Orrivane Emperor Noon Book]GRADE[weapon==C]===10",
+        "EQUIP[Orrivane Emperor Star Book]GRADE[weapon==C]===10"
+      ],
+      "cd__Noon Blast": [
+        "EQUIP[Orrivane Emperor Noon Book]GRADE[weapon==C]===0.5"
+      ],
+      "melee": [
+        "EQUIP[Orrivane Emperor Noon Book]GRADE[weapon==C]REFINE[weapon==10]LEARN_SKILL[Power==1]---6",
+        "EQUIP[Orrivane Emperor Star Book]GRADE[weapon==C]REFINE[weapon==10]LEARN_SKILL[Power==1]---6"
+      ],
+      "hitDmg": [
+        "EQUIP[Orrivane Emperor Star Book]===10"
+      ],
+      "Twinkling Galaxy": [
+        "EQUIP[Orrivane Emperor Star Book]REFINE[weapon==2]---6",
+        "EQUIP[Orrivane Emperor Star Book]GRADE[weapon==C]REFINE[weapon==10]===25"
+      ],
+      "Star Cannon": [
+        "EQUIP[Orrivane Emperor Star Book]REFINE[weapon==2]---6",
+        "EQUIP[Orrivane Emperor Star Book]GRADE[weapon==C]REFINE[weapon==10]===25"
+      ],
+      "Star Burst": [
+        "EQUIP[Orrivane Emperor Star Book]REFINE[weapon==2]---6",
+        "EQUIP[Orrivane Emperor Star Book]GRADE[weapon==C]REFINE[weapon==10]===25"
+      ],
+      "cd__Twinkling Galaxy": [
+        "EQUIP[Orrivane Emperor Star Book]GRADE[weapon==C]===3.3"
+      ],
+      "cd__Star Cannon": [
+        "EQUIP[Orrivane Emperor Star Book]GRADE[weapon==C]===3"
+      ]
+    }
+  },
+  "315414": {
+    "id": 315414,
+    "aegisName": "Orrivane_Enc_HN",
+    "flavorText": null,
+    "name": "Orrivane Orb (Hyper Novice)",
+    "unidName": null,
+    "resName": "Auto_Orb_Priest",
+    "unidResName": null,
+    "description": "เมื่อสวมใส่ร่วมกับ Orrivane Hyper Wand,\nMATK + 10%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Jack Frost Nova, Jupitel Thunderstorm 4%\n\nเมื่อ Orrivane Hyper Wand มี Grade C ขึ้นไป,\nS.MATK + 10,\nลด Cooldown สกิล Jack Frost Nova 2 วินาที,\nลด Cooldown สกิล Jupitel Thunderstorm 1 วินาที\n\nเมื่อ Orrivane Hyper Wand มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ธาตุ Wind, Water 25%,\nเมื่อใช้งานสกิล Jupitel Thunderstorm มีโอกาส 30% ที่จะ Autospell สกิล Jupitel Thunderstorm Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเพิ่ม Damage สกิล Jack Frost Nova, Jupitel Thunderstorm  20%\n\nเมื่อสวมใส่ร่วมกับ Orrivane Hyper Sword,\nCritical Damage + 20%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Mega Sonic Blow 4%, เพิ่ม Damage สกิล Double Bowling Bash 6%\n\nเมื่อ Orrivane Orrivane Hyper Sword มี Grade C ขึ้นไป,\nP.ATK + 10,\nลด Cooldown สกิล Mega Sonic Blow 0.15 วินาที,\nลด Cooldown สกิล Double Bowling Bash 0.7 วินาที\n\nเมื่อ Orrivane Hyper Sword มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,\nสามารถใช้งานสกิล New Poison Research Lv.5 ได้,\nสามารถใช้งานสกิล Enchant Deadly Poison Lv.5 ได้ (ยกเลิกผลสกิลเมื่อถอดอุปกรณ์),\nมื่อใช้งานสกิล Mega Sonic Blow มีโอกาส 30% ที่จะ Autospell สกิล Mega Sonic Blow Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเพิ่ม Damage สกิล Mega Sonic Blow 20%, เพิ่ม Damage สกิล Double Bowling Bash 25%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matkPercent": [
+        "EQUIP[Orrivane Hyper Wand]===10"
+      ],
+      "Jack Frost Nova": [
+        "EQUIP[Orrivane Hyper Wand]REFINE[weapon==2]---4",
+        "EQUIP[Orrivane Hyper Wand]GRADE[weapon==C]REFINE[weapon==10]===20"
+      ],
+      "Jupitel Thunderstorm": [
+        "EQUIP[Orrivane Hyper Wand]REFINE[weapon==2]---4",
+        "EQUIP[Orrivane Hyper Wand]GRADE[weapon==C]REFINE[weapon==10]===20"
+      ],
+      "sMatk": [
+        "EQUIP[Orrivane Hyper Wand]GRADE[weapon==C]===10"
+      ],
+      "cd__Jack Frost Nova": [
+        "EQUIP[Orrivane Hyper Wand]GRADE[weapon==C]===2"
+      ],
+      "cd__Jupitel Thunderstorm": [
+        "EQUIP[Orrivane Hyper Wand]GRADE[weapon==C]===1"
+      ],
+      "m_my_element_wind": [
+        "EQUIP[Orrivane Hyper Wand]GRADE[weapon==C]REFINE[weapon==10]===25"
+      ],
+      "m_my_element_water": [
+        "EQUIP[Orrivane Hyper Wand]GRADE[weapon==C]REFINE[weapon==10]===25"
+      ],
+      "criDmg": [
+        "EQUIP[Orrivane Hyper Sword]===20"
+      ],
+      "Mega Sonic Blow": [
+        "EQUIP[Orrivane Hyper Sword]REFINE[weapon==2]---4",
+        "EQUIP[Orrivane Hyper Sword]GRADE[weapon==C]REFINE[weapon==10]===20"
+      ],
+      "Double Bowling Bash": [
+        "EQUIP[Orrivane Hyper Sword]REFINE[weapon==2]---6",
+        "EQUIP[Orrivane Hyper Sword]GRADE[weapon==C]REFINE[weapon==10]===25"
+      ],
+      "pAtk": [
+        "EQUIP[Orrivane Hyper Sword]GRADE[weapon==C]===10"
+      ],
+      "cd__Mega Sonic Blow": [
+        "EQUIP[Orrivane Hyper Sword]GRADE[weapon==C]===0.15"
+      ],
+      "cd__Double Bowling Bash": [
+        "EQUIP[Orrivane Hyper Sword]GRADE[weapon==C]===0.7"
       ]
     }
   }
