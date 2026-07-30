@@ -244111,6 +244111,9 @@
       ],
       "allStatus": [
         "EQUIP[Automatic Engine Wing C-Type-LT]REFINE[garment==1]---1"
+      ],
+      "drop": [
+        "10"
       ]
     }
   },
