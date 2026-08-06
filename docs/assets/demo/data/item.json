@@ -283085,5 +283085,1516 @@
     "compositionPos": 0,
     "canGrade": false,
     "script": {}
+  },
+  "1270238": {
+    "id": 1270238,
+    "aegisName": "S_DarkSpirit_Weapon",
+    "flavorText": null,
+    "name": "Dark Spirit Weapon Shadow",
+    "unidName": null,
+    "resName": "SV_Weapon_Shadow",
+    "unidResName": null,
+    "description": "A glove worn on the weapon hand that draws out the wearer's hidden potential.\n \nATK +3%.\nFor every 2 refine levels, increases Physical Damage against Dark and Fire property enemies by 1%.\nAt +7 refine, increases Physical Damage against Dark and Fire property enemies by an additional 2%.\nAt +9 refine, increases Physical Damage against Dark and Fire property enemies by an additional 3%.\nAt +10 refine, increases Melee and Ranged Physical Damage by 5%, and ignores 5% of Physical Defense of all races (excluding players).\n \n^ffffff^4D4DFF[Shadow Exclusive Enchantment]^000000^000000 \nCan receive random options using 2 Shadow Essences.\nClass : ^777777Shadow Equipment^000000\nLocation : ^777777Weapon^000000 Weight : ^7777770^000000\nRequired Level : ^777777200^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 280,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "1---1"
+      ],
+      "matk": [
+        "1---1"
+      ],
+      "atkPercent": [
+        "3"
+      ],
+      "p_element_dark": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "p_element_fire": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "melee": [
+        "10===5"
+      ],
+      "range": [
+        "10===5"
+      ],
+      "pene_res": [
+        "10===5"
+      ]
+    }
+  },
+  "1270239": {
+    "id": 1270239,
+    "aegisName": "S_DarkSpirit_Shield",
+    "flavorText": null,
+    "name": "Dark Spirit Shield Shadow",
+    "unidName": null,
+    "resName": "SV_Shield_Shadow",
+    "unidResName": null,
+    "description": "A small shield that can be equipped on the arm to provide additional defensive effects. It can be used on its own, though its defensive effect is limited.\n \nATK +3%.\nFor every 2 refine levels, increases Physical Damage against Dark and Fire property enemies by 1%.\nAt +7 refine, increases Physical Damage against Dark and Fire property enemies by an additional 2%.\nAt +9 refine, increases Physical Damage against Dark and Fire property enemies by an additional 3%.\nAt +10 refine, increases Melee and Ranged Physical Damage by 5%, and ignores 5% of Physical Defense of all races (excluding players).\n \nWhen equipped together with Dark Spirit Weapon Shadow:\nMHP +3%, MSP +3%, increases Physical Damage against Dark and Fire property enemies by 10%.\nIf the combined refine level is +18 or higher, ignores an additional 5% of Physical Defense of all races (excluding players).\n \n^ffffff^4D4DFF[Shadow Exclusive Enchantment]^000000^000000 \nCan receive random options using 2 Shadow Essences.\nClass : ^777777Shadow Equipment^000000\nLocation : ^777777Shield^000000 Weight : ^7777770^000000\nRequired Level : ^777777200^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atkPercent": [
+        "3"
+      ],
+      "p_element_dark": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Dark Spirit Weapon Shadow]===10"
+      ],
+      "p_element_fire": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Dark Spirit Weapon Shadow]===10"
+      ],
+      "melee": [
+        "10===5"
+      ],
+      "range": [
+        "10===5"
+      ],
+      "pene_res": [
+        "10===5",
+        "EQUIP[Dark Spirit Weapon Shadow]REFINE[shadowWeapon,shadowShield==18]===5"
+      ],
+      "hpPercent": [
+        "EQUIP[Dark Spirit Weapon Shadow]===3"
+      ],
+      "spPercent": [
+        "EQUIP[Dark Spirit Weapon Shadow]===3"
+      ]
+    }
+  },
+  "1270240": {
+    "id": 1270240,
+    "aegisName": "S_M_DarkSpirit_Weapon",
+    "flavorText": null,
+    "name": "Magic Dark Spirit Weapon Shadow",
+    "unidName": null,
+    "resName": "SV_Weapon_Shadow",
+    "unidResName": null,
+    "description": "A glove worn on the weapon hand that draws out the wearer's hidden potential.\n \nMATK +3%.\nFor every 2 refine levels, increases Magic Damage against Dark and Fire property enemies by 1%.\nAt +7 refine, increases Magic Damage against Dark and Fire property enemies by an additional 2%.\nAt +9 refine, increases Magic Damage against Dark and Fire property enemies by an additional 3%.\nAt +10 refine, increases All Element Magic Damage by 5%, and ignores 5% of Magic Defense of all races (excluding players).\n \n^ffffff^4D4DFF[Shadow Exclusive Enchantment]^000000^000000 \nCan receive random options using 2 Shadow Essences.\nClass : ^777777Shadow Equipment^000000\nLocation : ^777777Weapon^000000 Weight : ^7777770^000000\nRequired Level : ^777777200^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 280,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "1---1"
+      ],
+      "matk": [
+        "1---1"
+      ],
+      "matkPercent": [
+        "3"
+      ],
+      "m_element_dark": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "m_element_fire": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "m_my_element_all": [
+        "10===5"
+      ],
+      "pene_mres": [
+        "10===5"
+      ]
+    }
+  },
+  "1270241": {
+    "id": 1270241,
+    "aegisName": "S_M_DarkSpirit_Shield",
+    "flavorText": null,
+    "name": "Magic Dark Spirit Shield Shadow",
+    "unidName": null,
+    "resName": "SV_Shield_Shadow",
+    "unidResName": null,
+    "description": "A small shield that can be equipped on the arm to provide additional defensive effects. It can be used on its own, though its defensive effect is limited.\n \nMATK +3%.\nFor every 2 refine levels, increases Magic Damage against Dark and Fire property enemies by 1%.\nAt +7 refine, increases Magic Damage against Dark and Fire property enemies by an additional 2%.\nAt +9 refine, increases Magic Damage against Dark and Fire property enemies by an additional 3%.\nAt +10 refine, increases All Element Magic Damage by 5%, and ignores 5% of Magic Defense of all races (excluding players).\n \nWhen equipped together with Magic Dark Spirit Weapon Shadow:\nMHP +3%, MSP +3%, increases Magic Damage against Dark and Fire property enemies by 10%.\nIf the combined refine level is +18 or higher, ignores an additional 5% of Magic Defense of all races (excluding players).\n \n^ffffff^4D4DFF[Shadow Exclusive Enchantment]^000000^000000 \nCan receive random options using 2 Shadow Essences.\nClass : ^777777Shadow Equipment^000000\nLocation : ^777777Shield^000000 Weight : ^7777770^000000\nRequired Level : ^777777200^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "matkPercent": [
+        "3"
+      ],
+      "m_element_dark": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Magic Dark Spirit Weapon Shadow]===10"
+      ],
+      "m_element_fire": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Magic Dark Spirit Weapon Shadow]===10"
+      ],
+      "m_my_element_all": [
+        "10===5"
+      ],
+      "pene_mres": [
+        "10===5",
+        "EQUIP[Magic Dark Spirit Weapon Shadow]REFINE[shadowWeapon,shadowShield==18]===5"
+      ],
+      "hpPercent": [
+        "EQUIP[Magic Dark Spirit Weapon Shadow]===3"
+      ],
+      "spPercent": [
+        "EQUIP[Magic Dark Spirit Weapon Shadow]===3"
+      ]
+    }
+  },
+  "9195": {
+    "id": 9195,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Celine Kimi Egg",
+    "unidName": null,
+    "resName": "Xm_Celine_Kimi_Egg",
+    "unidResName": null,
+    "description": "An egg containing the Cute Pet Celine Kimi in a deep slumber. Use a [Portable Egg Incubator] to awaken the sleeping monster.\n\nWhen Intimacy is Awkward or Shy:\nIncreases Physical and Magic Damage against all property enemies by 2%.\nWhen Intimacy is Neutral:\nIncreases Physical and Magic Damage against all property enemies by 3%.\nReduces Variable Cast Time by 1%.\nWhen Intimacy is Cordial:\nIncreases Physical and Magic Damage against all property enemies by 4%.\nReduces Variable Cast Time by 2%.\nReduces Global Cooldown by 1%.\nWhen Intimacy is Loyal:\nIncreases Physical and Magic Damage against all property enemies by 5%.\nReduces Variable Cast Time by 3%.\nReduces Global Cooldown by 2%.\n\nClass : ^777777Monster Egg^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 518,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "p_element_all": [
+        "5"
+      ],
+      "m_element_all": [
+        "5"
+      ],
+      "vct": [
+        "3"
+      ],
+      "acd": [
+        "2"
+      ]
+    }
+  },
+  "300834": {
+    "id": 300834,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Baby Shark Card",
+    "unidName": null,
+    "resName": "UnknownCard",
+    "unidResName": null,
+    "description": "For every 10 Base Levels:\nATK +10, DEF +3, MDEF +1.\n(Effective up to Base Level 200.)\n^CC3D3D[Event Limited Effect]^000000\nIncreases Physical and Magic Damage against all race monsters by 10% (excluding players).\nIncreases Physical and Magic Damage against enemies of all sizes by 10%.\nIncreases EXP gained from defeating monsters by 15%.\nItem Drop Rate +7%.\n^ff0000(Event effects will be removed during the first scheduled maintenance in September 2026.)^000000\nClass : ^777777Card^000000\nEquipped on : ^777777Garment^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "level:10(1-200)---10"
+      ],
+      "def": [
+        "level:10(1-200)---3"
+      ],
+      "mdef": [
+        "level:10(1-200)---1"
+      ],
+      "p_race_all": [
+        "10"
+      ],
+      "m_race_all": [
+        "10"
+      ],
+      "p_size_all": [
+        "10"
+      ],
+      "m_size_all": [
+        "10"
+      ],
+      "drop": [
+        "7"
+      ]
+    }
+  },
+  "300835": {
+    "id": 300835,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Shark Family Card",
+    "unidName": null,
+    "resName": "UnknownCard",
+    "unidResName": null,
+    "description": "For every 10 Base Levels:\nMATK +10, DEF +3, MDEF +1.\n(Effective up to Base Level 200.)\n^CC3D3D[Event Limited Effect]^000000\nIncreases Physical and Magic Damage against all race monsters by 10% (excluding players).\nIncreases Physical and Magic Damage against enemies of all sizes by 10%.\nIncreases EXP gained from defeating monsters by 15%.\nItem Drop Rate +7%.\n^ff0000(Event effects will be removed during the first scheduled maintenance in September 2026.)^000000\nClass : ^777777Card^000000\nEquipped on : ^777777Garment^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 4,
+    "canGrade": false,
+    "script": {
+      "matk": [
+        "level:10(1-200)---10"
+      ],
+      "def": [
+        "level:10(1-200)---3"
+      ],
+      "mdef": [
+        "level:10(1-200)---1"
+      ],
+      "p_race_all": [
+        "10"
+      ],
+      "m_race_all": [
+        "10"
+      ],
+      "p_size_all": [
+        "10"
+      ],
+      "m_size_all": [
+        "10"
+      ],
+      "drop": [
+        "7"
+      ]
+    }
+  },
+  "480824": {
+    "id": 480824,
+    "aegisName": "CLB_BS_Bag_B",
+    "flavorText": null,
+    "name": "Baby Shark Bag",
+    "unidName": null,
+    "resName": "C_CLB_BS_Bag_B",
+    "unidResName": null,
+    "description": "Pinkfong Baby Shark Collaboration.\n \nA bag designed after the adorable Baby Shark.\nYou'll want to show it off everywhere.\n \nIncreases resistance against Neutral property attacks by 20%.\nEXP gained from monsters +10%.\nEnables the use of the Return to Prontera skill.\n \nFor each Base Level:\nATK +1, MATK +1, MaxHP +20, MaxSP +2.\nAt +5 refine, increases resistance against Holy property attacks by 80%.\nAt +7 refine, has a 2% chance when dealing Physical Damage to absorb 2% of the damage dealt as SP.\nClass : ^777777Garment^000000  Defense : ^7777770^000000\nWeight : ^77777730^000000\nRequired Level : ^7777771^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 30,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "level:1---1"
+      ],
+      "matk": [
+        "level:1---1"
+      ],
+      "hp": [
+        "level:1---20"
+      ],
+      "sp": [
+        "level:1---2"
+      ]
+    }
+  },
+  "480854": {
+    "id": 480854,
+    "aegisName": "ABI_Manteau_ST",
+    "flavorText": null,
+    "name": "Mantle of Circulating Prayer [1]",
+    "unidName": null,
+    "resName": "ABI_Manteau_ST",
+    "unidResName": null,
+    "description": "A mantle imbued with the power of the Dimensional Ecological Environment (Soul, Sanctuary).\n^ffffff_^000000\nSPL +3, CON +3.\nReduces SP Cost of skills by 3%.\nFor every 2 refine levels, MATK +5.\nFor every 3 refine levels, increases Neutral, Water, Wind, Earth, Fire, Poison, and Dark property Magic Damage by 5%.\nAt +7 refine, reduces Variable Cast Time by 10% and increases Attack Speed (reduces After Cast Delay by 10%).\nAt +9 refine, reduces Global Cooldown by 10%.\nAt +12 refine, S.MATK +10.\n^ffffff_^000000\n^CC3D3D[Grade Bonus]^000000\n[D Grade] Neutral, Water, Wind, Earth, Fire, Poison, and Dark property Magic Damage +15%.\n[C Grade] MATK +10%.\n[B Grade] SPL +5, CON +5.\n[A Grade] Increases Magic Damage against all property enemies by 10%.\nClass : ^777777Garment^000000  Defense : ^77777780^000000\nWeight : ^77777760^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777265^000000\nJobs : ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 80,
+    "weight": 60,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "spl": [
+        "3",
+        "GRADE[me==B]===5"
+      ],
+      "con": [
+        "3",
+        "GRADE[me==B]===5"
+      ],
+      "matk": [
+        "2---5"
+      ],
+      "vct": [
+        "7===10"
+      ],
+      "acd": [
+        "7===10",
+        "9===10"
+      ],
+      "sMatk": [
+        "12===10"
+      ],
+      "matkPercent": [
+        "GRADE[me==C]===10"
+      ],
+      "m_my_element_neutral": [
+        "3---5",
+        "GRADE[me==D]===15"
+      ],
+      "m_my_element_water": [
+        "3---5",
+        "GRADE[me==D]===15"
+      ],
+      "m_my_element_wind": [
+        "3---5",
+        "GRADE[me==D]===15"
+      ],
+      "m_my_element_earth": [
+        "3---5",
+        "GRADE[me==D]===15"
+      ],
+      "m_my_element_fire": [
+        "3---5",
+        "GRADE[me==D]===15"
+      ],
+      "m_my_element_poison": [
+        "3---5",
+        "GRADE[me==D]===15"
+      ],
+      "m_my_element_dark": [
+        "3---5",
+        "GRADE[me==D]===15"
+      ],
+      "m_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "480855": {
+    "id": 480855,
+    "aegisName": "ABI_Manteau_SD",
+    "flavorText": null,
+    "name": "Mantle of Circulating Repose [1]",
+    "unidName": null,
+    "resName": "ABI_Manteau_SD",
+    "unidResName": null,
+    "description": "A mantle imbued with the power of the Dimensional Ecological Environment (Soul, Death).\n^ffffff_^000000\nSPL +3, CON +3.\nReduces SP Cost of skills by 3%.\nFor every 2 refine levels, MATK +5.\nFor every 3 refine levels, increases Neutral, Wind, Fire, Holy, Dark, Ghost, and Undead property Magic Damage by 5%.\nAt +7 refine, reduces Variable Cast Time by 10% and increases Attack Speed (reduces After Cast Delay by 10%).\nAt +9 refine, reduces Global Cooldown by 10%.\nAt +12 refine, S.MATK +10.\n^ffffff_^000000\n^CC3D3D[Grade Bonus]^000000\n[D Grade] Neutral, Wind, Fire, Holy, Dark, Ghost, and Undead property Magic Damage +15%.\n[C Grade] MATK +10%.\n[B Grade] SPL +5, CON +5.\n[A Grade] Increases Magic Damage against all property enemies by 10%.\nClass : ^777777Garment^000000  Defense : ^77777780^000000\nWeight : ^77777760^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777265^000000\nJobs : ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 80,
+    "weight": 60,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "spl": [
+        "3",
+        "GRADE[me==B]===5"
+      ],
+      "con": [
+        "3",
+        "GRADE[me==B]===5"
+      ],
+      "matk": [
+        "2---5"
+      ],
+      "vct": [
+        "7===10"
+      ],
+      "acd": [
+        "7===10",
+        "9===10"
+      ],
+      "sMatk": [
+        "12===10"
+      ],
+      "matkPercent": [
+        "GRADE[me==C]===10"
+      ],
+      "m_my_element_neutral": [
+        "3---5",
+        "GRADE[me==D]===15"
+      ],
+      "m_my_element_wind": [
+        "3---5",
+        "GRADE[me==D]===15"
+      ],
+      "m_my_element_fire": [
+        "3---5",
+        "GRADE[me==D]===15"
+      ],
+      "m_my_element_holy": [
+        "3---5",
+        "GRADE[me==D]===15"
+      ],
+      "m_my_element_dark": [
+        "3---5",
+        "GRADE[me==D]===15"
+      ],
+      "m_my_element_ghost": [
+        "3---5",
+        "GRADE[me==D]===15"
+      ],
+      "m_my_element_undead": [
+        "3---5",
+        "GRADE[me==D]===15"
+      ],
+      "m_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "550222": {
+    "id": 550222,
+    "aegisName": "ABI_HN_Rod",
+    "flavorText": null,
+    "name": "Ethereal Hyper Rod [2]",
+    "unidName": null,
+    "resName": "ABI_HN_Rod",
+    "unidResName": null,
+    "description": "A staff imbued with the power of the Dimensional Soul Ecological Environment.\n^ffffff_^000000\nMATK +255.\nIncreases Neutral, Water, Wind, Earth, and Fire property magic damage by 10%.\nIncreases Jupitel Thunderstorm damage by 10%.\nFor every 2 refine levels, MATK +25.\nFor every 3 refine levels, S.MATK +1 and increases Neutral, Water, Wind, Earth, and Fire property magic damage by 5%.\nAt +7 refine, MATK +10% and S.MATK +5.\nAt +11 refine, Jupitel Thunderstorm damage +10% and Jack Frost Nova damage +15%.\nAt +12 refine, reduces Variable Cast Time by 10%.\n^ffffff_^000000\n^CC3D3D[Grade Bonus]^000000\n[D Grade] MATK +5%, reduces Variable Cast Time by 10%.\n[C Grade] S.MATK +10.\n[B Grade] Increases Magic Damage against all property enemies by 10%.\n[A Grade] At +12 refine, Jupitel Thunderstorm and Jack Frost Nova damage +30%.\nType : ^777777One-Handed Staff^000000 Attack : ^777777110^000000\nWeight : ^777777200^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777265^000000\nClass : ^777777Hyper Novice^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 265,
+    "itemLevel": 5,
+    "attack": 110,
+    "defense": null,
+    "weight": 200,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "HyperNovice"
+    ],
+    "script": {
+      "matk": [
+        "255",
+        "2---25"
+      ],
+      "matkPercent": [
+        "7===10",
+        "GRADE[me==D]===5"
+      ],
+      "sMatk": [
+        "3---1",
+        "7===5",
+        "GRADE[me==C]===10"
+      ],
+      "Jupitel Thunderstorm": [
+        "10",
+        "11===10",
+        "GRADE[me==A]12===30"
+      ],
+      "Jack Frost Nova": [
+        "11===15",
+        "GRADE[me==A]12===30"
+      ],
+      "vct": [
+        "12===10",
+        "GRADE[me==D]===10"
+      ],
+      "m_my_element_neutral": [
+        "10",
+        "3---5"
+      ],
+      "m_my_element_water": [
+        "10",
+        "3---5"
+      ],
+      "m_my_element_wind": [
+        "10",
+        "3---5"
+      ],
+      "m_my_element_earth": [
+        "10",
+        "3---5"
+      ],
+      "m_my_element_fire": [
+        "10",
+        "3---5"
+      ],
+      "m_element_all": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "550223": {
+    "id": 550223,
+    "aegisName": "ABI_SH_Foxtail",
+    "flavorText": null,
+    "name": "Sacred Spirit Foxtail [2]",
+    "unidName": null,
+    "resName": "ABI_SH_Foxtail",
+    "unidResName": null,
+    "description": "A foxtail imbued with the power of the Dimensional Crusade Ecological Environment.\n^ffffff_^000000\nMATK +420.\nIncreases Neutral, Water, Wind, Earth, Fire, Shadow, and Holy property magic damage by 10%.\nIncreases Hyunrok Spirit Power damage by 10%.\nFor every 2 refine levels, MATK +25.\nFor every 3 refine levels, S.MATK +1 and increases Neutral, Water, Wind, Earth, Fire, Shadow, and Holy property magic damage by 5%.\nAt +7 refine, MATK +10% and S.MATK +5.\nAt +11 refine, Hyunrok Spirit Power damage +10% and Hyunrok Cannon damage +15%.\nAt +12 refine, reduces Variable Cast Time by 10%.\n^ffffff_^000000\n^CC3D3D[Grade Bonus]^000000\n[D Grade] MATK +5%, reduces Variable Cast Time by 10%.\n[C Grade] S.MATK +10.\n[B Grade] Increases Magic Damage against all property enemies by 10%.\n[A Grade] At +12 refine, Hyunrok Spirit Power and Hyunrok Cannon damage +30%.\nType : ^777777One-Handed Staff^000000 Attack : ^77777790^000000\nWeight : ^777777190^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777265^000000\nClass : ^777777Spirit Handler^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 265,
+    "itemLevel": 5,
+    "attack": 90,
+    "defense": null,
+    "weight": 190,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "SpiritHandler"
+    ],
+    "script": {
+      "matk": [
+        "420",
+        "2---25"
+      ],
+      "matkPercent": [
+        "7===10",
+        "GRADE[me==D]===5"
+      ],
+      "sMatk": [
+        "3---1",
+        "7===5",
+        "GRADE[me==C]===10"
+      ],
+      "Hyunrok Spirit Power": [
+        "10",
+        "11===10",
+        "GRADE[me==A]12===30"
+      ],
+      "Hyunrok Cannon": [
+        "11===15",
+        "GRADE[me==A]12===30"
+      ],
+      "vct": [
+        "12===10",
+        "GRADE[me==D]===10"
+      ],
+      "m_my_element_neutral": [
+        "10",
+        "3---5"
+      ],
+      "m_my_element_water": [
+        "10",
+        "3---5"
+      ],
+      "m_my_element_wind": [
+        "10",
+        "3---5"
+      ],
+      "m_my_element_earth": [
+        "10",
+        "3---5"
+      ],
+      "m_my_element_fire": [
+        "10",
+        "3---5"
+      ],
+      "m_my_element_dark": [
+        "10",
+        "3---5"
+      ],
+      "m_my_element_holy": [
+        "10",
+        "3---5"
+      ],
+      "m_element_all": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "550224": {
+    "id": 550224,
+    "aegisName": "ABI_CD_Rod",
+    "flavorText": null,
+    "name": "Motifus Saint Cross [2]",
+    "unidName": null,
+    "resName": "ABI_CD_Rod",
+    "unidResName": null,
+    "description": "A staff imbued with the power of the Dimensional Death Ecological Environment.\n^ffffff_^000000\nMATK +255.\nReduces Variable Cast Time by 5%.\nIncreases Framen damage by 10%.\nFor every 2 refine levels, MATK +25.\nFor every 3 refine levels, S.MATK +1 and Holy property magic damage +5%.\nAt +7 refine, MATK +10% and S.MATK +5.\nAt +11 refine, additional Framen damage +15%.\nAt +12 refine, additional Variable Cast Time -10%.\n^ffffff_^000000\n^CC3D3D[Grade Bonus]^000000\n[D Grade] MATK +5%, Variable Cast Time -10%.\n[C Grade] Holy property magic damage +10%.\n[B Grade] Increases Magic Damage against all property enemies by 10%.\n[A Grade] At +12 refine, Framen damage +30%.\nType : ^777777One-Handed Staff^000000 Attack : ^777777110^000000\nWeight : ^777777200^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777265^000000\nClass : ^777777Cardinal^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 265,
+    "itemLevel": 5,
+    "attack": 110,
+    "defense": null,
+    "weight": 200,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Cardinal"
+    ],
+    "script": {
+      "matk": [
+        "255",
+        "2---25"
+      ],
+      "matkPercent": [
+        "7===10",
+        "GRADE[me==D]===5"
+      ],
+      "sMatk": [
+        "3---1",
+        "7===5"
+      ],
+      "Framen": [
+        "10",
+        "11===15",
+        "GRADE[me==A]12===30"
+      ],
+      "vct": [
+        "5",
+        "12===10",
+        "GRADE[me==D]===10"
+      ],
+      "m_my_element_holy": [
+        "3---5",
+        "GRADE[me==C]===10"
+      ],
+      "m_element_all": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "550225": {
+    "id": 550225,
+    "aegisName": "ABI_SOA_Rod",
+    "flavorText": null,
+    "name": "Motifus Soul Stick [2]",
+    "unidName": null,
+    "resName": "ABI_SOA_Rod",
+    "unidResName": null,
+    "description": "A staff imbued with the power of the Dimensional Death Ecological Environment.\n^ffffff_^000000\nMATK +255.\nReduces Variable Cast Time by 5%.\nIncreases Exorcism of Malicious Soul damage by 10%.\nFor every 2 refine levels, MATK +25.\nFor every 3 refine levels, S.MATK +1 and all property magic damage +5%.\nAt +7 refine, MATK +10% and S.MATK +5.\nAt +11 refine, additional Exorcism of Malicious Soul damage +15%.\nAt +12 refine, additional Variable Cast Time -10%.\n^ffffff_^000000\n^CC3D3D[Grade Bonus]^000000\n[D Grade] MATK +5%, Variable Cast Time -10%.\n[C Grade] All property magic damage +10%.\n[B Grade] Increases Magic Damage against all property enemies by 10%.\n[A Grade] At +12 refine, Exorcism of Malicious Soul damage +30%.\nType : ^777777One-Handed Staff^000000 Attack : ^777777100^000000\nWeight : ^777777185^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777265^000000\nClass : ^777777Soul Ascetic^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 265,
+    "itemLevel": 5,
+    "attack": 100,
+    "defense": null,
+    "weight": 185,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "SoulAscetic"
+    ],
+    "script": {
+      "matk": [
+        "255",
+        "2---25"
+      ],
+      "matkPercent": [
+        "7===10",
+        "GRADE[me==D]===5"
+      ],
+      "sMatk": [
+        "3---1",
+        "7===5"
+      ],
+      "Exorcism of Malicious Soul": [
+        "10",
+        "11===15",
+        "GRADE[me==A]12===30"
+      ],
+      "vct": [
+        "5",
+        "12===10",
+        "GRADE[me==D]===10"
+      ],
+      "m_my_element_all": [
+        "3---5",
+        "GRADE[me==C]===10"
+      ],
+      "m_element_all": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "640074": {
+    "id": 640074,
+    "aegisName": "ABI_AG_Staff",
+    "flavorText": null,
+    "name": "Sacred Arc Staff [3]",
+    "unidName": null,
+    "resName": "ABI_AG_Staff",
+    "unidResName": null,
+    "description": "A two-handed staff imbued with the power of the Dimensional Crusade Ecological Environment.\n^ffffff_^000000\nMATK +280.\nIncreases Neutral, Water, Wind, Earth, Fire, and Ghost property magic damage by 10%.\nIncreases Soul Vulcan Strike damage by 10%.\nFor every 2 refine levels, MATK +25.\nFor every 3 refine levels, S.MATK +1 and increases Neutral, Water, Wind, Earth, Fire, and Ghost property magic damage by 5%.\nAt +7 refine, MATK +10% and S.MATK +5.\nAt +11 refine, Soul Vulcan Strike damage +10% and Rock Down damage +15%.\nAt +12 refine, reduces Variable Cast Time by 10%.\n^ffffff_^000000\n^CC3D3D[Grade Bonus]^000000\n[D Grade] MATK +5%, reduces Variable Cast Time by 10%.\n[C Grade] S.MATK +10.\n[B Grade] Increases Magic Damage against all property enemies by 10%.\n[A Grade] At +12 refine, Soul Vulcan Strike and Rock Down damage +30%.\nType : ^777777Two-Handed Staff^000000 Attack : ^777777130^000000\nWeight : ^777777210^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777265^000000\nClass : ^777777Arch Mage^000000",
+    "slots": 3,
+    "itemTypeId": 1,
+    "itemSubTypeId": 266,
+    "itemLevel": 5,
+    "attack": 130,
+    "defense": null,
+    "weight": 210,
+    "requiredLevel": 265,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ArchMage"
+    ],
+    "script": {
+      "matk": [
+        "280",
+        "2---25"
+      ],
+      "matkPercent": [
+        "7===10",
+        "GRADE[me==D]===5"
+      ],
+      "sMatk": [
+        "3---1",
+        "7===5",
+        "GRADE[me==C]===10"
+      ],
+      "Soul Vulcan Strike": [
+        "10",
+        "11===10",
+        "GRADE[me==A]12===30"
+      ],
+      "Rock Down": [
+        "11===15",
+        "GRADE[me==A]12===30"
+      ],
+      "vct": [
+        "12===10",
+        "GRADE[me==D]===10"
+      ],
+      "m_my_element_neutral": [
+        "10",
+        "3---5"
+      ],
+      "m_my_element_water": [
+        "10",
+        "3---5"
+      ],
+      "m_my_element_wind": [
+        "10",
+        "3---5"
+      ],
+      "m_my_element_earth": [
+        "10",
+        "3---5"
+      ],
+      "m_my_element_fire": [
+        "10",
+        "3---5"
+      ],
+      "m_my_element_ghost": [
+        "10",
+        "3---5"
+      ],
+      "m_element_all": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "470446": {
+    "id": 470446,
+    "aegisName": "Shoes_Of_Excution",
+    "flavorText": null,
+    "name": "Executioner's Shoes [1]",
+    "unidName": null,
+    "resName": "Walk_Of_DarkVoid",
+    "unidResName": null,
+    "description": "Shoes worn by an executioner, crafted to conceal their presence.\n \nMHP +5%, MSP +5%.\nFor every 2 refine levels:\nATK +10, CRI +1.\nAt +7 refine:\nDEF +125, increases Attack Speed (reduces After Cast Delay by 10%).\nAt +9 refine:\nP.ATK +5, Melee Physical Damage +7%.\nAt +11 refine:\nATK +7%, C.RATE +5, additionally increases Melee Physical Damage by 8%.\nAt +12 refine:\nCritical Damage +12%, Variable Cast Time -10%.\n \nWhen equipped with Manteau of Executioner:\nMelee Physical Damage +10%, Critical Damage +12%.\nIf both Manteau of Executioner and Executioner's Shoes are Grade A or higher:\nATK +12%, Physical Damage against all property enemies +15%.\n^ffffff_^000000\n^CC3D3D[Grade Bonus]^000000\n[D Grade] POW +5, CON +5.\n[C Grade] ATK +7%, P.ATK +7.\n[B Grade] Global Cooldown -3%, Fixed Cast Time -1 second.\n[A Grade] For every 2 refine levels, Physical Damage against all sizes +3%.\nClass : ^777777Shoes^000000  Defense : ^77777780^000000\nWeight : ^777777180^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777250^000000\nJobs : ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 516,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 80,
+    "weight": 180,
+    "requiredLevel": 250,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "hpPercent": [
+        "5"
+      ],
+      "spPercent": [
+        "5"
+      ],
+      "atk": [
+        "2---10"
+      ],
+      "cri": [
+        "2---1"
+      ],
+      "def": [
+        "7===125"
+      ],
+      "acd": [
+        "7===10",
+        "GRADE[me==B]===3"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==C]===7"
+      ],
+      "melee": [
+        "9===7",
+        "11===8",
+        "EQUIP[Manteau of Executioner]===10"
+      ],
+      "atkPercent": [
+        "11===7",
+        "GRADE[me==C]===7",
+        "EQUIP[Manteau of Executioner]GRADE[me==A]GRADE[garment==A]===12"
+      ],
+      "crt": [
+        "11===5"
+      ],
+      "criDmg": [
+        "12===12",
+        "EQUIP[Manteau of Executioner]===12"
+      ],
+      "vct": [
+        "12===10"
+      ],
+      "pow": [
+        "GRADE[me==D]===5"
+      ],
+      "con": [
+        "GRADE[me==D]===5"
+      ],
+      "fct": [
+        "GRADE[me==B]===1"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]2---3"
+      ],
+      "p_element_all": [
+        "EQUIP[Manteau of Executioner]GRADE[me==A]GRADE[garment==A]===15"
+      ]
+    }
+  },
+  "470447": {
+    "id": 470447,
+    "aegisName": "Boots_Of_Sharpshooter",
+    "flavorText": null,
+    "name": "Sharpshooter Boots [1]",
+    "unidName": null,
+    "resName": "Sagittarius_Shoes_J",
+    "unidResName": null,
+    "description": "Boots worn by a deadly marksman.\n \nMHP +5%, MSP +5%.\nFor every 2 refine levels:\nATK +10, CRI +1.\nAt +7 refine:\nDEF +125, increases Attack Speed (reduces After Cast Delay by 10%).\nAt +9 refine:\nP.ATK +5, Ranged Physical Damage +7%.\nAt +11 refine:\nATK +7%, C.RATE +5, additionally increases Ranged Physical Damage by 8%.\nAt +12 refine:\nCritical Damage +12%, Variable Cast Time -10%.\n \nWhen equipped with Sharpshooter Muffler:\nRanged Physical Damage +10%, Critical Damage +12%.\nIf both Sharpshooter Muffler and Sharpshooter Boots are Grade A or higher:\nATK +12%, Physical Damage against all property enemies +15%.\n^ffffff_^000000\n^CC3D3D[Grade Bonus]^000000\n[D Grade] POW +5, CON +5.\n[C Grade] ATK +7%, P.ATK +7.\n[B Grade] Global Cooldown -3%, Fixed Cast Time -1 second.\n[A Grade] For every 2 refine levels, Physical Damage against all sizes +3%.\nClass : ^777777Shoes^000000  Defense : ^77777780^000000\nWeight : ^777777180^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777250^000000\nJobs : ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 516,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 80,
+    "weight": 180,
+    "requiredLevel": 250,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "hpPercent": [
+        "5"
+      ],
+      "spPercent": [
+        "5"
+      ],
+      "atk": [
+        "2---10"
+      ],
+      "cri": [
+        "2---1"
+      ],
+      "def": [
+        "7===125"
+      ],
+      "acd": [
+        "7===10",
+        "GRADE[me==B]===3"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==C]===7"
+      ],
+      "range": [
+        "9===7",
+        "11===8",
+        "EQUIP[Sharpshooter Muffler]===10"
+      ],
+      "atkPercent": [
+        "11===7",
+        "GRADE[me==C]===7",
+        "EQUIP[Sharpshooter Muffler]GRADE[me==A]GRADE[garment==A]===12"
+      ],
+      "crt": [
+        "11===5"
+      ],
+      "criDmg": [
+        "12===12",
+        "EQUIP[Sharpshooter Muffler]===12"
+      ],
+      "vct": [
+        "12===10"
+      ],
+      "pow": [
+        "GRADE[me==D]===5"
+      ],
+      "con": [
+        "GRADE[me==D]===5"
+      ],
+      "fct": [
+        "GRADE[me==B]===1"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]2---3"
+      ],
+      "p_element_all": [
+        "EQUIP[Sharpshooter Muffler]GRADE[me==A]GRADE[garment==A]===15"
+      ]
+    }
+  },
+  "401367": {
+    "id": 401367,
+    "aegisName": "C_CLB_BS_head",
+    "flavorText": null,
+    "name": "Costume Baby Shark Head",
+    "unidName": null,
+    "resName": "C_CLB_BS_head",
+    "unidResName": null,
+    "description": "Pinkfong Baby Shark Collaboration.\n \nA costume headgear modeled after the adorable Baby Shark.\n^ffffff_^000000\n^CC3D3D[Event Limited Effect]^000000\nATK +50, MATK +50.\nCRI +10.\nReduces Variable Cast Time by 10%.\nEXP gained from defeating monsters +5%.\nIncreases Physical and Magic Damage against enemies of all properties and sizes by 10%.\n^ff0000(Event Limited Effect will be removed during the first scheduled maintenance of September 2026.)^000000\nClass : ^777777Costume Equipment^000000 Defense : ^7777770^000000\nLocation : ^777777Upper Headgear^000000 Weight : ^7777770^000000\nRequired Level : ^7777771^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "50"
+      ],
+      "matk": [
+        "50"
+      ],
+      "cri": [
+        "10"
+      ],
+      "vct": [
+        "10"
+      ],
+      "p_size_all": [
+        "10"
+      ],
+      "m_size_all": [
+        "10"
+      ],
+      "p_element_all": [
+        "10"
+      ],
+      "m_element_all": [
+        "10"
+      ]
+    }
+  },
+  "410665": {
+    "id": 410665,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Costume Night Market Stamp",
+    "unidName": null,
+    "resName": "C_Nf_Stamp",
+    "unidResName": null,
+    "description": "A decorative item made by cleverly repurposing the stamp mold used for the Prontera Night Market Committee's Stamp Tour.\nBe as adorable as you like!\n^ffffff_^000000\n^CC3D3D[Event Limited Effect]^000000\nATK +40, MATK +40.\nMHP +5%, MSP +5%.\nHIT +25, CRI +5.\nReduces Global Cooldown by 3%.\nEXP gained from defeating monsters +20%.\nIncreases Physical and Magic Damage against all race monsters by 10% (excluding players).\nIncreases Physical Hit Damage and Critical Damage by 10%.\nIncreases All Element Magic Damage by 10%.\n^ff0000(The effects of this item will be removed when the event ends.)^000000\nClass : ^777777Costume Equipment^000000 Defense : ^7777770^000000\nLocation : ^777777Middle Headgear^000000 Weight : ^7777770^000000\nRequired Level : ^7777771^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 520,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "40"
+      ],
+      "matk": [
+        "40"
+      ],
+      "hpPercent": [
+        "5"
+      ],
+      "spPercent": [
+        "5"
+      ],
+      "hit": [
+        "25"
+      ],
+      "cri": [
+        "5"
+      ],
+      "acd": [
+        "3"
+      ],
+      "p_race_all": [
+        "10"
+      ],
+      "m_race_all": [
+        "10"
+      ],
+      "hitDmg": [
+        "10"
+      ],
+      "criDmg": [
+        "10"
+      ],
+      "m_my_element_all": [
+        "10"
+      ]
+    }
+  },
+  "300895": {
+    "id": 300895,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Soul East Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "MATK +10%.\nWhen equipped with Ethereal Hyper Rod, reduces Jupitel Thunderstorm skill cooldown by 0.5 seconds.\n^ffffff_^000000\nWhen equipped with Ethereal Hyper Rod at refine +12 and Grade A or higher, together with Dimensional Soul West Card, using Jupitel Thunderstorm additionally triggers Storm Cannon Lv.5.\nClass : ^777777Card^000000\nEquipped on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matkPercent": [
+        "10"
+      ],
+      "cd__Jupitel Thunderstorm": [
+        "EQUIP[Ethereal Hyper Rod]===0.5"
+      ]
+    }
+  },
+  "300896": {
+    "id": 300896,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Soul West Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "MATK +10%.\nWhen equipped with Ethereal Hyper Rod, increases Wind property magic damage by 35%.\nClass : ^777777Card^000000\nEquipped on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matkPercent": [
+        "10"
+      ],
+      "m_my_element_wind": [
+        "EQUIP[Ethereal Hyper Rod]===35"
+      ]
+    }
+  },
+  "300897": {
+    "id": 300897,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Soul South Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "MATK +10%.\nWhen equipped with Ethereal Elemental Paper, reduces Psychic Stream skill cooldown by 0.7 seconds.\n^ffffff_^000000\nWhen equipped with Ethereal Elemental Paper at refine +12 and Grade A or higher, together with Dimensional Soul North Card, using Psychic Stream additionally triggers Diamond Storm at the highest learned level (activates only if Diamond Storm is learned at level 1 or higher).\nClass : ^777777Card^000000\nEquipped on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matkPercent": [
+        "10"
+      ],
+      "cd__Psychic Stream": [
+        "EQUIP[Ethereal Elemental Paper]===0.7"
+      ]
+    }
+  },
+  "300898": {
+    "id": 300898,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Soul North Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "MATK +10%.\nWhen equipped with Ethereal Elemental Paper, increases Diamond Storm damage by 25%.\nClass : ^777777Card^000000\nEquipped on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matkPercent": [
+        "10"
+      ],
+      "Diamond Storm": [
+        "EQUIP[Ethereal Elemental Paper]===25"
+      ]
+    }
+  },
+  "300899": {
+    "id": 300899,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Crusade East Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "MATK +10%.\nWhen equipped with Sacred Arc Staff, increases Soul Vulcan Strike damage by 10%.\n^ffffff_^000000\nWhen equipped together with Sacred Arc Staff at refine +12 and Grade A or higher, and Dimensional Crusade West Card, using Soul Vulcan Strike additionally triggers Rock Down at the highest learned level (activates only if Rock Down is learned at level 1 or higher).\nClass : ^777777Card^000000\nEquipped on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matkPercent": [
+        "10"
+      ],
+      "Soul Vulcan Strike": [
+        "EQUIP[Sacred Arc Staff]===10"
+      ]
+    }
+  },
+  "300900": {
+    "id": 300900,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Crusade West Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "MATK +10%.\nWhen equipped with Sacred Arc Staff, increases Rock Down damage by 25%.\nClass : ^777777Card^000000\nEquipped on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matkPercent": [
+        "10"
+      ],
+      "Rock Down": [
+        "EQUIP[Sacred Arc Staff]===25"
+      ]
+    }
+  },
+  "300901": {
+    "id": 300901,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Crusade South Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "MATK +10%.\nWhen equipped with Sacred Spirit Foxtail, reduces Hyunrok Spirit Power skill cooldown by 0.2 seconds.\n^ffffff_^000000\nWhen equipped together with Sacred Spirit Foxtail at refine +12 and Grade A or higher, and Dimensional Crusade North Card, using Hyunrok Spirit Power additionally triggers Hyunrok Cannon at the highest learned level (activates only if Hyunrok Cannon is learned at level 1 or higher).\nClass : ^777777Card^000000\nEquipped on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matkPercent": [
+        "10"
+      ],
+      "cd__Hyunrok Spirit Power": [
+        "EQUIP[Sacred Spirit Foxtail]===0.2"
+      ]
+    }
+  },
+  "300902": {
+    "id": 300902,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Crusade North Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "MATK +10%.\nWhen equipped with Sacred Spirit Foxtail, increases Hyunrok Cannon damage by 25%.\nClass : ^777777Card^000000\nEquipped on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matkPercent": [
+        "10"
+      ],
+      "Hyunrok Cannon": [
+        "EQUIP[Sacred Spirit Foxtail]===25"
+      ]
+    }
+  },
+  "300903": {
+    "id": 300903,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Death East Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "MATK +10%.\nWhen equipped with Motifus Saint Cross at refine +12 or higher, using Benedictum additionally triggers Argutus Telum at the highest learned level (activates only if Argutus Telum is learned at level 1 or higher).\n^ffffff_^000000\nWhen equipped together with Motifus Saint Cross at refine +12 and Grade A or higher, and Dimensional Death West Card, using Competentia additionally triggers Clementia and Canto Candidus at the highest learned level (activates only if Clementia and Canto Candidus are learned at level 1 or higher).\nClass : ^777777Card^000000\nEquipped on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matkPercent": [
+        "10"
+      ]
+    }
+  },
+  "300904": {
+    "id": 300904,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Death West Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "MATK +10%.\nWhen equipped with Motifus Saint Cross at refine +12 or higher, using Religio additionally triggers Argutus Vita at the highest learned level (activates only if Argutus Vita is learned at level 1 or higher).\nClass : ^777777Card^000000\nEquipped on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matkPercent": [
+        "10"
+      ]
+    }
+  },
+  "300905": {
+    "id": 300905,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Death South Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "MATK +10%.\nWhen equipped with Motifus Soul Stick at refine +12 or higher, using Guardian Talisman additionally triggers Warrior Talisman at the highest learned level (activates only if Warrior Talisman is learned at level 1 or higher, and consumes a Spirit Charm).\n^ffffff_^000000\nWhen equipped together with Motifus Soul Stick at refine +12 and Grade A or higher, and Dimensional Death North Card, using Guardian Talisman additionally triggers Five Elements Talisman at the highest learned level (activates only if Five Elements Talisman is learned at level 1 or higher, and consumes a Spirit Charm).\nClass : ^777777Card^000000\nEquipped on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matkPercent": [
+        "10"
+      ]
+    }
+  },
+  "300906": {
+    "id": 300906,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Dimensional Death North Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "MATK +10%.\nWhen equipped with Motifus Soul Stick at refine +12 or higher, using Guardian Talisman additionally triggers Scholar Talisman at the highest learned level (activates only if Scholar Talisman is learned at level 1 or higher, and consumes a Spirit Charm).\nClass : ^777777Card^000000\nEquipped on : ^777777Weapon^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matkPercent": [
+        "10"
+      ]
+    }
   }
 }
