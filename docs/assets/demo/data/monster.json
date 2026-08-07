@@ -14061,7 +14061,7 @@
     "stats": {
       "attackRange": 3,
       "level": 265,
-      "health": 5000000000,
+      "health": 500000000,
       "sp": 1,
       "str": 112,
       "int": 112,
@@ -25239,7 +25239,7 @@
     "stats": {
       "attackRange": 3,
       "level": 265,
-      "health": 13000000000,
+      "health": 1300000000,
       "sp": 1,
       "str": 112,
       "int": 112,
