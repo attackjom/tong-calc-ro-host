@@ -265710,70 +265710,6 @@
       ]
     }
   },
-  "480321": {
-    "id": 480321,
-    "aegisName": "C_Surf_Board",
-    "flavorText": null,
-    "name": "Costume Surf Board",
-    "unidName": null,
-    "resName": "C_Surf_Board",
-    "unidResName": null,
-    "description": "Surf Board ที่ช่วยให้คุณดูโดดเด่นยิ่งขึ้นเมื่ออยู่ริมทะเล ออกไปสนุกกับทะเลพร้อม Surf Board กันเถอะ!\n\nเมื่อกำจัดมอนสเตอร์, มีโอกาส 60% ที่จะได้รับ 60 - 1026 Zeny,\nเพิ่มอัตราฟื้นฟู HP ของไอเทม Delicious Fish 2026%,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภท Boss 20%\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 15 กรกฎาคม 2569)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 522,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "canGrade": false,
-    "script": {
-      "p_class_boss": [
-        "20"
-      ],
-      "m_class_boss": [
-        "20"
-      ]
-    }
-  },
-  "480560": {
-    "id": 480560,
-    "aegisName": "C_Resurrection_Bow",
-    "flavorText": null,
-    "name": "Costume Resurrection Bow",
-    "unidName": null,
-    "resName": "C_Resurrection_Bow",
-    "unidResName": null,
-    "description": "ธนูที่ได้รับแรงบันดาลใจจากกลุ่มดาวซึ่งควบคุมพลังแห่งชีวิต\nด้วยรูปลักษณ์ที่ดูราวกับปลดปล่อยกระแสพลังชีวิตออกมา ผู้คนจึงเรียกมันว่าธนูแห่งการฟื้นคืนชีพ\n\nเพิกเฉย RES, MRES ของศัตรูทุกประเภท 50%\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที,\nGlobal Cooldown 20%,\nเมื่อได้รับการโจมตีทางกายภาพมีโอกาส 10% ที่จะ Autospell สกิล Earthquake Lv.10 ใส่ศัตรูโดยอัตโนมัติ\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 15 กรกฎาคม 2569)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 522,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "canGrade": false,
-    "script": {
-      "pene_res": [
-        "50"
-      ],
-      "pene_mres": [
-        "50"
-      ],
-      "fct": [
-        "0.5"
-      ],
-      "acd": [
-        "20"
-      ]
-    }
-  },
   "491049": {
     "id": 491049,
     "aegisName": "WH_Orrivane_R_TH",
@@ -277087,47 +277023,6 @@
       ]
     }
   },
-  "480541": {
-    "id": 480541,
-    "aegisName": "C_Demi_Freyja_Wing",
-    "flavorText": null,
-    "name": "Costume Demi Freyja Wings",
-    "unidName": null,
-    "resName": "C_Demi_Freyja_Wing",
-    "unidResName": null,
-    "description": "ปีกของ Demi Freyja ที่ไม่สมบูรณ์เต็มที่ แต่ยังคงแฝงพลังศักดิ์สิทธิ์อยู่\n\nP.ATK, S.MATK + 15,\nเพิ่ม HIT Damage ทางกายภาพ 15%,\nCritical Damage + 15%,\nMATK + 15%,\nMAXHP + 15%.\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 5 สิงหาคม 2569)\n^ffffff^4D4DFF[Designer Heidam]^000000^000000\n^b4b4b4สามารถแลกเปลี่ยนเป็น Costume Enchant Stone Box 32 ได้^000000\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 522,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "canGrade": false,
-    "script": {
-      "pAtk": [
-        "15"
-      ],
-      "sMatk": [
-        "15"
-      ],
-      "hitDmg": [
-        "15"
-      ],
-      "criDmg": [
-        "15"
-      ],
-      "matkPercent": [
-        "15"
-      ],
-      "hpPercent": [
-        "15"
-      ]
-    }
-  },
   "300721": {
     "id": 300721,
     "aegisName": null,
@@ -278960,53 +278855,6 @@
       ]
     }
   },
-  "400799": {
-    "id": 400799,
-    "aegisName": "C_JP_EV18",
-    "flavorText": null,
-    "name": "Costume Kumamon Hat",
-    "unidName": null,
-    "resName": "C_JP_EV18",
-    "unidResName": null,
-    "description": "หมวกคอสตูมที่เมื่อสวมใส่แล้วคุณก็จะกลายเป็นคุมะมง!\n^ffffff_^000000\n^CC3D3D[ความสามารถจำกัดเวลาช่วงกิจกรรม]^000000\nATK + 50, MATK + 50\nCRI + 10, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 5%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาดและทุกธาตุ 10%\nเมื่อสวมใส่ร่วมกับ Costume Kumamon Doll, เพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 5%\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 5 สิงหาคม 2569)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 519,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "canGrade": false,
-    "script": {
-      "atk": [
-        "50"
-      ],
-      "matk": [
-        "50"
-      ],
-      "cri": [
-        "10"
-      ],
-      "vct": [
-        "10"
-      ],
-      "p_size_all": [
-        "10"
-      ],
-      "m_size_all": [
-        "10"
-      ],
-      "p_element_all": [
-        "10"
-      ],
-      "m_element_all": [
-        "10"
-      ]
-    }
-  },
   "410609": {
     "id": 410609,
     "aegisName": "C_Nine_Tailed_Fox",
@@ -279045,45 +278893,6 @@
       ],
       "hpPercent": [
         "10"
-      ]
-    }
-  },
-  "480559": {
-    "id": 480559,
-    "aegisName": "C_JP_EV19",
-    "flavorText": null,
-    "name": "Costume Kumamon Doll",
-    "unidName": null,
-    "resName": "C_JP_EV19",
-    "unidResName": null,
-    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nตุ๊กตาคุมะมงขนาดใหญ่ที่สามารถสะพายไว้บนหลังได้\nมาร่วมผจญภัยไปด้วยกันเถอะ!\n\n[ความสามารถจำกัดเวลาช่วงกิจกรรม]\nเพิ่มค่าประสบการณ์ที่ได้รับจากมอนสเตอร์, เพิ่มอัตราดรอปไอเทม 10%,\nลด Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากศัตรูประเภท Boss 30%,\nเพิ่ม Damage ทางกายภาพ/เวทมนตตร์ที่ได้รับจากศัตรูประเภททั่วไป 10%\n\nเมื่อสวมใส่ร่วมกับ Costume Kumamon Hat,\nเพิ่มค่าประสบการณ์ที่ได้รับจากมอนสเตอร์, เพิ่มอัตราดรอปไอเทมขึ้นอีก 10%,\nเพิ่ม HIT Damage ทางกายภาพ 15%,\nCritical Damage + 15%,\nMATK + 15%,\nMaxHP + 15%.\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 5 สิงหาคม 2569)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 522,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "canGrade": false,
-    "script": {
-      "drop": [
-        "10",
-        "EQUIP[Costume Kumamon Hat]===10"
-      ],
-      "hitDmg": [
-        "EQUIP[Costume Kumamon Hat]===15"
-      ],
-      "criDmg": [
-        "EQUIP[Costume Kumamon Hat]===15"
-      ],
-      "matkPercent": [
-        "EQUIP[Costume Kumamon Hat]===15"
-      ],
-      "hpPercent": [
-        "EQUIP[Costume Kumamon Hat]===15"
       ]
     }
   },
@@ -284596,5 +284405,482 @@
         "10"
       ]
     }
+  },
+  "310846": {
+    "id": 310846,
+    "aegisName": "Summer_Hot_Lv3",
+    "flavorText": null,
+    "name": "Summer Heat Lv.3 (Event)",
+    "unidName": null,
+    "resName": "열혈스크롤",
+    "unidResName": null,
+    "description": "เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 15%\n^ffffff_^000000\n^ff0000(ความสามารถของ Enchant Option จะถูกลบออกหลังจากกิจกรรมสิ้นสุดลง)^000000\n^ffffff_^000000",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "script": {
+      "melee": [
+        "15"
+      ],
+      "range": [
+        "15"
+      ]
+    }
+  },
+  "310849": {
+    "id": 310849,
+    "aegisName": "Summer_Cool_Lv3",
+    "flavorText": null,
+    "name": "Summer Breeze Lv.3 (Event)",
+    "unidName": null,
+    "resName": "수자리스크롤",
+    "unidResName": null,
+    "description": "เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%\n^ffffff_^000000\n^ff0000(ความสามารถของ Enchant Option จะถูกลบออกหลังจากกิจกรรมสิ้นสุดลง)^000000\n^ffffff_^000000",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "script": {
+      "m_my_element_all": [
+        "15"
+      ]
+    }
+  },
+  "401424": {
+    "id": 401424,
+    "aegisName": "C_Ancient_Giant_Helm",
+    "flavorText": null,
+    "name": "Costume Ancient Giant Helm",
+    "unidName": null,
+    "resName": "기간트헬름",
+    "unidResName": null,
+    "description": "เครื่องสวมศีรษะสำหรับแต่งกาย ที่ได้รับแรงบันดาลใจจากหมวกเกราะของยักษ์โบราณ ผู้ทำหน้าที่พิทักษ์วิหารโบราณมาตั้งแต่ยุคอดีตกาล\n\n[ความสามารถพิเศษจำกัดระยะเวลา]\nATK, MATK + 200,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อมอนสเตอร์ประเภท Boss 20%\nเพิ่มอัตราดรอปไอเท็ม 20%\n\n(ไอเท็มนี้จะถูกลบออกหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 11 พฤศจิกายน 2569)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "200"
+      ],
+      "matk": [
+        "200"
+      ],
+      "p_class_boss": [
+        "20"
+      ],
+      "m_class_boss": [
+        "20"
+      ],
+      "drop": [
+        "20"
+      ]
+    }
+  },
+  "450589": {
+    "id": 450589,
+    "aegisName": "BP11_Antares_Armor",
+    "flavorText": null,
+    "name": "Re-Dim Glacier Armor of Antares [1]",
+    "unidName": null,
+    "resName": "BP11_Antares_Armor",
+    "unidResName": null,
+    "description": "ATK + 150\nทุก ๆ การอัพเกรด 2 ขั้น, ATK + 10,\nทุก ๆ การอัพเกรด 3 ขั้น, ลด Global Cooldown 4%\n\nเมื่ออัพเกรดถึงขั้น 9, ATK + 5%, P.ATK + 2\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%\nเมื่ออัพเกรดถึงขั้น 13, เพิ่ม HIT Damage ทางกายภาพ 10%\n\nเมื่อสวมใส่ร่วมกับ Porcellio Card,\nATK + 50, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%\n\nเมื่อสวมใส่ร่วมกับการ์ด Amdarais Card,\nATK + 100, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 30%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] P.ATK + 5, ASPD + 10%\n[Grade C] เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%\n[Grade B] ทุก ๆ การอัพเกรด 2 ขั้น, POW +1, CON +1, ATK +10%\n[Grade A] ทุก ๆ การอัพเกรด 2 ขั้น, เพิ่ม HIT Damage ทางกายภาพ 4%\nประเภท : ^777777Armor^000000  พลังป้องกัน : ^777777200^000000\nน้ำหนัก : ^777777240^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 200,
+    "weight": 240,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "atk": [
+        "150",
+        "2---10",
+        "EQUIP[Porcellio Card]===50",
+        "EQUIP[Amdarais Card]===100"
+      ],
+      "acd": [
+        "3---4"
+      ],
+      "atkPercent": [
+        "9===5",
+        "GRADE[me==B]2---10"
+      ],
+      "pAtk": [
+        "9===2",
+        "GRADE[me==D]===5"
+      ],
+      "melee": [
+        "11===10",
+        "GRADE[me==C]===10"
+      ],
+      "range": [
+        "11===10",
+        "GRADE[me==C]===10"
+      ],
+      "hitDmg": [
+        "13===10",
+        "GRADE[me==A]2---4"
+      ],
+      "p_size_all": [
+        "EQUIP[Porcellio Card]===10",
+        "EQUIP[Amdarais Card]===30"
+      ],
+      "aspdPercent": [
+        "GRADE[me==D]===10"
+      ],
+      "pow": [
+        "GRADE[me==B]2---1"
+      ],
+      "con": [
+        "GRADE[me==B]2---1"
+      ]
+    }
+  },
+  "450590": {
+    "id": 450590,
+    "aegisName": "BP11_Sirius_Armor",
+    "flavorText": null,
+    "name": "Re-Dim Glacier Robe of Sirius [1]",
+    "unidName": null,
+    "resName": "BP11_Sirius_Armor",
+    "unidResName": null,
+    "description": "ATK + 130, CRI + 20\nทุก ๆ การอัพเกรด 2 ขั้น, ATK + 5, CRI + 2\nทุก ๆ การอัพเกรด 3 ขั้น, ลด Global Cooldown 4%\n\nเมื่ออัพเกรดถึงขั้น 9, ATK + 5%, P.ATK + 2\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%\nเมื่ออัพเกรดถึงขั้น 13, Critical Damage + 20%\n\nเมื่อสวมใส่ร่วมกับ Furious Ninetail Card,\nATK + 50, Critical Damage + 10%\n\nเมื่อสวมใส่ร่วมกับ Reginleif Card,\nATK + 100, Critical Damage + 40%, MaxHP + 15%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] P.ATK + 5, ASPD + 10%\n[Grade C] เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%\n[Grade B] ทุก ๆ การอัพเกรด 2 ขั้น, POW + 1, CON + 1, ATK + 10%\n[Grade A] ทุก ๆ การอัพเกรด 2 ขั้น, Critical Damage + 4%\nประเภท : ^777777Armor^000000  พลังป้องกัน : ^777777190^000000\nน้ำหนัก : ^777777205^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 190,
+    "weight": 205,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "atk": [
+        "130",
+        "2---5",
+        "EQUIP[Furious Ninetail Card]===50",
+        "EQUIP[Reginleif Card]===100"
+      ],
+      "cri": [
+        "20",
+        "2---2"
+      ],
+      "acd": [
+        "3---4"
+      ],
+      "atkPercent": [
+        "9===5",
+        "GRADE[me==B]2---10"
+      ],
+      "pAtk": [
+        "9===2",
+        "GRADE[me==D]===5"
+      ],
+      "melee": [
+        "11===10",
+        "GRADE[me==C]===10"
+      ],
+      "range": [
+        "11===10",
+        "GRADE[me==C]===10"
+      ],
+      "criDmg": [
+        "13===20",
+        "EQUIP[Furious Ninetail Card]===10",
+        "EQUIP[Reginleif Card]===40",
+        "GRADE[me==A]2---4"
+      ],
+      "hpPercent": [
+        "EQUIP[Reginleif Card]===15"
+      ],
+      "aspdPercent": [
+        "GRADE[me==D]===10"
+      ],
+      "pow": [
+        "GRADE[me==B]2---1"
+      ],
+      "con": [
+        "GRADE[me==B]2---1"
+      ]
+    }
+  },
+  "450591": {
+    "id": 450591,
+    "aegisName": "BP11_Vega_Armor",
+    "flavorText": null,
+    "name": "Re-Dim Glacier Robe of Vega [1]",
+    "unidName": null,
+    "resName": "BP11_Vega_Armor",
+    "unidResName": null,
+    "description": "MATK + 150\nทุก ๆ การอัพเกรด 2 ขั้น, MATK + 10\nทุก ๆ การอัพเกรด 3 ขั้น, ลด Global Cooldown 4%\n\nเมื่ออัพเกรดถึงขั้น 9, MATK + 5%, S.MATK + 2\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\nเมื่ออัพเกรดถึงขั้น 13, ลดระยะเวลาร่ายแบบแปรผัน 20%, MATK + 15%\n\nเมื่อสวมใส่ร่วมกับ Agav Card,\nMATK + 50, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 10%\n\nเมื่อสวมใส่ร่วมกับ Ultimate Lasgand Card,\nMATK + 100, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 30%, MaxHP + 15%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] S.MATK + 5, ASPD + 10%\n[Grade C] เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\n[Grade B] ทุก ๆ การอัพเกรด 2 ขั้น, SPL +1, CON + 1, MATK + 5%\n[Grade A] ทุก ๆ การอัพเกรด 2 ขั้น, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 4%\nประเภท : ^777777Armor^000000  พลังป้องกัน : ^777777180^000000\nน้ำหนัก : ^777777140^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 180,
+    "weight": 140,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "matk": [
+        "150",
+        "2---10",
+        "EQUIP[Agav Card]===50",
+        "EQUIP[Ultimate Lasgand Card]===100"
+      ],
+      "acd": [
+        "3---4"
+      ],
+      "matkPercent": [
+        "9===5",
+        "13===15",
+        "GRADE[me==B]2---5"
+      ],
+      "sMatk": [
+        "9===2",
+        "GRADE[me==D]===5"
+      ],
+      "m_my_element_all": [
+        "11===10",
+        "GRADE[me==C]===10"
+      ],
+      "vct": [
+        "13===20"
+      ],
+      "m_race_all": [
+        "EQUIP[Agav Card]===10",
+        "EQUIP[Ultimate Lasgand Card]===30"
+      ],
+      "hpPercent": [
+        "EQUIP[Ultimate Lasgand Card]===15"
+      ],
+      "aspdPercent": [
+        "GRADE[me==D]===10"
+      ],
+      "spl": [
+        "GRADE[me==B]2---1"
+      ],
+      "con": [
+        "GRADE[me==B]2---1"
+      ],
+      "m_size_all": [
+        "GRADE[me==A]2---4"
+      ]
+    }
+  },
+  "450592": {
+    "id": 450592,
+    "aegisName": "BP11_Regulus_Armor",
+    "flavorText": null,
+    "name": "Re-Dim Glacier Armor of Regulus [1]",
+    "unidName": null,
+    "resName": "BP11_Regulus_Armor",
+    "unidResName": null,
+    "description": "MaxHP/MaxSP + 10%, ATK + 100\nทุก ๆ การอัพเกรด 2 ขั้น, ATK + 5, MaxHP + 2%\nทุก ๆ การอัพเกรด 3 ขั้น, ลด Global Cooldown 4%\n\nเมื่ออัพเกรดถึงขั้น 9, ATK + 5%, P.ATK + 2\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage กายภาพระยะใกล้/ไกล 10%\nเมื่ออัพเกรดถึงขั้น 13, MaxHP + 10%, MaxSP + 5%\n\nเมื่อสวมใส่ร่วมกับ Amitera Card,\nATK + 30, MaxHP + 10%, เพิ่ม Damage กายภาพระยะใกล้/ไกล 15%\n\nเมื่อสวมใส่ร่วมกับ Tao Gunka Card,\nATK + 70, MaxHP + 20%, เพิ่ม Damage กายภาพระยะใกล้/ไกล 30%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] P.ATK + 5, ASPD + 10%\n[Grade C] เพิ่ม Damage กายภาพระยะใกล้/ไกล 10%\n[Grade B] ทุก ๆ การอัพเกรด 2 ขั้น, POW + 1, CON + 1 ATK + 10%\n[Grade A] ทุก ๆ การอัพเกรด 2 ขั้น, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 4%\nประเภท : ^777777Armor^000000  พลังป้องกัน : ^777777220^000000\nน้ำหนัก : ^777777240^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 220,
+    "weight": 240,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "hpPercent": [
+        "10",
+        "2---2",
+        "13===10",
+        "EQUIP[Amitera Card]===10",
+        "EQUIP[Tao Gunka Card]===20"
+      ],
+      "spPercent": [
+        "10",
+        "13===5"
+      ],
+      "atk": [
+        "100",
+        "2---5",
+        "EQUIP[Amitera Card]===30",
+        "EQUIP[Tao Gunka Card]===70"
+      ],
+      "acd": [
+        "3---4"
+      ],
+      "atkPercent": [
+        "9===5",
+        "GRADE[me==B]2---10"
+      ],
+      "pAtk": [
+        "9===2",
+        "GRADE[me==D]===5"
+      ],
+      "melee": [
+        "11===10",
+        "EQUIP[Amitera Card]===15",
+        "EQUIP[Tao Gunka Card]===30",
+        "GRADE[me==C]===10"
+      ],
+      "range": [
+        "11===10",
+        "EQUIP[Amitera Card]===15",
+        "EQUIP[Tao Gunka Card]===30",
+        "GRADE[me==C]===10"
+      ],
+      "aspdPercent": [
+        "GRADE[me==D]===10"
+      ],
+      "pow": [
+        "GRADE[me==B]2---1"
+      ],
+      "con": [
+        "GRADE[me==B]2---1"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]2---4"
+      ]
+    }
+  },
+  "480608": {
+    "id": 480608,
+    "aegisName": "C_S_Beelzebub_Wing",
+    "flavorText": null,
+    "name": "Costume Beelzebub's Wings",
+    "unidName": null,
+    "resName": "C_S_Beelzebub_Wing",
+    "unidResName": null,
+    "description": "ลดระยะเวลาร่ายแบบแปรผัน 100%\nASPD + 20%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูธาตุ Poison 50%\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 7 ตุลาคม 2569)\n^ffffff^4D4DFF[Designer Heidam]^000000^000000\n^b4b4b4สามารถแลกเปลี่ยนเป็น Costume Enchant Stone Box 33 ได้^000000\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 522,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "vct": [
+        "100"
+      ],
+      "aspdPercent": [
+        "20"
+      ],
+      "p_element_poison": [
+        "50"
+      ],
+      "m_element_poison": [
+        "50"
+      ]
+    }
+  },
+  "9038": {
+    "id": 9038,
+    "aegisName": "New_Year_Doll_Egg",
+    "flavorText": null,
+    "name": "Winter Maiden Egg",
+    "unidName": null,
+    "resName": "풍속성알",
+    "unidResName": null,
+    "description": "ไข่ที่มี Q-Pet New Year Doll หลับไหลอยู่ สามารถปลุกให้ตื่นขึ้นมาได้ด้วย [Pet Incubator]\n\nหากความสัมพันธ์อยู่ในระดับไม่คุ้นเคยหรือเขินอาย, เพิ่มอัตราดรอปไอเท็ม 1%\nหากความสัมพันธ์อยู่ในระดับปกติ, เพิ่มอัตราดรอปไอเท็ม 2%\nหากความสัมพันธ์อยู่ในระดับเป็นมิตร, เพิ่มอัตราดรอปไอเท็ม 3%\nหากความสัมพันธ์อยู่ในระดับสนิทสนม, เพิ่มอัตราดรอปไอเท็ม 4%\nประเภท : Monster Egg",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 518,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "drop": [
+        "4"
+      ]
+    }
+  },
+  "9064": {
+    "id": 9064,
+    "aegisName": "Elephant_Egg",
+    "flavorText": null,
+    "name": "Elephant Egg",
+    "unidName": null,
+    "resName": "코끼리의알",
+    "unidResName": null,
+    "description": "ไข่ที่มี Q-Pet Elephant หลับไหลอยู่ สามารถปลุกให้ตื่นขึ้นมาได้ด้วย [Pet Incubator]\n\nหากความสัมพันธ์อยู่ในระดับไม่คุ้นเคยหรือเขินอาย, เพิ่มอัตราดรอปไอเท็ม 1%\nหากความสัมพันธ์อยู่ในระดับปกติ, เพิ่มอัตราดรอปไอเท็ม 2%\nหากความสัมพันธ์อยู่ในระดับเป็นมิตร, เพิ่มอัตราดรอปไอเท็ม 3%\nหากความสัมพันธ์อยู่ในระดับสนิทสนม, เพิ่มอัตราดรอปไอเท็ม 4%\nประเภท : Monster Egg",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 518,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "drop": [
+        "4"
+      ]
+    }
+  },
+  "18698": {
+    "id": 18698,
+    "aegisName": "Cheesy_Snack_In_Mouth",
+    "flavorText": null,
+    "name": "Cheesy Snack In Mouth",
+    "unidName": null,
+    "resName": "입에무는치즈과자",
+    "unidResName": null,
+    "description": "ขนมชีส ที่ละลายทันที เมื่อใส่เข้าไปในปาก\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 20,
+    "location": "Lower",
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {}
   }
 }
