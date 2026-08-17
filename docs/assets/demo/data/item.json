@@ -284882,5 +284882,125 @@
     "compositionPos": null,
     "canGrade": false,
     "script": {}
+  },
+  "313131": {
+    "id": 313131,
+    "aegisName": "Pow_Assist",
+    "flavorText": null,
+    "name": "POW Assistance",
+    "unidName": null,
+    "resName": "Wolf_Orb_Str_1",
+    "unidResName": null,
+    "description": "เมื่อ Base Lv.240 ขึ้นไป, \nทุก ๆ Base POW 7, RES + 1, DEF + 3\n(สูงสุดจนถึง Base POW 100)",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "res": [
+        "SUM[level==240]SUM[pow==7]---1",
+        "SUM[pow==105]LEVEL[240]===-1"
+      ],
+      "def": [
+        "SUM[level==240]SUM[pow==7]---3",
+        "SUM[pow==105]LEVEL[240]===-3"
+      ]
+    }
+  },
+  "313133": {
+    "id": 313133,
+    "aegisName": "SPL_Assist",
+    "flavorText": null,
+    "name": "SPL Assistance",
+    "unidName": null,
+    "resName": "Wolf_Orb_Int_1",
+    "unidResName": null,
+    "description": "เมื่อ Base Lv.240 ขึ้นไป, \nทุก ๆ Base SPL 7, MRES + 1, MDEF + 3\n(สูงสุดจนถึง Base SPL 100)",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "mres": [
+        "SUM[level==240]SUM[spl==7]---1",
+        "SUM[spl==105]LEVEL[240]===-1"
+      ],
+      "mdef": [
+        "SUM[level==240]SUM[spl==7]---3",
+        "SUM[spl==105]LEVEL[240]===-3"
+      ]
+    }
+  },
+  "313138": {
+    "id": 313138,
+    "aegisName": "WIS_Enforce",
+    "flavorText": null,
+    "name": "WIS Enforcement",
+    "unidName": null,
+    "resName": "Wolf_Orb_Vit_1",
+    "unidResName": null,
+    "description": "เมื่อ Base Lv.240 ขึ้นไป, \nทุก ๆ Base WIS 10, MSP + 1%\n(สูงสุดจนถึง Base WIS 100)",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "mspPercent": [
+        "SUM[level==240]SUM[wis==10]---1",
+        "SUM[wis==110]LEVEL[240]===-1"
+      ]
+    }
+  },
+  "313142": {
+    "id": 313142,
+    "aegisName": "CRT_Assist",
+    "flavorText": null,
+    "name": "CRT Assistance",
+    "unidName": null,
+    "resName": "Wolf_Orb_luk_1",
+    "unidResName": null,
+    "description": "เมื่อ Base Lv.240 ขึ้นไป, \nทุก ๆ Base CRT 7, HIT + 5, FLEE + 5\n(สูงสุดจนถึง Base CRT 100)",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hit": [
+        "SUM[level==240]SUM[crt==7]---5",
+        "SUM[crt==105]LEVEL[240]===-5"
+      ],
+      "flee": [
+        "SUM[level==240]SUM[crt==7]---5",
+        "SUM[crt==105]LEVEL[240]===-5"
+      ]
+    }
   }
 }
