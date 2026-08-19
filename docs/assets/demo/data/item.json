@@ -150521,7 +150521,7 @@
     "unidName": "Headgear",
     "resName": "Flash_of_Lightning",
     "description": "Headgear ที่สั่นพ้องกับ Furious Weapon เพื่อปลุกพลังที่หลับใหลภายใน\n \nทุก ๆ การอัพเกรด 2 ขั้น ATK +10, MATK + 10\nทุก ๆ การอัพเกรด 3 ขั้น เพิ่ม Damage สกิล From the Abyss, Deft Stab 4%\nเมื่ออัพเกรดถึงขั้น 7, ASPD + 15%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\nเมื่ออัพเกรดถึงขั้น 11, ATK + 5%, MATK + 5%, ลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที\n \nเมื่อสวมใส่ร่วมกับ Furious Demonius, เพิ่ม Damage สกิล Deft Stab 15%\n \nเมื่อสวมใส่ร่วมกับ Furious Demon Sword, เพิ่ม Damage สกิล Abyss Square 15%\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] POW + 5, SPL + 5, CON + 5, P.ATK + 3, S.MATK + 3\n[Grade C] เพิ่ม Damage ทางกายภาพระยะใกล้ 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\n[Grade B] ATK + 5%, MATK + 5%, ลดระยะเวลาร่ายแบบคงที่ลงอีก 0.2 วินาที\n[Grade A] P.ATK + 5, S.MATK + 5, เพิ่ม Damage ทางกายภาพระยะใกล้ 15%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%\n \nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^77777730^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^77777730^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777235^000000\nอาชีพที่ใส่ได้ : ^777777Abyss Chaser^000000",
-    "description_en": "Every 2 refine rate, Atk + 10, Matk + 10.\r\nEvery 3 refine rate, increases From the Abyss and Deft Stab damage by 4%.\r\nIf refine rate is 7 or higher, increases attack speed (reduces delay after attack by 15%).\r\nIf refine rate is 9 or higher, increases melee physical damage and all property magical damage by 10%.\r\nIf refine rate is 11 or higher, Atk + 5%, Matk + 5%, reduces fixed casting time by 0.3 seconds.\r\n\r\nWhen equipped with Furious Demonius, increases Deft Stab damage by 15%.\r\n\r\nWhen equipped with Furious Demon Sword, increases From the Abyss damage by 15%.\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] POW + 5, SPL + 5, CON + 5, P.Atk + 3, S.Matk + 3.\r\n[Grade C] Increases melee physical damage and all property magical damage by 10%.\r\n[Grade B] Atk + 5%, Matk + 5%, reduces fixed casting time by additional 0.2 seconds.\r\n[Grade A] P.Atk + 5, S.Matk + 5, increases melee physical damage by 15%, increases all property magical damage by 15%.\r\n\r\nClass: ^777777Headgear^000000 Defense: ^77777730^000000\r\nLocation: ^777777Upper^000000 Weight: ^77777730^000000\r\nArmor Level: ^7777772^000000\r\nRequired Level: ^777777235^000000\r\nJobs: ^777777Abyss Chaser^000000",
+    "description_en": "Every 2 refine rate, Atk + 10, Matk + 10.\r\nEvery 3 refine rate, increases From the Abyss and Deft Stab damage by 4%.\r\nIf refine rate is 7 or higher, increases attack speed (reduces delay after attack by 15%).\r\nIf refine rate is 9 or higher, increases melee physical damage and all property magical damage by 10%.\r\nIf refine rate is 11 or higher, Atk + 5%, Matk + 5%, reduces fixed casting time by 0.3 seconds.\r\n\r\nWhen equipped with Furious Demonius, increases Deft Stab damage by 15%.\r\n\r\nWhen equipped with Furious Demon Sword, increases Abyss Square damage by 15%.\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] POW + 5, SPL + 5, CON + 5, P.Atk + 3, S.Matk + 3.\r\n[Grade C] Increases melee physical damage and all property magical damage by 10%.\r\n[Grade B] Atk + 5%, Matk + 5%, reduces fixed casting time by additional 0.2 seconds.\r\n[Grade A] P.Atk + 5, S.Matk + 5, increases melee physical damage by 15%, increases all property magical damage by 15%.\r\n\r\nClass: ^777777Headgear^000000 Defense: ^77777730^000000\r\nLocation: ^777777Upper^000000 Weight: ^77777730^000000\r\nArmor Level: ^7777772^000000\r\nRequired Level: ^777777235^000000\r\nJobs: ^777777Abyss Chaser^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 512,
@@ -150544,7 +150544,9 @@
         "2---10"
       ],
       "From the Abyss": [
-        "3---4",
+        "3---4"
+      ],
+      "Abyss Square": [
         "EQUIP[Furious Demon Sword]===15"
       ],
       "Deft Stab": [
@@ -192259,7 +192261,7 @@
     "unidName": "Dagger",
     "resName": "Demonsword_Furious",
     "description": "Dagger ซึ่งบรรจุพลังแห่งโทสะเอาไว้\n \nMATK + 180\nเพิ่ม Damage สกิล From the Abyss 10%\nเมื่อ Base Lv.210 ขึ้นไป, MATK + 4%, MATK + 40\nเมื่อ Base Lv.220 ขึ้นไป, เพิ่ม Damage สกิล From the Abyss 5%\nเมื่อ Base Lv.230 ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 10%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral, Fire 10%\nเมื่ออัพเกรดถึงขั้น 9, ASPD + 10%\nเมื่ออัพเกรดถึงขั้น 10, เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral, Fire ขึ้นอีก 10%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล From the Abyss 10%\n \nเมื่อสวมใส่ร่วมกับ Furious Boot, เพิ่ม Damage สกิล Abyss Square จำนวน % เท่ากับค่าขั้นอัพเกรดรวมกัน\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral, Fire 10%\n[Grade C] เพิ่ม Damage สกิล From the Abyss 5%\n[Grade B] เพิ่ม Damage สกิล From the Abyss 10%\n[Grade A] ทุก ๆ การอัพเกรด 2 ขั้น, MATK + 3%, S.MATK + 3\n \nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777140^000000\nน้ำหนัก : ^777777140^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Abyss Chaser^000000",
-    "description_en": "Matk + 180.\r\nIncreases From the Abyss damage by 5%.\r\nIf the user's base level is 210 or higher, Matk + 4%, Matk + 40.\r\nIf the user's base level is 220 or higher, increases From the Abyss damage by 5%.\r\nIf the user's base level is 230 or higher, increases magical damage against all size enemies by 10%.\r\nIf refine rate is 7 or higher, increases neutral and fire property magical damage by 10%.\r\nIf refine rate is 9 or higher, increases attack speed (reduces delay after attack by 10%).\r\nIf refine rate is 10 or higher, increases neutral and fire property magical damage by additional 10%.\r\nIf refine rate is 11 or higher, increases From the Abyss damage by 10%.\r\n\r\nWhen equipped with Furious Boots, increases From the Abyss damage by (the sum of refine rate)%.\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] Increases neutral and fire property magical damage by 10%.\r\n[Grade C] Increases From the Abyss damage by 5%.\r\n[Grade B] Increases From the Abyss damage by additional 10%.\r\n[Grade A] Every 2 refine rate, Matk + 3%, S.Matk + 3.\r\n\r\nClass: ^777777Dagger^000000 Attack: ^777777140^000000\r\nWeight: ^777777140^000000\r\nWeapon Level: ^7777775^000000\r\nRequired Level: ^777777205^000000\r\nJobs: ^777777Abyss Chaser^000000",
+    "description_en": "Matk + 180.\r\nIncreases From the Abyss damage by 10%.\r\nIf the user's base level is 210 or higher, Matk + 4%, Matk + 40.\r\nIf the user's base level is 220 or higher, increases From the Abyss damage by 5%.\r\nIf the user's base level is 230 or higher, increases magical damage against all size enemies by 10%.\r\nIf refine rate is 7 or higher, increases neutral and fire property magical damage by 10%.\r\nIf refine rate is 9 or higher, increases attack speed (reduces delay after attack by 10%).\r\nIf refine rate is 10 or higher, increases neutral and fire property magical damage by additional 10%.\r\nIf refine rate is 11 or higher, increases From the Abyss damage by 10%.\r\n\r\nWhen equipped with Furious Boots, increases Abyss Square damage by (the sum of refine rate)%.\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] Increases neutral and fire property magical damage by 10%.\r\n[Grade C] Increases From the Abyss damage by 5%.\r\n[Grade B] Increases From the Abyss damage by additional 10%.\r\n[Grade A] Every 2 refine rate, Matk + 3%, S.Matk + 3.\r\n\r\nClass: ^777777Dagger^000000 Attack: ^777777140^000000\r\nWeight: ^777777140^000000\r\nWeapon Level: ^7777775^000000\r\nRequired Level: ^777777205^000000\r\nJobs: ^777777Abyss Chaser^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 256,
@@ -192280,12 +192282,14 @@
         "SUM[level==210]===40"
       ],
       "From the Abyss": [
-        "5",
+        "10",
         "SUM[level==220]===5",
         "11===10",
-        "EQUIP[Furious Boots]REFINE[weapon,boot==1]---1",
         "GRADE[weapon==C]===5",
         "GRADE[weapon==B]===10"
+      ],
+      "Abyss Square": [
+        "EQUIP[Furious Boots]REFINE[weapon,boot==1]---1"
       ],
       "matkPercent": [
         "SUM[level==210]===4",
