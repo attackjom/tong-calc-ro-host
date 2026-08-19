@@ -250686,7 +250686,8 @@
         "7===9"
       ],
       "cd__First Brand": [
-        "9===1"
+        "9===1",
+        "LEARN_SKILL[Third Flame Bomb==1]9===-1"
       ],
       "acd": [
         "11===5"
@@ -250742,7 +250743,8 @@
         "GRADE[me==D]===10"
       ],
       "cd__First Brand": [
-        "9===1.5"
+        "9===1.5",
+        "LEARN_SKILL[Third Flame Bomb==1]9===-1.5"
       ],
       "acd": [
         "11===10"
