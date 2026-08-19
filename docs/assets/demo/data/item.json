@@ -150520,7 +150520,8 @@
     "name": "Furious Crown (Abyss Chaser) [1]",
     "unidName": "Headgear",
     "resName": "Flash_of_Lightning",
-    "description": "Every 2 refine rate, Atk + 10, Matk + 10.\r\nEvery 3 refine rate, increases From the Abyss and Deft Stab damage by 4%.\r\nIf refine rate is 7 or higher, increases attack speed (reduces delay after attack by 15%).\r\nIf refine rate is 9 or higher, increases melee physical damage and all property magical damage by 10%.\r\nIf refine rate is 11 or higher, Atk + 5%, Matk + 5%, reduces fixed casting time by 0.3 seconds.\r\n\r\nWhen equipped with Furious Demonius, increases Deft Stab damage by 15%.\r\n\r\nWhen equipped with Furious Demon Sword, increases From the Abyss damage by 15%.\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] POW + 5, SPL + 5, CON + 5, P.Atk + 3, S.Matk + 3.\r\n[Grade C] Increases melee physical damage and all property magical damage by 10%.\r\n[Grade B] Atk + 5%, Matk + 5%, reduces fixed casting time by additional 0.2 seconds.\r\n[Grade A] P.Atk + 5, S.Matk + 5, increases melee physical damage by 15%, increases all property magical damage by 15%.\r\n\r\nClass: ^777777Headgear^000000 Defense: ^77777730^000000\r\nLocation: ^777777Upper^000000 Weight: ^77777730^000000\r\nArmor Level: ^7777772^000000\r\nRequired Level: ^777777235^000000\r\nJobs: ^777777Abyss Chaser^000000",
+    "description": "Headgear ที่สั่นพ้องกับ Furious Weapon เพื่อปลุกพลังที่หลับใหลภายใน\n \nทุก ๆ การอัพเกรด 2 ขั้น ATK +10, MATK + 10\nทุก ๆ การอัพเกรด 3 ขั้น เพิ่ม Damage สกิล From the Abyss, Deft Stab 4%\nเมื่ออัพเกรดถึงขั้น 7, ASPD + 15%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\nเมื่ออัพเกรดถึงขั้น 11, ATK + 5%, MATK + 5%, ลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที\n \nเมื่อสวมใส่ร่วมกับ Furious Demonius, เพิ่ม Damage สกิล Deft Stab 15%\n \nเมื่อสวมใส่ร่วมกับ Furious Demon Sword, เพิ่ม Damage สกิล Abyss Square 15%\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] POW + 5, SPL + 5, CON + 5, P.ATK + 3, S.MATK + 3\n[Grade C] เพิ่ม Damage ทางกายภาพระยะใกล้ 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\n[Grade B] ATK + 5%, MATK + 5%, ลดระยะเวลาร่ายแบบคงที่ลงอีก 0.2 วินาที\n[Grade A] P.ATK + 5, S.MATK + 5, เพิ่ม Damage ทางกายภาพระยะใกล้ 15%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%\n \nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^77777730^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^77777730^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777235^000000\nอาชีพที่ใส่ได้ : ^777777Abyss Chaser^000000",
+    "description_en": "Every 2 refine rate, Atk + 10, Matk + 10.\r\nEvery 3 refine rate, increases From the Abyss and Deft Stab damage by 4%.\r\nIf refine rate is 7 or higher, increases attack speed (reduces delay after attack by 15%).\r\nIf refine rate is 9 or higher, increases melee physical damage and all property magical damage by 10%.\r\nIf refine rate is 11 or higher, Atk + 5%, Matk + 5%, reduces fixed casting time by 0.3 seconds.\r\n\r\nWhen equipped with Furious Demonius, increases Deft Stab damage by 15%.\r\n\r\nWhen equipped with Furious Demon Sword, increases From the Abyss damage by 15%.\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] POW + 5, SPL + 5, CON + 5, P.Atk + 3, S.Matk + 3.\r\n[Grade C] Increases melee physical damage and all property magical damage by 10%.\r\n[Grade B] Atk + 5%, Matk + 5%, reduces fixed casting time by additional 0.2 seconds.\r\n[Grade A] P.Atk + 5, S.Matk + 5, increases melee physical damage by 15%, increases all property magical damage by 15%.\r\n\r\nClass: ^777777Headgear^000000 Defense: ^77777730^000000\r\nLocation: ^777777Upper^000000 Weight: ^77777730^000000\r\nArmor Level: ^7777772^000000\r\nRequired Level: ^777777235^000000\r\nJobs: ^777777Abyss Chaser^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 512,
@@ -192203,7 +192204,8 @@
     "name": "Furious Demonius [2]",
     "unidName": "Dagger",
     "resName": "Demonius_Furious",
-    "description": "Increases Deft Stab damage by 5%.\r\nIf the user's base level is 210 or higher, Atk + 4%, Atk + 40.\r\nIf the user's base level is 220 or higher, increases Deft Stab damage by 5%.\r\nIf the user's base level is 230 or higher, increases physical damage against all size enemies by 10%.\r\nIf refine rate is 7 or higher, increases melee physical damage by 10%.\r\nIf refine rate is 9 or higher, increases Deft Stab damage by additional 10%.\r\nIf refine rate is 10 or higher, reduces global cooldown by 10%.\r\nIf refine rate is 11 or higher, increases Deft Stab damage by additional 10%.\r\n\r\nWhen equipped with Furious Boots, increases Deft Stab damage by (the sum of refine rate)%.\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] Increases melee physical damage by 10%.\r\n[Grade C] Increases Deft Stab damage by 5%.\r\n[Grade B] Increases Deft Stab damage by additional 10%.\r\n[Grade A] Every 2 refine rate, Atk + 3%, P.Atk + 3.\r\n\r\nClass: ^777777Dagger^000000 Attack: ^777777180^000000\r\nWeight: ^777777140^000000\r\nWeapon Level: ^7777775^000000\r\nRequired Level: ^777777205^000000\r\nJobs: ^777777Abyss Chaser^000000",
+    "description": "Dagger ซึ่งบรรจุพลังแห่งโทสะเอาไว้\n \nเพิ่ม Damage สกิล Deft Stab 5%\nเมื่อ Base Lv.210 ขึ้นไป, ATK + 4%, ATK + 40\nเมื่อ Base Lv.220 ขึ้นไป, เพิ่ม Damage สกิล Deft Stab 5%\nเมื่อ Base Lv.230 ขึ้นไป, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Deft Stab ขึ้นอีก 10%\nเมื่ออัพเกรดถึงขั้น 10, ลด Global Cooldown 10%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Deft Stab ขึ้นอีก 10%\n \nเมื่อสวมใส่ร่วมกับ Furious Boot, เพิ่ม Damage สกิล Deft Stab จำนวน % เท่ากับค่าขั้นอัพเกรดรวมกัน\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] เพิ่ม Damage ทางกายภาพระยะใกล้ 15%\n[Grade C] เพิ่ม Damage สกิล Deft Stab 5%\n[Grade B] เพิ่ม Damage สกิล Deft Stab ขึ้นอีก 10%\n[Grade A] ทุก ๆ การอัพเกรด 2 ขั้น, ATK + 3%, P.ATK + 3\n \nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777180^000000\nน้ำหนัก : ^777777140^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Abyss Chaser^000000",
+    "description_en": "Increases Deft Stab damage by 5%.\r\nIf the user's base level is 210 or higher, Atk + 4%, Atk + 40.\r\nIf the user's base level is 220 or higher, increases Deft Stab damage by 5%.\r\nIf the user's base level is 230 or higher, increases physical damage against all size enemies by 10%.\r\nIf refine rate is 7 or higher, increases melee physical damage by 10%.\r\nIf refine rate is 9 or higher, increases Deft Stab damage by additional 10%.\r\nIf refine rate is 10 or higher, reduces global cooldown by 10%.\r\nIf refine rate is 11 or higher, increases Deft Stab damage by additional 10%.\r\n\r\nWhen equipped with Furious Boots, increases Deft Stab damage by (the sum of refine rate)%.\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] Increases melee physical damage by 10%.\r\n[Grade C] Increases Deft Stab damage by 5%.\r\n[Grade B] Increases Deft Stab damage by additional 10%.\r\n[Grade A] Every 2 refine rate, Atk + 3%, P.Atk + 3.\r\n\r\nClass: ^777777Dagger^000000 Attack: ^777777180^000000\r\nWeight: ^777777140^000000\r\nWeapon Level: ^7777775^000000\r\nRequired Level: ^777777205^000000\r\nJobs: ^777777Abyss Chaser^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 256,
@@ -192256,7 +192258,8 @@
     "name": "Furious Demon Sword [2]",
     "unidName": "Dagger",
     "resName": "Demonsword_Furious",
-    "description": "Matk + 180.\r\nIncreases From the Abyss damage by 5%.\r\nIf the user's base level is 210 or higher, Matk + 4%, Matk + 40.\r\nIf the user's base level is 220 or higher, increases From the Abyss damage by 5%.\r\nIf the user's base level is 230 or higher, increases magical damage against all size enemies by 10%.\r\nIf refine rate is 7 or higher, increases neutral and fire property magical damage by 10%.\r\nIf refine rate is 9 or higher, increases attack speed (reduces delay after attack by 10%).\r\nIf refine rate is 10 or higher, increases neutral and fire property magical damage by additional 10%.\r\nIf refine rate is 11 or higher, increases From the Abyss damage by 10%.\r\n\r\nWhen equipped with Furious Boots, increases From the Abyss damage by (the sum of refine rate)%.\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] Increases neutral and fire property magical damage by 10%.\r\n[Grade C] Increases From the Abyss damage by 5%.\r\n[Grade B] Increases From the Abyss damage by additional 10%.\r\n[Grade A] Every 2 refine rate, Matk + 3%, S.Matk + 3.\r\n\r\nClass: ^777777Dagger^000000 Attack: ^777777140^000000\r\nWeight: ^777777140^000000\r\nWeapon Level: ^7777775^000000\r\nRequired Level: ^777777205^000000\r\nJobs: ^777777Abyss Chaser^000000",
+    "description": "Dagger ซึ่งบรรจุพลังแห่งโทสะเอาไว้\n \nMATK + 180\nเพิ่ม Damage สกิล From the Abyss 10%\nเมื่อ Base Lv.210 ขึ้นไป, MATK + 4%, MATK + 40\nเมื่อ Base Lv.220 ขึ้นไป, เพิ่ม Damage สกิล From the Abyss 5%\nเมื่อ Base Lv.230 ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 10%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral, Fire 10%\nเมื่ออัพเกรดถึงขั้น 9, ASPD + 10%\nเมื่ออัพเกรดถึงขั้น 10, เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral, Fire ขึ้นอีก 10%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล From the Abyss 10%\n \nเมื่อสวมใส่ร่วมกับ Furious Boot, เพิ่ม Damage สกิล Abyss Square จำนวน % เท่ากับค่าขั้นอัพเกรดรวมกัน\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral, Fire 10%\n[Grade C] เพิ่ม Damage สกิล From the Abyss 5%\n[Grade B] เพิ่ม Damage สกิล From the Abyss 10%\n[Grade A] ทุก ๆ การอัพเกรด 2 ขั้น, MATK + 3%, S.MATK + 3\n \nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777140^000000\nน้ำหนัก : ^777777140^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Abyss Chaser^000000",
+    "description_en": "Matk + 180.\r\nIncreases From the Abyss damage by 5%.\r\nIf the user's base level is 210 or higher, Matk + 4%, Matk + 40.\r\nIf the user's base level is 220 or higher, increases From the Abyss damage by 5%.\r\nIf the user's base level is 230 or higher, increases magical damage against all size enemies by 10%.\r\nIf refine rate is 7 or higher, increases neutral and fire property magical damage by 10%.\r\nIf refine rate is 9 or higher, increases attack speed (reduces delay after attack by 10%).\r\nIf refine rate is 10 or higher, increases neutral and fire property magical damage by additional 10%.\r\nIf refine rate is 11 or higher, increases From the Abyss damage by 10%.\r\n\r\nWhen equipped with Furious Boots, increases From the Abyss damage by (the sum of refine rate)%.\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] Increases neutral and fire property magical damage by 10%.\r\n[Grade C] Increases From the Abyss damage by 5%.\r\n[Grade B] Increases From the Abyss damage by additional 10%.\r\n[Grade A] Every 2 refine rate, Matk + 3%, S.Matk + 3.\r\n\r\nClass: ^777777Dagger^000000 Attack: ^777777140^000000\r\nWeight: ^777777140^000000\r\nWeapon Level: ^7777775^000000\r\nRequired Level: ^777777205^000000\r\nJobs: ^777777Abyss Chaser^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 256,
@@ -285000,6 +285003,798 @@
       "flee": [
         "SUM[level==240]SUM[crt==7]---5",
         "SUM[crt==105]LEVEL[240]===-5"
+      ]
+    }
+  },
+  "300965": {
+    "id": 300965,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[World Boss] White Knight Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ATK + 50\nเพิ่ม Damage ทางกายภาพต่อมอนสเตอร์ขนาดกลาง, ใหญ่ 25%\nเมื่ออาวุธเป็น Two-handed Sword, Two-handed Spear, Two-handed Staff, Two-handed Axe, Katar, Bow, Huuma Shuriken, Gun, ลด Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากศัตรูขนาดกลาง, ใหญ่ 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "50"
+      ],
+      "p_size_m": [
+        "25"
+      ],
+      "p_size_l": [
+        "25"
+      ]
+    }
+  },
+  "300966": {
+    "id": 300966,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[World Boss] Mutating White Knight Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "MATK + 50\nเพิ่ม Damage ทางเวทมนตร์ต่อมอนสเตอร์ขนาดกลาง, ใหญ่ 25%\nเมื่ออาวุธเป็น Two-handed Sword, Two-handed Spear, Two-handed Staff, Two-handed Axe, Katar, Bow, Huuma Shuriken, Gun, ลด Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากศัตรูขนาดกลาง, ใหญ่ 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matk": [
+        "50"
+      ],
+      "m_size_m": [
+        "25"
+      ],
+      "m_size_l": [
+        "25"
+      ]
+    }
+  },
+  "31488": {
+    "id": 31488,
+    "aegisName": "C_Mvp",
+    "flavorText": null,
+    "name": "Costume MVP",
+    "unidName": null,
+    "resName": "C_Mvp",
+    "unidResName": null,
+    "description": "สัมผัสประสบการณ์สุดตื่นเต้นราวกับการล่า MVP ด้วย Costume ชิ้นนี้\n\n[ความสามารถพิเศษจำกัดระยะเวลา]\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภท Boss 15%,\nเมื่อกำจัดมอนสเตอร์ มีโอกาส 0.3% ที่จะดรอปไอเทม Old Card Album\n(ความสามารถพิเศษจะถูกลบออกในวันที่ 16 กันยายน 2569 หลังปิดปรับปรุงเซิร์ฟเวอร์)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 520,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "p_class_boss": [
+        "15"
+      ],
+      "m_class_boss": [
+        "15"
+      ]
+    }
+  },
+  "315714": {
+    "id": 315714,
+    "aegisName": "Orrivane_Enc_IQ",
+    "flavorText": null,
+    "name": "Orrivane Orb (Inquisitor)",
+    "unidName": null,
+    "resName": "Auto_Orb_Priest",
+    "unidResName": null,
+    "description": "เมื่อสวมใส่ร่วมกับ Orrivane Judgment Claw,\nCritical Damage + 20%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Explosion Blaster 4%, เพิ่ม Damage สกิล Oleum Sanctum 6%\n\nเมื่อ Orrivane Judgment Claw มี Grade C ขึ้นไป,\nP.ATK + 10,\nลด Cooldown สกิล Explosion Blaster 0.35 วินาที,\nลด Cooldown สกิล Oleum Sanctum 0.9 วินาที\n\nเมื่อ Orrivane Judgment Claw มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,\nสามารถใช้งานสกิล Power Lv.2 ได้,\nลด Global Cooldown 15%,\nเมื่อใช้งานสกิล Oleum Sanctum จะ Autospell สกิล Explosion Blaster Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Explosion Blaster มีโอกาส 30% ที่จะ Autospell สกิล Explosion Blaster Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเพิ่ม Damage สกิล Explosion Blaster  20%, เพิ่ม Damage สกิล Oleum Sanctum 25%\n\nเมื่อสวมใส่ร่วมกับ Orrivane Judgment Knuckle,\nMaxHP + 10%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Third Flame Bomb 4%\n\nเมื่อ Orrivane Judgment Knuckle มี Grade C ขึ้นไป,\nP.ATK + 10,\nMaxHP + 10%\n\nเมื่อ Orrivane Judgment Knuckle มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,\nเมื่อใช้งานสกิล First Brand จะ Autospell สกิล Second Flame Lv.1 (เมื่อเรียนรู้สกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Second Flame จะ Autospell สกิล Third Flame Bomb Lv.1 (เมื่อเรียนรู้สกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด)\n(เอฟเฟกต์ Autospell เหล่านี้จะทำงานก็ต่อเมื่อมีการเรียนรู้สกิล First Brand, Second Flame และ Third Flame Bomb Lv.1 ขึ้นไปเท่านั้น)",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "criDmg": [
+        "EQUIP[Orrivane Judgment Claw]===20"
+      ],
+      "pAtk": [
+        "EQUIP[Orrivane Judgment Claw]GRADE[weapon==C]===10",
+        "EQUIP[Orrivane Judgment Knuckle]GRADE[weapon==C]===10"
+      ],
+      "Explosion Blaster": [
+        "EQUIP[Orrivane Judgment Claw]REFINE[weapon==2]---4",
+        "EQUIP[Orrivane Judgment Claw]REFINE[weapon==10]GRADE[weapon==C]===20"
+      ],
+      "Oleum Sanctum": [
+        "EQUIP[Orrivane Judgment Claw]REFINE[weapon==2]---6",
+        "EQUIP[Orrivane Judgment Claw]REFINE[weapon==10]GRADE[weapon==C]===25"
+      ],
+      "cd__Explosion Blaster": [
+        "EQUIP[Orrivane Judgment Claw]GRADE[weapon==C]===0.35"
+      ],
+      "cd__Oleum Sanctum": [
+        "EQUIP[Orrivane Judgment Claw]GRADE[weapon==C]===0.9"
+      ],
+      "acd": [
+        "EQUIP[Orrivane Judgment Claw]REFINE[weapon==10]GRADE[weapon==C]===15"
+      ],
+      "power": [
+        "EQUIP[Orrivane Judgment Claw]GRADE[weapon==C]REFINE[weapon==10]===40"
+      ],
+      "hpPercent": [
+        "EQUIP[Orrivane Judgment Knuckle]===10",
+        "EQUIP[Orrivane Judgment Knuckle]GRADE[weapon==C]===10"
+      ],
+      "Third Flame Bomb": [
+        "EQUIP[Orrivane Judgment Knuckle]REFINE[weapon==2]---4"
+      ]
+    }
+  },
+  "315715": {
+    "id": 315715,
+    "aegisName": "Orrivane_Enc_TR",
+    "flavorText": null,
+    "name": "Orrivane Orb (Troubadour & Trouvere)",
+    "unidName": null,
+    "resName": "Auto_Orb_Priest",
+    "unidResName": null,
+    "description": "เมื่อสวมใส่ร่วมกับ Orrivane Musical Rope หรือ Orrivane Musical Harp,\nเพิ่ม Hit Damage ทางกายภาพ 10%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Rhythm Shooting, Rose Blossom 6%\n\nเมื่อ Orrivane Musical Rope หรือ Orrivane Musical Harp มี Grade C ขึ้นไป,\nP.ATK + 10,\nลด Cooldown สกิล Rhythm Shooting 0.3 วินาที,\nลด Cooldown สกิล Rose Blossom 0.6 วินาที\n\nเมื่อ Orrivane Musical Rope หรือ Orrivane Musical Harp มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,\nสามารถใช้งานสกิล Power Lv.4 ได้,\nเมื่อใช้งานสกิล Rose Blossom มีโอกาส 30% ที่จะ Autospell สกิล Rose Blossom Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Rhythm Shooting มีโอกาส 30% ที่จะ Autospell สกิล Rhythm Shooting Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเพิ่ม Damage สกิล Rhythm Shooting, Rose Blossom 25%\n\nเมื่อสวมใส่ร่วมกับ Orrivane Musical Ribbon หรือ Orrivane Musical Violin,\nMATK + 10%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Sound Blend, Metalic Fury 6%\n\nเมื่อ Orrivane Musical Ribbon หรือ Orrivane Musical Violin มี Grade C ขึ้นไป,\nS.MATK + 10,\nลด Cooldown สกิล Metalic Fury 0.3 วินาที\n\nเมื่อ Orrivane Musical Ribbon หรือ Orrivane Musical Violin มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 20%,\nเมื่อใช้งานสกิล Sound Blend จะ Autospell สกิล Metalic Fury Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Metalic Fury มีโอกาส 30% ที่จะ Autospell สกิล Metalic Fury Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Jawaii Serenade จะเปลี่ยนร่างเป็น Moonlight Flower เป็นเวลา 60 วินาที,\nเพิ่ม Damage สกิล Sound Blend, Metalic Fury 20%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hitDmg": [
+        "EQUIP[Orrivane Musical Rope||Orrivane Musical Harp]===10"
+      ],
+      "pAtk": [
+        "EQUIP[Orrivane Musical Rope||Orrivane Musical Harp]GRADE[weapon==C]===10"
+      ],
+      "Rhythm Shooting": [
+        "EQUIP[Orrivane Musical Rope||Orrivane Musical Harp]REFINE[weapon==2]---6",
+        "EQUIP[Orrivane Musical Rope||Orrivane Musical Harp]REFINE[weapon==10]GRADE[weapon==C]===25"
+      ],
+      "Rose Blossom": [
+        "EQUIP[Orrivane Musical Rope||Orrivane Musical Harp]REFINE[weapon==2]---6",
+        "EQUIP[Orrivane Musical Rope||Orrivane Musical Harp]REFINE[weapon==10]GRADE[weapon==C]===25"
+      ],
+      "cd__Rhythm Shooting": [
+        "EQUIP[Orrivane Musical Rope||Orrivane Musical Harp]GRADE[weapon==C]===0.3"
+      ],
+      "cd__Rose Blossom": [
+        "EQUIP[Orrivane Musical Rope||Orrivane Musical Harp]GRADE[weapon==C]===0.6"
+      ],
+      "power": [
+        "EQUIP[Orrivane Musical Rope||Orrivane Musical Harp]GRADE[weapon==C]REFINE[weapon==10]===80"
+      ],
+      "matkPercent": [
+        "EQUIP[Orrivane Musical Ribbon||Orrivane Musical Violin]===10"
+      ],
+      "sMatk": [
+        "EQUIP[Orrivane Musical Ribbon||Orrivane Musical Violin]GRADE[weapon==C]===10"
+      ],
+      "Sound Blend": [
+        "EQUIP[Orrivane Musical Ribbon||Orrivane Musical Violin]REFINE[weapon==2]---6",
+        "EQUIP[Orrivane Musical Ribbon||Orrivane Musical Violin]REFINE[weapon==10]GRADE[weapon==C]===20"
+      ],
+      "Metalic Fury": [
+        "EQUIP[Orrivane Musical Ribbon||Orrivane Musical Violin]REFINE[weapon==2]---6",
+        "EQUIP[Orrivane Musical Ribbon||Orrivane Musical Violin]REFINE[weapon==10]GRADE[weapon==C]===20"
+      ],
+      "cd__Metalic Fury": [
+        "EQUIP[Orrivane Musical Ribbon||Orrivane Musical Violin]GRADE[weapon==C]===0.3"
+      ],
+      "m_my_element_all": [
+        "EQUIP[Orrivane Musical Ribbon||Orrivane Musical Violin]REFINE[weapon==10]GRADE[weapon==C]===20"
+      ]
+    }
+  },
+  "315716": {
+    "id": 315716,
+    "aegisName": "Orrivane_Enc_SH",
+    "flavorText": null,
+    "name": "Orrivane Orb (Spirit Handler)",
+    "unidName": null,
+    "resName": "Auto_Orb_Priest",
+    "unidResName": null,
+    "description": "เมื่อสวมใส่ร่วมกับ Orrivane Spirit Foxtail Model,\nMATK + 10%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Hyunrok Breeze, Hyunrok Cannon 4%\n\nเมื่อ Orrivane Spirit Foxtail Model มี Grade C ขึ้นไป,\nS.MATK + 10,\nลด Cooldown สกิล Hyunrok Breeze 1.5 วินาที,\nลด Cooldown สกิล Lope 4.5 วินาที,\nลด Cooldown สกิล Hyunrok Cannon 1 วินาที\n\nเมื่อ Orrivane Spirit Foxtail Model มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 20%,\nเมื่อใช้งานสกิล Temporary Communion จะได้รับสถานะ SPL + 50 เป็นเวลา 10 วินาที,\nเมื่อใช้งานสกิล Hyunrok Cannon มีโอกาส 30% ที่จะ Autospell สกิล Hyunrok Cannon Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเพิ่ม Damage สกิล Hyunrok Breeze, Hyunrok Cannon 20%\n\nเมื่อสวมใส่ร่วมกับ Orrivane Spirit Foxtail,\nCritical Damage + 20%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Howling of Chulho, Hogogong Strike 4%\n\nเมื่อ Orrivane Spirit Foxtail มี Grade C ขึ้นไป,\nP.ATK + 10,\nลด Cooldown สกิล Howling of Chulho 1 วินาที\n\nเมื่อ Orrivane Spirit Foxtail มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,\nสามารถใช้งานสกิล Power Lv.2 ได้,\nเมื่อใช้งานสกิล Temporary Communion จะได้รับสถานะ POW + 50 เป็นเวลา 10 วินาที,,\nเมื่อใช้งานสกิล Howling of Chulho จะ Autospell สกิล Hogogong Strike Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเพิ่ม Damage สกิล Howling of Chulho, Hogogong Strike 20%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matkPercent": [
+        "EQUIP[Orrivane Spirit Foxtail Model]===10"
+      ],
+      "sMatk": [
+        "EQUIP[Orrivane Spirit Foxtail Model]GRADE[weapon==C]===10"
+      ],
+      "Hyunrok Breeze": [
+        "EQUIP[Orrivane Spirit Foxtail Model]REFINE[weapon==2]---4",
+        "EQUIP[Orrivane Spirit Foxtail Model]REFINE[weapon==10]GRADE[weapon==C]===20"
+      ],
+      "Hyunrok Cannon": [
+        "EQUIP[Orrivane Spirit Foxtail Model]REFINE[weapon==2]---4",
+        "EQUIP[Orrivane Spirit Foxtail Model]REFINE[weapon==10]GRADE[weapon==C]===20"
+      ],
+      "cd__Hyunrok Breeze": [
+        "EQUIP[Orrivane Spirit Foxtail Model]GRADE[weapon==C]===1.5"
+      ],
+      "cd__Lope": [
+        "EQUIP[Orrivane Spirit Foxtail Model]GRADE[weapon==C]===4.5"
+      ],
+      "cd__Hyunrok Cannon": [
+        "EQUIP[Orrivane Spirit Foxtail Model]GRADE[weapon==C]===1"
+      ],
+      "m_my_element_all": [
+        "EQUIP[Orrivane Spirit Foxtail Model]REFINE[weapon==10]GRADE[weapon==C]===20"
+      ],
+      "criDmg": [
+        "EQUIP[Orrivane Spirit Foxtail]===20"
+      ],
+      "pAtk": [
+        "EQUIP[Orrivane Spirit Foxtail]GRADE[weapon==C]===10"
+      ],
+      "Howling of Chulho": [
+        "EQUIP[Orrivane Spirit Foxtail]REFINE[weapon==2]---4",
+        "EQUIP[Orrivane Spirit Foxtail]REFINE[weapon==10]GRADE[weapon==C]===20"
+      ],
+      "Hogogong Strike": [
+        "EQUIP[Orrivane Spirit Foxtail]REFINE[weapon==2]---4",
+        "EQUIP[Orrivane Spirit Foxtail]REFINE[weapon==10]GRADE[weapon==C]===20"
+      ],
+      "cd__Howling of Chulho": [
+        "EQUIP[Orrivane Spirit Foxtail]GRADE[weapon==C]===1"
+      ],
+      "power": [
+        "EQUIP[Orrivane Spirit Foxtail]GRADE[weapon==C]REFINE[weapon==10]===40"
+      ]
+    }
+  },
+  "420943": {
+    "id": 420943,
+    "aegisName": "Adams_Apply_LT_TH",
+    "flavorText": null,
+    "name": "Adam's Apple In Mouth-LT",
+    "unidName": null,
+    "resName": "RG황금사과",
+    "unidResName": null,
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nผลไม้แห่งสวนเอเดนที่ยังไม่ถูกแตะต้อง เมื่อกินเข้าไปจะเกิดสำนึกถึงความดีและความชั่ว\n\nDEF/MDEF - 5\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภท Boss 15%\n\nเพิ่ม Damage ที่ได้รับจากมอนสเตอร์เผ่า Angel 15%\nเพิ่ม Damage ที่ได้รับจากมอนสเตอร์ธาตุ Holy 15%\n\nเมื่อ Base Lv.199 หรือต่ำกว่า, เพิ่มค่าประสบการณ์จากการกำจัดมอนสเตอร์ 10%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^77777730^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 30,
+    "requiredLevel": 1,
+    "location": "Lower",
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "def": [
+        "-5"
+      ],
+      "mdef": [
+        "-5"
+      ],
+      "p_class_boss": [
+        "15"
+      ],
+      "m_class_boss": [
+        "15"
+      ]
+    }
+  },
+  "460184": {
+    "id": 460184,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Lyre Aegis [1]",
+    "unidName": null,
+    "resName": "Lyre_Aegis_TH",
+    "unidResName": null,
+    "description": "RES/MRES + 15\nลด Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากมอนสเตอร์ทั่วไปและบอส 15%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 7 ขึ้นไป, ASPD + 2, MaxHP + 10%\nเมื่อขั้นอัพเกรดตั้งแต่ 9 ขึ้นไป, ลด Cooldown สกิล Rhythm Shooting 0.1 วินาที, ลด Cooldown สกิล Rose Blossom 0.3 วินาที\nเมื่อขั้นอัพเกรดตั้งแต่ 11 ขึ้นไป, ลด Global Cooldown 10%, เพิ่ม Damage ทางกายภาพระยะไกล 20%\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป, เพิ่ม Damage สกิล Rhythm Shooting, Rose Blossom 20%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] สามารถใช้งานสกิล Bragi's Poem, Kiss of Fortune Lv.10 ได้ (จำเป็นต้องสวมใส่ Instrument หรือ Whip เท่านั้น)\n[Grade C] เพิ่ม Hit Damage ทางกายภาพ 10%, P.ATK + 4\n[Grade B] MaxHP + 5000, P.ATK + 6\n[Grade A] เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 20%\nประเภท : ^777777Shield^000000  พลังป้องกัน : ^77777735^000000\nน้ำหนัก : ^77777720^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777Troubadour, Trouvere^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 35,
+    "weight": 20,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Troubadour",
+      "Trouvere"
+    ],
+    "script": {
+      "res": [
+        "15"
+      ],
+      "mres": [
+        "15"
+      ],
+      "aspd": [
+        "7===2"
+      ],
+      "hpPercent": [
+        "7===10"
+      ],
+      "cd__Rhythm Shooting": [
+        "9===0.1"
+      ],
+      "cd__Rose Blossom": [
+        "9===0.3"
+      ],
+      "acd": [
+        "11===10"
+      ],
+      "range": [
+        "11===20"
+      ],
+      "Rhythm Shooting": [
+        "12===20"
+      ],
+      "Rose Blossom": [
+        "12===20"
+      ],
+      "hitDmg": [
+        "GRADE[me==C]===10"
+      ],
+      "pAtk": [
+        "GRADE[me==C]===4",
+        "GRADE[me==B]===6"
+      ],
+      "hp": [
+        "GRADE[me==B]===5000"
+      ],
+      "p_size_all": [
+        "GRADE[me==A]===20"
+      ]
+    }
+  },
+  "491088": {
+    "id": 491088,
+    "aegisName": "FuriousRing_EM",
+    "flavorText": null,
+    "name": "Furious Ring (Elemental Master) [1]",
+    "unidName": null,
+    "resName": "Ring_Of_Brave",
+    "unidResName": null,
+    "description": "แหวนที่สั่นพ้องกับ Furious Weapon เพื่อปลุกพลังที่หลับใหลภายใน\nMATK + 100\nลด Global Cooldown 10%\nSPL + 10\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Furious Grimoire,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 40%,\nเพิ่ม Damage สกิล Diamond Storm, Terra Drive 20%\n\nเมื่อ Furious Grimoire มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 40%,\nเพิ่ม Damage สกิล Diamond Storm, Terra Drive 20%\n\nเมื่อ Furious Grimoire มี Grade C ขึ้นไป,\nS.MATK + 10,\nลด Cooldown สกิล Terra Drive, Diamond Storm 0.4 วินาที,\nเพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 40%,\nเพิ่ม Damage สกิล Diamond Storm, Terra Drive 20%\n\nเมื่อ Furious Grimoire มี Grade B ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ธาตุ Fire, Water, Wind, Earth 20%,\nเมื่อโจมตีทางกายภาพ มีโอกาส 15% ที่จะ Auto Spell สกิล Fire Bolt, Cold Bolt, Lightning Bolt, Earth Spike และ Elemental Buster Lv.1 (เอฟเฟกต์นี้จะทำงานเมื่อกำลังอัญเชิญ Advanced Elemental Spirit อยู่ และเมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด)\nเพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 40%,\nเพิ่ม Damage สกิล Diamond Storm, Terra Drive 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Elemental Master^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 205,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "ElementalMaster"
+    ],
+    "script": {
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "fct": [
+        "0.5"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "m_size_all": [
+        "EQUIP[Furious Grimoire]===15"
+      ],
+      "Fire Bolt": [
+        "EQUIP[Furious Grimoire]===40",
+        "EQUIP[Furious Grimoire]REFINE[weapon==10]===40",
+        "EQUIP[Furious Grimoire]GRADE[weapon==C]===40",
+        "EQUIP[Furious Grimoire]GRADE[weapon==B]===40"
+      ],
+      "Cold Bolt": [
+        "EQUIP[Furious Grimoire]===40",
+        "EQUIP[Furious Grimoire]REFINE[weapon==10]===40",
+        "EQUIP[Furious Grimoire]GRADE[weapon==C]===40",
+        "EQUIP[Furious Grimoire]GRADE[weapon==B]===40"
+      ],
+      "Lightning Bolt": [
+        "EQUIP[Furious Grimoire]===40",
+        "EQUIP[Furious Grimoire]REFINE[weapon==10]===40",
+        "EQUIP[Furious Grimoire]GRADE[weapon==C]===40",
+        "EQUIP[Furious Grimoire]GRADE[weapon==B]===40"
+      ],
+      "Diamond Storm": [
+        "EQUIP[Furious Grimoire]===20",
+        "EQUIP[Furious Grimoire]REFINE[weapon==10]===20",
+        "EQUIP[Furious Grimoire]GRADE[weapon==C]===20",
+        "EQUIP[Furious Grimoire]GRADE[weapon==B]===20"
+      ],
+      "Terra Drive": [
+        "EQUIP[Furious Grimoire]===20",
+        "EQUIP[Furious Grimoire]REFINE[weapon==10]===20",
+        "EQUIP[Furious Grimoire]GRADE[weapon==C]===20",
+        "EQUIP[Furious Grimoire]GRADE[weapon==B]===20"
+      ],
+      "m_element_all": [
+        "EQUIP[Furious Grimoire]REFINE[weapon==10]===15"
+      ],
+      "sMatk": [
+        "EQUIP[Furious Grimoire]GRADE[weapon==C]===10"
+      ],
+      "cd__Terra Drive": [
+        "EQUIP[Furious Grimoire]GRADE[weapon==C]===0.4"
+      ],
+      "cd__Diamond Storm": [
+        "EQUIP[Furious Grimoire]GRADE[weapon==C]===0.4"
+      ],
+      "m_my_element_fire": [
+        "EQUIP[Furious Grimoire]GRADE[weapon==B]===20"
+      ],
+      "m_my_element_water": [
+        "EQUIP[Furious Grimoire]GRADE[weapon==B]===20"
+      ],
+      "m_my_element_wind": [
+        "EQUIP[Furious Grimoire]GRADE[weapon==B]===20"
+      ],
+      "m_my_element_earth": [
+        "EQUIP[Furious Grimoire]GRADE[weapon==B]===20"
+      ]
+    }
+  },
+  "491089": {
+    "id": 491089,
+    "aegisName": "FuriousRing_ABC2",
+    "flavorText": null,
+    "name": "White Furious Ring (Abyss Chaser) [1]",
+    "unidName": null,
+    "resName": "루파크의반지",
+    "unidResName": null,
+    "description": "แหวนที่สั่นพ้องกับ Furious Weapon เพื่อปลุกพลังที่หลับใหลภายใน\nMATK + 100\nลด Global Cooldown 10%\nSPL + 10\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Furious Demon Sword,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล From the Abyss, Abyss Square 20%\n\nเมื่อ Furious Demon Sword มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล From the Abyss, Abyss Square 20%\n\nเมื่อ Furious Demon Sword มี Grade C ขึ้นไป,\nS.MATK + 10,\nลด Cooldown สกิล Abyss Square 1.3 วินาที,\nเพิ่ม Damage สกิล From the Abyss, Abyss Square 20%\n\nเมื่อ Furious Demon Sword มี Grade B ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ธาตุ Fire, Neutral 20%,\nลด Cooldown สกิล Abyss Square 1.3 วินาที,\nเมื่อโจมตีทางกายภาพระยะใกล้ มีโอกาส 30% ที่จะ Auto Spell สกิล All Bloom Lv.5\nเพิ่ม Damage สกิล From the Abyss, Abyss Square 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Abyss Chaser^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 205,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "AbyssChaser"
+    ],
+    "script": {
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "fct": [
+        "0.5"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "m_size_all": [
+        "EQUIP[Furious Demon Sword]===15"
+      ],
+      "From the Abyss": [
+        "EQUIP[Furious Demon Sword]===20",
+        "EQUIP[Furious Demon Sword]REFINE[weapon==10]===20",
+        "EQUIP[Furious Demon Sword]GRADE[weapon==C]===20",
+        "EQUIP[Furious Demon Sword]GRADE[weapon==B]===20"
+      ],
+      "Abyss Square": [
+        "EQUIP[Furious Demon Sword]===20",
+        "EQUIP[Furious Demon Sword]REFINE[weapon==10]===20",
+        "EQUIP[Furious Demon Sword]GRADE[weapon==C]===20",
+        "EQUIP[Furious Demon Sword]GRADE[weapon==B]===20"
+      ],
+      "m_element_all": [
+        "EQUIP[Furious Demon Sword]REFINE[weapon==10]===15"
+      ],
+      "sMatk": [
+        "EQUIP[Furious Demon Sword]GRADE[weapon==C]===10"
+      ],
+      "cd__Abyss Square": [
+        "EQUIP[Furious Demon Sword]GRADE[weapon==C]===1.3",
+        "EQUIP[Furious Demon Sword]GRADE[weapon==B]===1.3"
+      ],
+      "m_my_element_fire": [
+        "EQUIP[Furious Demon Sword]GRADE[weapon==B]===20"
+      ],
+      "m_my_element_neutral": [
+        "EQUIP[Furious Demon Sword]GRADE[weapon==B]===20"
+      ]
+    }
+  },
+  "491090": {
+    "id": 491090,
+    "aegisName": "IQ_Orrivane_R_TH",
+    "flavorText": null,
+    "name": "Orrivane Ring (Inquisitor) [1]",
+    "unidName": null,
+    "resName": "Colourful_Ring",
+    "unidResName": null,
+    "description": "แหวนแห่ง Orrivane ที่เมื่อสวมใส่จะสัมผัสได้ถึงศรัทธาอันแน่วแน่ของผู้พิพากษาเหล่าผู้หลงผิด\nATK + 100\nลด Global Cooldown 10%\nPOW + 10\nCRI + 15, ATK + 15%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Orrivane Crown (Inquisitor),\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Third Flame Bomb, Explosion Blaster 20%\n\nเมื่อ Orrivane Crown (Inquisitor) มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Third Flame Bomb, Explosion Blaster 20%\n\nเมื่อ Orrivane Crown (Inquisitor) มี Grade C ขึ้นไป,\nP.ATK + 10,\nเพิ่ม Damage สกิล Third Flame Bomb, Explosion Blaster 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Inquisitor^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Inquisitor"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "cri": [
+        "15"
+      ],
+      "atkPercent": [
+        "15"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Orrivane Crown (Inquisitor)]===15"
+      ],
+      "Third Flame Bomb": [
+        "EQUIP[Orrivane Crown (Inquisitor)]===20",
+        "EQUIP[Orrivane Crown (Inquisitor)]REFINE[headUpper==10]===20",
+        "EQUIP[Orrivane Crown (Inquisitor)]GRADE[headUpper==C]===20"
+      ],
+      "Explosion Blaster": [
+        "EQUIP[Orrivane Crown (Inquisitor)]===20",
+        "EQUIP[Orrivane Crown (Inquisitor)]REFINE[headUpper==10]===20",
+        "EQUIP[Orrivane Crown (Inquisitor)]GRADE[headUpper==C]===20"
+      ],
+      "p_element_all": [
+        "EQUIP[Orrivane Crown (Inquisitor)]REFINE[headUpper==10]===15"
+      ],
+      "pAtk": [
+        "EQUIP[Orrivane Crown (Inquisitor)]GRADE[headUpper==C]===10"
+      ]
+    }
+  },
+  "491091": {
+    "id": 491091,
+    "aegisName": "TR_Orrivane_R_TH",
+    "flavorText": null,
+    "name": "Orrivane Ring (Troubadour & Trouvere) [1]",
+    "unidName": null,
+    "resName": "Colourful_Ring",
+    "unidResName": null,
+    "description": "แหวนแห่ง Orrivane ที่เมื่อสวมใส่จะสัมผัสได้ถึงท่วงทำนองอันงดงามของผู้ขับขานบทเพลงแห่งความหวัง\nATK,MATK + 100\nลด Global Cooldown 10%\nPOW, SPL + 10\nMATK, เพิ่ม HIT Damage ทางกายภาพ 10%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Orrivane Crown (Troubadour & Trouvere),\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Metalic Fury, Rhythm Shooting 20%\n\nเมื่อ Orrivane Crown (Troubadour & Trouvere) มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Metalic Fury, Rhythm Shooting 20%\n\nเมื่อ Orrivane Crown (Troubadour & Trouvere) มี Grade C ขึ้นไป,\nP.ATK, S.MATK + 10,\nเพิ่ม Damage สกิล Metalic Fury, Rhythm Shooting 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Troubadour, Trouvere^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Troubadour",
+      "Trouvere"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "hitDmg": [
+        "10"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Orrivane Crown (Troubadour & Trouvere)]===15"
+      ],
+      "m_size_all": [
+        "EQUIP[Orrivane Crown (Troubadour & Trouvere)]===15"
+      ],
+      "Metalic Fury": [
+        "EQUIP[Orrivane Crown (Troubadour & Trouvere)]===20",
+        "EQUIP[Orrivane Crown (Troubadour & Trouvere)]REFINE[headUpper==10]===20",
+        "EQUIP[Orrivane Crown (Troubadour & Trouvere)]GRADE[headUpper==C]===20"
+      ],
+      "Rhythm Shooting": [
+        "EQUIP[Orrivane Crown (Troubadour & Trouvere)]===20",
+        "EQUIP[Orrivane Crown (Troubadour & Trouvere)]REFINE[headUpper==10]===20",
+        "EQUIP[Orrivane Crown (Troubadour & Trouvere)]GRADE[headUpper==C]===20"
+      ],
+      "p_element_all": [
+        "EQUIP[Orrivane Crown (Troubadour & Trouvere)]REFINE[headUpper==10]===15"
+      ],
+      "m_element_all": [
+        "EQUIP[Orrivane Crown (Troubadour & Trouvere)]REFINE[headUpper==10]===15"
+      ],
+      "pAtk": [
+        "EQUIP[Orrivane Crown (Troubadour & Trouvere)]GRADE[headUpper==C]===10"
+      ],
+      "sMatk": [
+        "EQUIP[Orrivane Crown (Troubadour & Trouvere)]GRADE[headUpper==C]===10"
+      ]
+    }
+  },
+  "491092": {
+    "id": 491092,
+    "aegisName": "SH_Orrivane_R_TH",
+    "flavorText": null,
+    "name": "Orrivane Ring (Spirit Handler) [1]",
+    "unidName": null,
+    "resName": "Colourful_Ring",
+    "unidResName": null,
+    "description": "แหวนแห่ง Orrivane ที่เมื่อสวมใส่จะสัมผัสได้ถึงสายสัมพันธ์อันลึกซึ้งระหว่างผู้ผูกพันกับเหล่าจิตวิญญาณ\nATK, MATK + 100\nลด Global Cooldown 10%\nPOW, SPL + 10\nCRI + 15, ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Orrivane Crown (Spirit Handler),\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Hogogong Strike, Hyunrok Breeze 20%\n\nเมื่อ Orrivane Crown (Spirit Handler) มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Hogogong Strike, Hyunrok Breeze 20%\n\nเมื่อ Orrivane Crown (Spirit Handler) มี Grade C ขึ้นไป,\nP.ATK, S.MATK + 10,\nเพิ่ม Damage สกิล Hogogong Strike, Hyunrok Breeze 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Spirit Handler^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": null,
+    "attack": null,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 230,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "SpiritHandler"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "cri": [
+        "15"
+      ],
+      "fct": [
+        "0.5"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Orrivane Crown (Spirit Handler)]===15"
+      ],
+      "m_size_all": [
+        "EQUIP[Orrivane Crown (Spirit Handler)]===15"
+      ],
+      "Hogogong Strike": [
+        "EQUIP[Orrivane Crown (Spirit Handler)]===20",
+        "EQUIP[Orrivane Crown (Spirit Handler)]REFINE[headUpper==10]===20",
+        "EQUIP[Orrivane Crown (Spirit Handler)]GRADE[headUpper==C]===20"
+      ],
+      "Hyunrok Breeze": [
+        "EQUIP[Orrivane Crown (Spirit Handler)]===20",
+        "EQUIP[Orrivane Crown (Spirit Handler)]REFINE[headUpper==10]===20",
+        "EQUIP[Orrivane Crown (Spirit Handler)]GRADE[headUpper==C]===20"
+      ],
+      "p_element_all": [
+        "EQUIP[Orrivane Crown (Spirit Handler)]REFINE[headUpper==10]===15"
+      ],
+      "m_element_all": [
+        "EQUIP[Orrivane Crown (Spirit Handler)]REFINE[headUpper==10]===15"
+      ],
+      "pAtk": [
+        "EQUIP[Orrivane Crown (Spirit Handler)]GRADE[headUpper==C]===10"
+      ],
+      "sMatk": [
+        "EQUIP[Orrivane Crown (Spirit Handler)]GRADE[headUpper==C]===10"
       ]
     }
   }
