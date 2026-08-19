@@ -285803,5 +285803,4675 @@
         "EQUIP[Orrivane Crown (Spirit Handler)]GRADE[headUpper==C]===10"
       ]
     }
+  },
+  "450569": {
+    "id": 450569,
+    "aegisName": "Black_F_Pow_Armor",
+    "flavorText": null,
+    "name": "Black Flame Power Armor [1]",
+    "unidName": null,
+    "resName": "Black_F_Pow_Armor",
+    "unidResName": null,
+    "description": "Armor of power imbued with the authority of the constellation.\nIt reflects the taste of the one who granted that authority.\n^ffffff_^000000\nATK +5%, ATK +150.\nPer 2 refine levels: ATK +18, ATK +1%.\nAt refine +7: ATK +5%.\nAt refine +9: Melee physical damage +15%.\nAt refine +11: Additional melee physical damage +10%, hit physical damage +15%.\nAt refine +12: Physical damage to enemies of all elements +10%.\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] Per 2 refine levels: ATK +2, ATK +1%; per 3 refine levels: melee physical damage +1%.\n[C Grade] Per 2 refine levels: ATK +3, additional ATK +1%; per 3 refine levels: additional melee physical damage +1%.\n[B Grade] Per 2 refine levels: additional ATK +2%; per 3 refine levels: additional melee physical damage +1%; per 4 refine levels: P.ATK +1.\n[A Grade] Per 2 refine levels: additional ATK +3%; per 3 refine levels: additional melee physical damage +2%; per 4 refine levels: additional P.ATK +2; hit physical damage +3%.\n^ffffff_^000000\nType: ^777777Armor^000000  Defense: ^777777220^000000\nWeight: ^777777260^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777275^000000\nJobs: ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 220,
+    "weight": 260,
+    "requiredLevel": 275,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "atk": [
+        "150",
+        "2---18",
+        "GRADE[me==D]2---2",
+        "GRADE[me==C]2---3"
+      ],
+      "atkPercent": [
+        "5",
+        "2---1",
+        "7===5",
+        "GRADE[me==D]2---1",
+        "GRADE[me==C]2---1",
+        "GRADE[me==B]2---2",
+        "GRADE[me==A]2---3"
+      ],
+      "melee": [
+        "9===15",
+        "11===10",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---1",
+        "GRADE[me==B]3---1",
+        "GRADE[me==A]3---2"
+      ],
+      "hitDmg": [
+        "11===15",
+        "GRADE[me==A]4---3"
+      ],
+      "p_element_all": [
+        "12===10"
+      ],
+      "pAtk": [
+        "GRADE[me==B]4---1",
+        "GRADE[me==A]4---2"
+      ]
+    }
+  },
+  "450570": {
+    "id": 450570,
+    "aegisName": "Black_F_Agi_Suit",
+    "flavorText": null,
+    "name": "Black Flame Agility Suit [1]",
+    "unidName": null,
+    "resName": "Black_F_Agi_Suit",
+    "unidResName": null,
+    "description": "Suit of agility imbued with the authority of the constellation.\nIt reflects the taste of the one who granted that authority.\n^ffffff_^000000\nATK +5%, ATK +150.\nPer 2 refine levels: ATK +18, ATK +1%.\nAt refine +7: ATK +5%.\nAt refine +9: Ranged physical damage +15%.\nAt refine +11: Additional ranged physical damage +10%, hit physical damage +15%.\nAt refine +12: Physical damage to enemies of all elements +10%.\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] Per 2 refine levels: ATK +2, ATK +1%; per 3 refine levels: ranged physical damage +1%.\n[C Grade] Per 2 refine levels: ATK +3, additional ATK +1%; per 3 refine levels: additional ranged physical damage +1%.\n[B Grade] Per 2 refine levels: additional ATK +2%; per 3 refine levels: additional ranged physical damage +1%; per 4 refine levels: P.ATK +1.\n[A Grade] Per 2 refine levels: additional ATK +3%; per 3 refine levels: additional ranged physical damage +2%; per 4 refine levels: additional P.ATK +2; hit physical damage +3%.\n^ffffff_^000000\nType: ^777777Armor^000000  Defense: ^777777180^000000\nWeight: ^777777160^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777275^000000\nJobs: ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 180,
+    "weight": 160,
+    "requiredLevel": 275,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "atk": [
+        "150",
+        "2---18",
+        "GRADE[me==D]2---2",
+        "GRADE[me==C]2---3"
+      ],
+      "atkPercent": [
+        "5",
+        "2---1",
+        "7===5",
+        "GRADE[me==D]2---1",
+        "GRADE[me==C]2---1",
+        "GRADE[me==B]2---2",
+        "GRADE[me==A]2---3"
+      ],
+      "range": [
+        "9===15",
+        "11===10",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---1",
+        "GRADE[me==B]3---1",
+        "GRADE[me==A]3---2"
+      ],
+      "hitDmg": [
+        "11===15",
+        "GRADE[me==A]4---3"
+      ],
+      "p_element_all": [
+        "12===10"
+      ],
+      "pAtk": [
+        "GRADE[me==B]4---1",
+        "GRADE[me==A]4---2"
+      ]
+    }
+  },
+  "450571": {
+    "id": 450571,
+    "aegisName": "Black_F_Vit_Armor",
+    "flavorText": null,
+    "name": "Black Flame Vitality Armor [1]",
+    "unidName": null,
+    "resName": "Black_F_Vit_Armor",
+    "unidResName": null,
+    "description": "Armor of vitality imbued with the authority of the constellation.\nIt reflects the taste of the one who granted that authority.\n^ffffff_^000000\nMHP +5%, MHP +8000.\nPer 2 refine levels: MHP +800, MHP +1%.\nAt refine +7: Additional MHP +5%, ATK +30.\nAt refine +9: ATK +25, additional MHP +10%.\nAt refine +11: Melee and ranged physical damage +10%, additional MHP +12%.\nAt refine +12: Physical damage to enemies of all elements +10%.\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] Per 2 refine levels: MHP +1%, MSP +1%; per 3 refine levels: melee and ranged physical damage +1%.\n[C Grade] Per 2 refine levels: additional MHP +1%, additional MSP +1%; per 3 refine levels: additional melee and ranged physical damage +1%.\n[B Grade] Per 2 refine levels: ATK +2%; per 3 refine levels: additional melee and ranged physical damage +1%; per 4 refine levels: P.ATK +1.\n[A Grade] Per 2 refine levels: additional ATK +4%; per 3 refine levels: additional melee and ranged physical damage +2%; per 4 refine levels: additional P.ATK +1; MHP +3%, MSP +3%.\n^ffffff_^000000\nType: ^777777Armor^000000  Defense: ^777777290^000000\nWeight: ^777777270^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777275^000000\nJobs: ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 290,
+    "weight": 270,
+    "requiredLevel": 275,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "hp": [
+        "8000",
+        "2---800"
+      ],
+      "hpPercent": [
+        "5",
+        "2---1",
+        "7===5",
+        "9===10",
+        "11===12",
+        "GRADE[me==D]2---1",
+        "GRADE[me==C]2---1",
+        "GRADE[me==A]4---3"
+      ],
+      "atk": [
+        "7===30",
+        "9===25"
+      ],
+      "melee": [
+        "11===10",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---1",
+        "GRADE[me==B]3---1",
+        "GRADE[me==A]3---2"
+      ],
+      "range": [
+        "11===10",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---1",
+        "GRADE[me==B]3---1",
+        "GRADE[me==A]3---2"
+      ],
+      "p_element_all": [
+        "12===10"
+      ],
+      "spPercent": [
+        "GRADE[me==D]2---1",
+        "GRADE[me==C]2---1",
+        "GRADE[me==A]4---3"
+      ],
+      "atkPercent": [
+        "GRADE[me==B]2---2",
+        "GRADE[me==A]2---4"
+      ],
+      "pAtk": [
+        "GRADE[me==B]4---1",
+        "GRADE[me==A]4---1"
+      ]
+    }
+  },
+  "450572": {
+    "id": 450572,
+    "aegisName": "Black_F_Cri_Suit",
+    "flavorText": null,
+    "name": "Black Flame Critical Suit [1]",
+    "unidName": null,
+    "resName": "Black_F_Cri_Suit",
+    "unidResName": null,
+    "description": "Suit of critical power imbued with the authority of the constellation.\nIt reflects the taste of the one who granted that authority.\n^ffffff_^000000\nCRI +10, ATK +150.\nPer 2 refine levels: ATK +10, CRI +3.\nAt refine +7: ATK +5%.\nAt refine +9: Melee and ranged physical damage +15%.\nAt refine +11: Additional melee and ranged physical damage +10%, critical damage +20%.\nAt refine +12: Physical damage to enemies of all elements +10%.\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] Per 2 refine levels: ATK +2, ATK +1%; per 3 refine levels: critical damage +1%.\n[C Grade] Per 2 refine levels: ATK +3, additional ATK +1%; per 3 refine levels: additional critical damage +2%.\n[B Grade] Per 2 refine levels: additional ATK +2%; per 3 refine levels: additional critical damage +2%; per 4 refine levels: P.ATK +1.\n[A Grade] Per 2 refine levels: additional ATK +3%; per 3 refine levels: additional critical damage +3%; per 4 refine levels: additional P.ATK +2, melee and ranged physical damage +3%.\n^ffffff_^000000\nType: ^777777Armor^000000  Defense: ^777777180^000000\nWeight: ^777777160^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777275^000000\nJobs: ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 180,
+    "weight": 160,
+    "requiredLevel": 275,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "cri": [
+        "10",
+        "2---3"
+      ],
+      "atk": [
+        "150",
+        "2---10",
+        "GRADE[me==D]2---2",
+        "GRADE[me==C]2---3"
+      ],
+      "atkPercent": [
+        "7===5",
+        "GRADE[me==D]2---1",
+        "GRADE[me==C]2---1",
+        "GRADE[me==B]2---2",
+        "GRADE[me==A]2---3"
+      ],
+      "melee": [
+        "9===15",
+        "11===10",
+        "GRADE[me==A]4---3"
+      ],
+      "range": [
+        "9===15",
+        "11===10",
+        "GRADE[me==A]4---3"
+      ],
+      "criDmg": [
+        "11===20",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---2",
+        "GRADE[me==B]3---2",
+        "GRADE[me==A]3---3"
+      ],
+      "p_element_all": [
+        "12===10"
+      ],
+      "pAtk": [
+        "GRADE[me==B]4---1",
+        "GRADE[me==A]4---2"
+      ]
+    }
+  },
+  "450573": {
+    "id": 450573,
+    "aegisName": "Black_F_Spl_Robe",
+    "flavorText": null,
+    "name": "Black Flame Magic Robe [1]",
+    "unidName": null,
+    "resName": "Black_F_Spl_Robe",
+    "unidResName": null,
+    "description": "Robe of magic power imbued with the authority of the constellation.\nIt reflects the taste of the one who granted that authority.\n^ffffff_^000000\nMATK +5%, MATK +150.\nPer 2 refine levels: MATK +16, MATK +1%.\nAt refine +7: MATK +5%.\nAt refine +9: Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +15%.\nAt refine +11: Additional Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +10%, variable cast time -10%.\nAt refine +12: Magic damage to enemies of all elements +10%.\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] Per 2 refine levels: MATK +2, MATK +1%; per 3 refine levels: Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +1%.\n[C Grade] Per 2 refine levels: MATK +3, additional MATK +1%; per 3 refine levels: additional Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +1%.\n[B Grade] Per 2 refine levels: additional MATK +2%; per 3 refine levels: additional Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +1%; per 4 refine levels: S.MATK +1.\n[A Grade] Per 2 refine levels: additional MATK +3%; per 3 refine levels: additional Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +2%; per 4 refine levels: additional S.MATK +2, variable cast time -2%.\n^ffffff_^000000\nType: ^777777Armor^000000  Defense: ^777777150^000000\nWeight: ^77777760^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777275^000000\nJobs: ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 150,
+    "weight": 60,
+    "requiredLevel": 275,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "matk": [
+        "150",
+        "2---16",
+        "GRADE[me==D]2---2",
+        "GRADE[me==C]2---3"
+      ],
+      "matkPercent": [
+        "5",
+        "2---1",
+        "7===5",
+        "GRADE[me==D]2---1",
+        "GRADE[me==C]2---1",
+        "GRADE[me==B]2---2",
+        "GRADE[me==A]2---3"
+      ],
+      "m_my_element_fire": [
+        "9===15",
+        "11===10",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---1",
+        "GRADE[me==B]3---1",
+        "GRADE[me==A]3---2"
+      ],
+      "m_my_element_neutral": [
+        "9===15",
+        "11===10",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---1",
+        "GRADE[me==B]3---1",
+        "GRADE[me==A]3---2"
+      ],
+      "m_my_element_holy": [
+        "9===15",
+        "11===10",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---1",
+        "GRADE[me==B]3---1",
+        "GRADE[me==A]3---2"
+      ],
+      "m_my_element_wind": [
+        "9===15",
+        "11===10",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---1",
+        "GRADE[me==B]3---1",
+        "GRADE[me==A]3---2"
+      ],
+      "m_my_element_dark": [
+        "9===15",
+        "11===10",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---1",
+        "GRADE[me==B]3---1",
+        "GRADE[me==A]3---2"
+      ],
+      "m_my_element_ghost": [
+        "9===15",
+        "11===10",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---1",
+        "GRADE[me==B]3---1",
+        "GRADE[me==A]3---2"
+      ],
+      "m_my_element_undead": [
+        "9===15",
+        "11===10",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---1",
+        "GRADE[me==B]3---1",
+        "GRADE[me==A]3---2"
+      ],
+      "vct": [
+        "11===10",
+        "GRADE[me==A]4---2"
+      ],
+      "m_element_all": [
+        "12===10"
+      ],
+      "sMatk": [
+        "GRADE[me==B]4---1",
+        "GRADE[me==A]4---2"
+      ]
+    }
+  },
+  "450574": {
+    "id": 450574,
+    "aegisName": "Black_F_Wis_Robe",
+    "flavorText": null,
+    "name": "Black Flame Wisdom Robe [1]",
+    "unidName": null,
+    "resName": "Black_F_Wis_Robe",
+    "unidResName": null,
+    "description": "Robe of wisdom imbued with the authority of the constellation.\nIt reflects the taste of the one who granted that authority.\n^ffffff_^000000\nMATK +5%, MATK +150.\nPer 2 refine levels: MATK +16, MATK +1%.\nAt refine +7: MATK +5%.\nAt refine +9: Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +15%.\nAt refine +11: Additional Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +10%, variable cast time -10%.\nAt refine +12: Magic damage to enemies of all elements +10%.\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] Per 2 refine levels: MATK +2, MATK +1%; per 3 refine levels: Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +1%.\n[C Grade] Per 2 refine levels: MATK +3, additional MATK +1%; per 3 refine levels: additional Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +1%.\n[B Grade] Per 2 refine levels: additional MATK +2%; per 3 refine levels: additional Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +1%; per 4 refine levels: S.MATK +1.\n[A Grade] Per 2 refine levels: additional MATK +3%; per 3 refine levels: additional Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +2%; per 4 refine levels: additional S.MATK +2, variable cast time -2%.\n^ffffff_^000000\nType: ^777777Armor^000000  Defense: ^777777150^000000\nWeight: ^77777760^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777275^000000\nJobs: ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 150,
+    "weight": 60,
+    "requiredLevel": 275,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "script": {
+      "matk": [
+        "150",
+        "2---16",
+        "GRADE[me==D]2---2",
+        "GRADE[me==C]2---3"
+      ],
+      "matkPercent": [
+        "5",
+        "2---1",
+        "7===5",
+        "GRADE[me==D]2---1",
+        "GRADE[me==C]2---1",
+        "GRADE[me==B]2---2",
+        "GRADE[me==A]2---3"
+      ],
+      "m_my_element_water": [
+        "9===15",
+        "11===10",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---1",
+        "GRADE[me==B]3---1",
+        "GRADE[me==A]3---2"
+      ],
+      "m_my_element_wind": [
+        "9===15",
+        "11===10",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---1",
+        "GRADE[me==B]3---1",
+        "GRADE[me==A]3---2"
+      ],
+      "m_my_element_earth": [
+        "9===15",
+        "11===10",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---1",
+        "GRADE[me==B]3---1",
+        "GRADE[me==A]3---2"
+      ],
+      "m_my_element_fire": [
+        "9===15",
+        "11===10",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---1",
+        "GRADE[me==B]3---1",
+        "GRADE[me==A]3---2"
+      ],
+      "m_my_element_poison": [
+        "9===15",
+        "11===10",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---1",
+        "GRADE[me==B]3---1",
+        "GRADE[me==A]3---2"
+      ],
+      "m_my_element_dark": [
+        "9===15",
+        "11===10",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---1",
+        "GRADE[me==B]3---1",
+        "GRADE[me==A]3---2"
+      ],
+      "m_my_element_neutral": [
+        "9===15",
+        "11===10",
+        "GRADE[me==D]3---1",
+        "GRADE[me==C]3---1",
+        "GRADE[me==B]3---1",
+        "GRADE[me==A]3---2"
+      ],
+      "vct": [
+        "11===10",
+        "GRADE[me==A]4---2"
+      ],
+      "m_element_all": [
+        "12===10"
+      ],
+      "sMatk": [
+        "GRADE[me==B]4---1",
+        "GRADE[me==A]4---2"
+      ]
+    }
+  },
+  "491017": {
+    "id": 491017,
+    "aegisName": "Black_D_Pow_Ring",
+    "flavorText": null,
+    "name": "Black Dragon Power Ring [1]",
+    "unidName": null,
+    "resName": "Black_D_Pow_Ring",
+    "unidResName": null,
+    "description": "Power ring imbued with the authority of the constellation.\nIt reflects the taste of the one who granted that authority.\n^ffffff_^000000\n[Refinable]\nATK +10%, P.ATK +7.\nAt refine +7: ATK +3%.\nAt refine +9: ATK +5%, variable cast time -5%.\nAt refine +12: Melee physical damage +5%, hit physical damage +10%.\n^ffffff_^000000\nWhen equipped with Black Flame Power Armor, melee physical damage +10%, hit physical damage +10%, physical damage to all race monsters increases by the sum of refine levels (excluding players). If Black Flame Power Armor and Black Dragon Power Ring are both Grade A or higher, additional physical damage to all race monsters +15% (excluding players).\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] POW +3, CON +3.\n[C Grade] P.ATK +5.\n[B Grade] Melee physical damage +5%.\n[A Grade] Per 2 refine levels: physical damage to enemies of all elements +3%.\nType: ^777777Accessory (Right)^000000  Defense: ^7777770^000000\nWeight: ^77777720^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777275^000000\nJobs: ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 275,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "isRefinable": true,
+    "script": {
+      "atkPercent": [
+        "10",
+        "7===3",
+        "9===5"
+      ],
+      "pAtk": [
+        "7",
+        "GRADE[me==C]===5"
+      ],
+      "vct": [
+        "9===5"
+      ],
+      "melee": [
+        "12===5",
+        "EQUIP[Black Flame Power Armor]===10",
+        "GRADE[me==B]===5"
+      ],
+      "hitDmg": [
+        "12===10",
+        "EQUIP[Black Flame Power Armor]===10"
+      ],
+      "p_race_all": [
+        "EQUIP[Black Flame Power Armor]REFINE[armor,accRight==1]---1",
+        "EQUIP[Black Flame Power Armor]GRADE[armor==A]GRADE[me==A]===15"
+      ],
+      "pow": [
+        "GRADE[me==D]===3"
+      ],
+      "con": [
+        "GRADE[me==D]===3"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "491018": {
+    "id": 491018,
+    "aegisName": "Black_D_Agi_Ring",
+    "flavorText": null,
+    "name": "Black Dragon Agility Ring [1]",
+    "unidName": null,
+    "resName": "Black_D_Agi_Ring",
+    "unidResName": null,
+    "description": "Agility ring imbued with the authority of the constellation.\nIt reflects the taste of the one who granted that authority.\n^ffffff_^000000\n[Refinable]\nATK +10%, P.ATK +7.\nAt refine +7: ATK +3%.\nAt refine +9: ATK +5%, variable cast time -5%.\nAt refine +12: Ranged physical damage +5%, hit physical damage +10%.\n^ffffff_^000000\nWhen equipped with Black Flame Agility Suit, ranged physical damage +10%, hit physical damage +10%, physical damage to all race monsters increases by the sum of refine levels (excluding players). If Black Flame Agility Suit and Black Dragon Agility Ring are both Grade A or higher, additional physical damage to all race monsters +15% (excluding players).\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] POW +3, CON +3.\n[C Grade] P.ATK +5.\n[B Grade] Ranged physical damage +5%.\n[A Grade] Per 2 refine levels: physical damage to enemies of all elements +3%.\nType: ^777777Accessory (Right)^000000  Defense: ^7777770^000000\nWeight: ^77777720^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777275^000000\nJobs: ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 275,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "isRefinable": true,
+    "script": {
+      "atkPercent": [
+        "10",
+        "7===3",
+        "9===5"
+      ],
+      "pAtk": [
+        "7",
+        "GRADE[me==C]===5"
+      ],
+      "vct": [
+        "9===5"
+      ],
+      "range": [
+        "12===5",
+        "EQUIP[Black Flame Agility Suit]===10",
+        "GRADE[me==B]===5"
+      ],
+      "hitDmg": [
+        "12===10",
+        "EQUIP[Black Flame Agility Suit]===10"
+      ],
+      "p_race_all": [
+        "EQUIP[Black Flame Agility Suit]REFINE[armor,accRight==1]---1",
+        "EQUIP[Black Flame Agility Suit]GRADE[armor==A]GRADE[me==A]===15"
+      ],
+      "pow": [
+        "GRADE[me==D]===3"
+      ],
+      "con": [
+        "GRADE[me==D]===3"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "491019": {
+    "id": 491019,
+    "aegisName": "Black_D_Vit_Ring",
+    "flavorText": null,
+    "name": "Black Dragon Vitality Ring [1]",
+    "unidName": null,
+    "resName": "Black_D_Vit_Ring",
+    "unidResName": null,
+    "description": "Vitality ring imbued with the authority of the constellation.\nIt reflects the taste of the one who granted that authority.\n^ffffff_^000000\n[Refinable]\nATK +7%, MHP +7%, MSP +3%.\nAt refine +7: ATK +3%.\nAt refine +9: ATK +5%, variable cast time -5%.\nAt refine +12: MHP +7%, MSP +3%.\n^ffffff_^000000\nWhen equipped with Black Flame Vitality Armor, melee and ranged physical damage +10%, MHP +7%, MSP +7%, physical damage to all race monsters increases by the sum of refine levels (excluding players). If Black Flame Vitality Armor and Black Dragon Vitality Ring are both Grade A or higher, additional physical damage to all race monsters +15% (excluding players).\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] POW +3, CON +3.\n[C Grade] P.ATK +3, MSP +3%.\n[B Grade] MHP +7%.\n[A Grade] Per 2 refine levels: physical damage to enemies of all elements +3%.\nType: ^777777Accessory (Right)^000000  Defense: ^7777770^000000\nWeight: ^77777720^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777275^000000\nJobs: ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 275,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "isRefinable": true,
+    "script": {
+      "atkPercent": [
+        "7",
+        "7===3",
+        "9===5"
+      ],
+      "hpPercent": [
+        "7",
+        "12===7",
+        "EQUIP[Black Flame Vitality Armor]===7",
+        "GRADE[me==B]===7"
+      ],
+      "spPercent": [
+        "3",
+        "12===3",
+        "EQUIP[Black Flame Vitality Armor]===7",
+        "GRADE[me==C]===3"
+      ],
+      "vct": [
+        "9===5"
+      ],
+      "melee": [
+        "EQUIP[Black Flame Vitality Armor]===10"
+      ],
+      "range": [
+        "EQUIP[Black Flame Vitality Armor]===10"
+      ],
+      "p_race_all": [
+        "EQUIP[Black Flame Vitality Armor]REFINE[armor,accRight==1]---1",
+        "EQUIP[Black Flame Vitality Armor]GRADE[armor==A]GRADE[me==A]===15"
+      ],
+      "pow": [
+        "GRADE[me==D]===3"
+      ],
+      "con": [
+        "GRADE[me==D]===3"
+      ],
+      "pAtk": [
+        "GRADE[me==C]===3"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "491020": {
+    "id": 491020,
+    "aegisName": "Black_D_Cri_Ring",
+    "flavorText": null,
+    "name": "Black Dragon Critical Ring [1]",
+    "unidName": null,
+    "resName": "Black_D_Cri_Ring",
+    "unidResName": null,
+    "description": "Critical ring imbued with the authority of the constellation.\nIt reflects the taste of the one who granted that authority.\n^ffffff_^000000\n[Refinable]\nATK +7%, C.RATE +7, CRI +10.\nAt refine +7: ATK +3%.\nAt refine +9: ATK +5%, variable cast time -5%.\nAt refine +12: Melee and ranged physical damage +5%, critical damage +10%.\n^ffffff_^000000\nWhen equipped with Black Flame Critical Suit, melee and ranged physical damage +10%, critical damage +10%, physical damage to all race monsters increases by the sum of refine levels (excluding players). If Black Flame Critical Suit and Black Dragon Critical Ring are both Grade A or higher, additional physical damage to all race monsters +15% (excluding players).\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] POW +3, CRT +3.\n[C Grade] C.RATE +5.\n[B Grade] CRI +5, critical damage +5%.\n[A Grade] Per 2 refine levels: physical damage to enemies of all elements +3%.\nType: ^777777Accessory (Right)^000000  Defense: ^7777770^000000\nWeight: ^77777720^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777275^000000\nJobs: ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 275,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "isRefinable": true,
+    "script": {
+      "atkPercent": [
+        "7",
+        "7===3",
+        "9===5"
+      ],
+      "cRate": [
+        "7",
+        "GRADE[me==C]===5"
+      ],
+      "cri": [
+        "10",
+        "GRADE[me==B]===5"
+      ],
+      "vct": [
+        "9===5"
+      ],
+      "melee": [
+        "12===5",
+        "EQUIP[Black Flame Critical Suit]===10"
+      ],
+      "range": [
+        "12===5",
+        "EQUIP[Black Flame Critical Suit]===10"
+      ],
+      "criDmg": [
+        "12===10",
+        "EQUIP[Black Flame Critical Suit]===10",
+        "GRADE[me==B]===5"
+      ],
+      "p_race_all": [
+        "EQUIP[Black Flame Critical Suit]REFINE[armor,accRight==1]---1",
+        "EQUIP[Black Flame Critical Suit]GRADE[armor==A]GRADE[me==A]===15"
+      ],
+      "pow": [
+        "GRADE[me==D]===3"
+      ],
+      "crt": [
+        "GRADE[me==D]===3"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "491021": {
+    "id": 491021,
+    "aegisName": "Black_D_Spl_Ring",
+    "flavorText": null,
+    "name": "Black Dragon Magic Ring [1]",
+    "unidName": null,
+    "resName": "Black_D_Spl_Ring",
+    "unidResName": null,
+    "description": "Magic ring imbued with the authority of the constellation.\nIt reflects the taste of the one who granted that authority.\n^ffffff_^000000\n[Refinable]\nMATK +10%, S.MATK +7.\nAt refine +7: MATK +3%.\nAt refine +9: MATK +5%, variable cast time -5%.\nAt refine +12: Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +7%, MSP +5%.\n^ffffff_^000000\nWhen equipped with Black Flame Magic Robe, Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +10%, S.MATK +5, magic damage to all race monsters increases by the sum of refine levels (excluding players). If Black Flame Magic Robe and Black Dragon Magic Ring are both Grade A or higher, additional magic damage to all race monsters +15% (excluding players).\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] SPL +3, CON +3.\n[C Grade] S.MATK +5.\n[B Grade] Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +5%.\n[A Grade] Per 2 refine levels: magic damage to enemies of all elements +3%.\nType: ^777777Accessory (Right)^000000  Defense: ^7777770^000000\nWeight: ^77777720^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777275^000000\nJobs: ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 275,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "isRefinable": true,
+    "script": {
+      "matkPercent": [
+        "10",
+        "7===3",
+        "9===5"
+      ],
+      "sMatk": [
+        "7",
+        "EQUIP[Black Flame Magic Robe]===5",
+        "GRADE[me==C]===5"
+      ],
+      "vct": [
+        "9===5"
+      ],
+      "m_my_element_fire": [
+        "12===7",
+        "EQUIP[Black Flame Magic Robe]===10",
+        "GRADE[me==B]===5"
+      ],
+      "m_my_element_neutral": [
+        "12===7",
+        "EQUIP[Black Flame Magic Robe]===10",
+        "GRADE[me==B]===5"
+      ],
+      "m_my_element_holy": [
+        "12===7",
+        "EQUIP[Black Flame Magic Robe]===10",
+        "GRADE[me==B]===5"
+      ],
+      "m_my_element_wind": [
+        "12===7",
+        "EQUIP[Black Flame Magic Robe]===10",
+        "GRADE[me==B]===5"
+      ],
+      "m_my_element_dark": [
+        "12===7",
+        "EQUIP[Black Flame Magic Robe]===10",
+        "GRADE[me==B]===5"
+      ],
+      "m_my_element_ghost": [
+        "12===7",
+        "EQUIP[Black Flame Magic Robe]===10",
+        "GRADE[me==B]===5"
+      ],
+      "m_my_element_undead": [
+        "12===7",
+        "EQUIP[Black Flame Magic Robe]===10",
+        "GRADE[me==B]===5"
+      ],
+      "spPercent": [
+        "12===5"
+      ],
+      "m_race_all": [
+        "EQUIP[Black Flame Magic Robe]REFINE[armor,accRight==1]---1",
+        "EQUIP[Black Flame Magic Robe]GRADE[armor==A]GRADE[me==A]===15"
+      ],
+      "spl": [
+        "GRADE[me==D]===3"
+      ],
+      "con": [
+        "GRADE[me==D]===3"
+      ],
+      "m_element_all": [
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "491022": {
+    "id": 491022,
+    "aegisName": "Black_D_Wis_Ring",
+    "flavorText": null,
+    "name": "Black Dragon Wisdom Ring [1]",
+    "unidName": null,
+    "resName": "Black_D_Wis_Ring",
+    "unidResName": null,
+    "description": "Wisdom ring imbued with the authority of the constellation.\nIt reflects the taste of the one who granted that authority.\n^ffffff_^000000\n[Refinable]\nMATK +10%, S.MATK +7.\nAt refine +7: MATK +3%.\nAt refine +9: MATK +5%, variable cast time -5%.\nAt refine +12: Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +7%, MSP +5%.\n^ffffff_^000000\nWhen equipped with Black Flame Wisdom Robe, Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +10%, S.MATK +5, magic damage to all race monsters increases by the sum of refine levels (excluding players). If Black Flame Wisdom Robe and Black Dragon Wisdom Ring are both Grade A or higher, additional magic damage to all race monsters +15% (excluding players).\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] SPL +3, CON +3.\n[C Grade] S.MATK +5.\n[B Grade] Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +5%.\n[A Grade] Per 2 refine levels: magic damage to enemies of all elements +3%.\nType: ^777777Accessory (Right)^000000  Defense: ^7777770^000000\nWeight: ^77777720^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777275^000000\nJobs: ^777777All Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": 2,
+    "attack": null,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 275,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "isRefinable": true,
+    "script": {
+      "matkPercent": [
+        "10",
+        "7===3",
+        "9===5"
+      ],
+      "sMatk": [
+        "7",
+        "EQUIP[Black Flame Wisdom Robe]===5",
+        "GRADE[me==C]===5"
+      ],
+      "vct": [
+        "9===5"
+      ],
+      "m_my_element_water": [
+        "12===7",
+        "EQUIP[Black Flame Wisdom Robe]===10",
+        "GRADE[me==B]===5"
+      ],
+      "m_my_element_wind": [
+        "12===7",
+        "EQUIP[Black Flame Wisdom Robe]===10",
+        "GRADE[me==B]===5"
+      ],
+      "m_my_element_earth": [
+        "12===7",
+        "EQUIP[Black Flame Wisdom Robe]===10",
+        "GRADE[me==B]===5"
+      ],
+      "m_my_element_fire": [
+        "12===7",
+        "EQUIP[Black Flame Wisdom Robe]===10",
+        "GRADE[me==B]===5"
+      ],
+      "m_my_element_poison": [
+        "12===7",
+        "EQUIP[Black Flame Wisdom Robe]===10",
+        "GRADE[me==B]===5"
+      ],
+      "m_my_element_dark": [
+        "12===7",
+        "EQUIP[Black Flame Wisdom Robe]===10",
+        "GRADE[me==B]===5"
+      ],
+      "m_my_element_neutral": [
+        "12===7",
+        "EQUIP[Black Flame Wisdom Robe]===10",
+        "GRADE[me==B]===5"
+      ],
+      "spPercent": [
+        "12===5"
+      ],
+      "m_race_all": [
+        "EQUIP[Black Flame Wisdom Robe]REFINE[armor,accRight==1]---1",
+        "EQUIP[Black Flame Wisdom Robe]GRADE[armor==A]GRADE[me==A]===15"
+      ],
+      "spl": [
+        "GRADE[me==D]===3"
+      ],
+      "con": [
+        "GRADE[me==D]===3"
+      ],
+      "m_element_all": [
+        "GRADE[me==A]2---3"
+      ]
+    }
+  },
+  "315171": {
+    "id": 315171,
+    "aegisName": "Power_1",
+    "flavorText": null,
+    "name": "POW+1",
+    "unidName": null,
+    "resName": "용의보주_황",
+    "unidResName": null,
+    "description": "POW + 1.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "pow": [
+        "1"
+      ]
+    }
+  },
+  "315172": {
+    "id": 315172,
+    "aegisName": "Power_2",
+    "flavorText": null,
+    "name": "POW+2",
+    "unidName": null,
+    "resName": "용의보주_황",
+    "unidResName": null,
+    "description": "POW + 2.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "pow": [
+        "2"
+      ]
+    }
+  },
+  "315173": {
+    "id": 315173,
+    "aegisName": "Power_3",
+    "flavorText": null,
+    "name": "POW+3",
+    "unidName": null,
+    "resName": "용의보주_황",
+    "unidResName": null,
+    "description": "POW + 3.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "pow": [
+        "3"
+      ]
+    }
+  },
+  "315174": {
+    "id": 315174,
+    "aegisName": "Spell_1",
+    "flavorText": null,
+    "name": "SPL+1",
+    "unidName": null,
+    "resName": "용의보주_황",
+    "unidResName": null,
+    "description": "SPL + 1.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "spl": [
+        "1"
+      ]
+    }
+  },
+  "315175": {
+    "id": 315175,
+    "aegisName": "Spell_2",
+    "flavorText": null,
+    "name": "SPL+2",
+    "unidName": null,
+    "resName": "용의보주_황",
+    "unidResName": null,
+    "description": "SPL + 2.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "spl": [
+        "2"
+      ]
+    }
+  },
+  "315176": {
+    "id": 315176,
+    "aegisName": "Spell_3",
+    "flavorText": null,
+    "name": "SPL+3",
+    "unidName": null,
+    "resName": "용의보주_황",
+    "unidResName": null,
+    "description": "SPL + 3.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "spl": [
+        "3"
+      ]
+    }
+  },
+  "315177": {
+    "id": 315177,
+    "aegisName": "Concentration_1",
+    "flavorText": null,
+    "name": "CON+1",
+    "unidName": null,
+    "resName": "용의보주_황",
+    "unidResName": null,
+    "description": "CON + 1.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "con": [
+        "1"
+      ]
+    }
+  },
+  "315178": {
+    "id": 315178,
+    "aegisName": "Concentration_2",
+    "flavorText": null,
+    "name": "CON+2",
+    "unidName": null,
+    "resName": "용의보주_황",
+    "unidResName": null,
+    "description": "CON + 2.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "con": [
+        "2"
+      ]
+    }
+  },
+  "315179": {
+    "id": 315179,
+    "aegisName": "Concentration_3",
+    "flavorText": null,
+    "name": "CON+3",
+    "unidName": null,
+    "resName": "용의보주_황",
+    "unidResName": null,
+    "description": "CON + 3.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "con": [
+        "3"
+      ]
+    }
+  },
+  "315180": {
+    "id": 315180,
+    "aegisName": "Stamina_1",
+    "flavorText": null,
+    "name": "STA+1",
+    "unidName": null,
+    "resName": "용의보주_황",
+    "unidResName": null,
+    "description": "STA + 1.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "sta": [
+        "1"
+      ]
+    }
+  },
+  "315181": {
+    "id": 315181,
+    "aegisName": "Stamina_2",
+    "flavorText": null,
+    "name": "STA+2",
+    "unidName": null,
+    "resName": "용의보주_황",
+    "unidResName": null,
+    "description": "STA + 2.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "sta": [
+        "2"
+      ]
+    }
+  },
+  "315182": {
+    "id": 315182,
+    "aegisName": "Stamina_3",
+    "flavorText": null,
+    "name": "STA+3",
+    "unidName": null,
+    "resName": "용의보주_황",
+    "unidResName": null,
+    "description": "STA + 3.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "sta": [
+        "3"
+      ]
+    }
+  },
+  "315183": {
+    "id": 315183,
+    "aegisName": "Wisdom_1",
+    "flavorText": null,
+    "name": "WIS+1",
+    "unidName": null,
+    "resName": "용의보주_황",
+    "unidResName": null,
+    "description": "WIS + 1.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "wis": [
+        "1"
+      ]
+    }
+  },
+  "315184": {
+    "id": 315184,
+    "aegisName": "Wisdom_2",
+    "flavorText": null,
+    "name": "WIS+2",
+    "unidName": null,
+    "resName": "용의보주_황",
+    "unidResName": null,
+    "description": "WIS + 2.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "wis": [
+        "2"
+      ]
+    }
+  },
+  "315185": {
+    "id": 315185,
+    "aegisName": "Wisdom_3",
+    "flavorText": null,
+    "name": "WIS+3",
+    "unidName": null,
+    "resName": "용의보주_황",
+    "unidResName": null,
+    "description": "WIS + 3.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "wis": [
+        "3"
+      ]
+    }
+  },
+  "315186": {
+    "id": 315186,
+    "aegisName": "Creative_1",
+    "flavorText": null,
+    "name": "CRT+1",
+    "unidName": null,
+    "resName": "용의보주_황",
+    "unidResName": null,
+    "description": "CRT + 1.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "crt": [
+        "1"
+      ]
+    }
+  },
+  "315187": {
+    "id": 315187,
+    "aegisName": "Creative_2",
+    "flavorText": null,
+    "name": "CRT+2",
+    "unidName": null,
+    "resName": "용의보주_황",
+    "unidResName": null,
+    "description": "CRT + 2.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "crt": [
+        "2"
+      ]
+    }
+  },
+  "315188": {
+    "id": 315188,
+    "aegisName": "Creative_3",
+    "flavorText": null,
+    "name": "CRT+3",
+    "unidName": null,
+    "resName": "용의보주_황",
+    "unidResName": null,
+    "description": "CRT + 3.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "crt": [
+        "3"
+      ]
+    }
+  },
+  "315189": {
+    "id": 315189,
+    "aegisName": "Con_Button_1",
+    "flavorText": null,
+    "name": "Concentration Button Lv.1",
+    "unidName": null,
+    "resName": "Con_Button",
+    "unidResName": null,
+    "description": "HIT +10, hit physical damage +4%.\nAt refine +9: additional hit physical damage +4%.\nAt refine +11: additional hit physical damage +6%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hit": [
+        "10"
+      ],
+      "hitDmg": [
+        "4",
+        "9===4",
+        "11===6"
+      ]
+    }
+  },
+  "315190": {
+    "id": 315190,
+    "aegisName": "Con_Button_2",
+    "flavorText": null,
+    "name": "Concentration Button Lv.2",
+    "unidName": null,
+    "resName": "Con_Button",
+    "unidResName": null,
+    "description": "HIT +20, hit physical damage +7%.\nAt refine +9: additional hit physical damage +8%.\nAt refine +11: additional hit physical damage +12%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hit": [
+        "20"
+      ],
+      "hitDmg": [
+        "7",
+        "9===8",
+        "11===12"
+      ]
+    }
+  },
+  "315191": {
+    "id": 315191,
+    "aegisName": "Con_Button_3",
+    "flavorText": null,
+    "name": "Concentration Button Lv.3",
+    "unidName": null,
+    "resName": "Con_Button",
+    "unidResName": null,
+    "description": "HIT +35, hit physical damage +10%.\nAt refine +9: additional hit physical damage +12%.\nAt refine +11: additional hit physical damage +18%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hit": [
+        "35"
+      ],
+      "hitDmg": [
+        "10",
+        "9===12",
+        "11===18"
+      ]
+    }
+  },
+  "315192": {
+    "id": 315192,
+    "aegisName": "Health_Button_1",
+    "flavorText": null,
+    "name": "Health Button Lv.1",
+    "unidName": null,
+    "resName": "Health_Button",
+    "unidResName": null,
+    "description": "MHP +3%.\nAt refine +9: additional MHP +4%.\nAt refine +11: additional MHP +8%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hpPercent": [
+        "3",
+        "9===4",
+        "11===8"
+      ]
+    }
+  },
+  "315193": {
+    "id": 315193,
+    "aegisName": "Health_Button_2",
+    "flavorText": null,
+    "name": "Health Button Lv.2",
+    "unidName": null,
+    "resName": "Health_Button",
+    "unidResName": null,
+    "description": "MHP +6%.\nAt refine +9: additional MHP +7%.\nAt refine +11: additional MHP +10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hpPercent": [
+        "6",
+        "9===7",
+        "11===10"
+      ]
+    }
+  },
+  "315194": {
+    "id": 315194,
+    "aegisName": "Health_Button_3",
+    "flavorText": null,
+    "name": "Health Button Lv.3",
+    "unidName": null,
+    "resName": "Health_Button",
+    "unidResName": null,
+    "description": "MHP +9%.\nAt refine +9: additional MHP +10%.\nAt refine +11: additional MHP +12%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hpPercent": [
+        "9",
+        "9===10",
+        "11===12"
+      ]
+    }
+  },
+  "315195": {
+    "id": 315195,
+    "aegisName": "Fatal_Button_1",
+    "flavorText": null,
+    "name": "Fatal Button Lv.1",
+    "unidName": null,
+    "resName": "Fatal_Button",
+    "unidResName": null,
+    "description": "CRI +5, critical damage +4%.\nAt refine +9: additional critical damage +4%.\nAt refine +11: additional critical damage +6%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "cri": [
+        "5"
+      ],
+      "criDmg": [
+        "4",
+        "9===4",
+        "11===6"
+      ]
+    }
+  },
+  "315196": {
+    "id": 315196,
+    "aegisName": "Fatal_Button_2",
+    "flavorText": null,
+    "name": "Fatal Button Lv.2",
+    "unidName": null,
+    "resName": "Fatal_Button",
+    "unidResName": null,
+    "description": "CRI +10, critical damage +7%.\nAt refine +9: additional critical damage +8%.\nAt refine +11: additional critical damage +12%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "cri": [
+        "10"
+      ],
+      "criDmg": [
+        "7",
+        "9===8",
+        "11===12"
+      ]
+    }
+  },
+  "315197": {
+    "id": 315197,
+    "aegisName": "Fatal_Button_3",
+    "flavorText": null,
+    "name": "Fatal Button Lv.3",
+    "unidName": null,
+    "resName": "Fatal_Button",
+    "unidResName": null,
+    "description": "CRI +15, critical damage +10%.\nAt refine +9: additional critical damage +12%.\nAt refine +11: additional critical damage +18%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "cri": [
+        "15"
+      ],
+      "criDmg": [
+        "10",
+        "9===12",
+        "11===18"
+      ]
+    }
+  },
+  "315198": {
+    "id": 315198,
+    "aegisName": "M_Essen_Button_1",
+    "flavorText": null,
+    "name": "Mystic Button Lv.1",
+    "unidName": null,
+    "resName": "M_Essen_Button",
+    "unidResName": null,
+    "description": "MATK +10, all element magic damage +3%.\nAt refine +9: additional all element magic damage +4%.\nAt refine +11: additional all element magic damage +9%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matk": [
+        "10"
+      ],
+      "m_my_element_all": [
+        "3",
+        "9===4",
+        "11===9"
+      ]
+    }
+  },
+  "315199": {
+    "id": 315199,
+    "aegisName": "M_Essen_Button_2",
+    "flavorText": null,
+    "name": "Mystic Button Lv.2",
+    "unidName": null,
+    "resName": "M_Essen_Button",
+    "unidResName": null,
+    "description": "MATK +20, all element magic damage +5%.\nAt refine +9: additional all element magic damage +7%.\nAt refine +11: additional all element magic damage +12%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matk": [
+        "20"
+      ],
+      "m_my_element_all": [
+        "5",
+        "9===7",
+        "11===12"
+      ]
+    }
+  },
+  "315200": {
+    "id": 315200,
+    "aegisName": "M_Essen_Button_3",
+    "flavorText": null,
+    "name": "Mystic Button Lv.3",
+    "unidName": null,
+    "resName": "M_Essen_Button",
+    "unidResName": null,
+    "description": "MATK +35, all element magic damage +7%.\nAt refine +9: additional all element magic damage +10%.\nAt refine +11: additional all element magic damage +15%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matk": [
+        "35"
+      ],
+      "m_my_element_all": [
+        "7",
+        "9===10",
+        "11===15"
+      ]
+    }
+  },
+  "315201": {
+    "id": 315201,
+    "aegisName": "Intellic_Button_1",
+    "flavorText": null,
+    "name": "Intelligence Button Lv.1",
+    "unidName": null,
+    "resName": "Intellic_Button",
+    "unidResName": null,
+    "description": "MSP +2%, variable cast time -3%.\nAt refine +9: additional MSP +2%.\nAt refine +11: additional variable cast time -3%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "spPercent": [
+        "2",
+        "9===2"
+      ],
+      "vct": [
+        "3",
+        "11===3"
+      ]
+    }
+  },
+  "315202": {
+    "id": 315202,
+    "aegisName": "Intellic_Button_2",
+    "flavorText": null,
+    "name": "Intelligence Button Lv.2",
+    "unidName": null,
+    "resName": "Intellic_Button",
+    "unidResName": null,
+    "description": "MSP +4%, variable cast time -5%.\nAt refine +9: additional MSP +4%.\nAt refine +11: additional variable cast time -5%, global cooldown -2%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "spPercent": [
+        "4",
+        "9===4"
+      ],
+      "vct": [
+        "5",
+        "11===5"
+      ],
+      "acd": [
+        "11===2"
+      ]
+    }
+  },
+  "315203": {
+    "id": 315203,
+    "aegisName": "Intellic_Button_3",
+    "flavorText": null,
+    "name": "Intelligence Button Lv.3",
+    "unidName": null,
+    "resName": "Intellic_Button",
+    "unidResName": null,
+    "description": "MSP +6%, variable cast time -5%.\nAt refine +9: additional MSP +7%.\nAt refine +11: additional variable cast time -10%, global cooldown -5%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "spPercent": [
+        "6",
+        "9===7"
+      ],
+      "vct": [
+        "5",
+        "11===10"
+      ],
+      "acd": [
+        "11===5"
+      ]
+    }
+  },
+  "315204": {
+    "id": 315204,
+    "aegisName": "Agile_Button_1",
+    "flavorText": null,
+    "name": "Agility Button Lv.1",
+    "unidName": null,
+    "resName": "Agile_Button",
+    "unidResName": null,
+    "description": "Increases attack speed (attack delay -3%), variable cast time -3%.\nAt refine +9: additional attack speed increase (attack delay -2%).\nAt refine +11: additional variable cast time -3%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "aspdPercent": [
+        "3",
+        "9===2"
+      ],
+      "vct": [
+        "3",
+        "11===3"
+      ]
+    }
+  },
+  "315205": {
+    "id": 315205,
+    "aegisName": "Agile_Button_2",
+    "flavorText": null,
+    "name": "Agility Button Lv.2",
+    "unidName": null,
+    "resName": "Agile_Button",
+    "unidResName": null,
+    "description": "Increases attack speed (attack delay -5%), variable cast time -5%.\nAt refine +9: additional attack speed increase (attack delay -7%).\nAt refine +11: additional variable cast time -5%, ASPD +1.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "aspdPercent": [
+        "5",
+        "9===7"
+      ],
+      "vct": [
+        "5",
+        "11===5"
+      ],
+      "aspd": [
+        "11===1"
+      ]
+    }
+  },
+  "315206": {
+    "id": 315206,
+    "aegisName": "Agile_Button_3",
+    "flavorText": null,
+    "name": "Agility Button Lv.3",
+    "unidName": null,
+    "resName": "Agile_Button",
+    "unidResName": null,
+    "description": "Increases attack speed (attack delay -5%), variable cast time -5%.\nAt refine +9: additional attack speed increase (attack delay -10%).\nAt refine +11: additional variable cast time -10%, ASPD +2.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "aspdPercent": [
+        "5",
+        "9===10"
+      ],
+      "vct": [
+        "5",
+        "11===10"
+      ],
+      "aspd": [
+        "11===2"
+      ]
+    }
+  },
+  "315207": {
+    "id": 315207,
+    "aegisName": "Pow_Brooch_1",
+    "flavorText": null,
+    "name": "Power Brooch Lv.1",
+    "unidName": null,
+    "resName": "Pow_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ATK +14, P.ATK +2.\nPer 3 refine level: melee physical damage +4%.\nIf Grade D: ATK +20.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "2---14",
+        "GRADE[me==D]===20"
+      ],
+      "pAtk": [
+        "2---2"
+      ],
+      "melee": [
+        "3---4"
+      ]
+    }
+  },
+  "315208": {
+    "id": 315208,
+    "aegisName": "Pow_Brooch_2",
+    "flavorText": null,
+    "name": "Power Brooch Lv.2",
+    "unidName": null,
+    "resName": "Pow_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ATK +16, P.ATK +3.\nPer 3 refine level: melee physical damage +6%.\nIf Grade D: ATK +20.\nIf Grade C: P.ATK +7.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "2---16",
+        "GRADE[me==D]===20"
+      ],
+      "pAtk": [
+        "2---3",
+        "GRADE[me==C]===7"
+      ],
+      "melee": [
+        "3---6"
+      ]
+    }
+  },
+  "315209": {
+    "id": 315209,
+    "aegisName": "Pow_Brooch_3",
+    "flavorText": null,
+    "name": "Power Brooch Lv.3",
+    "unidName": null,
+    "resName": "Pow_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ATK +18, P.ATK +4.\nPer 3 refine level: melee physical damage +8%.\nIf Grade D: ATK +20.\nIf Grade C: P.ATK +7.\nIf Grade B: ATK +30, P.ATK +7.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "2---18",
+        "GRADE[me==D]===20",
+        "GRADE[me==B]===30"
+      ],
+      "pAtk": [
+        "2---4",
+        "GRADE[me==C]===7",
+        "GRADE[me==B]===7"
+      ],
+      "melee": [
+        "3---8"
+      ]
+    }
+  },
+  "315210": {
+    "id": 315210,
+    "aegisName": "Pow_Brooch_4",
+    "flavorText": null,
+    "name": "Power Brooch Lv.4",
+    "unidName": null,
+    "resName": "Pow_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ATK +20, P.ATK +5.\nPer 3 refine level: melee physical damage +10%.\nIf Grade D: ATK +20.\nIf Grade C: P.ATK +7.\nIf Grade B: ATK +30, P.ATK +7.\nIf Grade A: P.ATK +3, melee physical damage +8%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "2---20",
+        "GRADE[me==D]===20",
+        "GRADE[me==B]===30"
+      ],
+      "pAtk": [
+        "2---5",
+        "GRADE[me==C]===7",
+        "GRADE[me==B]===7",
+        "GRADE[me==A]===3"
+      ],
+      "melee": [
+        "3---10",
+        "GRADE[me==A]===8"
+      ]
+    }
+  },
+  "315211": {
+    "id": 315211,
+    "aegisName": "Pow_Brooch_5",
+    "flavorText": null,
+    "name": "Power Brooch Lv.5",
+    "unidName": null,
+    "resName": "Pow_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ATK +25, P.ATK +7.\nPer 3 refine level: melee physical damage +12%.\nIf Grade D: ATK +25.\nIf Grade C: P.ATK +10.\nIf Grade B: ATK +30, P.ATK +10.\nIf Grade A: P.ATK +7, melee physical damage +18%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "2---25",
+        "GRADE[me==D]===25",
+        "GRADE[me==B]===30"
+      ],
+      "pAtk": [
+        "2---7",
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===10",
+        "GRADE[me==A]===7"
+      ],
+      "melee": [
+        "3---12",
+        "GRADE[me==A]===18"
+      ]
+    }
+  },
+  "315212": {
+    "id": 315212,
+    "aegisName": "Dex_Brooch_1",
+    "flavorText": null,
+    "name": "Dexterity Brooch Lv.1",
+    "unidName": null,
+    "resName": "Dex_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ATK +14, P.ATK +2.\nPer 3 refine level: ranged physical damage +4%.\nIf Grade D: ATK +20.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "2---14",
+        "GRADE[me==D]===20"
+      ],
+      "pAtk": [
+        "2---2"
+      ],
+      "range": [
+        "3---4"
+      ]
+    }
+  },
+  "315213": {
+    "id": 315213,
+    "aegisName": "Dex_Brooch_2",
+    "flavorText": null,
+    "name": "Dexterity Brooch Lv.2",
+    "unidName": null,
+    "resName": "Dex_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ATK +16, P.ATK +3.\nPer 3 refine level: ranged physical damage +6%.\nIf Grade D: ATK +20.\nIf Grade C: P.ATK +7.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "2---16",
+        "GRADE[me==D]===20"
+      ],
+      "pAtk": [
+        "2---3",
+        "GRADE[me==C]===7"
+      ],
+      "range": [
+        "3---6"
+      ]
+    }
+  },
+  "315214": {
+    "id": 315214,
+    "aegisName": "Dex_Brooch_3",
+    "flavorText": null,
+    "name": "Dexterity Brooch Lv.3",
+    "unidName": null,
+    "resName": "Dex_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ATK +18, P.ATK +4.\nPer 3 refine level: ranged physical damage +8%.\nIf Grade D: ATK +20.\nIf Grade C: P.ATK +7.\nIf Grade B: ATK +30, P.ATK +7.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "2---18",
+        "GRADE[me==D]===20",
+        "GRADE[me==B]===30"
+      ],
+      "pAtk": [
+        "2---4",
+        "GRADE[me==C]===7",
+        "GRADE[me==B]===7"
+      ],
+      "range": [
+        "3---8"
+      ]
+    }
+  },
+  "315215": {
+    "id": 315215,
+    "aegisName": "Dex_Brooch_4",
+    "flavorText": null,
+    "name": "Dexterity Brooch Lv.4",
+    "unidName": null,
+    "resName": "Dex_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ATK +20, P.ATK +5.\nPer 3 refine level: ranged physical damage +10%.\nIf Grade D: ATK +20.\nIf Grade C: P.ATK +7.\nIf Grade B: ATK +30, P.ATK +7.\nIf Grade A: P.ATK +3, ranged physical damage +8%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "2---20",
+        "GRADE[me==D]===20",
+        "GRADE[me==B]===30"
+      ],
+      "pAtk": [
+        "2---5",
+        "GRADE[me==C]===7",
+        "GRADE[me==B]===7",
+        "GRADE[me==A]===3"
+      ],
+      "range": [
+        "3---10",
+        "GRADE[me==A]===8"
+      ]
+    }
+  },
+  "315216": {
+    "id": 315216,
+    "aegisName": "Dex_Brooch_5",
+    "flavorText": null,
+    "name": "Dexterity Brooch Lv.5",
+    "unidName": null,
+    "resName": "Dex_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ATK +25, P.ATK +7.\nPer 3 refine level: ranged physical damage +12%.\nIf Grade D: ATK +25.\nIf Grade C: P.ATK +10.\nIf Grade B: ATK +30, P.ATK +10.\nIf Grade A: P.ATK +7, ranged physical damage +18%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "2---25",
+        "GRADE[me==D]===25",
+        "GRADE[me==B]===30"
+      ],
+      "pAtk": [
+        "2---7",
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===10",
+        "GRADE[me==A]===7"
+      ],
+      "range": [
+        "3---12",
+        "GRADE[me==A]===18"
+      ]
+    }
+  },
+  "315217": {
+    "id": 315217,
+    "aegisName": "Lucky_Brooch_1",
+    "flavorText": null,
+    "name": "Luck Brooch Lv.1",
+    "unidName": null,
+    "resName": "Lucky_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ATK +10, P.ATK +2, C.RATE +1.\nPer 3 refine level: critical damage +6%.\nIf Grade D: ATK +20.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "2---10",
+        "GRADE[me==D]===20"
+      ],
+      "pAtk": [
+        "2---2"
+      ],
+      "cRate": [
+        "2---1"
+      ],
+      "criDmg": [
+        "3---6"
+      ]
+    }
+  },
+  "315218": {
+    "id": 315218,
+    "aegisName": "Lucky_Brooch_2",
+    "flavorText": null,
+    "name": "Luck Brooch Lv.2",
+    "unidName": null,
+    "resName": "Lucky_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ATK +12, P.ATK +3, C.RATE +1.\nPer 3 refine level: critical damage +8%.\nIf Grade D: ATK +20.\nIf Grade C: P.ATK +7.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "2---12",
+        "GRADE[me==D]===20"
+      ],
+      "pAtk": [
+        "2---3",
+        "GRADE[me==C]===7"
+      ],
+      "cRate": [
+        "2---1"
+      ],
+      "criDmg": [
+        "3---8"
+      ]
+    }
+  },
+  "315219": {
+    "id": 315219,
+    "aegisName": "Lucky_Brooch_3",
+    "flavorText": null,
+    "name": "Luck Brooch Lv.3",
+    "unidName": null,
+    "resName": "Lucky_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ATK +14, P.ATK +4, C.RATE +2.\nPer 3 refine level: critical damage +10%.\nIf Grade D: ATK +20.\nIf Grade C: P.ATK +7.\nIf Grade B: ATK +30, C.RATE +7.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "2---14",
+        "GRADE[me==D]===20",
+        "GRADE[me==B]===30"
+      ],
+      "pAtk": [
+        "2---4",
+        "GRADE[me==C]===7"
+      ],
+      "cRate": [
+        "2---2",
+        "GRADE[me==B]===7"
+      ],
+      "criDmg": [
+        "3---10"
+      ]
+    }
+  },
+  "315220": {
+    "id": 315220,
+    "aegisName": "Lucky_Brooch_4",
+    "flavorText": null,
+    "name": "Luck Brooch Lv.4",
+    "unidName": null,
+    "resName": "Lucky_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ATK +16, P.ATK +5, C.RATE +3.\nPer 3 refine level: critical damage +12%.\nIf Grade D: ATK +20.\nIf Grade C: P.ATK +7.\nIf Grade B: ATK +30, C.RATE +7.\nIf Grade A: P.ATK +3, critical damage +10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "2---16",
+        "GRADE[me==D]===20",
+        "GRADE[me==B]===30"
+      ],
+      "pAtk": [
+        "2---5",
+        "GRADE[me==C]===7",
+        "GRADE[me==A]===3"
+      ],
+      "cRate": [
+        "2---3",
+        "GRADE[me==B]===7"
+      ],
+      "criDmg": [
+        "3---12",
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "315221": {
+    "id": 315221,
+    "aegisName": "Lucky_Brooch_5",
+    "flavorText": null,
+    "name": "Luck Brooch Lv.5",
+    "unidName": null,
+    "resName": "Lucky_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ATK +20, P.ATK +6, C.RATE +3.\nPer 3 refine level: critical damage +15%.\nIf Grade D: ATK +25.\nIf Grade C: P.ATK +10.\nIf Grade B: ATK +30, C.RATE +10.\nIf Grade A: P.ATK +7, critical damage +20%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "2---20",
+        "GRADE[me==D]===25",
+        "GRADE[me==B]===30"
+      ],
+      "pAtk": [
+        "2---6",
+        "GRADE[me==C]===10",
+        "GRADE[me==A]===7"
+      ],
+      "cRate": [
+        "2---3",
+        "GRADE[me==B]===10"
+      ],
+      "criDmg": [
+        "3---15",
+        "GRADE[me==A]===20"
+      ]
+    }
+  },
+  "315222": {
+    "id": 315222,
+    "aegisName": "Magical_Brooch_1",
+    "flavorText": null,
+    "name": "Magic Brooch Lv.1",
+    "unidName": null,
+    "resName": "Magical_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: MATK +14, S.MATK +2.\nPer 3 refine level: Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +4%.\nIf Grade D: MATK +20.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matk": [
+        "2---14",
+        "GRADE[me==D]===20"
+      ],
+      "sMatk": [
+        "2---2"
+      ],
+      "m_my_element_fire": [
+        "3---4"
+      ],
+      "m_my_element_neutral": [
+        "3---4"
+      ],
+      "m_my_element_holy": [
+        "3---4"
+      ],
+      "m_my_element_wind": [
+        "3---4"
+      ],
+      "m_my_element_dark": [
+        "3---4"
+      ],
+      "m_my_element_ghost": [
+        "3---4"
+      ],
+      "m_my_element_undead": [
+        "3---4"
+      ]
+    }
+  },
+  "315223": {
+    "id": 315223,
+    "aegisName": "Magical_Brooch_2",
+    "flavorText": null,
+    "name": "Magic Brooch Lv.2",
+    "unidName": null,
+    "resName": "Magical_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: MATK +16, S.MATK +3.\nPer 3 refine level: Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +6%.\nIf Grade D: MATK +20.\nIf Grade C: S.MATK +7.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matk": [
+        "2---16",
+        "GRADE[me==D]===20"
+      ],
+      "sMatk": [
+        "2---3",
+        "GRADE[me==C]===7"
+      ],
+      "m_my_element_fire": [
+        "3---6"
+      ],
+      "m_my_element_neutral": [
+        "3---6"
+      ],
+      "m_my_element_holy": [
+        "3---6"
+      ],
+      "m_my_element_wind": [
+        "3---6"
+      ],
+      "m_my_element_dark": [
+        "3---6"
+      ],
+      "m_my_element_ghost": [
+        "3---6"
+      ],
+      "m_my_element_undead": [
+        "3---6"
+      ]
+    }
+  },
+  "315224": {
+    "id": 315224,
+    "aegisName": "Magical_Brooch_3",
+    "flavorText": null,
+    "name": "Magic Brooch Lv.3",
+    "unidName": null,
+    "resName": "Magical_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: MATK +18, S.MATK +4.\nPer 3 refine level: Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +8%.\nIf Grade D: MATK +20.\nIf Grade C: S.MATK +7.\nIf Grade B: MATK +30, S.MATK +7.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matk": [
+        "2---18",
+        "GRADE[me==D]===20",
+        "GRADE[me==B]===30"
+      ],
+      "sMatk": [
+        "2---4",
+        "GRADE[me==C]===7",
+        "GRADE[me==B]===7"
+      ],
+      "m_my_element_fire": [
+        "3---8"
+      ],
+      "m_my_element_neutral": [
+        "3---8"
+      ],
+      "m_my_element_holy": [
+        "3---8"
+      ],
+      "m_my_element_wind": [
+        "3---8"
+      ],
+      "m_my_element_dark": [
+        "3---8"
+      ],
+      "m_my_element_ghost": [
+        "3---8"
+      ],
+      "m_my_element_undead": [
+        "3---8"
+      ]
+    }
+  },
+  "315225": {
+    "id": 315225,
+    "aegisName": "Magical_Brooch_4",
+    "flavorText": null,
+    "name": "Magic Brooch Lv.4",
+    "unidName": null,
+    "resName": "Magical_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: MATK +20, S.MATK +5.\nPer 3 refine level: Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +10%.\nIf Grade D: MATK +20.\nIf Grade C: S.MATK +7.\nIf Grade B: MATK +30, S.MATK +7.\nIf Grade A: S.MATK +3, Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +8%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matk": [
+        "2---20",
+        "GRADE[me==D]===20",
+        "GRADE[me==B]===30"
+      ],
+      "sMatk": [
+        "2---5",
+        "GRADE[me==C]===7",
+        "GRADE[me==B]===7",
+        "GRADE[me==A]===3"
+      ],
+      "m_my_element_fire": [
+        "3---10",
+        "GRADE[me==A]===8"
+      ],
+      "m_my_element_neutral": [
+        "3---10",
+        "GRADE[me==A]===8"
+      ],
+      "m_my_element_holy": [
+        "3---10",
+        "GRADE[me==A]===8"
+      ],
+      "m_my_element_wind": [
+        "3---10",
+        "GRADE[me==A]===8"
+      ],
+      "m_my_element_dark": [
+        "3---10",
+        "GRADE[me==A]===8"
+      ],
+      "m_my_element_ghost": [
+        "3---10",
+        "GRADE[me==A]===8"
+      ],
+      "m_my_element_undead": [
+        "3---10",
+        "GRADE[me==A]===8"
+      ]
+    }
+  },
+  "315226": {
+    "id": 315226,
+    "aegisName": "Magical_Brooch_5",
+    "flavorText": null,
+    "name": "Magic Brooch Lv.5",
+    "unidName": null,
+    "resName": "Magical_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: MATK +25, S.MATK +7.\nPer 3 refine level: Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +12%.\nIf Grade D: MATK +25.\nIf Grade C: S.MATK +10.\nIf Grade B: MATK +30, S.MATK +10.\nIf Grade A: S.MATK +7, Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +18%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matk": [
+        "2---25",
+        "GRADE[me==D]===25",
+        "GRADE[me==B]===30"
+      ],
+      "sMatk": [
+        "2---7",
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===10",
+        "GRADE[me==A]===7"
+      ],
+      "m_my_element_fire": [
+        "3---12",
+        "GRADE[me==A]===18"
+      ],
+      "m_my_element_neutral": [
+        "3---12",
+        "GRADE[me==A]===18"
+      ],
+      "m_my_element_holy": [
+        "3---12",
+        "GRADE[me==A]===18"
+      ],
+      "m_my_element_wind": [
+        "3---12",
+        "GRADE[me==A]===18"
+      ],
+      "m_my_element_dark": [
+        "3---12",
+        "GRADE[me==A]===18"
+      ],
+      "m_my_element_ghost": [
+        "3---12",
+        "GRADE[me==A]===18"
+      ],
+      "m_my_element_undead": [
+        "3---12",
+        "GRADE[me==A]===18"
+      ]
+    }
+  },
+  "315227": {
+    "id": 315227,
+    "aegisName": "Wis_Brooch_1",
+    "flavorText": null,
+    "name": "Wisdom Brooch Lv.1",
+    "unidName": null,
+    "resName": "Wis_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: MATK +14, S.MATK +2.\nPer 3 refine level: Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +4%.\nIf Grade D: MATK +20.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matk": [
+        "2---14",
+        "GRADE[me==D]===20"
+      ],
+      "sMatk": [
+        "2---2"
+      ],
+      "m_my_element_water": [
+        "3---4"
+      ],
+      "m_my_element_wind": [
+        "3---4"
+      ],
+      "m_my_element_earth": [
+        "3---4"
+      ],
+      "m_my_element_fire": [
+        "3---4"
+      ],
+      "m_my_element_poison": [
+        "3---4"
+      ],
+      "m_my_element_dark": [
+        "3---4"
+      ],
+      "m_my_element_neutral": [
+        "3---4"
+      ]
+    }
+  },
+  "315228": {
+    "id": 315228,
+    "aegisName": "Wis_Brooch_2",
+    "flavorText": null,
+    "name": "Wisdom Brooch Lv.2",
+    "unidName": null,
+    "resName": "Wis_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: MATK +16, S.MATK +3.\nPer 3 refine level: Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +6%.\nIf Grade D: MATK +20.\nIf Grade C: S.MATK +7.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matk": [
+        "2---16",
+        "GRADE[me==D]===20"
+      ],
+      "sMatk": [
+        "2---3",
+        "GRADE[me==C]===7"
+      ],
+      "m_my_element_water": [
+        "3---6"
+      ],
+      "m_my_element_wind": [
+        "3---6"
+      ],
+      "m_my_element_earth": [
+        "3---6"
+      ],
+      "m_my_element_fire": [
+        "3---6"
+      ],
+      "m_my_element_poison": [
+        "3---6"
+      ],
+      "m_my_element_dark": [
+        "3---6"
+      ],
+      "m_my_element_neutral": [
+        "3---6"
+      ]
+    }
+  },
+  "315229": {
+    "id": 315229,
+    "aegisName": "Wis_Brooch_3",
+    "flavorText": null,
+    "name": "Wisdom Brooch Lv.3",
+    "unidName": null,
+    "resName": "Wis_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: MATK +18, S.MATK +4.\nPer 3 refine level: Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +8%.\nIf Grade D: MATK +20.\nIf Grade C: S.MATK +7.\nIf Grade B: MATK +30, S.MATK +7.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matk": [
+        "2---18",
+        "GRADE[me==D]===20",
+        "GRADE[me==B]===30"
+      ],
+      "sMatk": [
+        "2---4",
+        "GRADE[me==C]===7",
+        "GRADE[me==B]===7"
+      ],
+      "m_my_element_water": [
+        "3---8"
+      ],
+      "m_my_element_wind": [
+        "3---8"
+      ],
+      "m_my_element_earth": [
+        "3---8"
+      ],
+      "m_my_element_fire": [
+        "3---8"
+      ],
+      "m_my_element_poison": [
+        "3---8"
+      ],
+      "m_my_element_dark": [
+        "3---8"
+      ],
+      "m_my_element_neutral": [
+        "3---8"
+      ]
+    }
+  },
+  "315230": {
+    "id": 315230,
+    "aegisName": "Wis_Brooch_4",
+    "flavorText": null,
+    "name": "Wisdom Brooch Lv.4",
+    "unidName": null,
+    "resName": "Wis_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: MATK +20, S.MATK +5.\nPer 3 refine level: Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +10%.\nIf Grade D: MATK +20.\nIf Grade C: S.MATK +7.\nIf Grade B: MATK +30, S.MATK +7.\nIf Grade A: S.MATK +3, Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +8%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matk": [
+        "2---20",
+        "GRADE[me==D]===20",
+        "GRADE[me==B]===30"
+      ],
+      "sMatk": [
+        "2---5",
+        "GRADE[me==C]===7",
+        "GRADE[me==B]===7",
+        "GRADE[me==A]===3"
+      ],
+      "m_my_element_water": [
+        "3---10",
+        "GRADE[me==A]===8"
+      ],
+      "m_my_element_wind": [
+        "3---10",
+        "GRADE[me==A]===8"
+      ],
+      "m_my_element_earth": [
+        "3---10",
+        "GRADE[me==A]===8"
+      ],
+      "m_my_element_fire": [
+        "3---10",
+        "GRADE[me==A]===8"
+      ],
+      "m_my_element_poison": [
+        "3---10",
+        "GRADE[me==A]===8"
+      ],
+      "m_my_element_dark": [
+        "3---10",
+        "GRADE[me==A]===8"
+      ],
+      "m_my_element_neutral": [
+        "3---10",
+        "GRADE[me==A]===8"
+      ]
+    }
+  },
+  "315231": {
+    "id": 315231,
+    "aegisName": "Wis_Brooch_5",
+    "flavorText": null,
+    "name": "Wisdom Brooch Lv.5",
+    "unidName": null,
+    "resName": "Wis_Brooch",
+    "unidResName": null,
+    "description": "Per 2 refine levels: MATK +25, S.MATK +7.\nPer 3 refine level: Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +12%.\nIf Grade D: MATK +25.\nIf Grade C: S.MATK +10.\nIf Grade B: MATK +30, S.MATK +10.\nIf Grade A: S.MATK +7, Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +18%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matk": [
+        "2---25",
+        "GRADE[me==D]===25",
+        "GRADE[me==B]===30"
+      ],
+      "sMatk": [
+        "2---7",
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===10",
+        "GRADE[me==A]===7"
+      ],
+      "m_my_element_water": [
+        "3---12",
+        "GRADE[me==A]===18"
+      ],
+      "m_my_element_wind": [
+        "3---12",
+        "GRADE[me==A]===18"
+      ],
+      "m_my_element_earth": [
+        "3---12",
+        "GRADE[me==A]===18"
+      ],
+      "m_my_element_fire": [
+        "3---12",
+        "GRADE[me==A]===18"
+      ],
+      "m_my_element_poison": [
+        "3---12",
+        "GRADE[me==A]===18"
+      ],
+      "m_my_element_dark": [
+        "3---12",
+        "GRADE[me==A]===18"
+      ],
+      "m_my_element_neutral": [
+        "3---12",
+        "GRADE[me==A]===18"
+      ]
+    }
+  },
+  "315232": {
+    "id": 315232,
+    "aegisName": "Con_Bead_1",
+    "flavorText": null,
+    "name": "Concentration Bead Lv.1",
+    "unidName": null,
+    "resName": "Con_Bead",
+    "unidResName": null,
+    "description": "HIT +10, hit physical damage +3%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hit": [
+        "10"
+      ],
+      "hitDmg": [
+        "3"
+      ]
+    }
+  },
+  "315233": {
+    "id": 315233,
+    "aegisName": "Con_Bead_2",
+    "flavorText": null,
+    "name": "Concentration Bead Lv.2",
+    "unidName": null,
+    "resName": "Con_Bead",
+    "unidResName": null,
+    "description": "HIT +20, hit physical damage +3%.\nAt refine +9: additional hit physical damage +6%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hit": [
+        "20"
+      ],
+      "hitDmg": [
+        "3",
+        "9===6"
+      ]
+    }
+  },
+  "315234": {
+    "id": 315234,
+    "aegisName": "Con_Bead_3",
+    "flavorText": null,
+    "name": "Concentration Bead Lv.3",
+    "unidName": null,
+    "resName": "Con_Bead",
+    "unidResName": null,
+    "description": "HIT +35, hit physical damage +3%.\nAt refine +9: additional hit physical damage +6%.\nAt refine +11: additional hit physical damage +9%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hit": [
+        "35"
+      ],
+      "hitDmg": [
+        "3",
+        "9===6",
+        "11===9"
+      ]
+    }
+  },
+  "315235": {
+    "id": 315235,
+    "aegisName": "Health_Bead_1",
+    "flavorText": null,
+    "name": "Health Bead Lv.1",
+    "unidName": null,
+    "resName": "Health_Bead",
+    "unidResName": null,
+    "description": "MHP +200, MHP +2%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hp": [
+        "200"
+      ],
+      "hpPercent": [
+        "2"
+      ]
+    }
+  },
+  "315236": {
+    "id": 315236,
+    "aegisName": "Health_Bead_2",
+    "flavorText": null,
+    "name": "Health Bead Lv.2",
+    "unidName": null,
+    "resName": "Health_Bead",
+    "unidResName": null,
+    "description": "MHP +400, MHP +2%.\nAt refine +9: additional MHP +3%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hp": [
+        "400"
+      ],
+      "hpPercent": [
+        "2",
+        "9===3"
+      ]
+    }
+  },
+  "315237": {
+    "id": 315237,
+    "aegisName": "Health_Bead_3",
+    "flavorText": null,
+    "name": "Health Bead Lv.3",
+    "unidName": null,
+    "resName": "Health_Bead",
+    "unidResName": null,
+    "description": "MHP +600, MHP +2%.\nAt refine +9: additional MHP +3%.\nAt refine +11: additional MHP +5%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "hp": [
+        "600"
+      ],
+      "hpPercent": [
+        "2",
+        "9===3",
+        "11===5"
+      ]
+    }
+  },
+  "315238": {
+    "id": 315238,
+    "aegisName": "Fatal_Bead_1",
+    "flavorText": null,
+    "name": "Fatal Bead Lv.1",
+    "unidName": null,
+    "resName": "Fatal_Bead",
+    "unidResName": null,
+    "description": "CRI +5, critical damage +3%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "cri": [
+        "5"
+      ],
+      "criDmg": [
+        "3"
+      ]
+    }
+  },
+  "315239": {
+    "id": 315239,
+    "aegisName": "Fatal_Bead_2",
+    "flavorText": null,
+    "name": "Fatal Bead Lv.2",
+    "unidName": null,
+    "resName": "Fatal_Bead",
+    "unidResName": null,
+    "description": "CRI +10, critical damage +3%.\nAt refine +9: additional critical damage +6%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "cri": [
+        "10"
+      ],
+      "criDmg": [
+        "3",
+        "9===6"
+      ]
+    }
+  },
+  "315240": {
+    "id": 315240,
+    "aegisName": "Fatal_Bead_3",
+    "flavorText": null,
+    "name": "Fatal Bead Lv.3",
+    "unidName": null,
+    "resName": "Fatal_Bead",
+    "unidResName": null,
+    "description": "CRI +15, critical damage +3%.\nAt refine +9: additional critical damage +6%.\nAt refine +11: additional critical damage +9%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "cri": [
+        "15"
+      ],
+      "criDmg": [
+        "3",
+        "9===6",
+        "11===9"
+      ]
+    }
+  },
+  "315241": {
+    "id": 315241,
+    "aegisName": "M_Essen_Bead_1",
+    "flavorText": null,
+    "name": "Mystic Bead Lv.1",
+    "unidName": null,
+    "resName": "M_Essen_Bead",
+    "unidResName": null,
+    "description": "MATK +10, all element magic damage +3%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matk": [
+        "10"
+      ],
+      "m_my_element_all": [
+        "3"
+      ]
+    }
+  },
+  "315242": {
+    "id": 315242,
+    "aegisName": "M_Essen_Bead_2",
+    "flavorText": null,
+    "name": "Mystic Bead Lv.2",
+    "unidName": null,
+    "resName": "M_Essen_Bead",
+    "unidResName": null,
+    "description": "MATK +20, all element magic damage +3%.\nAt refine +9: additional all element magic damage +5%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matk": [
+        "20"
+      ],
+      "m_my_element_all": [
+        "3",
+        "9===5"
+      ]
+    }
+  },
+  "315243": {
+    "id": 315243,
+    "aegisName": "M_Essen_Bead_3",
+    "flavorText": null,
+    "name": "Mystic Bead Lv.3",
+    "unidName": null,
+    "resName": "M_Essen_Bead",
+    "unidResName": null,
+    "description": "MATK +35, all element magic damage +3%.\nAt refine +9: additional all element magic damage +5%.\nAt refine +11: additional all element magic damage +7%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "matk": [
+        "35"
+      ],
+      "m_my_element_all": [
+        "3",
+        "9===5",
+        "11===7"
+      ]
+    }
+  },
+  "315244": {
+    "id": 315244,
+    "aegisName": "Intellic_Bead_1",
+    "flavorText": null,
+    "name": "Intellect Bead Lv.1",
+    "unidName": null,
+    "resName": "Intellic_Bead",
+    "unidResName": null,
+    "description": "MSP +2%, variable cast time -3%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "spPercent": [
+        "2"
+      ],
+      "vct": [
+        "3"
+      ]
+    }
+  },
+  "315245": {
+    "id": 315245,
+    "aegisName": "Intellic_Bead_2",
+    "flavorText": null,
+    "name": "Intellect Bead Lv.2",
+    "unidName": null,
+    "resName": "Intellic_Bead",
+    "unidResName": null,
+    "description": "MSP +3%, variable cast time -3%.\nAt refine +9: additional MSP +4%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "spPercent": [
+        "3",
+        "9===4"
+      ],
+      "vct": [
+        "3"
+      ]
+    }
+  },
+  "315246": {
+    "id": 315246,
+    "aegisName": "Intellic_Bead_3",
+    "flavorText": null,
+    "name": "Intellect Bead Lv.3",
+    "unidName": null,
+    "resName": "Intellic_Bead",
+    "unidResName": null,
+    "description": "MSP +4%, variable cast time -3%.\nAt refine +9: additional MSP +4%.\nAt refine +11: additional variable cast time -5%, global cooldown -3%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "spPercent": [
+        "4",
+        "9===4"
+      ],
+      "vct": [
+        "3",
+        "11===5"
+      ],
+      "acd": [
+        "11===3"
+      ]
+    }
+  },
+  "315247": {
+    "id": 315247,
+    "aegisName": "Agile_Bead_1",
+    "flavorText": null,
+    "name": "Agility Bead Lv.1",
+    "unidName": null,
+    "resName": "Agile_Bead",
+    "unidResName": null,
+    "description": "Attack speed increased (delay after attack -2%), variable cast time -3%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "aspdPercent": [
+        "2"
+      ],
+      "vct": [
+        "3"
+      ]
+    }
+  },
+  "315248": {
+    "id": 315248,
+    "aegisName": "Agile_Bead_2",
+    "flavorText": null,
+    "name": "Agility Bead Lv.2",
+    "unidName": null,
+    "resName": "Agile_Bead",
+    "unidResName": null,
+    "description": "Attack speed increased (delay after attack -3%), variable cast time -3%.\nAt refine +9: additional attack speed increase (additional delay after attack -5%).",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "aspdPercent": [
+        "3",
+        "9===5"
+      ],
+      "vct": [
+        "3"
+      ]
+    }
+  },
+  "315249": {
+    "id": 315249,
+    "aegisName": "Agile_Bead_3",
+    "flavorText": null,
+    "name": "Agility Bead Lv.3",
+    "unidName": null,
+    "resName": "Agile_Bead",
+    "unidResName": null,
+    "description": "Attack speed increased (delay after attack -4%), variable cast time -3%.\nAt refine +9: additional attack speed increase (additional delay after attack -5%).\nAt refine +11: additional variable cast time -5%, ASPD +1.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "aspdPercent": [
+        "4",
+        "9===5"
+      ],
+      "vct": [
+        "3",
+        "11===5"
+      ],
+      "aspd": [
+        "11===1"
+      ]
+    }
+  },
+  "315250": {
+    "id": 315250,
+    "aegisName": "Pow_Jewel_1",
+    "flavorText": null,
+    "name": "Power Jewel Lv.1",
+    "unidName": null,
+    "resName": "Pow_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: melee physical damage +3%.\nIf Grade D: ATK +30.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "melee": [
+        "2---3"
+      ],
+      "atk": [
+        "GRADE[me==D]===30"
+      ]
+    }
+  },
+  "315251": {
+    "id": 315251,
+    "aegisName": "Pow_Jewel_2",
+    "flavorText": null,
+    "name": "Power Jewel Lv.2",
+    "unidName": null,
+    "resName": "Pow_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: melee physical damage +3%.\nIf Grade D: ATK +30.\nIf Grade C: P.ATK +10.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "melee": [
+        "2---3"
+      ],
+      "atk": [
+        "GRADE[me==D]===30"
+      ],
+      "pAtk": [
+        "GRADE[me==C]===10"
+      ]
+    }
+  },
+  "315252": {
+    "id": 315252,
+    "aegisName": "Pow_Jewel_3",
+    "flavorText": null,
+    "name": "Power Jewel Lv.3",
+    "unidName": null,
+    "resName": "Pow_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: melee physical damage +3%.\nIf Grade D: ATK +30.\nIf Grade C: P.ATK +10.\nIf Grade B: ATK +35, P.ATK +12.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "melee": [
+        "2---3"
+      ],
+      "atk": [
+        "GRADE[me==D]===30",
+        "GRADE[me==B]===35"
+      ],
+      "pAtk": [
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===12"
+      ]
+    }
+  },
+  "315253": {
+    "id": 315253,
+    "aegisName": "Pow_Jewel_4",
+    "flavorText": null,
+    "name": "Power Jewel Lv.4",
+    "unidName": null,
+    "resName": "Pow_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: melee physical damage +3%.\nIf Grade D: ATK +30.\nIf Grade C: P.ATK +10.\nIf Grade B: ATK +35, P.ATK +12.\nIf Grade A: P.ATK +8, melee physical damage +10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "melee": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "atk": [
+        "GRADE[me==D]===30",
+        "GRADE[me==B]===35"
+      ],
+      "pAtk": [
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===12",
+        "GRADE[me==A]===8"
+      ]
+    }
+  },
+  "315254": {
+    "id": 315254,
+    "aegisName": "Pow_Jewel_5",
+    "flavorText": null,
+    "name": "Power Jewel Lv.5",
+    "unidName": null,
+    "resName": "Pow_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: melee physical damage +3%.\nIf Grade D: ATK +30.\nIf Grade C: P.ATK +10.\nIf Grade B: ATK +35, P.ATK +12.\nIf Grade A: P.ATK +8, melee physical damage +10%.\n^ffffff_^000000\nWhen equipped with Power Brooch Lv.5, physical damage dealt to normal and boss monsters +15%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "melee": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "atk": [
+        "GRADE[me==D]===30",
+        "GRADE[me==B]===35"
+      ],
+      "pAtk": [
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===12",
+        "GRADE[me==A]===8"
+      ],
+      "p_class_normal": [
+        "EQUIP[Power Brooch Lv.5]===15"
+      ],
+      "p_class_boss": [
+        "EQUIP[Power Brooch Lv.5]===15"
+      ]
+    }
+  },
+  "315255": {
+    "id": 315255,
+    "aegisName": "Dex_Jewel_1",
+    "flavorText": null,
+    "name": "Dexterity Jewel Lv.1",
+    "unidName": null,
+    "resName": "Dex_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ranged physical damage +3%.\nIf Grade D: ATK +30.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "range": [
+        "2---3"
+      ],
+      "atk": [
+        "GRADE[me==D]===30"
+      ]
+    }
+  },
+  "315256": {
+    "id": 315256,
+    "aegisName": "Dex_Jewel_2",
+    "flavorText": null,
+    "name": "Dexterity Jewel Lv.2",
+    "unidName": null,
+    "resName": "Dex_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ranged physical damage +3%.\nIf Grade D: ATK +30.\nIf Grade C: P.ATK +10.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "range": [
+        "2---3"
+      ],
+      "atk": [
+        "GRADE[me==D]===30"
+      ],
+      "pAtk": [
+        "GRADE[me==C]===10"
+      ]
+    }
+  },
+  "315257": {
+    "id": 315257,
+    "aegisName": "Dex_Jewel_3",
+    "flavorText": null,
+    "name": "Dexterity Jewel Lv.3",
+    "unidName": null,
+    "resName": "Dex_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ranged physical damage +3%.\nIf Grade D: ATK +30.\nIf Grade C: P.ATK +10.\nIf Grade B: ATK +35, P.ATK +12.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "range": [
+        "2---3"
+      ],
+      "atk": [
+        "GRADE[me==D]===30",
+        "GRADE[me==B]===35"
+      ],
+      "pAtk": [
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===12"
+      ]
+    }
+  },
+  "315258": {
+    "id": 315258,
+    "aegisName": "Dex_Jewel_4",
+    "flavorText": null,
+    "name": "Dexterity Jewel Lv.4",
+    "unidName": null,
+    "resName": "Dex_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ranged physical damage +3%.\nIf Grade D: ATK +30.\nIf Grade C: P.ATK +10.\nIf Grade B: ATK +35, P.ATK +12.\nIf Grade A: P.ATK +8, ranged physical damage +10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "range": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "atk": [
+        "GRADE[me==D]===30",
+        "GRADE[me==B]===35"
+      ],
+      "pAtk": [
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===12",
+        "GRADE[me==A]===8"
+      ]
+    }
+  },
+  "315259": {
+    "id": 315259,
+    "aegisName": "Dex_Jewel_5",
+    "flavorText": null,
+    "name": "Dexterity Jewel Lv.5",
+    "unidName": null,
+    "resName": "Dex_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: ranged physical damage +3%.\nIf Grade D: ATK +30.\nIf Grade C: P.ATK +10.\nIf Grade B: ATK +35, P.ATK +12.\nIf Grade A: P.ATK +8, ranged physical damage +10%.\n^ffffff_^000000\nWhen equipped with Dexterity Brooch Lv.5, physical damage dealt to normal and boss monsters +15%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "range": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "atk": [
+        "GRADE[me==D]===30",
+        "GRADE[me==B]===35"
+      ],
+      "pAtk": [
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===12",
+        "GRADE[me==A]===8"
+      ],
+      "p_class_normal": [
+        "EQUIP[Dexterity Brooch Lv.5]===15"
+      ],
+      "p_class_boss": [
+        "EQUIP[Dexterity Brooch Lv.5]===15"
+      ]
+    }
+  },
+  "315260": {
+    "id": 315260,
+    "aegisName": "Lucky_Jewel_1",
+    "flavorText": null,
+    "name": "Lucky Jewel Lv.1",
+    "unidName": null,
+    "resName": "Lucky_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: critical damage +3%.\nIf Grade D: ATK +25, CRI +3.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "criDmg": [
+        "2---3"
+      ],
+      "atk": [
+        "GRADE[me==D]===25"
+      ],
+      "cri": [
+        "GRADE[me==D]===3"
+      ]
+    }
+  },
+  "315261": {
+    "id": 315261,
+    "aegisName": "Lucky_Jewel_2",
+    "flavorText": null,
+    "name": "Lucky Jewel Lv.2",
+    "unidName": null,
+    "resName": "Lucky_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: critical damage +3%.\nIf Grade D: ATK +25, CRI +3.\nIf Grade C: P.ATK +10.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "criDmg": [
+        "2---3"
+      ],
+      "atk": [
+        "GRADE[me==D]===25"
+      ],
+      "cri": [
+        "GRADE[me==D]===3"
+      ],
+      "pAtk": [
+        "GRADE[me==C]===10"
+      ]
+    }
+  },
+  "315262": {
+    "id": 315262,
+    "aegisName": "Lucky_Jewel_3",
+    "flavorText": null,
+    "name": "Lucky Jewel Lv.3",
+    "unidName": null,
+    "resName": "Lucky_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: critical damage +3%.\nIf Grade D: ATK +25, CRI +3.\nIf Grade C: P.ATK +10.\nIf Grade B: ATK +35, P.ATK +12.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "criDmg": [
+        "2---3"
+      ],
+      "atk": [
+        "GRADE[me==D]===25",
+        "GRADE[me==B]===35"
+      ],
+      "cri": [
+        "GRADE[me==D]===3"
+      ],
+      "pAtk": [
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===12"
+      ]
+    }
+  },
+  "315263": {
+    "id": 315263,
+    "aegisName": "Lucky_Jewel_4",
+    "flavorText": null,
+    "name": "Lucky Jewel Lv.4",
+    "unidName": null,
+    "resName": "Lucky_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: critical damage +3%.\nIf Grade D: ATK +25, CRI +3.\nIf Grade C: P.ATK +10.\nIf Grade B: ATK +35, P.ATK +12.\nIf Grade A: C.RATE +8, melee and ranged physical damage +10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "criDmg": [
+        "2---3"
+      ],
+      "atk": [
+        "GRADE[me==D]===25",
+        "GRADE[me==B]===35"
+      ],
+      "cri": [
+        "GRADE[me==D]===3"
+      ],
+      "pAtk": [
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===12"
+      ],
+      "cRate": [
+        "GRADE[me==A]===8"
+      ],
+      "melee": [
+        "GRADE[me==A]===10"
+      ],
+      "range": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "315264": {
+    "id": 315264,
+    "aegisName": "Lucky_Jewel_5",
+    "flavorText": null,
+    "name": "Lucky Jewel Lv.5",
+    "unidName": null,
+    "resName": "Lucky_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: critical damage +3%.\nIf Grade D: ATK +25, CRI +3.\nIf Grade C: P.ATK +10.\nIf Grade B: ATK +35, P.ATK +12.\nIf Grade A: C.RATE +8, melee and ranged physical damage +10%.\n^ffffff_^000000\nWhen equipped with Lucky Brooch Lv.5, physical damage dealt to normal and boss monsters +15%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "criDmg": [
+        "2---3"
+      ],
+      "atk": [
+        "GRADE[me==D]===25",
+        "GRADE[me==B]===35"
+      ],
+      "cri": [
+        "GRADE[me==D]===3"
+      ],
+      "pAtk": [
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===12"
+      ],
+      "cRate": [
+        "GRADE[me==A]===8"
+      ],
+      "melee": [
+        "GRADE[me==A]===10"
+      ],
+      "range": [
+        "GRADE[me==A]===10"
+      ],
+      "p_class_normal": [
+        "EQUIP[Lucky Brooch Lv.5]===15"
+      ],
+      "p_class_boss": [
+        "EQUIP[Lucky Brooch Lv.5]===15"
+      ]
+    }
+  },
+  "315265": {
+    "id": 315265,
+    "aegisName": "Magical_Jewel_1",
+    "flavorText": null,
+    "name": "Magic Jewel Lv.1",
+    "unidName": null,
+    "resName": "Magical_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +3%.\nIf Grade D: MATK +30.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "m_my_element_fire": [
+        "2---3"
+      ],
+      "m_my_element_neutral": [
+        "2---3"
+      ],
+      "m_my_element_holy": [
+        "2---3"
+      ],
+      "m_my_element_wind": [
+        "2---3"
+      ],
+      "m_my_element_dark": [
+        "2---3"
+      ],
+      "m_my_element_ghost": [
+        "2---3"
+      ],
+      "m_my_element_undead": [
+        "2---3"
+      ],
+      "matk": [
+        "GRADE[me==D]===30"
+      ]
+    }
+  },
+  "315266": {
+    "id": 315266,
+    "aegisName": "Magical_Jewel_2",
+    "flavorText": null,
+    "name": "Magic Jewel Lv.2",
+    "unidName": null,
+    "resName": "Magical_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +3%.\nIf Grade D: MATK +30.\nIf Grade C: S.MATK +10.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "m_my_element_fire": [
+        "2---3"
+      ],
+      "m_my_element_neutral": [
+        "2---3"
+      ],
+      "m_my_element_holy": [
+        "2---3"
+      ],
+      "m_my_element_wind": [
+        "2---3"
+      ],
+      "m_my_element_dark": [
+        "2---3"
+      ],
+      "m_my_element_ghost": [
+        "2---3"
+      ],
+      "m_my_element_undead": [
+        "2---3"
+      ],
+      "matk": [
+        "GRADE[me==D]===30"
+      ],
+      "sMatk": [
+        "GRADE[me==C]===10"
+      ]
+    }
+  },
+  "315267": {
+    "id": 315267,
+    "aegisName": "Magical_Jewel_3",
+    "flavorText": null,
+    "name": "Magic Jewel Lv.3",
+    "unidName": null,
+    "resName": "Magical_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +3%.\nIf Grade D: MATK +30.\nIf Grade C: S.MATK +10.\nIf Grade B: MATK +35, S.MATK +12.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "m_my_element_fire": [
+        "2---3"
+      ],
+      "m_my_element_neutral": [
+        "2---3"
+      ],
+      "m_my_element_holy": [
+        "2---3"
+      ],
+      "m_my_element_wind": [
+        "2---3"
+      ],
+      "m_my_element_dark": [
+        "2---3"
+      ],
+      "m_my_element_ghost": [
+        "2---3"
+      ],
+      "m_my_element_undead": [
+        "2---3"
+      ],
+      "matk": [
+        "GRADE[me==D]===30",
+        "GRADE[me==B]===35"
+      ],
+      "sMatk": [
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===12"
+      ]
+    }
+  },
+  "315268": {
+    "id": 315268,
+    "aegisName": "Magical_Jewel_4",
+    "flavorText": null,
+    "name": "Magic Jewel Lv.4",
+    "unidName": null,
+    "resName": "Magical_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +3%.\nIf Grade D: MATK +30.\nIf Grade C: S.MATK +10.\nIf Grade B: MATK +35, S.MATK +12.\nIf Grade A: S.MATK +8, Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "m_my_element_fire": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_neutral": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_holy": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_wind": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_dark": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_ghost": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_undead": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "matk": [
+        "GRADE[me==D]===30",
+        "GRADE[me==B]===35"
+      ],
+      "sMatk": [
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===12",
+        "GRADE[me==A]===8"
+      ]
+    }
+  },
+  "315269": {
+    "id": 315269,
+    "aegisName": "Magical_Jewel_5",
+    "flavorText": null,
+    "name": "Magic Jewel Lv.5",
+    "unidName": null,
+    "resName": "Magical_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +3%.\nIf Grade D: MATK +30.\nIf Grade C: S.MATK +10.\nIf Grade B: MATK +35, S.MATK +12.\nIf Grade A: S.MATK +8, Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead element magic damage +10%.\n^ffffff_^000000\nWhen equipped with Magic Brooch Lv.5, magic damage dealt to normal and boss monsters +15%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "m_my_element_fire": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_neutral": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_holy": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_wind": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_dark": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_ghost": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_undead": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "matk": [
+        "GRADE[me==D]===30",
+        "GRADE[me==B]===35"
+      ],
+      "sMatk": [
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===12",
+        "GRADE[me==A]===8"
+      ],
+      "m_class_normal": [
+        "EQUIP[Magic Brooch Lv.5]===15"
+      ],
+      "m_class_boss": [
+        "EQUIP[Magic Brooch Lv.5]===15"
+      ]
+    }
+  },
+  "315270": {
+    "id": 315270,
+    "aegisName": "Wis_Jewel_1",
+    "flavorText": null,
+    "name": "Wisdom Jewel Lv.1",
+    "unidName": null,
+    "resName": "Wis_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +3%.\nIf Grade D: MATK +30.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "m_my_element_water": [
+        "2---3"
+      ],
+      "m_my_element_wind": [
+        "2---3"
+      ],
+      "m_my_element_earth": [
+        "2---3"
+      ],
+      "m_my_element_fire": [
+        "2---3"
+      ],
+      "m_my_element_poison": [
+        "2---3"
+      ],
+      "m_my_element_dark": [
+        "2---3"
+      ],
+      "m_my_element_neutral": [
+        "2---3"
+      ],
+      "matk": [
+        "GRADE[me==D]===30"
+      ]
+    }
+  },
+  "315271": {
+    "id": 315271,
+    "aegisName": "Wis_Jewel_2",
+    "flavorText": null,
+    "name": "Wisdom Jewel Lv.2",
+    "unidName": null,
+    "resName": "Wis_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +3%.\nIf Grade D: MATK +30.\nIf Grade C: S.MATK +10.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "m_my_element_water": [
+        "2---3"
+      ],
+      "m_my_element_wind": [
+        "2---3"
+      ],
+      "m_my_element_earth": [
+        "2---3"
+      ],
+      "m_my_element_fire": [
+        "2---3"
+      ],
+      "m_my_element_poison": [
+        "2---3"
+      ],
+      "m_my_element_dark": [
+        "2---3"
+      ],
+      "m_my_element_neutral": [
+        "2---3"
+      ],
+      "matk": [
+        "GRADE[me==D]===30"
+      ],
+      "sMatk": [
+        "GRADE[me==C]===10"
+      ]
+    }
+  },
+  "315272": {
+    "id": 315272,
+    "aegisName": "Wis_Jewel_3",
+    "flavorText": null,
+    "name": "Wisdom Jewel Lv.3",
+    "unidName": null,
+    "resName": "Wis_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +3%.\nIf Grade D: MATK +30.\nIf Grade C: S.MATK +10.\nIf Grade B: MATK +35, S.MATK +12.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "m_my_element_water": [
+        "2---3"
+      ],
+      "m_my_element_wind": [
+        "2---3"
+      ],
+      "m_my_element_earth": [
+        "2---3"
+      ],
+      "m_my_element_fire": [
+        "2---3"
+      ],
+      "m_my_element_poison": [
+        "2---3"
+      ],
+      "m_my_element_dark": [
+        "2---3"
+      ],
+      "m_my_element_neutral": [
+        "2---3"
+      ],
+      "matk": [
+        "GRADE[me==D]===30",
+        "GRADE[me==B]===35"
+      ],
+      "sMatk": [
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===12"
+      ]
+    }
+  },
+  "315273": {
+    "id": 315273,
+    "aegisName": "Wis_Jewel_4",
+    "flavorText": null,
+    "name": "Wisdom Jewel Lv.4",
+    "unidName": null,
+    "resName": "Wis_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +3%.\nIf Grade D: MATK +30.\nIf Grade C: S.MATK +10.\nIf Grade B: MATK +35, S.MATK +12.\nIf Grade A: S.MATK +8, Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "m_my_element_water": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_wind": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_earth": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_fire": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_poison": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_dark": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_neutral": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "matk": [
+        "GRADE[me==D]===30",
+        "GRADE[me==B]===35"
+      ],
+      "sMatk": [
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===12",
+        "GRADE[me==A]===8"
+      ]
+    }
+  },
+  "315274": {
+    "id": 315274,
+    "aegisName": "Wis_Jewel_5",
+    "flavorText": null,
+    "name": "Wisdom Jewel Lv.5",
+    "unidName": null,
+    "resName": "Wis_Jewel",
+    "unidResName": null,
+    "description": "Per 2 refine levels: Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +3%.\nIf Grade D: MATK +30.\nIf Grade C: S.MATK +10.\nIf Grade B: MATK +35, S.MATK +12.\nIf Grade A: S.MATK +8, Water, Wind, Earth, Fire, Poison, Shadow, and Neutral element magic damage +10%.\n^ffffff_^000000\nWhen equipped with Wisdom Brooch Lv.5, magic damage dealt to normal and boss monsters +15%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": null,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65532,
+    "canGrade": false,
+    "script": {
+      "m_my_element_water": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_wind": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_earth": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_fire": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_poison": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_dark": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "m_my_element_neutral": [
+        "2---3",
+        "GRADE[me==A]===10"
+      ],
+      "matk": [
+        "GRADE[me==D]===30",
+        "GRADE[me==B]===35"
+      ],
+      "sMatk": [
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===12",
+        "GRADE[me==A]===8"
+      ],
+      "m_class_normal": [
+        "EQUIP[Wisdom Brooch Lv.5]===15"
+      ],
+      "m_class_boss": [
+        "EQUIP[Wisdom Brooch Lv.5]===15"
+      ]
+    }
   }
 }
