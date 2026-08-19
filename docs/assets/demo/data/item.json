@@ -147820,7 +147820,7 @@
     "name": "Crown of Good and Evil (Trouvere & Troubadour) [1]",
     "unidName": "Headgear",
     "resName": "GoodnEvil_Circlet",
-    "description": "หมวกที่ก้องสะท้อนพลังอันยิ่งใหญ่ของวีรบุรุษและความหายนะ\nแฝงพลังในการขับเน้นอานุภาพของอาวุธทั้งฝ่ายธรรมะและอธรรม\n \nทุก ๆ การอัพเกรด 3 ขั้น เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 5%\nทุก ๆ การอัพเกรด 4 ขั้น เพิ่ม Damage ทางกายภาพระยะไกล 7%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 7%\nเมื่ออัพเกรดถึงขั้น 7, RES + 50\nเมื่ออัพเกรดถึงขั้น 9, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเมื่ออัพเกรดถึงขั้น 11, ATK + 5%, MATK + 5%, ลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที\n \nเมื่อสวมใส่ร่วมกับ Crime Violin หรือ Crime Whip, \nทุก ๆ การอัพเกรด Weapon 3 ขั้น เพิ่ม Damage สกิล Metalic Fury 4%, เพิ่ม Damage สกิล Sound Blend 5%,\nเมื่อ Weapon มี Grade B ขึ้นไป, เพิ่ม Damage สกิล Metalic Fury ขึ้นอีก 10%\nเมื่อสวมใส่ร่วมกับ Evil Spell, เพิ่ม Damage สกิล Metalic Fury ขึ้นอีก 15%, เพิ่ม Damage สกิล Sound Blend ขึ้นอีก 20%\n \nเมื่อสวมใส่ร่วมกับ Light Power Harp หรือ Light Power Spark, \nทุก ๆ การอัพเกรด Weapon 3 ขั้น เพิ่ม Damage สกิล Rhythm Shooting 4%, เพิ่ม Damage สกิล Rose Blossom  5%,\nเมื่อ Weapon มี Grade B ขึ้นไป, เพิ่ม Damage สกิล Rhythm Shooting ขึ้นอีก 10%\nเมื่อสวมใส่ร่วมกับ Good Spell, เพิ่ม Damage สกิล Rhythm Shooting ขึ้นอีก 15%, เพิ่ม Damage สกิล Rose Blossom ขึ้นอีก 20%\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] MHP + 5%\n[Grade C] P.ATK + 3, S.MATK + 3\n[Grade B] P.ATK + 2, S.MATK + 2, CON + 2, SPL + 2\n[Grade A] RES + 50, MRES + 50, เมื่ออัพเกรดถึงขั้น 12, ลดระยะเวลาร่ายแบบคงที่ลงอีก 0.2 วินาที\n \nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^77777710^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Trouvere, Troubadour^000000",
+    "description": "หมวกที่ก้องสะท้อนพลังอันยิ่งใหญ่ของวีรบุรุษและความหายนะ\nแฝงพลังในการขับเน้นอานุภาพของอาวุธทั้งฝ่ายธรรมะและอธรรม\n \nทุก ๆ การอัพเกรด 3 ขั้น เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 5%\nทุก ๆ การอัพเกรด 4 ขั้น เพิ่ม Damage ทางกายภาพระยะไกล 7%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 7%\nเมื่ออัพเกรดถึงขั้น 7, RES + 50\nเมื่ออัพเกรดถึงขั้น 9, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเมื่ออัพเกรดถึงขั้น 11, ATK + 5%, MATK + 5%, ลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที\n \nเมื่อสวมใส่ร่วมกับ Crime Violin หรือ Crime Whip, \nทุก ๆ การอัพเกรด Weapon 3 ขั้น เพิ่ม Damage สกิล Metallic Fury 4%, เพิ่ม Damage สกิล Sound Blend 5%,\nเมื่อ Weapon มี Grade B ขึ้นไป, เพิ่ม Damage สกิล Metallic Fury ขึ้นอีก 10%\nเมื่อสวมใส่ร่วมกับ Evil Spell, เพิ่ม Damage สกิล Metallic Fury ขึ้นอีก 15%, เพิ่ม Damage สกิล Sound Blend ขึ้นอีก 20%\n \nเมื่อสวมใส่ร่วมกับ Light Power Harp หรือ Light Power Spark, \nทุก ๆ การอัพเกรด Weapon 3 ขั้น เพิ่ม Damage สกิล Rhythm Shooting 4%, เพิ่ม Damage สกิล Rose Blossom  5%,\nเมื่อ Weapon มี Grade B ขึ้นไป, เพิ่ม Damage สกิล Rhythm Shooting ขึ้นอีก 10%\nเมื่อสวมใส่ร่วมกับ Good Spell, เพิ่ม Damage สกิล Rhythm Shooting ขึ้นอีก 15%, เพิ่ม Damage สกิล Rose Blossom ขึ้นอีก 20%\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] MHP + 5%\n[Grade C] P.ATK + 3, S.MATK + 3\n[Grade B] P.ATK + 2, S.MATK + 2, CON + 2, SPL + 2\n[Grade A] RES + 50, MRES + 50, เมื่ออัพเกรดถึงขั้น 12, ลดระยะเวลาร่ายแบบคงที่ลงอีก 0.2 วินาที\n \nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^77777710^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Trouvere, Troubadour^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 512,
@@ -165386,7 +165386,7 @@
     "name": "Melody Rose Shield [1]",
     "unidName": "Melody Rose Shield",
     "resName": "Witchslayer_Greatshield",
-    "description": "ASPD + 10%\nทุก ๆ การอัพเกรด 1 ขั้น, MaxHP + 100\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 4%\nเมื่อขั้นอัพเกรดตั้งแต่ 7 ขึ้นไป, ASPD + 2\nเมื่อขั้นอัพเกรดตั้งแต่ 9 ขึ้นไป, เมื่อใช้สกิล Metalic Sound มีโอกาส 20% ที่จะ Autospell สกิล Metalic Fury Lv.5\nเมื่อขั้นอัพเกรดตั้งแต่ 11 ขึ้นไป, \nเมื่อโจมตีทางเวทมนตร์ มีโอกาส 4% ที่จะ INT + 150 เป็นเวลา 10 วินาที\nแต่จะสูญเสีย HP 100, SP 100 หน่วยต่อวินาที\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป, เพิ่ม Damage สกิล Metalic Fury 15%\nประเภท : ^777777Shield^000000  พลังป้องกัน : ^77777725^000000\nน้ำหนัก : ^77777750^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777Minstrel Classes, Wanderer Classes^000000",
+    "description": "ASPD + 10%\nทุก ๆ การอัพเกรด 1 ขั้น, MaxHP + 100\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 4%\nเมื่อขั้นอัพเกรดตั้งแต่ 7 ขึ้นไป, ASPD + 2\nเมื่อขั้นอัพเกรดตั้งแต่ 9 ขึ้นไป, เมื่อใช้สกิล Metalic Sound มีโอกาส 20% ที่จะ Autospell สกิล Metallic Fury Lv.5\nเมื่อขั้นอัพเกรดตั้งแต่ 11 ขึ้นไป, \nเมื่อโจมตีทางเวทมนตร์ มีโอกาส 4% ที่จะ INT + 150 เป็นเวลา 10 วินาที\nแต่จะสูญเสีย HP 100, SP 100 หน่วยต่อวินาที\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป, เพิ่ม Damage สกิล Metallic Fury 15%\nประเภท : ^777777Shield^000000  พลังป้องกัน : ^77777725^000000\nน้ำหนัก : ^77777750^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777Minstrel Classes, Wanderer Classes^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 514,
@@ -165478,7 +165478,7 @@
     "name": "Melody Rose Shield-LT [1]",
     "unidName": "Melody Rose Shield-LT",
     "resName": "Witchslayer_Greatshield",
-    "description": "ASPD + 3\nเมื่อกำจัดมอนสเตอร์ด้วยการโจมตีทางเวทมนตร์, ฟื้นฟู HP 500 หน่วย\nทุก ๆ การอัพเกรด 1 ขั้น, MaxHP + 500\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 8%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 9 ขึ้นไป,\nเมื่อใช้สกิล Metalic Sound มีโอกาส 40% ที่จะ Autospell สกิล Metalic Fury Lv.5\n\nเมื่อขั้นอัพเกรดตั้งแต่ 11 ขึ้นไป,\nเมื่อโจมตีทางเวทมนตร์ มีโอกาส 4% ที่จะได้รับสถานะ [Music Conductor] เป็นเวลา 10 วินาที\n\nผลเอฟเฟกต์ [Music Conductor]\nSPL + 50\nS.MATK + 10\nสูญเสีย HP 500 หน่วยต่อวินาที\n\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป,\nเพิ่ม Damage สกิล Metalic Fury 20%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] เพิกเฉยต่อพลังป้องกันทางเวทมนตร์ของศัตรูทุกเผ่า 30% (ยกเว้น Player)\n[Grade C] ลด Cooldown สกิล Metalic Sound 0.5 วินาที, เพิ่ม Damage สกิล Metalic Fury 20%\n[Grade B] เพิ่มผลเอฟเฟกต์ [Music Conductor] SPL +50, S.MATK +10 เพิ่มเติม\n[Grade A] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 30%, ลด Delay หลังใช้สกิล 15%\nประเภท : ^777777Shield^000000  พลังป้องกัน : ^77777725^000000\nน้ำหนัก : ^77777750^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777Minstrel Classes, Wanderer Classes^000000",
+    "description": "ASPD + 3\nเมื่อกำจัดมอนสเตอร์ด้วยการโจมตีทางเวทมนตร์, ฟื้นฟู HP 500 หน่วย\nทุก ๆ การอัพเกรด 1 ขั้น, MaxHP + 500\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 8%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 9 ขึ้นไป,\nเมื่อใช้สกิล Metalic Sound มีโอกาส 40% ที่จะ Autospell สกิล Metallic Fury Lv.5\n\nเมื่อขั้นอัพเกรดตั้งแต่ 11 ขึ้นไป,\nเมื่อโจมตีทางเวทมนตร์ มีโอกาส 4% ที่จะได้รับสถานะ [Music Conductor] เป็นเวลา 10 วินาที\n\nผลเอฟเฟกต์ [Music Conductor]\nSPL + 50\nS.MATK + 10\nสูญเสีย HP 500 หน่วยต่อวินาที\n\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป,\nเพิ่ม Damage สกิล Metallic Fury 20%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] เพิกเฉยต่อพลังป้องกันทางเวทมนตร์ของศัตรูทุกเผ่า 30% (ยกเว้น Player)\n[Grade C] ลด Cooldown สกิล Metalic Sound 0.5 วินาที, เพิ่ม Damage สกิล Metallic Fury 20%\n[Grade B] เพิ่มผลเอฟเฟกต์ [Music Conductor] SPL +50, S.MATK +10 เพิ่มเติม\n[Grade A] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 30%, ลด Delay หลังใช้สกิล 15%\nประเภท : ^777777Shield^000000  พลังป้องกัน : ^77777725^000000\nน้ำหนัก : ^77777750^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777Minstrel Classes, Wanderer Classes^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 514,
@@ -178870,7 +178870,7 @@
     "name": "Heroic Token (Troubadour/Trouvere) [1]",
     "unidName": "Clip",
     "resName": "Pendant_of_Solomon",
-    "description": "Accessory ลึกลับที่ปลดปล่อยพลังของ Hero Weapon-LT ออกมา มีพลังงานของ Troubadour/Trouvere แฝงอยู่\n \nATK + 10%, MATK + 10%,\nลดระยะเวลาร่ายแบบแปรผัน 10%\n \nเมื่อสวมใส่ร่วมกับ Narcis Bow-LT, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%\nเมื่อ Narcis Bow-LT มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะไกล 10%, เพิ่ม Damage สกิล Rhythm Shooting 10%\nเมื่อ Narcis Bow-LT มี Grade ตั้งแต่ C ขึ้นไป, CON + 5, P.ATK + 5, เพิ่ม Damage สกิล Rhythm Shooting ขึ้นอีก 10%\nเมื่อสวมใส่ร่วมกับ Trumpet Shell-LT หรือ Barbed Wire Whip-LT, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%\nเมื่อ Trumpet Shell-LT หรือ Barbed Wire Whip-LT มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%, เพิ่ม Damage สกิล Metalic Fury 10%\nเมื่อ Trumpet Shell-LT หรือ Barbed Wire Whip-LT มี Grade ตั้งแต่ C ขึ้นไป, SPL + 5, S.MATK + 5, เพิ่ม Damage สกิล Metalic Fury ขึ้นอีก 10%\nประเภท : ^777777Accessory^000000  พลังป้องกัน : ^77777710^000000\nน้ำหนัก : ^77777720^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Troubadour, Trouvere^000000",
+    "description": "Accessory ลึกลับที่ปลดปล่อยพลังของ Hero Weapon-LT ออกมา มีพลังงานของ Troubadour/Trouvere แฝงอยู่\n \nATK + 10%, MATK + 10%,\nลดระยะเวลาร่ายแบบแปรผัน 10%\n \nเมื่อสวมใส่ร่วมกับ Narcis Bow-LT, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%\nเมื่อ Narcis Bow-LT มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะไกล 10%, เพิ่ม Damage สกิล Rhythm Shooting 10%\nเมื่อ Narcis Bow-LT มี Grade ตั้งแต่ C ขึ้นไป, CON + 5, P.ATK + 5, เพิ่ม Damage สกิล Rhythm Shooting ขึ้นอีก 10%\nเมื่อสวมใส่ร่วมกับ Trumpet Shell-LT หรือ Barbed Wire Whip-LT, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%\nเมื่อ Trumpet Shell-LT หรือ Barbed Wire Whip-LT มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%, เพิ่ม Damage สกิล Metallic Fury 10%\nเมื่อ Trumpet Shell-LT หรือ Barbed Wire Whip-LT มี Grade ตั้งแต่ C ขึ้นไป, SPL + 5, S.MATK + 5, เพิ่ม Damage สกิล Metallic Fury ขึ้นอีก 10%\nประเภท : ^777777Accessory^000000  พลังป้องกัน : ^77777710^000000\nน้ำหนัก : ^77777720^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Troubadour, Trouvere^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 517,
@@ -203367,7 +203367,7 @@
     "name": "Poenitentia Chorda [2]",
     "unidName": "Violin",
     "resName": "Poenitentia_Chorda",
-    "description": "Viola ที่โอบอุ้มความเจ็บปวดจากการสูญเสีย\n\nMATK + 250.\nMATK + 10%.\nเพิ่ม Damage สกิล Metalic Fury 10%\nทุก ๆ การอัพเกรด 2 ขั้น, เพิ่ม Damage สกิล Reverberation 3%\nเมื่ออัพเกรดถึงขั้น 7, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Reverberation ขึ้นอีก 30%\nเมื่ออัพเกรดถึงขั้น 11, ลดระยะเวลาร่ายแบบคงที่สกิล Reverberation 0.5 วินาที\n^ffffff_^000000\n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] เพิ่ม Damage สกิล Metalic Fury ขึ้นอีก 5%\n[Grade C] เพิ่ม Damage สกิล Metalic Fury ขึ้นอีก 8%, S.MATK + 1.\n[Grade B] เพิ่ม Damage สกิล Metalic Fury ขึ้นอีก 12%, SPL + 1.\n^ffffff_^000000\nประเภท : ^777777Instrument^000000 พลังโจมตี : ^777777220^000000\nน้ำหนัก : ^777777110^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Troubadour^000000",
+    "description": "Viola ที่โอบอุ้มความเจ็บปวดจากการสูญเสีย\n\nMATK + 250.\nMATK + 10%.\nเพิ่ม Damage สกิล Metallic Fury 10%\nทุก ๆ การอัพเกรด 2 ขั้น, เพิ่ม Damage สกิล Reverberation 3%\nเมื่ออัพเกรดถึงขั้น 7, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Reverberation ขึ้นอีก 30%\nเมื่ออัพเกรดถึงขั้น 11, ลดระยะเวลาร่ายแบบคงที่สกิล Reverberation 0.5 วินาที\n^ffffff_^000000\n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] เพิ่ม Damage สกิล Metallic Fury ขึ้นอีก 5%\n[Grade C] เพิ่ม Damage สกิล Metallic Fury ขึ้นอีก 8%, S.MATK + 1.\n[Grade B] เพิ่ม Damage สกิล Metallic Fury ขึ้นอีก 12%, SPL + 1.\n^ffffff_^000000\nประเภท : ^777777Instrument^000000 พลังโจมตี : ^777777220^000000\nน้ำหนัก : ^777777110^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Troubadour^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 269,
@@ -204009,7 +204009,7 @@
     "name": "Crime Violin [2]",
     "unidName": "Musical Instrument",
     "resName": "Sins_Cello",
-    "description": "Violin ที่สะสมพลังจากจิตวิญญาณชั่วร้าย ปล่อยออกมาผ่านเสียงดนตรีอันทรงพลัง\n \nMATK + 220\nMATK + 5%, SPL + 2\nเพิ่ม Damage สกิล Metalic Fury 5%\nเมื่ออัพเกรดถึงขั้น 5, เพิ่ม Damage สกิล Metalic Fury 10%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 5%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Metalic Fury ขึ้นอีก 10%\nเมื่ออัพเกรดถึงขั้น 10, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Metalic Fury ขึ้นอีก 5%, เพิ่ม Damage สกิล Sound Blend 15%\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\n[Grade C] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 10%\n[Grade B] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 10%\n[Grade A] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%\n \nประเภท : ^777777Instrument^000000 พลังโจมตี : ^777777120^000000\nน้ำหนัก : ^777777110^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Troubadour^000000",
+    "description": "Violin ที่สะสมพลังจากจิตวิญญาณชั่วร้าย ปล่อยออกมาผ่านเสียงดนตรีอันทรงพลัง\n \nMATK + 220\nMATK + 5%, SPL + 2\nเพิ่ม Damage สกิล Metallic Fury 5%\nเมื่ออัพเกรดถึงขั้น 5, เพิ่ม Damage สกิล Metallic Fury 10%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 5%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Metallic Fury ขึ้นอีก 10%\nเมื่ออัพเกรดถึงขั้น 10, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Metallic Fury ขึ้นอีก 5%, เพิ่ม Damage สกิล Sound Blend 15%\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\n[Grade C] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 10%\n[Grade B] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 10%\n[Grade A] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%\n \nประเภท : ^777777Instrument^000000 พลังโจมตี : ^777777120^000000\nน้ำหนัก : ^777777110^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Troubadour^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 269,
@@ -204786,7 +204786,7 @@
     "name": "Poenitentia Flagellum [2]",
     "unidName": "Robe",
     "resName": "Poenitentia_Flagellum",
-    "description": "Whip ที่โอบอุ้มความเจ็บปวดจากการสูญเสีย\n\nMATK + 250.\nMATK + 10%.\nเพิ่ม Damage สกิล Metalic Fury 10%\nทุก ๆ การอัพเกรด 2 ขั้น, เพิ่ม Damage สกิล Reverberation 3%\nเมื่ออัพเกรดถึงขั้น 7, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Reverberation ขึ้นอีก 30%\nเมื่ออัพเกรดถึงขั้น 11, ลดระยะเวลาร่ายแบบคงที่สกิล Reverberation 0.5 วินาที\n^ffffff_^000000\n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] เพิ่ม Damage สกิล Metalic Fury ขึ้นอีก 5%\n[Grade C] เพิ่ม Damage สกิล Metalic Fury ขึ้นอีก 8%, S.MATK + 1.\n[Grade B] เพิ่ม Damage สกิล Metalic Fury ขึ้นอีก 12%, SPL + 1.\n^ffffff_^000000\nประเภท : ^777777Whip^000000 พลังโจมตี : ^777777220^000000\nน้ำหนัก : ^777777110^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Trouvere^000000",
+    "description": "Whip ที่โอบอุ้มความเจ็บปวดจากการสูญเสีย\n\nMATK + 250.\nMATK + 10%.\nเพิ่ม Damage สกิล Metallic Fury 10%\nทุก ๆ การอัพเกรด 2 ขั้น, เพิ่ม Damage สกิล Reverberation 3%\nเมื่ออัพเกรดถึงขั้น 7, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Reverberation ขึ้นอีก 30%\nเมื่ออัพเกรดถึงขั้น 11, ลดระยะเวลาร่ายแบบคงที่สกิล Reverberation 0.5 วินาที\n^ffffff_^000000\n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] เพิ่ม Damage สกิล Metallic Fury ขึ้นอีก 5%\n[Grade C] เพิ่ม Damage สกิล Metallic Fury ขึ้นอีก 8%, S.MATK + 1.\n[Grade B] เพิ่ม Damage สกิล Metallic Fury ขึ้นอีก 12%, SPL + 1.\n^ffffff_^000000\nประเภท : ^777777Whip^000000 พลังโจมตี : ^777777220^000000\nน้ำหนัก : ^777777110^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Trouvere^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 270,
@@ -205428,7 +205428,7 @@
     "name": "Crime Whip [2]",
     "unidName": "Whip",
     "resName": "Sins_Whip",
-    "description": "Whip ที่สะสมพลังจากวิญญาณชั่วร้ายเอาไว้ แสดงออกมาเป็นการโจมตีอันทรงพลัง\n \nMATK + 220\nMATK + 5%, SPL + 2\nเพิ่ม Damage สกิล Metalic Fury 5%\nเมื่ออัพเกรดถึงขั้น 5, เพิ่ม Damage สกิล Metalic Fury 10%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 5%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Metalic Fury ขึ้นอีก 10%\nเมื่ออัพเกรดถึงขั้น 10, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Metalic Fury ขึ้นอีก 5%, เพิ่ม Damage สกิล Sound Blend 15%\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\n[Grade C] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 10%\n[Grade B] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 10%\n[Grade A] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%\n \nประเภท : ^777777Whip^000000 พลังโจมตี : ^777777120^000000\nน้ำหนัก : ^777777110^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Trouvere^000000",
+    "description": "Whip ที่สะสมพลังจากวิญญาณชั่วร้ายเอาไว้ แสดงออกมาเป็นการโจมตีอันทรงพลัง\n \nMATK + 220\nMATK + 5%, SPL + 2\nเพิ่ม Damage สกิล Metallic Fury 5%\nเมื่ออัพเกรดถึงขั้น 5, เพิ่ม Damage สกิล Metallic Fury 10%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 5%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Metallic Fury ขึ้นอีก 10%\nเมื่ออัพเกรดถึงขั้น 10, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Metallic Fury ขึ้นอีก 5%, เพิ่ม Damage สกิล Sound Blend 15%\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\n[Grade C] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 10%\n[Grade B] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 10%\n[Grade A] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%\n \nประเภท : ^777777Whip^000000 พลังโจมตี : ^777777120^000000\nน้ำหนัก : ^777777110^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Trouvere^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 270,
@@ -223927,7 +223927,7 @@
     "unidName": "White Knight Mantle (All)-LT",
     "resName": "WhiteKnight_Mantle",
     "unidResName": "WhiteKnight_Mantle",
-    "description": "เสื้อคลุมอันทรงเกียรติของอัศวิน White Knight\n\nทุก ๆ การอัพเกรด 2 ขั้น, \nATK, MATK + 20\nทุก ๆ การอัพเกรด 3 ขั้น, \nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 3%\nทุก ๆ การอัพเกรด 4 ขั้น, \nMaxHP + 5%, MaxSP + 5%\nASPD + 5%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 9 ขึ้นไป, \nลด Delay หลังใช้สกิล 10%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 11 ขึ้นไป, \nMATK + 20%,\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 20%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป, \nPerfect Hit + 90%,\nลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 12%\n\nเมื่อใช้งานร่วมกับ Spirit of Knight Lv.7,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อมอนสเตอร์ประเภท Boss 15%\nเพิ่ม Damage สกิล Hack And Slasher, Cross Rain, All Bloom, Lightning Land, Mighty Smash, Mayhemic Thorns, Savage Impact, Frenzy Shot, Petitio, Third Flame Bomb, Crescive Bolt, Metalic Fury, Noon Blast, Talisman of Four Bearing God, Kunai - Rotation, Cold Blooded Cannon, Spiral Shooting, Hogogong Strike, Napalm Vulcan Strike 25%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] DEF + 150, MDEF+30\n[Grade C] POW + 5, SPL + 5\n[Grade B] P.ATK + 7, S.MATK + 7\n[Grade A] เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 12%\n\nประเภท : ^777777Garment^000000  พลังป้องกัน : ^77777760^000000\nน้ำหนัก : ^777777120^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777170^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "description": "เสื้อคลุมอันทรงเกียรติของอัศวิน White Knight\n\nทุก ๆ การอัพเกรด 2 ขั้น, \nATK, MATK + 20\nทุก ๆ การอัพเกรด 3 ขั้น, \nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 3%\nทุก ๆ การอัพเกรด 4 ขั้น, \nMaxHP + 5%, MaxSP + 5%\nASPD + 5%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 9 ขึ้นไป, \nลด Delay หลังใช้สกิล 10%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 11 ขึ้นไป, \nMATK + 20%,\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 20%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป, \nPerfect Hit + 90%,\nลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 12%\n\nเมื่อใช้งานร่วมกับ Spirit of Knight Lv.7,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อมอนสเตอร์ประเภท Boss 15%\nเพิ่ม Damage สกิล Hack And Slasher, Cross Rain, All Bloom, Lightning Land, Mighty Smash, Mayhemic Thorns, Savage Impact, Frenzy Shot, Petitio, Third Flame Bomb, Crescive Bolt, Metallic Fury, Noon Blast, Talisman of Four Bearing God, Kunai - Rotation, Cold Blooded Cannon, Spiral Shooting, Hogogong Strike, Napalm Vulcan Strike 25%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] DEF + 150, MDEF+30\n[Grade C] POW + 5, SPL + 5\n[Grade B] P.ATK + 7, S.MATK + 7\n[Grade A] เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 12%\n\nประเภท : ^777777Garment^000000  พลังป้องกัน : ^77777760^000000\nน้ำหนัก : ^777777120^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777170^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 515,
@@ -244458,7 +244458,7 @@
     "unidName": null,
     "resName": "Scorpio_Ring_J",
     "unidResName": null,
-    "description": "MATK +100\nลด Delay หลังใช้สกิล 10%\nSPL +10\nลดระยะเวลาร่ายแบบแปรผัน 15%\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n \nเมื่อสวมใส่ร่วมกับ Crime Violin หรือ Crime Whip, \nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Metalic Fury, Sound Blend 15%\n\nเมื่อ Crime Violin หรือ Crime Whip มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป, \nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Metalic Fury, Sound Blend 15%\n\nเมื่อ Crime Violin หรือ Crime Whip มี Grade C ขึ้นไป, \nMATK +15%,\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%,\nเพิ่ม Damage สกิล Metalic Fury, Sound Blend 20%\n\nเมื่อสวมใส่ร่วมกับ Evil Spell,\nS.MATK + 15, ลด Cooldown สกิล Metalic Fury 0.3 วินาที\nเมื่อใช้งานสกิล Jawaii Serenade จะเปลี่ยนร่างเป็น Moonlight Flower เป็นเวลา 60 วินาที\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Troubadour, Trouvere^000000",
+    "description": "MATK +100\nลด Delay หลังใช้สกิล 10%\nSPL +10\nลดระยะเวลาร่ายแบบแปรผัน 15%\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n \nเมื่อสวมใส่ร่วมกับ Crime Violin หรือ Crime Whip, \nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Metallic Fury, Sound Blend 15%\n\nเมื่อ Crime Violin หรือ Crime Whip มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป, \nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Metallic Fury, Sound Blend 15%\n\nเมื่อ Crime Violin หรือ Crime Whip มี Grade C ขึ้นไป, \nMATK +15%,\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%,\nเพิ่ม Damage สกิล Metallic Fury, Sound Blend 20%\n\nเมื่อสวมใส่ร่วมกับ Evil Spell,\nS.MATK + 15, ลด Cooldown สกิล Metallic Fury 0.3 วินาที\nเมื่อใช้งานสกิล Jawaii Serenade จะเปลี่ยนร่างเป็น Moonlight Flower เป็นเวลา 60 วินาที\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777215^000000\nอาชีพที่ใส่ได้ : ^777777Troubadour, Trouvere^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 510,
@@ -264924,7 +264924,7 @@
     "unidName": null,
     "resName": "Gluttony_Crown",
     "unidResName": null,
-    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nมงกุฎเกราะซึ่งถือกำเนิดจากเศษเสี้ยวความทรงจำแห่งสมรภูมิที่เวียนวนไม่รู้จบ\nเป็นสัญลักษณ์ของ Troubadour & Trouvere ผู้ตัดขาดห่วงโซ่แห่งการเวียนว่าย ทอดทิ้งอดีตอันซ้ำซาก และก้าวสู่รุ่งอรุณของจุดเริ่มต้นใหม่\n\nทุก ๆ การอัพเกรด 3 ขั้น, MHP + 100, MSP + 15\nทุก ๆ การอัพเกรด 4 ขั้น, เพิ่ม Damage สกิล Metalic Fury, Rhythm Shooting 5%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางกายภาพระยะไกล 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\nเมื่ออัพเกรดถึงขั้น 9, P.ATK, S.MATK + 5, ATK, MATK + 5%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%\n- \n[Option เพิ่มเติมตาม Grade]\n[Grade D] P.ATK, S.MATK +  5\n[Grade C] MHP + 5%, MSP + 5%\n[Grade B] เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 10% (ยกเว้น Player)\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^77777735^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^77777750^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Troubadour, Trouvere^000000",
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nมงกุฎเกราะซึ่งถือกำเนิดจากเศษเสี้ยวความทรงจำแห่งสมรภูมิที่เวียนวนไม่รู้จบ\nเป็นสัญลักษณ์ของ Troubadour & Trouvere ผู้ตัดขาดห่วงโซ่แห่งการเวียนว่าย ทอดทิ้งอดีตอันซ้ำซาก และก้าวสู่รุ่งอรุณของจุดเริ่มต้นใหม่\n\nทุก ๆ การอัพเกรด 3 ขั้น, MHP + 100, MSP + 15\nทุก ๆ การอัพเกรด 4 ขั้น, เพิ่ม Damage สกิล Metallic Fury, Rhythm Shooting 5%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางกายภาพระยะไกล 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\nเมื่ออัพเกรดถึงขั้น 9, P.ATK, S.MATK + 5, ATK, MATK + 5%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%\n- \n[Option เพิ่มเติมตาม Grade]\n[Grade D] P.ATK, S.MATK +  5\n[Grade C] MHP + 5%, MSP + 5%\n[Grade B] เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 10% (ยกเว้น Player)\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^77777735^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^77777750^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Troubadour, Trouvere^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 512,
@@ -266982,7 +266982,7 @@
     "unidName": null,
     "resName": "LMN_TR_Violin",
     "unidResName": null,
-    "description": "Violin ของนักกวีผู้ตัดขาดห่วงโซ่แห่งการเวียนว่าย ทอดทิ้งอดีตอันซ้ำซาก และก้าวสู่รุ่งอรุณของจุดเริ่มต้นใหม่\n^ffffff_^000000\nMATK + 200, MATK + 3%,\nเพิ่ม Damage สกิล Metalic Fury 5%\nทุก ๆ การอัพเกรด 2 ขั้น MATK + 10, MATK + 1%\nทุก ๆ การอัพเกรด 3 ขั้น เพิ่ม Damage สกิล Metalic Fury 5%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%\nเมื่ออัพเกรดถึงขั้น 9, ลดระยะเวลาร่ายแบบแปรผัน 10%, S.MATK + 3\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Metalic Fury ขึ้นอีก 10%\n^ffffff_^000000\nเมื่อสวมใส่ร่วมกับ Orrivane Crown (Troubadour & Trouvere),\nเพิ่ม Damage สกิล Metalic Fury 10%,\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\n\nเมื่อ Orrivane Crown (Troubadour & Trouvere) มี Grade A ขึ้นไป,\nเมื่อขั้นอัพเกรดของ Weapon และ Helm รวมกันตั้งแต่ 22 ขึ้นไป, \nลด Cooldown สกิล Metalic Fury 0.1 วินาที,\nเพิ่ม Damage สกิล Metalic Fury 10%\n\n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] S.MATK + 2\n[Grade C] เพิ่ม Damage สกิล Metalic Fury 10%\n[Grade B] เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\n[Grade A] ทุก ๆ การอัพเกรด 2 ขั้น S.MATK + 2\n\nประเภท : ^777777Instrument^000000 พลังโจมตี : ^777777100^000000\nน้ำหนัก : ^777777180^000000\nเลเวลอาวุธ : ^7777775^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Troubadour^000000",
+    "description": "Violin ของนักกวีผู้ตัดขาดห่วงโซ่แห่งการเวียนว่าย ทอดทิ้งอดีตอันซ้ำซาก และก้าวสู่รุ่งอรุณของจุดเริ่มต้นใหม่\n^ffffff_^000000\nMATK + 200, MATK + 3%,\nเพิ่ม Damage สกิล Metallic Fury 5%\nทุก ๆ การอัพเกรด 2 ขั้น MATK + 10, MATK + 1%\nทุก ๆ การอัพเกรด 3 ขั้น เพิ่ม Damage สกิล Metallic Fury 5%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%\nเมื่ออัพเกรดถึงขั้น 9, ลดระยะเวลาร่ายแบบแปรผัน 10%, S.MATK + 3\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Metallic Fury ขึ้นอีก 10%\n^ffffff_^000000\nเมื่อสวมใส่ร่วมกับ Orrivane Crown (Troubadour & Trouvere),\nเพิ่ม Damage สกิล Metallic Fury 10%,\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\n\nเมื่อ Orrivane Crown (Troubadour & Trouvere) มี Grade A ขึ้นไป,\nเมื่อขั้นอัพเกรดของ Weapon และ Helm รวมกันตั้งแต่ 22 ขึ้นไป, \nลด Cooldown สกิล Metallic Fury 0.1 วินาที,\nเพิ่ม Damage สกิล Metallic Fury 10%\n\n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] S.MATK + 2\n[Grade C] เพิ่ม Damage สกิล Metallic Fury 10%\n[Grade B] เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\n[Grade A] ทุก ๆ การอัพเกรด 2 ขั้น S.MATK + 2\n\nประเภท : ^777777Instrument^000000 พลังโจมตี : ^777777100^000000\nน้ำหนัก : ^777777180^000000\nเลเวลอาวุธ : ^7777775^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Troubadour^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 269,
@@ -267006,7 +267006,7 @@
         "3",
         "2---1"
       ],
-      "Metalic Fury": [
+      "Metallic Fury": [
         "5",
         "3---5",
         "11===10",
@@ -267027,7 +267027,7 @@
         "GRADE[weapon==D]===2",
         "GRADE[weapon==A]2---2"
       ],
-      "cd__Metalic Fury": [
+      "cd__Metallic Fury": [
         "EQUIP[Orrivane Crown (Troubadour & Trouvere)]GRADE[headUpper==A]REFINE[weapon,headUpper==22]===0.1"
       ]
     }
@@ -267150,7 +267150,7 @@
     "unidName": null,
     "resName": "LMN_TR_Ribbon",
     "unidResName": null,
-    "description": "Ribbon ของนักเต้นผู้ตัดขาดห่วงโซ่แห่งการเวียนว่าย ทอดทิ้งอดีตอันซ้ำซาก และก้าวสู่รุ่งอรุณของจุดเริ่มต้นใหม่\n^ffffff_^000000\nMATK + 200, MATK + 3%,\nเพิ่ม Damage สกิล Metalic Fury 5%\nทุก ๆ การอัพเกรด 2 ขั้น MATK + 10, MATK + 1%\nทุก ๆ การอัพเกรด 3 ขั้น เพิ่ม Damage สกิล Metalic Fury 5%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%\nเมื่ออัพเกรดถึงขั้น 9, ลดระยะเวลาร่ายแบบแปรผัน 10%, S.MATK + 3\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Metalic Fury ขึ้นอีก 10%\n^ffffff_^000000\nเมื่อสวมใส่ร่วมกับ Orrivane Crown (Troubadour & Trouvere),\nเพิ่ม Damage สกิล Metalic Fury 10%,\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%,\n\nเมื่อ Orrivane Crown (Troubadour & Trouvere) มี Grade A ขึ้นไป,\nเมื่อขั้นอัพเกรดของ Weapon และ Helm รวมกันตั้งแต่ 22 ขึ้นไป, \nลด Cooldown สกิล Metalic Fury 0.1 วินาที,\nเพิ่ม Damage สกิล Metalic Fury 10%\n\n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] S.MATK + 2\n[Grade C] เพิ่ม Damage สกิล Metalic Fury 10%\n[Grade B] เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\n[Grade A] ทุก ๆ การอัพเกรด 2 ขั้น S.MATK + 2\nประเภท : ^777777Whip^000000 พลังโจมตี : ^777777100^000000\nน้ำหนัก : ^777777180^000000\nเลเวลอาวุธ : ^7777775^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Trouvere^000000",
+    "description": "Ribbon ของนักเต้นผู้ตัดขาดห่วงโซ่แห่งการเวียนว่าย ทอดทิ้งอดีตอันซ้ำซาก และก้าวสู่รุ่งอรุณของจุดเริ่มต้นใหม่\n^ffffff_^000000\nMATK + 200, MATK + 3%,\nเพิ่ม Damage สกิล Metallic Fury 5%\nทุก ๆ การอัพเกรด 2 ขั้น MATK + 10, MATK + 1%\nทุก ๆ การอัพเกรด 3 ขั้น เพิ่ม Damage สกิล Metallic Fury 5%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%\nเมื่ออัพเกรดถึงขั้น 9, ลดระยะเวลาร่ายแบบแปรผัน 10%, S.MATK + 3\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Metallic Fury ขึ้นอีก 10%\n^ffffff_^000000\nเมื่อสวมใส่ร่วมกับ Orrivane Crown (Troubadour & Trouvere),\nเพิ่ม Damage สกิล Metallic Fury 10%,\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%,\n\nเมื่อ Orrivane Crown (Troubadour & Trouvere) มี Grade A ขึ้นไป,\nเมื่อขั้นอัพเกรดของ Weapon และ Helm รวมกันตั้งแต่ 22 ขึ้นไป, \nลด Cooldown สกิล Metallic Fury 0.1 วินาที,\nเพิ่ม Damage สกิล Metallic Fury 10%\n\n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] S.MATK + 2\n[Grade C] เพิ่ม Damage สกิล Metallic Fury 10%\n[Grade B] เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\n[Grade A] ทุก ๆ การอัพเกรด 2 ขั้น S.MATK + 2\nประเภท : ^777777Whip^000000 พลังโจมตี : ^777777100^000000\nน้ำหนัก : ^777777180^000000\nเลเวลอาวุธ : ^7777775^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Trouvere^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 270,
@@ -267174,7 +267174,7 @@
         "3",
         "2---1"
       ],
-      "Metalic Fury": [
+      "Metallic Fury": [
         "5",
         "3---5",
         "11===10",
@@ -267195,7 +267195,7 @@
         "GRADE[weapon==D]===2",
         "GRADE[weapon==A]2---2"
       ],
-      "cd__Metalic Fury": [
+      "cd__Metallic Fury": [
         "EQUIP[Orrivane Crown (Troubadour & Trouvere)]GRADE[headUpper==A]REFINE[weapon,headUpper==22]===0.1"
       ]
     }
@@ -285170,7 +285170,7 @@
     "unidName": null,
     "resName": "Auto_Orb_Priest",
     "unidResName": null,
-    "description": "เมื่อสวมใส่ร่วมกับ Orrivane Musical Rope หรือ Orrivane Musical Harp,\nเพิ่ม Hit Damage ทางกายภาพ 10%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Rhythm Shooting, Rose Blossom 6%\n\nเมื่อ Orrivane Musical Rope หรือ Orrivane Musical Harp มี Grade C ขึ้นไป,\nP.ATK + 10,\nลด Cooldown สกิล Rhythm Shooting 0.3 วินาที,\nลด Cooldown สกิล Rose Blossom 0.6 วินาที\n\nเมื่อ Orrivane Musical Rope หรือ Orrivane Musical Harp มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,\nสามารถใช้งานสกิล Power Lv.4 ได้,\nเมื่อใช้งานสกิล Rose Blossom มีโอกาส 30% ที่จะ Autospell สกิล Rose Blossom Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Rhythm Shooting มีโอกาส 30% ที่จะ Autospell สกิล Rhythm Shooting Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเพิ่ม Damage สกิล Rhythm Shooting, Rose Blossom 25%\n\nเมื่อสวมใส่ร่วมกับ Orrivane Musical Ribbon หรือ Orrivane Musical Violin,\nMATK + 10%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Sound Blend, Metalic Fury 6%\n\nเมื่อ Orrivane Musical Ribbon หรือ Orrivane Musical Violin มี Grade C ขึ้นไป,\nS.MATK + 10,\nลด Cooldown สกิล Metalic Fury 0.3 วินาที\n\nเมื่อ Orrivane Musical Ribbon หรือ Orrivane Musical Violin มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 20%,\nเมื่อใช้งานสกิล Sound Blend จะ Autospell สกิล Metalic Fury Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Metalic Fury มีโอกาส 30% ที่จะ Autospell สกิล Metalic Fury Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Jawaii Serenade จะเปลี่ยนร่างเป็น Moonlight Flower เป็นเวลา 60 วินาที,\nเพิ่ม Damage สกิล Sound Blend, Metalic Fury 20%",
+    "description": "เมื่อสวมใส่ร่วมกับ Orrivane Musical Rope หรือ Orrivane Musical Harp,\nเพิ่ม Hit Damage ทางกายภาพ 10%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Rhythm Shooting, Rose Blossom 6%\n\nเมื่อ Orrivane Musical Rope หรือ Orrivane Musical Harp มี Grade C ขึ้นไป,\nP.ATK + 10,\nลด Cooldown สกิล Rhythm Shooting 0.3 วินาที,\nลด Cooldown สกิล Rose Blossom 0.6 วินาที\n\nเมื่อ Orrivane Musical Rope หรือ Orrivane Musical Harp มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,\nสามารถใช้งานสกิล Power Lv.4 ได้,\nเมื่อใช้งานสกิล Rose Blossom มีโอกาส 30% ที่จะ Autospell สกิล Rose Blossom Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Rhythm Shooting มีโอกาส 30% ที่จะ Autospell สกิล Rhythm Shooting Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเพิ่ม Damage สกิล Rhythm Shooting, Rose Blossom 25%\n\nเมื่อสวมใส่ร่วมกับ Orrivane Musical Ribbon หรือ Orrivane Musical Violin,\nMATK + 10%,\nทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Sound Blend, Metallic Fury 6%\n\nเมื่อ Orrivane Musical Ribbon หรือ Orrivane Musical Violin มี Grade C ขึ้นไป,\nS.MATK + 10,\nลด Cooldown สกิล Metallic Fury 0.3 วินาที\n\nเมื่อ Orrivane Musical Ribbon หรือ Orrivane Musical Violin มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 20%,\nเมื่อใช้งานสกิล Sound Blend จะ Autospell สกิล Metallic Fury Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Metallic Fury มีโอกาส 30% ที่จะ Autospell สกิล Metallic Fury Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Jawaii Serenade จะเปลี่ยนร่างเป็น Moonlight Flower เป็นเวลา 60 วินาที,\nเพิ่ม Damage สกิล Sound Blend, Metallic Fury 20%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -285216,11 +285216,11 @@
         "EQUIP[Orrivane Musical Ribbon||Orrivane Musical Violin]REFINE[weapon==2]---6",
         "EQUIP[Orrivane Musical Ribbon||Orrivane Musical Violin]REFINE[weapon==10]GRADE[weapon==C]===20"
       ],
-      "Metalic Fury": [
+      "Metallic Fury": [
         "EQUIP[Orrivane Musical Ribbon||Orrivane Musical Violin]REFINE[weapon==2]---6",
         "EQUIP[Orrivane Musical Ribbon||Orrivane Musical Violin]REFINE[weapon==10]GRADE[weapon==C]===20"
       ],
-      "cd__Metalic Fury": [
+      "cd__Metallic Fury": [
         "EQUIP[Orrivane Musical Ribbon||Orrivane Musical Violin]GRADE[weapon==C]===0.3"
       ],
       "m_my_element_all": [
@@ -285646,7 +285646,7 @@
     "unidName": null,
     "resName": "Colourful_Ring",
     "unidResName": null,
-    "description": "แหวนแห่ง Orrivane ที่เมื่อสวมใส่จะสัมผัสได้ถึงท่วงทำนองอันงดงามของผู้ขับขานบทเพลงแห่งความหวัง\nATK,MATK + 100\nลด Global Cooldown 10%\nPOW, SPL + 10\nMATK, เพิ่ม HIT Damage ทางกายภาพ 10%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Orrivane Crown (Troubadour & Trouvere),\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Metalic Fury, Rhythm Shooting 20%\n\nเมื่อ Orrivane Crown (Troubadour & Trouvere) มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Metalic Fury, Rhythm Shooting 20%\n\nเมื่อ Orrivane Crown (Troubadour & Trouvere) มี Grade C ขึ้นไป,\nP.ATK, S.MATK + 10,\nเพิ่ม Damage สกิล Metalic Fury, Rhythm Shooting 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Troubadour, Trouvere^000000",
+    "description": "แหวนแห่ง Orrivane ที่เมื่อสวมใส่จะสัมผัสได้ถึงท่วงทำนองอันงดงามของผู้ขับขานบทเพลงแห่งความหวัง\nATK,MATK + 100\nลด Global Cooldown 10%\nPOW, SPL + 10\nMATK, เพิ่ม HIT Damage ทางกายภาพ 10%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Orrivane Crown (Troubadour & Trouvere),\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Metallic Fury, Rhythm Shooting 20%\n\nเมื่อ Orrivane Crown (Troubadour & Trouvere) มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Metallic Fury, Rhythm Shooting 20%\n\nเมื่อ Orrivane Crown (Troubadour & Trouvere) มี Grade C ขึ้นไป,\nP.ATK, S.MATK + 10,\nเพิ่ม Damage สกิล Metallic Fury, Rhythm Shooting 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Troubadour, Trouvere^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 510,
@@ -285693,7 +285693,7 @@
       "m_size_all": [
         "EQUIP[Orrivane Crown (Troubadour & Trouvere)]===15"
       ],
-      "Metalic Fury": [
+      "Metallic Fury": [
         "EQUIP[Orrivane Crown (Troubadour & Trouvere)]===20",
         "EQUIP[Orrivane Crown (Troubadour & Trouvere)]REFINE[headUpper==10]===20",
         "EQUIP[Orrivane Crown (Troubadour & Trouvere)]GRADE[headUpper==C]===20"
