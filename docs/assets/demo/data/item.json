@@ -80275,7 +80275,6 @@
     "location": null,
     "compositionPos": 4,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_size_all": [
         "3---5"
@@ -232867,7 +232866,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hit": [
         "2---1"
@@ -232900,7 +232898,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hit": [
         "2---3"
@@ -232937,7 +232934,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hit": [
         "2---5"
@@ -232974,7 +232970,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hit": [
         "2---1"
@@ -233007,7 +233002,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hit": [
         "2---3"
@@ -233044,7 +233038,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hit": [
         "2---5"
@@ -233081,7 +233074,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "25"
@@ -233111,7 +233103,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "40"
@@ -233141,7 +233132,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "55"
@@ -233171,7 +233161,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "70"
@@ -233201,7 +233190,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "85"
@@ -233231,7 +233219,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "100"
@@ -233261,7 +233248,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "115"
@@ -233291,7 +233277,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "130"
@@ -233321,7 +233306,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "145"
@@ -233351,7 +233335,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "160"
@@ -233381,7 +233364,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "25"
@@ -233411,7 +233393,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "40"
@@ -233441,7 +233422,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "55"
@@ -233471,7 +233451,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "70"
@@ -233501,7 +233480,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "85"
@@ -233531,7 +233509,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "100"
@@ -233561,7 +233538,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "115"
@@ -233591,7 +233567,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "130"
@@ -233621,7 +233596,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "145"
@@ -233651,7 +233625,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "160"
@@ -234486,7 +234459,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "atk": [
         "30"
@@ -234517,7 +234489,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "atk": [
         "30"
@@ -234548,7 +234519,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "matk": [
         "30"
@@ -234596,7 +234566,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "matk": [
         "30"
@@ -234644,7 +234613,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "atk": [
         "20"
@@ -234678,7 +234646,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "atk": [
         "25"
@@ -234717,7 +234684,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "atk": [
         "25"
@@ -234756,7 +234722,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "matk": [
         "25"
@@ -234824,7 +234789,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "matk": [
         "25"
@@ -234892,7 +234856,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "atk": [
         "25"
@@ -234931,7 +234894,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "acd": [
         "2",
@@ -234962,7 +234924,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "atkPercent": [
         "2",
@@ -234996,7 +234957,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "matkPercent": [
         "2",
@@ -235030,7 +234990,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "def": [
         "100",
@@ -235064,7 +235023,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "mdef": [
         "20",
@@ -235098,7 +235056,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "aspdPercent": [
         "10",
@@ -235127,7 +235084,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "vct": [
         "10",
@@ -235156,7 +235112,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "2"
@@ -235194,7 +235149,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "2"
@@ -235232,7 +235186,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "sMatk": [
         "2"
@@ -235305,7 +235258,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "sMatk": [
         "2"
@@ -235378,7 +235330,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "cRate": [
         "2"
@@ -235416,7 +235367,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_size_all": [
         "3",
@@ -235445,7 +235395,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "m_size_all": [
         "3",
@@ -235474,7 +235423,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "atk": [
         "10",
@@ -235511,7 +235459,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "matk": [
         "10",
@@ -235548,7 +235495,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "atkPercent": [
         "2"
@@ -235583,7 +235529,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "atkPercent": [
         "2"
@@ -235618,7 +235563,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "matkPercent": [
         "2"
@@ -235677,7 +235621,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "matkPercent": [
         "2"
@@ -235736,7 +235679,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "cri": [
         "5"
@@ -235773,7 +235715,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "atk": [
         "30"
@@ -235804,7 +235745,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "atkPercent": [
         "2"
@@ -235848,7 +235788,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hitDmg": [
         "3",
@@ -235889,7 +235828,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "hit": [
         "25"
@@ -235929,7 +235867,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_plant": [
         "3",
@@ -235969,7 +235906,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_plant": [
         "4",
@@ -236013,7 +235949,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_plant": [
         "5",
@@ -236061,7 +235996,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_plant": [
         "7",
@@ -236113,7 +236047,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_plant": [
         "10",
@@ -236165,7 +236098,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_fish": [
         "3",
@@ -236205,7 +236137,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_fish": [
         "4",
@@ -236249,7 +236180,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_fish": [
         "5",
@@ -236297,7 +236227,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_fish": [
         "7",
@@ -236349,7 +236278,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_fish": [
         "10",
@@ -236401,7 +236329,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_angel": [
         "3",
@@ -236441,7 +236368,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_angel": [
         "4",
@@ -236485,7 +236411,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_angel": [
         "5",
@@ -236533,7 +236458,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_angel": [
         "7",
@@ -236585,7 +236509,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_angel": [
         "10",
@@ -236637,7 +236560,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_dragon": [
         "3",
@@ -236677,7 +236599,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_dragon": [
         "4",
@@ -236721,7 +236642,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_dragon": [
         "5",
@@ -236769,7 +236689,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_dragon": [
         "7",
@@ -236821,7 +236740,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_dragon": [
         "10",
@@ -236873,7 +236791,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_formless": [
         "3",
@@ -236913,7 +236830,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_formless": [
         "4",
@@ -236957,7 +236873,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_formless": [
         "5",
@@ -237005,7 +236920,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_formless": [
         "7",
@@ -237057,7 +236971,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_race_formless": [
         "10",
@@ -237109,7 +237022,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_fire": [
         "3",
@@ -237149,7 +237061,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_fire": [
         "4",
@@ -237193,7 +237104,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_fire": [
         "5",
@@ -237241,7 +237151,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_fire": [
         "7",
@@ -237293,7 +237202,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_fire": [
         "10",
@@ -237345,7 +237253,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_water": [
         "3",
@@ -237385,7 +237292,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_water": [
         "4",
@@ -237429,7 +237335,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_water": [
         "5",
@@ -237477,7 +237382,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_water": [
         "7",
@@ -237529,7 +237433,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_water": [
         "10",
@@ -237581,7 +237484,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_wind": [
         "3",
@@ -237621,7 +237523,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_wind": [
         "4",
@@ -237665,7 +237566,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_wind": [
         "5",
@@ -237713,7 +237613,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_wind": [
         "7",
@@ -237765,7 +237664,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_wind": [
         "10",
@@ -237817,7 +237715,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_ghost": [
         "3",
@@ -237857,7 +237754,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_ghost": [
         "4",
@@ -237901,7 +237797,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_ghost": [
         "5",
@@ -237949,7 +237844,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_ghost": [
         "7",
@@ -238001,7 +237895,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_ghost": [
         "10",
@@ -238053,7 +237946,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_neutral": [
         "3",
@@ -238093,7 +237985,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_neutral": [
         "4",
@@ -238137,7 +238028,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_neutral": [
         "5",
@@ -238185,7 +238075,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_neutral": [
         "7",
@@ -238237,7 +238126,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_element_neutral": [
         "10",
@@ -238289,7 +238177,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===1"
@@ -238322,7 +238209,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===4"
@@ -238361,7 +238247,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===5",
@@ -238405,7 +238290,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===6"
@@ -238449,7 +238333,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===7"
@@ -238493,7 +238376,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_class_boss": [
         "5"
@@ -238543,7 +238425,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===3"
@@ -238576,7 +238457,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===4"
@@ -238615,7 +238495,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===5"
@@ -238658,7 +238537,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===6"
@@ -238702,7 +238580,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===7"
@@ -238746,7 +238623,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_class_boss": [
         "5"
@@ -238796,7 +238672,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "sMatk": [
         "GRADE[boot==D]===3"
@@ -238829,7 +238704,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "sMatk": [
         "GRADE[boot==D]===4"
@@ -238883,7 +238757,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "sMatk": [
         "GRADE[boot==D]===5"
@@ -238941,7 +238814,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "sMatk": [
         "GRADE[boot==D]===6"
@@ -239000,7 +238872,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "sMatk": [
         "GRADE[boot==D]===7"
@@ -239059,7 +238930,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "m_class_boss": [
         "5"
@@ -239124,7 +238994,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "sMatk": [
         "GRADE[boot==D]===3"
@@ -239157,7 +239026,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "sMatk": [
         "GRADE[boot==D]===4"
@@ -239211,7 +239079,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "sMatk": [
         "GRADE[boot==D]===5"
@@ -239269,7 +239136,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "sMatk": [
         "GRADE[boot==D]===6"
@@ -239328,7 +239194,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "sMatk": [
         "GRADE[boot==D]===7"
@@ -239387,7 +239252,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "m_class_boss": [
         "5"
@@ -239452,7 +239316,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===2"
@@ -239488,7 +239351,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===2"
@@ -239533,7 +239395,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===3"
@@ -239587,7 +239448,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===4"
@@ -239643,7 +239503,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===4"
@@ -239699,7 +239558,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_class_boss": [
         "5"
@@ -239761,7 +239619,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===2"
@@ -239797,7 +239654,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===2"
@@ -239842,7 +239698,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===3"
@@ -239896,7 +239751,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===4"
@@ -239952,7 +239806,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "pAtk": [
         "GRADE[boot==D]===4"
@@ -240008,7 +239861,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_class_boss": [
         "5"
@@ -240070,7 +239922,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_final": [
         "SPAWN[ch1_gfn03]===5"
@@ -240128,7 +239979,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_final": [
         "SPAWN[ch1_gfn03]===5"
@@ -240186,7 +240036,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_final": [
         "SPAWN[ch1_gfn03]===5"
@@ -240244,7 +240093,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_final": [
         "SPAWN[ch1_gfn03]===5"
@@ -240302,7 +240150,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_final": [
         "SPAWN[ch1_gfn03]===5"
@@ -240360,7 +240207,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_final": [
         "SPAWN[ch1_gfn03]===5"
@@ -240418,7 +240264,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_final": [
         "SPAWN[ch1_gfn03]===5"
@@ -240476,7 +240321,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_final": [
         "SPAWN[ch1_gfn03]===5"
@@ -240534,7 +240378,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_final": [
         "SPAWN[ch1_gfn03]===5"
@@ -240592,7 +240435,6 @@
     "location": null,
     "compositionPos": 65535,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_final": [
         "SPAWN[ch1_gfn03]===5"
@@ -250812,7 +250654,6 @@
     "location": null,
     "compositionPos": 0,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "p_infiltration": [
         "1"
@@ -250851,7 +250692,6 @@
     "location": null,
     "compositionPos": 136,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "vct": [
         "50"
@@ -250884,7 +250724,6 @@
     "location": null,
     "compositionPos": 769,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "acd": [
         "35"
@@ -250923,7 +250762,6 @@
     "location": null,
     "compositionPos": 4,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "m_my_element_all": [
         "3---5"
@@ -250967,7 +250805,6 @@
     "location": null,
     "compositionPos": 4,
     "canGrade": false,
-    "usableClass": [],
     "script": {
       "allStatus": [
         "SUM[level==200]===20",
@@ -279591,7 +279428,9 @@
     "location": null,
     "compositionPos": null,
     "canGrade": false,
-    "usableClass": [],
+    "usableClass": [
+      "ElementalMaster"
+    ],
     "script": {
       "matkPercent": [
         "5",
