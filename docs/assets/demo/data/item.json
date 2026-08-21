@@ -285353,14 +285353,14 @@
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 514,
-    "itemLevel": null,
+    "itemLevel": 2,
     "attack": null,
     "defense": 35,
     "weight": 20,
     "requiredLevel": 200,
     "location": null,
     "compositionPos": null,
-    "canGrade": false,
+    "canGrade": true,
     "usableClass": [
       "Troubadour",
       "Trouvere"
