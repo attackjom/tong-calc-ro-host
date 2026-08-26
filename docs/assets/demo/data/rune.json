@@ -161,5 +161,18 @@
         "SET[5]3---3"
       ]
     }
+  },
+  "4000000007": {
+    "id": 4000000007,
+    "name": "Working Group",
+    "name_k": "실무진",
+    "description": "2 pieces : MaxHP + 3%, every 5 enhancement rate, additional MaxHP + 5%.",
+    "description_k": "MHP + 3%.\n \n5강화 당,\nMHP + 3%씩 추가 증가.",
+    "script": {
+      "hpPercent": [
+        "SET[2]3",
+        "SET[2]5---5"
+      ]
+    }
   }
 }

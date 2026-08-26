@@ -282362,10 +282362,10 @@
       "m_race_all": [
         "EQUIP[Snow Fox-LT]===15"
       ],
-      "p_pene_race_all": [
+      "pene_res": [
         "EQUIP[Snow Fox-LT]===10"
       ],
-      "m_pene_race_all": [
+      "pene_mres": [
         "EQUIP[Snow Fox-LT]===10"
       ]
     }
