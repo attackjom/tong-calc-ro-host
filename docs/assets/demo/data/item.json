@@ -290312,5 +290312,1563 @@
         "EQUIP[Wisdom Brooch Lv.5]===15"
       ]
     }
+  },
+  "300911": {
+    "id": 300911,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Royal Knight] Flamel Emure Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage สกิล Explosive Powder, Mayhemic Thorns, Acidified Zone (Ground), Acidified Zone (Wind), Acidified Zone (Fire), Acidified Zone (Water) 10%\nเมื่ออาวุธเลเวล 5 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nเมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "Explosive Powder": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Mayhemic Thorns": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Acidified Zone Earth": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Acidified Zone Wind": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Acidified Zone Fire": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Acidified Zone Water": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ]
+    }
+  },
+  "300967": {
+    "id": 300967,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Royal Knight] Alphoccio Basil Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage สกิล Sound Blend, Metalic Fury 10%\nเมื่ออาวุธเลเวล 5 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nเมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\n\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "Sound Blend": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Metallic Fury": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ]
+    }
+  },
+  "300968": {
+    "id": 300968,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Royal Knight] Trentini Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage สกิล Rhythm Shooting, Rose Blossom 10%\nเมื่ออาวุธเลเวล 5 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nเมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "Rhythm Shooting": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Rose Blossom": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ]
+    }
+  },
+  "300969": {
+    "id": 300969,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Royal Knight] Margaretha Sorin Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage สกิล Framen, Arbitrium, Petitio 10%\nเมื่ออาวุธเลเวล 5 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nเมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "Framen": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Arbitrium": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Petitio": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ]
+    }
+  },
+  "300970": {
+    "id": 300970,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Royal Knight] Kathryne Keyron Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage สกิล Soul Vulcan Strike, Mystery Illusion, Deadly Projection, Floral Flare Road, Rain of Crystal, Tornado Storm, Stratum Tremor, Crimson Arrow, Frozen Slash, Storm Cannon, Rock Down, All Bloom, Crystal Impact, Destructive Hurricane, Violent Quake 10%\nเมื่ออาวุธเลเวล 5 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nเมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "Soul Vulcan Strike": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Mystery Illusion": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Deadly Projection": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Floral Flare Road": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Rain of Crystal": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Tornado Storm": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Stratum Tremor": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Crimson Arrow": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Frozen Slash": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Storm Cannon": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Rock Down": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "All Bloom": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Crystal Impact": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Destructive Hurricane": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Violent Quake": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ]
+    }
+  },
+  "300972": {
+    "id": 300972,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Royal Knight] Harword Alt-Eisen Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage สกิล Axe Stomp, Mighty Smash, Spark Blaster, Triple Laser 10%\nเมื่ออาวุธเลเวล 5 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nเมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "Axe Stomp": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Mighty Smash": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Spark Blaster": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Triple Laser": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ]
+    }
+  },
+  "300973": {
+    "id": 300973,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Royal Knight] Randel Lawrence Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage สกิล Overslash, Shield Shooting, Cross Rain 10%\nเมื่ออาวุธเลเวล 5 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nเมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "Overslash": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Shield Shooting": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Cross Rain": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ]
+    }
+  },
+  "300974": {
+    "id": 300974,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Royal Knight] Celia Alde Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage สกิล Diamond Storm, Conflagration, Lightning Land, Terra Drive, Venom Swamp 10%\nเมื่ออาวุธเลเวล 5 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nเมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "Diamond Storm": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Conflagration": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Lightning Land": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Terra Drive": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Venom Swamp": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ]
+    }
+  },
+  "300975": {
+    "id": 300975,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Royal Knight] Chen Lio Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage สกิล First Brand, Second Faith, Second Judgement, Second Flame, Third Punishment, Third Consecration, Third Flame Bomb, Oleum Sanctum, Explosion Blaster 10%\nเมื่ออาวุธเลเวล 5 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nเมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "First Brand": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Second Faith": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Second Judgement": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Second Flame": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Third Punishment": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Third Consecration": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Third Flame Bomb": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Oleum Sanctum": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Explosion Blaster": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ]
+    }
+  },
+  "300976": {
+    "id": 300976,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Royal Knight] Gertie Wie Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage สกิล Abyss Dagger, Deft Stab, Unlucky Rush, Frenzy Shot, Chain Reaction Shot, From the Abyss, Abyss Square 10%\nเมื่ออาวุธเลเวล 5 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nเมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "Abyss Dagger": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Deft Stab": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Unlucky Rush": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Frenzy Shot": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Chain Reaction Shot": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "From the Abyss": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Abyss Square": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ]
+    }
+  },
+  "300977": {
+    "id": 300977,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Royal Knight] Eremes Guile Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage สกิล Dancing Knife, Shadow Stab, Eternal Slash, Savage Impact, Impact Crater 10%\nเมื่ออาวุธเลเวล 5 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nเมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "Dancing Knife": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Shadow Stab": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Eternal Slash": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Savage Impact": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Impact Crater": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ]
+    }
+  },
+  "300978": {
+    "id": 300978,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Royal Knight] Cecil Damon Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage สกิล Crescive Bolt, Gale Storm, Solid Trap, Deep Blind Trap, Flame Trap, Swift Trap, Hawk Rush 10%\nเมื่ออาวุธเลเวล 5 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nเมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "Crescive Bolt": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Gale Storm": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Solid Trap": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Deep Blind Trap": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Flame Trap": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Swift Trap": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Hawk Rush": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ]
+    }
+  },
+  "300979": {
+    "id": 300979,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Royal Knight] Seyren Windsor Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage สกิล Hack And Slasher, Storm Slash, Madness Crusher, Dragonic Breath, Servant Weapon, Servant Weapon - Phantom, Servant Weapon - Demolition 10%\nเมื่ออาวุธเลเวล 5 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nเมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "Hack and Slasher": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Storm Slash": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Madness Crusher": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Dragonic Breath": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Servant Weapon": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Servant Weapon - Phantom": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Servant Weapon - Demolition": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ]
+    }
+  },
+  "300980": {
+    "id": 300980,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Royal Knight] Rebellion Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage สกิล The Vigilante at Night, Only One Bullet, Spiral Shooting, Hasty Fire in the Hole, Grenades Dropping, Magazine for One, Wild Fire, Basic Grenade 10%\nเมื่ออาวุธเลเวล 5 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nเมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "The Vigilante at Night": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Only One Bullet": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Spiral Shooting": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Hasty Fire in the Hole": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Grenades Dropping": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Magazine for One": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Wild Fire": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Basic Grenade": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ]
+    }
+  },
+  "300981": {
+    "id": 300981,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Royal Knight] Super Novice Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage สกิล Double Bowling Bash, Mega Sonic Blow, Shield Chain Rush, Spiral Pierce Max, Meteor Storm Buster, Ground Gravitation, Jupitel Thunderstorm, Napalm Vulcan Strike, Jack Frost Nova, Hell's Drive 10%\nเมื่ออาวุธเลเวล 5 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nเมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "Double Bowling Bash": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Mega Sonic Blow": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Shield Chain Rush": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Spiral Pierce Max": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Meteor Storm Buster": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Ground Gravitation": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Jupitel Thunderstorm": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Napalm Vulcan Strike": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Jack Frost Nova": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Hell's Drive": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ]
+    }
+  },
+  "300982": {
+    "id": 300982,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Royal Knight] Ninja Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage สกิล Kunai - Distortion, Kunai - Rotation, Kunai - Refraction, Huuma Shuriken - Grasp, Huuma Shuriken - Construct, Shadow Dance, Shadow Flash, Red Flame Cannon, Cold Blooded Cannon, Thundering Cannon, Golden Dragon Cannon, Darkening Cannon, Shadow Hunting 10%\nเมื่ออาวุธเลเวล 5 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nเมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "Kunai - Distortion": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Kunai - Rotation": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Kunai - Refraction": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Huuma Shuriken - Grasp": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Huuma Shuriken - Construct": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Shadow Dance": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Shadow Flash": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Red Flame Cannon": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Cold Blooded Cannon": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Thundering Cannon": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Golden Dragon Cannon": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Darkening Cannon": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Shadow Hunting": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ]
+    }
+  },
+  "300983": {
+    "id": 300983,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Royal Knight] Taekwondo Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage สกิล Rising Sun, Noon Blast, Sunset Blast, Rising Moon, Midnight Kick, Dawn Break, Twinkling Galaxy, Star Burst, Star Cannon, Exorcism of Malicious Soul, Talisman of Blue Dragon, Talisman of Soul Stealing, Talisman of Black Tortoise, Talisman of White Tiger, Talisman of Red Phoenix, Talisman of Four Bearing God 10%\nเมื่ออาวุธเลเวล 5 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nเมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "Rising Sun": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Noon Blast": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Sunset Blast": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Rising Moon": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Midnight Kick": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Dawn Break": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Twinkling Galaxy": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Star Burst": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Star Cannon": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Exorcism of Malicious Soul": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Talisman of Blue Dragon": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Talisman of Soul Stealing": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Talisman of Black Tortoise": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Talisman of White Tiger": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Talisman of Red Phoenix": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Talisman of Four Bearing God": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ]
+    }
+  },
+  "300984": {
+    "id": 300984,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "[Royal Knight] Summoner Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่ม Damage สกิล Chulho Sonic Claw, Howling of Chulho, Hogogong Strike, Hyunrok Breeze, Hyunrok Cannon 10%\nเมื่ออาวุธเลเวล 5 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nเมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 0,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "Chulho Sonic Claw": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Howling of Chulho": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Hogogong Strike": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Hyunrok Breeze": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ],
+      "Hyunrok Cannon": [
+        "10",
+        "WEAPON_LEVEL[5]===10",
+        "REFINE[weapon==10]===10"
+      ]
+    }
+  },
+  "420387": {
+    "id": 420387,
+    "aegisName": "22Ani_item1_TW",
+    "flavorText": null,
+    "name": "Antique Old-Fashioned Smoking Pipe",
+    "unidName": null,
+    "resName": "앤티크담뱃대",
+    "unidResName": null,
+    "description": "ลด Damage ที่ได้รับจากศัตรูทุกเผ่า 4%,\nลด Global Cooldown 5%,\n\nเมื่อสวมใส่ร่วมกับ Elven Ear, Baby Deviling, Black Devil's Mask, Robo Eye,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 15%, \nเพิ่มค่าประสบการณ์เมื่อกำจัดมอนสเตอร์, เพิ่มอัตราดรอปไอเทม 8%, \nทุก ๆ Base STR 13, POW + 2,\nทุก ๆ AGI 13, ลด Global Cooldown 1%, \nทุก ๆ VIT 13, MaxHP + 2%,\nทุก ๆ INT 13, SPL + 2, \nทุก ๆ DEX 13, CON + 2,\nทุก ๆ LUK 13, ATK, MATK + 1%,\nเมื่อ Base STR, AGI 130, ลด Damage ทางกายภาพระยะใกล้ที่ได้รับ 10%,\nเมื่อ Base VIT, DEX 130, ลด Damage ทางกายภาพระยะไกลที่ได้รับ 10%,\nเมื่อ Base INT, LUK 130, เพิ่มความต้านทานต่อทุกธาตุ 10%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777771^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 100,
+    "location": "Lower",
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "acd": [
+        "5",
+        "EQUIP[Elven Ear||Baby Deviling||Black Devil's Mask||Robo Eye]SUM[agi==13]---1"
+      ],
+      "p_class_all": [
+        "EQUIP[Elven Ear||Baby Deviling||Black Devil's Mask||Robo Eye]===15"
+      ],
+      "m_class_all": [
+        "EQUIP[Elven Ear||Baby Deviling||Black Devil's Mask||Robo Eye]===15"
+      ],
+      "drop": [
+        "EQUIP[Elven Ear||Baby Deviling||Black Devil's Mask||Robo Eye]===8"
+      ],
+      "pow": [
+        "EQUIP[Elven Ear||Baby Deviling||Black Devil's Mask||Robo Eye]SUM[str==13]---2"
+      ],
+      "hpPercent": [
+        "EQUIP[Elven Ear||Baby Deviling||Black Devil's Mask||Robo Eye]SUM[vit==13]---2"
+      ],
+      "spl": [
+        "EQUIP[Elven Ear||Baby Deviling||Black Devil's Mask||Robo Eye]SUM[int==13]---2"
+      ],
+      "con": [
+        "EQUIP[Elven Ear||Baby Deviling||Black Devil's Mask||Robo Eye]SUM[dex==13]---2"
+      ],
+      "atkPercent": [
+        "EQUIP[Elven Ear||Baby Deviling||Black Devil's Mask||Robo Eye]SUM[luk==13]---1"
+      ],
+      "matkPercent": [
+        "EQUIP[Elven Ear||Baby Deviling||Black Devil's Mask||Robo Eye]SUM[luk==13]---1"
+      ]
+    }
+  },
+  "480269": {
+    "id": 480269,
+    "aegisName": "N_Avenger_Cape_TW",
+    "flavorText": null,
+    "name": "Naght Sieger's Cloak of Vengeance [1]",
+    "unidName": null,
+    "resName": "Day_of_the_Dead",
+    "unidResName": null,
+    "description": "ด้วยความมุ่งมั่นที่จะต่อสู้กับ Betelgeuse อีกครั้งจนถึงที่สุด ผู้สวมใส่จะสัมผัสได้ถึงพลังแห่งการแก้แค้นที่เอ่อล้นขึ้นมา\n\nทุก ๆ การอัพเกรด 2 ขั้น, ATK+10.\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่มความต้านทานต่อมอนสเตอร์เผ่า Dragon 4%\nทุก ๆ การอัพเกรด 4 ขั้น, เพิ่ม Damage ทางกายภาพต่อมอนสเตอร์เผ่า Dragon, Demi-Human 8%\nเมื่ออัพเกรดถึงขั้น 7, ATK + 10%\nเมื่ออัพเกรดถึงขั้น 9, ลด Global Cooldown 8%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%\nเมื่ออัพเกรดถึงขั้น 12, เพิ่ม Damage ทางกายภาพต่อศัตรูธาตุ Neutral 12%\nเมื่ออัพเกรดถึงขั้น 13, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกลขึ้นอีก15%\nเมื่อใช้งานร่วมกับ Naght Sieger Card,\nP.ATK+10, \nเพิ่ม Damage ทางกายภาพต่อศัตรูประเภท Boss 20%, \nเมื่อโจมตีทางกายภาพ, มีโอกาส 4% ที่จะแปลงร่างเป็น Naght Sieger เป็นเวลา 10 วินาที, ในขณะที่แปลงร่าง เพิ่ม Damage ทางกายภาพต่อศัตรูประเภท Boss ขึ้นอีก 20%, เพิ่ม Damage ทางกายภาพต่อ Betelgeuse 40%\nประเภท : ^777777Garment^000000  พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวล Armor : ^7777771^000000\nเลเวลที่ต้องการ : ^777777130^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 130,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "2---10"
+      ],
+      "p_race_dragon": [
+        "4---8"
+      ],
+      "p_race_demihuman": [
+        "4---8"
+      ],
+      "atkPercent": [
+        "7===10"
+      ],
+      "acd": [
+        "9===8"
+      ],
+      "melee": [
+        "11===10",
+        "13===15"
+      ],
+      "range": [
+        "11===10",
+        "13===15"
+      ],
+      "p_element_neutral": [
+        "12===12"
+      ],
+      "pAtk": [
+        "EQUIP[Naght Sieger Card]===10"
+      ],
+      "p_class_boss": [
+        "EQUIP[Naght Sieger Card]===20"
+      ],
+      "chance__p_class_boss": [
+        "EQUIP[Naght Sieger Card]===20"
+      ]
+    }
+  },
+  "480650": {
+    "id": 480650,
+    "aegisName": "N_Avenger_Cape_TW_LT",
+    "flavorText": null,
+    "name": "Naght Sieger's Cloak of Vengeance-LT [1]",
+    "unidName": null,
+    "resName": "N_Avenger_Cape_TW_LT",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด 2 ขั้น, ATK + 10, POW + 1, CON + 1\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่มความต้านทานต่อศัตรูเผ่า Dragon 4%\nทุก ๆ การอัพเกรด 4 ขั้น, เพิ่ม Damage ทางกายภาพต่อมอนสเตอร์เผ่า Dragon, Demi-Human 8%\nเมื่ออัพเกรดถึงขั้น 7, ATK + 15%\nเมื่ออัพเกรดถึงขั้น 9, ลด Global Cooldown 8%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 12%\nเมื่ออัพเกรดถึงขั้น 13, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 25%\n\nเมื่อใช้งานร่วมกับ Naght Sieger Card,\nP.ATK+10,\nเพิ่ม Damage ทางกายภาพต่อศัตรูธาตุ Neutral 30%,\nเพิ่ม Damage ทางกายภาพต่อศัตรูประเภท Boss 40%,\nเมื่อโจมตีทางกายภาพ, มีโอกาส 2% ที่จะแปลงร่างเป็น Naght Sieger เป็นเวลา 10 วินาที, ในขณะที่แปลงร่าง เพิกเฉยต่อความต้านทานทางกายภาพของศัตรูทุกเผ่า  20%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] ATK+80.\n[Grade C] เพิ่ม Damage ทางกายภาพระยะใกล้/ไกลขึ้นอีก 20%\n[Grade B] เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%\n[Grade A] เมื่ออัพเกรดถึงขั้น 13, เพิ่ม Damage ทางกายภาพต่อ Betelgeuse 30%\nประเภท : ^777777Garment^000000  พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777190^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 190,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "2---10",
+        "GRADE[me==D]===80"
+      ],
+      "pow": [
+        "2---1"
+      ],
+      "con": [
+        "2---1"
+      ],
+      "p_race_dragon": [
+        "4---8"
+      ],
+      "p_race_demihuman": [
+        "4---8"
+      ],
+      "atkPercent": [
+        "7===15"
+      ],
+      "acd": [
+        "9===8"
+      ],
+      "p_element_all": [
+        "11===12"
+      ],
+      "melee": [
+        "13===25",
+        "GRADE[me==C]===20"
+      ],
+      "range": [
+        "13===25",
+        "GRADE[me==C]===20"
+      ],
+      "pAtk": [
+        "EQUIP[Naght Sieger Card]===10"
+      ],
+      "p_element_neutral": [
+        "EQUIP[Naght Sieger Card]===30"
+      ],
+      "p_class_boss": [
+        "EQUIP[Naght Sieger Card]===40"
+      ],
+      "p_size_all": [
+        "GRADE[me==B]===10"
+      ],
+      "chance__p_pene_race_all": [
+        "EQUIP[Naght Sieger Card]===20"
+      ],
+      "p_final": [
+        "GRADE[me==A]SPAWN[MD_BETELGEUSE]13===20"
+      ]
+    }
+  },
+  "490719": {
+    "id": 490719,
+    "aegisName": "Six_Light_Dia_Ring",
+    "flavorText": null,
+    "name": "Six-Colored Diamond Ring [1]",
+    "unidName": null,
+    "resName": "Drop_of_Seven_Colors",
+    "unidResName": null,
+    "description": "ลด Global Cooldown 5%\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล, ทางเวทมนตร์ทุกธาตุ 15%\nทุก ๆ Base STR 15, POW + 1\nทุก ๆ Base INT 15, SPL + 1\nทุก ๆ Base DEX 15, CON + 1\n\nเมื่อใช้งานร่วมกับ Orc Hero Egg,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 10%,\nลดพลังป้องกันกายภาพของศัตรูทุกประเภท 30%,\nเพิ่ม Damage สกิล Petitio, Explosion Blaster 20%\n\nเมื่อใช้งานร่วมกับ Gloom Under Night Egg,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 10%,\nลดพลังป้องกันเวทมนตร์ของศัตรูทุกประเภท 30%,\nเพิ่ม Damage สกิล Conflagration, Soul Vulcan Strike 20%\n\nเมื่อใช้งานร่วมกับ Baphomet Egg,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 10%,\nลดพลังป้องกันกายภาพของศัตรูทุกประเภท 30%,\nเพิ่ม Damage สกิล Crescive Bolt, Rose Blossom 20%\n\nเมื่อใช้งานร่วมกับ Phreeoni Egg,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 10%,\nลดพลังป้องกันกายภาพของศัตรูทุกประเภท 30%,\nเพิ่ม Damage สกิล Mighty Smash, Explosive Powder 25%\n\nเมื่อใช้งานร่วมกับ Moonlight Egg,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 10%,\nลดพลังป้องกันกายภาพของศัตรูทุกประเภท 30%,\nเพิ่ม Damage สกิล Savage Impact, Deft Stab 25%\n\nเมื่อใช้งานร่วมกับ Kiel-D-01 Egg,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 10%,\nลดพลังป้องกันกายภาพของศัตรูทุกประเภท 30%,\nเพิ่ม Damage สกิล Storm Slash, Overslash 20%\nประเภท : ^777777Accessory^000000  พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777771^000000\nเลเวลที่ต้องการ : ^777777150^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 517,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 150,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "acd": [
+        "5"
+      ],
+      "melee": [
+        "15"
+      ],
+      "range": [
+        "15"
+      ],
+      "m_my_element_all": [
+        "15"
+      ],
+      "pow": [
+        "SUM[str==15]---1"
+      ],
+      "spl": [
+        "SUM[int==15]---1"
+      ],
+      "con": [
+        "SUM[dex==15]---1"
+      ],
+      "p_race_all": [
+        "EQUIP[Orc Hero Egg]===10",
+        "EQUIP[Baphomet Egg]===10",
+        "EQUIP[Phreeoni Egg]===10",
+        "EQUIP[Moonlight Egg]===10",
+        "EQUIP[Kiel-D-01 Egg]===10"
+      ],
+      "m_race_all": [
+        "EQUIP[Gloom Under Night Egg]===10"
+      ],
+      "p_pene_race_all": [
+        "EQUIP[Orc Hero Egg]===30",
+        "EQUIP[Baphomet Egg]===30",
+        "EQUIP[Phreeoni Egg]===30",
+        "EQUIP[Moonlight Egg]===30",
+        "EQUIP[Kiel-D-01 Egg]===30"
+      ],
+      "m_pene_race_all": [
+        "EQUIP[Gloom Under Night Egg]===30"
+      ],
+      "Petitio": [
+        "EQUIP[Orc Hero Egg]===20"
+      ],
+      "Explosion Blaster": [
+        "EQUIP[Orc Hero Egg]===20"
+      ],
+      "Conflagration": [
+        "EQUIP[Gloom Under Night Egg]===20"
+      ],
+      "Soul Vulcan Strike": [
+        "EQUIP[Gloom Under Night Egg]===20"
+      ],
+      "Crescive Bolt": [
+        "EQUIP[Baphomet Egg]===20"
+      ],
+      "Rose Blossom": [
+        "EQUIP[Baphomet Egg]===20"
+      ],
+      "Mighty Smash": [
+        "EQUIP[Phreeoni Egg]===25"
+      ],
+      "Explosive Powder": [
+        "EQUIP[Phreeoni Egg]===25"
+      ],
+      "Savage Impact": [
+        "EQUIP[Moonlight Egg]===25"
+      ],
+      "Deft Stab": [
+        "EQUIP[Moonlight Egg]===25"
+      ],
+      "Storm Slash": [
+        "EQUIP[Kiel-D-01 Egg]===20"
+      ],
+      "Overslash": [
+        "EQUIP[Kiel-D-01 Egg]===20"
+      ]
+    }
+  },
+  "490818": {
+    "id": 490818,
+    "aegisName": "Recovery_Ring_LT",
+    "flavorText": null,
+    "name": "Recovery Ring-LT [1]",
+    "unidName": null,
+    "resName": "Recovery_Ring_LT",
+    "unidResName": null,
+    "description": "MDEF + 10, All state + 12, MHP+15%.\nทุก ๆ การอัพเกรด 4 ขั้น, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล, ทางเวทมนตร์ทุกธาตุ 5%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่มปริมาณ Heal 30%, เพิ่มปริมาณ Heal ทื่ได้รับ 30%\nเมื่ออัพเกรดถึงขั้น 12, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 10%\n\nเมื่อใช้งานร่วมกับ White Lady Card,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 30%,\nสามารถใช้งานสกิล Argutus Telum Lv.5, Argutus Vita Lv.5,\nเพิ่ม Cooldown สกิล Argutus Telum, Argutus Vita 180 วินาที, (อาชีพ Cardinal จะไม่ได้รับผลเอฟเฟกต์ดังกล่าว)\nเมื่อถอดอุปกรณ์ บัฟ Argutus Telum, Argutus Vita จะหมดสถานะ\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] P.ATK, S.MATK+12.\n[Grade C] ATK, MATK+100.\n[Grade B] เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 15%\n[Grade A] สามารถใช้งานสกิล Mediale Votum Lv.5, เพิ่ม Cooldown สกิล Mediale Votum 120 วินาที, (อาชีพ Cardinal จะไม่ได้รับผลเอฟเฟกต์ดังกล่าว)\nเมื่อถอดอุปกรณ์ บัฟ Mediale Votum จะหมดสถานะ\nประเภท : ^777777Accessory (Left)^000000 พลังป้องกัน : ^7777775^000000\nน้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777150^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 511,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 5,
+    "weight": 10,
+    "requiredLevel": 150,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "mdef": [
+        "10"
+      ],
+      "allStatus": [
+        "12"
+      ],
+      "hpPercent": [
+        "15"
+      ],
+      "melee": [
+        "4---5"
+      ],
+      "range": [
+        "4---5"
+      ],
+      "m_my_element_all": [
+        "4---5"
+      ],
+      "p_element_all": [
+        "12===10"
+      ],
+      "m_element_all": [
+        "12===10"
+      ],
+      "p_race_all": [
+        "EQUIP[White Lady Card]===30"
+      ],
+      "m_race_all": [
+        "EQUIP[White Lady Card]===30"
+      ],
+      "pAtk": [
+        "GRADE[me==D]===12"
+      ],
+      "sMatk": [
+        "GRADE[me==D]===12"
+      ],
+      "atk": [
+        "GRADE[me==C]===100"
+      ],
+      "matk": [
+        "GRADE[me==C]===100"
+      ],
+      "p_size_all": [
+        "GRADE[me==B]===15"
+      ],
+      "m_size_all": [
+        "GRADE[me==B]===15"
+      ]
+    }
+  },
+  "18507": {
+    "id": 18507,
+    "aegisName": "Elven_Ears_",
+    "flavorText": null,
+    "name": "Elven Ear [1]",
+    "unidName": null,
+    "resName": "요정의귀",
+    "unidResName": null,
+    "description": "เป็นที่รู้กันดีว่ามันถูกสร้างขึ้นมาจากหูของเอลฟ์ ทำให้คุณรู้สึกเหมือนกับว่ามีเหล่าเอลฟ์กำลังวิ่งเล่นกันอยู่รอบๆตัว ภายในป่าสีเขียว\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nใช้สำหรับ : ^777777Middle^000000 น้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^77777770^000000\nอาชีพ : ^777777ทุกอาชีพ ยกเว้น Novice Cls^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 70,
+    "location": "Middle",
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
+  },
+  "18914": {
+    "id": 18914,
+    "aegisName": "Kid_Deviling",
+    "flavorText": null,
+    "name": "Baby Deviling [1]",
+    "unidName": null,
+    "resName": "꼬마데빌링",
+    "unidResName": null,
+    "description": "Baby Deviling ที่คอยติดตามเจ้านายไปทุกที\nAll State + 1.\nเมื่อทำการโจมตีทางกายภาพ มีโอกาสที่จะใช้งาน Blessing Lv. 7 ให้ตนเองได้\nไม่สามารถอัพเกรดหรือทำลายได้\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777775^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 5,
+    "weight": 10,
+    "requiredLevel": 1,
+    "location": "Middle",
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "allStatus": [
+        "1"
+      ]
+    }
+  },
+  "18603": {
+    "id": 18603,
+    "aegisName": "Black_Devil_Mask_",
+    "flavorText": null,
+    "name": "Black Devil's Mask [1]",
+    "unidName": null,
+    "resName": "검은악마의가면",
+    "unidResName": null,
+    "description": "หน้ากากปกปิดครึ่งใบหน้า ซ่อนความชั่วร้ายไว้ภายใน มอบความน่าเกรงขามให้แก่ผู้พบเห็น\nAll State + 1\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nใช้สำหรับ : ^777777Middle ^000000 น้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 1,
+    "location": "Middle",
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "allStatus": [
+        "1"
+      ]
+    }
   }
 }
