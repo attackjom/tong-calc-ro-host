@@ -282990,7 +282990,7 @@
     "unidName": null,
     "resName": "UnknownCard",
     "unidResName": null,
-    "description": "For every 10 Base Levels:\nATK +10, DEF +3, MDEF +1.\n(Effective up to Base Level 200.)\n^CC3D3D[Event Limited Effect]^000000\nIncreases Physical and Magic Damage against all race monsters by 10% (excluding players).\nIncreases Physical and Magic Damage against enemies of all sizes by 10%.\nIncreases EXP gained from defeating monsters by 15%.\nItem Drop Rate +7%.\n^ff0000(Event effects will be removed during the first scheduled maintenance in September 2026.)^000000\nClass : ^777777Card^000000\nEquipped on : ^777777Garment^000000\nWeight : ^7777771^000000",
+    "description": "For every 10 Base Levels:\nATK +10, DEF +3, MDEF +1.\n(Effective up to Base Level 200.)\nClass : ^777777Card^000000\nEquipped on : ^777777Garment^000000\nWeight : ^7777771^000000",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 0,
@@ -283011,21 +283011,6 @@
       ],
       "mdef": [
         "level:10(1-200)---1"
-      ],
-      "p_race_all": [
-        "10"
-      ],
-      "m_race_all": [
-        "10"
-      ],
-      "p_size_all": [
-        "10"
-      ],
-      "m_size_all": [
-        "10"
-      ],
-      "drop": [
-        "7"
       ]
     }
   },
@@ -283037,7 +283022,7 @@
     "unidName": null,
     "resName": "UnknownCard",
     "unidResName": null,
-    "description": "For every 10 Base Levels:\nMATK +10, DEF +3, MDEF +1.\n(Effective up to Base Level 200.)\n^CC3D3D[Event Limited Effect]^000000\nIncreases Physical and Magic Damage against all race monsters by 10% (excluding players).\nIncreases Physical and Magic Damage against enemies of all sizes by 10%.\nIncreases EXP gained from defeating monsters by 15%.\nItem Drop Rate +7%.\n^ff0000(Event effects will be removed during the first scheduled maintenance in September 2026.)^000000\nClass : ^777777Card^000000\nEquipped on : ^777777Garment^000000\nWeight : ^7777771^000000",
+    "description": "For every 10 Base Levels:\nMATK +10, DEF +3, MDEF +1.\n(Effective up to Base Level 200.)\nClass : ^777777Card^000000\nEquipped on : ^777777Garment^000000\nWeight : ^7777771^000000",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 0,
@@ -283058,21 +283043,6 @@
       ],
       "mdef": [
         "level:10(1-200)---1"
-      ],
-      "p_race_all": [
-        "10"
-      ],
-      "m_race_all": [
-        "10"
-      ],
-      "p_size_all": [
-        "10"
-      ],
-      "m_size_all": [
-        "10"
-      ],
-      "drop": [
-        "7"
       ]
     }
   },
@@ -283773,112 +283743,6 @@
       ],
       "p_element_all": [
         "EQUIP[Sharpshooter Muffler]GRADE[me==A]GRADE[garment==A]===15"
-      ]
-    }
-  },
-  "401367": {
-    "id": 401367,
-    "aegisName": "C_CLB_BS_head",
-    "flavorText": null,
-    "name": "Costume Baby Shark Head",
-    "unidName": null,
-    "resName": "C_CLB_BS_head",
-    "unidResName": null,
-    "description": "Pinkfong Baby Shark Collaboration.\n \nA costume headgear modeled after the adorable Baby Shark.\n^ffffff_^000000\n^CC3D3D[Event Limited Effect]^000000\nATK +50, MATK +50.\nCRI +10.\nReduces Variable Cast Time by 10%.\nEXP gained from defeating monsters +5%.\nIncreases Physical and Magic Damage against enemies of all properties and sizes by 10%.\n^ff0000(Event Limited Effect will be removed during the first scheduled maintenance of September 2026.)^000000\nClass : ^777777Costume Equipment^000000 Defense : ^7777770^000000\nLocation : ^777777Upper Headgear^000000 Weight : ^7777770^000000\nRequired Level : ^7777771^000000\nJobs : ^777777All Classes^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 519,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "canGrade": false,
-    "script": {
-      "atk": [
-        "50"
-      ],
-      "matk": [
-        "50"
-      ],
-      "cri": [
-        "10"
-      ],
-      "vct": [
-        "10"
-      ],
-      "p_size_all": [
-        "10"
-      ],
-      "m_size_all": [
-        "10"
-      ],
-      "p_element_all": [
-        "10"
-      ],
-      "m_element_all": [
-        "10"
-      ]
-    }
-  },
-  "410665": {
-    "id": 410665,
-    "aegisName": null,
-    "flavorText": null,
-    "name": "Costume Night Market Stamp",
-    "unidName": null,
-    "resName": "C_Nf_Stamp",
-    "unidResName": null,
-    "description": "A decorative item made by cleverly repurposing the stamp mold used for the Prontera Night Market Committee's Stamp Tour.\nBe as adorable as you like!\n^ffffff_^000000\n^CC3D3D[Event Limited Effect]^000000\nATK +40, MATK +40.\nMHP +5%, MSP +5%.\nHIT +25, CRI +5.\nReduces Global Cooldown by 3%.\nEXP gained from defeating monsters +20%.\nIncreases Physical and Magic Damage against all race monsters by 10% (excluding players).\nIncreases Physical Hit Damage and Critical Damage by 10%.\nIncreases All Element Magic Damage by 10%.\n^ff0000(The effects of this item will be removed when the event ends.)^000000\nClass : ^777777Costume Equipment^000000 Defense : ^7777770^000000\nLocation : ^777777Middle Headgear^000000 Weight : ^7777770^000000\nRequired Level : ^7777771^000000\nJobs : ^777777All Classes^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 520,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "canGrade": false,
-    "script": {
-      "atk": [
-        "40"
-      ],
-      "matk": [
-        "40"
-      ],
-      "hpPercent": [
-        "5"
-      ],
-      "spPercent": [
-        "5"
-      ],
-      "hit": [
-        "25"
-      ],
-      "cri": [
-        "5"
-      ],
-      "acd": [
-        "3"
-      ],
-      "p_race_all": [
-        "10"
-      ],
-      "m_race_all": [
-        "10"
-      ],
-      "hitDmg": [
-        "10"
-      ],
-      "criDmg": [
-        "10"
-      ],
-      "m_my_element_all": [
-        "10"
       ]
     }
   },
@@ -291868,6 +291732,1286 @@
     "script": {
       "allStatus": [
         "1"
+      ]
+    }
+  },
+  "1270242": {
+    "id": 1270242,
+    "aegisName": "S_UnknownWind_Weapon",
+    "flavorText": null,
+    "name": "Unknown Wind Weapon Shadow",
+    "unidName": null,
+    "resName": "SV_Weapon_Shadow",
+    "unidResName": null,
+    "description": "A glove worn on the hand holding a weapon that draws out the wearer's latent abilities.\n \nATK + 3%.\nEvery 2 refine levels, increases physical damage against Neutral and Wind property enemies by 1%.\nAt refine level 7, additionally increases physical damage against Neutral and Wind property enemies by 2%.\nAt refine level 9, additionally increases physical damage against Neutral and Wind property enemies by 3%.\nAt refine level 10, increases melee and ranged physical damage by 5%, and ignores 5% of the physical resistance of all races (excluding players).\n \n^ffffff<NAVI>^4D4DFF[Shadow Exclusive Magic Book]^000000<INFO>itemmall,41,63,0,100,0,0</INFO></NAVI>^000000 \nCan be granted random options using 2 Shadow Essences.\nClass : ^777777Shadow Equipment^000000\nLocation : ^777777Weapon^000000 Weight : ^7777770^000000\nRequired Level : ^777777200^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 280,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "1---1"
+      ],
+      "matk": [
+        "1---1"
+      ],
+      "atkPercent": [
+        "3"
+      ],
+      "p_element_neutral": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "p_element_wind": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "melee": [
+        "10===5"
+      ],
+      "range": [
+        "10===5"
+      ],
+      "pene_res": [
+        "10===5"
+      ]
+    }
+  },
+  "1270243": {
+    "id": 1270243,
+    "aegisName": "S_UnknownWind_Shield",
+    "flavorText": null,
+    "name": "Unknown Wind Shield Shadow",
+    "unidName": null,
+    "resName": "SV_Shield_Shadow",
+    "unidResName": null,
+    "description": "A small shield wearable on the arm that provides additional defensive effects. It can be used alone, but its defensive power is low.\n \nATK + 3%.\nEvery 2 refine levels, increases physical damage against Neutral and Wind property enemies by 1%.\nAt refine level 7, additionally increases physical damage against Neutral and Wind property enemies by 2%.\nAt refine level 9, additionally increases physical damage against Neutral and Wind property enemies by 3%.\nAt refine level 10, increases melee and ranged physical damage by 5%, and ignores 5% of the physical resistance of all races (excluding players).\n \nWhen equipped together with Unknown Wind Weapon Shadow, MHP + 3%, MSP + 3%, increases physical damage against Neutral and Wind property enemies by 10%, and if the combined refine level is 18 or higher, ignores 5% of the physical resistance of all races (excluding players).\n \n^ffffff<NAVI>^4D4DFF[Shadow Exclusive Magic Book]^000000<INFO>itemmall,41,63,0,100,0,0</INFO></NAVI>^000000 \nCan be granted random options using 2 Shadow Essences.\nClass : ^777777Shadow Equipment^000000\nLocation : ^777777Shield^000000 Weight : ^7777770^000000\nRequired Level : ^777777200^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atkPercent": [
+        "3"
+      ],
+      "p_element_neutral": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Unknown Wind Weapon Shadow]===10"
+      ],
+      "p_element_wind": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Unknown Wind Weapon Shadow]===10"
+      ],
+      "melee": [
+        "10===5"
+      ],
+      "range": [
+        "10===5"
+      ],
+      "pene_res": [
+        "10===5",
+        "EQUIP[Unknown Wind Weapon Shadow]REFINE[shadowWeapon,shadowShield==18]===5"
+      ],
+      "hpPercent": [
+        "EQUIP[Unknown Wind Weapon Shadow]===3"
+      ],
+      "spPercent": [
+        "EQUIP[Unknown Wind Weapon Shadow]===3"
+      ]
+    }
+  },
+  "1270244": {
+    "id": 1270244,
+    "aegisName": "S_M_UnknownWind_Weapon",
+    "flavorText": null,
+    "name": "Magic Unknown Wind Weapon Shadow",
+    "unidName": null,
+    "resName": "SV_Weapon_Shadow",
+    "unidResName": null,
+    "description": "A glove worn on the hand holding a weapon that draws out the wearer's latent abilities.\n \nMATK + 3%.\nEvery 2 refine levels, increases magic damage against Neutral and Wind property enemies by 1%.\nAt refine level 7, additionally increases magic damage against Neutral and Wind property enemies by 2%.\nAt refine level 9, additionally increases magic damage against Neutral and Wind property enemies by 3%.\nAt refine level 10, increases all elemental magic damage by 5%, and ignores 5% of the magic resistance of all races (excluding players).\n \n^ffffff<NAVI>^4D4DFF[Shadow Exclusive Magic Book]^000000<INFO>itemmall,41,63,0,100,0,0</INFO></NAVI>^000000 \nCan be granted random options using 2 Shadow Essences.\nClass : ^777777Shadow Equipment^000000\nLocation : ^777777Weapon^000000 Weight : ^7777770^000000\nRequired Level : ^777777200^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 280,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "1---1"
+      ],
+      "matk": [
+        "1---1"
+      ],
+      "matkPercent": [
+        "3"
+      ],
+      "m_element_neutral": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "m_element_wind": [
+        "2---1",
+        "7===2",
+        "9===3"
+      ],
+      "m_my_element_all": [
+        "10===5"
+      ],
+      "pene_mres": [
+        "10===5"
+      ]
+    }
+  },
+  "1270245": {
+    "id": 1270245,
+    "aegisName": "S_M_UnknownWind_Shield",
+    "flavorText": null,
+    "name": "Magic Unknown Wind Shield Shadow",
+    "unidName": null,
+    "resName": "SV_Shield_Shadow",
+    "unidResName": null,
+    "description": "A small shield wearable on the arm that provides additional defensive effects. It can be used alone, but its defensive power is low.\n \nMATK + 3%.\nEvery 2 refine levels, increases magic damage against Neutral and Wind property enemies by 1%.\nAt refine level 7, additionally increases magic damage against Neutral and Wind property enemies by 2%.\nAt refine level 9, additionally increases magic damage against Neutral and Wind property enemies by 3%.\nAt refine level 10, increases all elemental magic damage by 5%, and ignores 5% of the magic resistance of all races (excluding players).\n \nWhen equipped together with Magic Unknown Wind Weapon Shadow, MHP + 3%, MSP + 3%, increases magic damage against Neutral and Wind property enemies by 10%, and if the combined refine level is 18 or higher, ignores 5% of the magic resistance of all races (excluding players).\n \n^ffffff<NAVI>^4D4DFF[Shadow Exclusive Magic Book]^000000<INFO>itemmall,41,63,0,100,0,0</INFO></NAVI>^000000 \nCan be granted random options using 2 Shadow Essences.\nClass : ^777777Shadow Equipment^000000\nLocation : ^777777Shield^000000 Weight : ^7777770^000000\nRequired Level : ^777777200^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matkPercent": [
+        "3"
+      ],
+      "m_element_neutral": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Magic Unknown Wind Weapon Shadow]===10"
+      ],
+      "m_element_wind": [
+        "2---1",
+        "7===2",
+        "9===3",
+        "EQUIP[Magic Unknown Wind Weapon Shadow]===10"
+      ],
+      "m_my_element_all": [
+        "10===5"
+      ],
+      "pene_mres": [
+        "10===5",
+        "EQUIP[Magic Unknown Wind Weapon Shadow]REFINE[shadowWeapon,shadowShield==18]===5"
+      ],
+      "hpPercent": [
+        "EQUIP[Magic Unknown Wind Weapon Shadow]===3"
+      ],
+      "spPercent": [
+        "EQUIP[Magic Unknown Wind Weapon Shadow]===3"
+      ]
+    }
+  },
+  "315693": {
+    "id": 315693,
+    "aegisName": "DK_Soul_SC",
+    "flavorText": null,
+    "name": "Dragon Knight Soul (Servant Weapon - Cleave)",
+    "unidName": null,
+    "resName": "Wolf_Orb_Life",
+    "unidResName": null,
+    "description": "Increases Servant Weapon - Cleave damage by 2%.\nFor every 2 refine levels, additionally increases Servant Weapon - Cleave damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Servant Weapon - Cleave": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315694": {
+    "id": 315694,
+    "aegisName": "IG_Soul_SM",
+    "flavorText": null,
+    "name": "Imperial Guard Soul (Shield Slam)",
+    "unidName": null,
+    "resName": "Wolf_Orb_Soul",
+    "unidResName": null,
+    "description": "Increases Shield Slam damage by 2%.\nFor every 2 refine levels, additionally increases Shield Slam damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Shield Slam": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315695": {
+    "id": 315695,
+    "aegisName": "ABC_Soul_PD",
+    "flavorText": null,
+    "name": "Abyss Chaser Soul (Phantom Dagger)",
+    "unidName": null,
+    "resName": "Wolf_Orb_Def_1",
+    "unidResName": null,
+    "description": "Increases Phantom Dagger damage by 2%.\nFor every 2 refine levels, additionally increases Phantom Dagger damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Phantom Dagger": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315696": {
+    "id": 315696,
+    "aegisName": "CD_Soul_PN",
+    "flavorText": null,
+    "name": "Cardinal Soul (Punitio)",
+    "unidName": null,
+    "resName": "Wolf_Orb_Ran_1",
+    "unidResName": null,
+    "description": "Increases Punitio damage by 2%.\nFor every 2 refine levels, additionally increases Punitio damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Punitio": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315697": {
+    "id": 315697,
+    "aegisName": "CD_Soul_LE",
+    "flavorText": null,
+    "name": "Cardinal Soul (Lex Expiatrix)",
+    "unidName": null,
+    "resName": "Wolf_Orb_Ran_1",
+    "unidResName": null,
+    "description": "Increases Lex Expiatrix damage by 2%.\nFor every 2 refine levels, additionally increases Lex Expiatrix damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Lex Expiatrix": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315698": {
+    "id": 315698,
+    "aegisName": "IQ_Soul_BH",
+    "flavorText": null,
+    "name": "Inquisitor Soul (Pacheon Strike)",
+    "unidName": null,
+    "resName": "Wolf_Orb_War_1",
+    "unidResName": null,
+    "description": "Increases Pacheon Strike damage by 2%.\nFor every 2 refine levels, additionally increases Pacheon Strike damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Pacheon Strike": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315699": {
+    "id": 315699,
+    "aegisName": "MT_Soul_OP",
+    "flavorText": null,
+    "name": "Maestro Soul (Overdrive Protocol)",
+    "unidName": null,
+    "resName": "Wolf_Orb_Sp_1",
+    "unidResName": null,
+    "description": "Increases Overdrive Protocol damage by 2%.\nFor every 2 refine levels, additionally increases Overdrive Protocol damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Overdrive Protocol": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315700": {
+    "id": 315700,
+    "aegisName": "BO_Soul_RV",
+    "flavorText": null,
+    "name": "Biolo Soul (Rampant Vine)",
+    "unidName": null,
+    "resName": "Wolf_Orb_Hp_1",
+    "unidResName": null,
+    "description": "Increases Rampant Vine damage by 2%.\nFor every 2 refine levels, additionally increases Rampant Vine damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Rampant Vine": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315701": {
+    "id": 315701,
+    "aegisName": "WH_Soul_FB",
+    "flavorText": null,
+    "name": "Windhawk Soul (Fragment Bolt)",
+    "unidName": null,
+    "resName": "Wolf_Orb_Critical_1",
+    "unidResName": null,
+    "description": "Increases Fragment Bolt damage by 2%.\nFor every 2 refine levels, additionally increases Fragment Bolt damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Fragment Bolt": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315702": {
+    "id": 315702,
+    "aegisName": "WH_Soul_SA",
+    "flavorText": null,
+    "name": "Windhawk Soul (Primed Solid Trap)",
+    "unidName": null,
+    "resName": "Wolf_Orb_Critical_1",
+    "unidResName": null,
+    "description": "Increases Primed Solid Trap damage by 2%.\nFor every 2 refine levels, additionally increases Primed Solid Trap damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Primed Solid Trap": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315703": {
+    "id": 315703,
+    "aegisName": "WH_Soul_BA",
+    "flavorText": null,
+    "name": "Windhawk Soul (Primed Deep Blind Trap)",
+    "unidName": null,
+    "resName": "Wolf_Orb_Critical_1",
+    "unidResName": null,
+    "description": "Increases Primed Deep Blind Trap damage by 2%.\nFor every 2 refine levels, additionally increases Primed Deep Blind Trap damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Primed Deep Blind Trap": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315704": {
+    "id": 315704,
+    "aegisName": "WH_Soul_FA",
+    "flavorText": null,
+    "name": "Windhawk Soul (Primed Flame Trap)",
+    "unidName": null,
+    "resName": "Wolf_Orb_Critical_1",
+    "unidResName": null,
+    "description": "Increases Primed Flame Trap damage by 2%.\nFor every 2 refine levels, additionally increases Primed Flame Trap damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Primed Flame Trap": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315705": {
+    "id": 315705,
+    "aegisName": "WH_Soul_WA",
+    "flavorText": null,
+    "name": "Windhawk Soul (Primed Swift Trap)",
+    "unidName": null,
+    "resName": "Wolf_Orb_Critical_1",
+    "unidResName": null,
+    "description": "Increases Primed Swift Trap damage by 2%.\nFor every 2 refine levels, additionally increases Primed Swift Trap damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Primed Swift Trap": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315706": {
+    "id": 315706,
+    "aegisName": "TR_Soul_FF",
+    "flavorText": null,
+    "name": "Troubadour & Trouvere Soul (Fuga de Fleche)",
+    "unidName": null,
+    "resName": "Wolf_Orb_Caster_1",
+    "unidResName": null,
+    "description": "Increases Fuga de Fleche damage by 2%.\nFor every 2 refine levels, additionally increases Fuga de Fleche damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Fuga de Fleche": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315707": {
+    "id": 315707,
+    "aegisName": "AG_Soul_WD",
+    "flavorText": null,
+    "name": "Arch Mage Soul (Wraith Dash)",
+    "unidName": null,
+    "resName": "Wolf_Orb_M_Counter_1",
+    "unidResName": null,
+    "description": "Increases Wraith Dash damage by 2%.\nFor every 2 refine levels, additionally increases Wraith Dash damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Wraith Dash": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315708": {
+    "id": 315708,
+    "aegisName": "EM_Soul_EI",
+    "flavorText": null,
+    "name": "Elemental Master Soul (Elemental Integration)",
+    "unidName": null,
+    "resName": "Wolf_Orb_Above_1",
+    "unidResName": null,
+    "description": "Increases Burning Flame, Frozen Hail, Storm Rise, Terra Burst, and Venom Bombard damage by 2%.\nFor every 2 refine levels, additionally increases Burning Flame, Frozen Hail, Storm Rise, Terra Burst, and Venom Bombard damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Burning Flame": [
+        "2",
+        "2---1"
+      ],
+      "Frozen Hail": [
+        "2",
+        "2---1"
+      ],
+      "Storm Rise": [
+        "2",
+        "2---1"
+      ],
+      "Terra Burst": [
+        "2",
+        "2---1"
+      ],
+      "Venom Bombard": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315709": {
+    "id": 315709,
+    "aegisName": "SS_Soul_KR",
+    "flavorText": null,
+    "name": "Shinkiro & Shiranui Soul (Shadow Torrent)",
+    "unidName": null,
+    "resName": "Wolf_Orb_Fi_Dex",
+    "unidResName": null,
+    "description": "Increases Shadow Torrent damage by 2%.\nFor every 2 refine levels, additionally increases Shadow Torrent damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Shadow Torrent": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315710": {
+    "id": 315710,
+    "aegisName": "HN_Soul_WC",
+    "flavorText": null,
+    "name": "Hyper Novice Soul (Wind Cutter Turbo)",
+    "unidName": null,
+    "resName": "Wolf_Orb_Fa_Agi",
+    "unidResName": null,
+    "description": "Increases Wind Cutter Turbo damage by 2%.\nFor every 2 refine levels, additionally increases Wind Cutter Turbo damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Wind Cutter Turbo": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315711": {
+    "id": 315711,
+    "aegisName": "HN_Soul_MB",
+    "flavorText": null,
+    "name": "Hyper Novice Soul (High Magnum Break)",
+    "unidName": null,
+    "resName": "Wolf_Orb_Fa_Agi",
+    "unidResName": null,
+    "description": "Increases High Magnum Break damage by 2%.\nFor every 2 refine levels, additionally increases High Magnum Break damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "High Magnum Break": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315712": {
+    "id": 315712,
+    "aegisName": "AT_Soul_FP",
+    "flavorText": null,
+    "name": "Alitea Soul (Plume Piercer)",
+    "unidName": null,
+    "resName": "Wolf_Orb_F_Cast_1",
+    "unidResName": null,
+    "description": "Increases Plume Piercer damage by 2%.\nFor every 2 refine levels, additionally increases Plume Piercer damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Plume Piercer": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315713": {
+    "id": 315713,
+    "aegisName": "AT_Soul_NR",
+    "flavorText": null,
+    "name": "Alitea Soul (Nature's Fury)",
+    "unidName": null,
+    "resName": "Wolf_Orb_F_Cast_1",
+    "unidResName": null,
+    "description": "Increases Nature's Fury damage by 2%.\nFor every 2 refine levels, additionally increases Nature's Fury damage by 1%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Nature's Fury": [
+        "2",
+        "2---1"
+      ]
+    }
+  },
+  "315717": {
+    "id": 315717,
+    "aegisName": "Rising_Druid",
+    "flavorText": null,
+    "name": "Rising Particle (Druid)",
+    "unidName": null,
+    "resName": "Jewel_Of_Time_Ore",
+    "unidResName": null,
+    "description": "Increases Chop Chop, Sharpen Hail, and Thundering Orb damage by 30%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Chop Chop": [
+        "30"
+      ],
+      "Sharpen Hail": [
+        "30"
+      ],
+      "Thundering Orb": [
+        "30"
+      ]
+    }
+  },
+  "401458": {
+    "id": 401458,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Costume Toad Cap (Brown)",
+    "unidName": null,
+    "resName": "C_Toad_Cap",
+    "unidResName": null,
+    "description": "A festival costume that can be used to quickly repair a water jar that breaks at the worst possible time.\nI once read a storybook about why it was shaped like a toad when I was young.\n^ffffff_^000000\n^CC3D3D[Event-Exclusive Option]^000000\nATK + 40, MATK + 40.\nCRI + 10, variable cast time -10%.\nEXP gained from monster hunting + 15%.\nPhysical/Magic damage dealt to monsters of all races + 10% (excluding players).\nPhysical/Magic damage dealt to enemies of all sizes + 10%.\n^ff0000(Event-exclusive options will be removed when the event ends.)^000000\nClass : ^777777Costume Equipment^000000 Defense : ^7777770^000000\nLocation : ^777777Upper^000000 Weight : ^7777770^000000\nRequired Level : ^7777771^000000\nJobs : ^777777All Classes^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "40"
+      ],
+      "matk": [
+        "40"
+      ],
+      "cri": [
+        "10"
+      ],
+      "vct": [
+        "10"
+      ],
+      "p_race_all": [
+        "10"
+      ],
+      "m_race_all": [
+        "10"
+      ],
+      "p_size_all": [
+        "10"
+      ],
+      "m_size_all": [
+        "10"
+      ]
+    }
+  },
+  "401523": {
+    "id": 401523,
+    "aegisName": "26_9_Circlet_SHC",
+    "flavorText": null,
+    "name": "Radiant Rune Circlet (Shadow Cross) [1]",
+    "unidName": null,
+    "resName": "어센드크라운",
+    "unidResName": null,
+    "description": "A circlet crafted with radiant runes.\n \nFor every 2 refine levels, ATK + 3, HIT + 5.\nFor every 3 refine levels, ATK + 2%, melee physical damage +1%, hit physical damage +3%.\nFor every 4 refine levels, Impact Crater and Shadow Stab damage +5%.\nAt refine +7, melee physical damage +10%.\nAt refine +9, P.ATK + 5.\nAt refine +11, attack speed increases (after-attack delay -10%).\n \nWhen equipped with Radiant Dagger and Radiant Dagger II, Shadow Stab damage +40% and hit physical damage +15%.\nIf the total refine level of Radiant Rune Circlet (Shadow Cross), Radiant Dagger, and Radiant Dagger II is 34 or higher, each at Grade A or higher, and Venom Ignition is learned at level 5 or higher, Impact Crater skill cooldown -0.5 sec and melee physical damage +10%.\n \n^CC3D3D[Additional Options by Grade]^000000\n[Grade D] P.ATK + 5.\n[Grade C] Shadow Stab damage +10%.\n[Grade B] Physical damage to enemies of all sizes +10%.\n[Grade A] Physical damage to enemies of all elements +10%.\nClass : ^777777Headgear^000000 Defense : ^77777750^000000\nLocation : ^777777Upper^000000 Weight : ^7777770^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Shadow Cross^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 50,
+    "weight": 0,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ShadowCross"
+    ],
+    "script": {
+      "atk": [
+        "2---3"
+      ],
+      "hit": [
+        "2---5"
+      ],
+      "atkPercent": [
+        "3---2"
+      ],
+      "melee": [
+        "3---1",
+        "7===10",
+        "EQUIP[Radiant Dagger&&Radiant Dagger II]GRADES[weapon==A&&leftWeapon==A&&headUpper==A]REFINE[weapon,leftWeapon,headUpper==34]LEARN_SKILL[Venom Ignition==5]===10"
+      ],
+      "hitDmg": [
+        "3---3",
+        "EQUIP[Radiant Dagger&&Radiant Dagger II]===15"
+      ],
+      "Impact Crater": [
+        "4---5"
+      ],
+      "Shadow Stab": [
+        "4---5",
+        "EQUIP[Radiant Dagger&&Radiant Dagger II]===40",
+        "GRADE[me==C]===10"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==D]===5"
+      ],
+      "acd": [
+        "11===10"
+      ],
+      "cd__Impact Crater": [
+        "EQUIP[Radiant Dagger&&Radiant Dagger II]GRADES[weapon==A&&leftWeapon==A&&headUpper==A]REFINE[weapon,leftWeapon,headUpper==34]LEARN_SKILL[Venom Ignition==5]===0.5"
+      ],
+      "p_size_all": [
+        "GRADE[me==B]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "401524": {
+    "id": 401524,
+    "aegisName": "26_9_Circlet_CD",
+    "flavorText": null,
+    "name": "Radiant Rune Circlet (Cardinal) [1]",
+    "unidName": null,
+    "resName": "어센드크라운",
+    "unidResName": null,
+    "description": "A circlet crafted with radiant runes.\n \nFor every 2 refine levels, ATK + 3, CRI + 2.\nFor every 3 refine levels, ATK + 2%, critical damage +3%.\nFor every 4 refine levels, Petitio and Punitio damage +5%.\nAt refine +7, melee physical damage +10%.\nAt refine +9, P.ATK + 5.\nAt refine +11, global cooldown -10%.\n \nWhen equipped with Radiant Book, Punitio damage +40% and critical damage +15%.\nIf the total refine level of Radiant Rune Crown (Cardinal) and Radiant Book is 24 or higher, each at Grade A or higher, and Petitio is learned at level 10 or higher, Punitio skill cooldown -0.15 sec and Petitio Lv.7 is additionally cast when casting Punitio.\n \n^CC3D3D[Additional Options by Grade]^000000\n[Grade D] P.ATK + 5.\n[Grade C] Punitio damage +10%.\n[Grade B] Physical damage to enemies of all sizes +10%.\n[Grade A] Physical damage to enemies of all elements +10%.\nClass : ^777777Headgear^000000 Defense : ^77777750^000000\nLocation : ^777777Upper^000000 Weight : ^7777770^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Cardinal^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 50,
+    "weight": 0,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Cardinal"
+    ],
+    "script": {
+      "atk": [
+        "2---3"
+      ],
+      "cri": [
+        "2---2"
+      ],
+      "atkPercent": [
+        "3---2"
+      ],
+      "criDmg": [
+        "3---3",
+        "EQUIP[Radiant Book]===15"
+      ],
+      "Petitio": [
+        "4---5"
+      ],
+      "Punitio": [
+        "4---5",
+        "EQUIP[Radiant Book]===40",
+        "GRADE[me==C]===10"
+      ],
+      "melee": [
+        "7===10"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==D]===5"
+      ],
+      "acd": [
+        "11===10"
+      ],
+      "cd__Punitio": [
+        "EQUIP[Radiant Book]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL[Petitio==10]===0.15"
+      ],
+      "p_size_all": [
+        "GRADE[me==B]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "401525": {
+    "id": 401525,
+    "aegisName": "26_9_Circlet_SS",
+    "flavorText": null,
+    "name": "Radiant Rune Circlet (Shinkiro & Shiranui) [1]",
+    "unidName": null,
+    "resName": "어센드크라운",
+    "unidResName": null,
+    "description": "A circlet crafted with radiant runes.\n \nFor every 2 refine levels, ATK + 3, CRI + 2.\nFor every 3 refine levels, ATK + 2%, critical damage +3%.\nFor every 4 refine levels, Shadow Torrent and Shadow Slash damage +5%.\nAt refine +7, melee physical damage +10%.\nAt refine +9, P.ATK + 5.\nAt refine +11, CRI + 10.\n \nWhen equipped with Radiant Wind Shuriken, Shadow Slash damage +40% and critical damage +20%.\nIf the total refine level of Radiant Rune Circlet (Shinkiro & Shiranui) and Radiant Wind Shuriken is 24 or higher, each at Grade A or higher, and Shadow Torrent is learned at level 10 or higher, Shadow Slash skill cooldown -0.15 sec and Shadow Torrent Lv.5 is additionally cast when casting Shadow Slash.\n \n^CC3D3D[Additional Options by Grade]^000000\n[Grade D] P.ATK + 5.\n[Grade C] Shadow Slash damage +10%.\n[Grade B] Physical damage to enemies of all sizes +10%.\n[Grade A] Physical damage to enemies of all elements +10%.\nClass : ^777777Headgear^000000 Defense : ^77777750^000000\nLocation : ^777777Upper^000000 Weight : ^7777770^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Shinkiro, Shiranui^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 50,
+    "weight": 0,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Shinkiro",
+      "Shiranui"
+    ],
+    "script": {
+      "atk": [
+        "2---3"
+      ],
+      "cri": [
+        "2---2",
+        "11===10"
+      ],
+      "atkPercent": [
+        "3---2"
+      ],
+      "criDmg": [
+        "3---3",
+        "EQUIP[Radiant Wind Shuriken]===20"
+      ],
+      "Shadow Torrent": [
+        "4---5"
+      ],
+      "Shadow Flash": [
+        "4---5",
+        "EQUIP[Radiant Wind Shuriken]===40",
+        "GRADE[me==C]===10"
+      ],
+      "melee": [
+        "7===10"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==D]===5"
+      ],
+      "cd__Shadow Flash": [
+        "EQUIP[Radiant Wind Shuriken]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL[Shadow Torrent==10]===0.15"
+      ],
+      "p_size_all": [
+        "GRADE[me==B]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "510234": {
+    "id": 510234,
+    "aegisName": "26_9_Dagger_SHC",
+    "flavorText": null,
+    "name": "Radiant Dagger [2]",
+    "unidName": null,
+    "resName": "26_9_Dagger_SHC",
+    "unidResName": null,
+    "description": "A dagger blazing with radiance.\n \nWhen equipped together with Radiant Dagger II in the left hand, the following effects apply.\nHit chance + 5%, Impact Crater damage +15%.\nFor every total 3 refine levels, ATK + 20 and hit physical damage +1%.\nFor every total 4 refine levels, Impact Crater damage +5%.\nIf the total refine level is 14 or higher, hit physical damage +25%.\nIf the total refine level is 18 or higher, attack speed increases (after-attack delay -10%) and P.ATK + 5.\nIf the total refine level is 21 or higher, Impact Crater damage +15% additional.\n \n^CC3D3D[Additional Options by Grade]^000000\n[Grade D] ATK + 5%.\n[Grade C] Impact Crater damage +10%.\n[Grade B] Hit chance + 10%.\n[Grade A] P.ATK + 10.\nClass : ^777777Dagger^000000 Attack : ^777777170^000000\nWeight : ^777777140^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Shadow Cross^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 256,
+    "itemLevel": 5,
+    "attack": 170,
+    "defense": 0,
+    "weight": 140,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ShadowCross"
+    ],
+    "script": {
+      "perfectHit": [
+        "EQUIP[Radiant Dagger II]===5",
+        "GRADE[me==B]===10"
+      ],
+      "Impact Crater": [
+        "EQUIP[Radiant Dagger II]===15",
+        "EQUIP[Radiant Dagger II]REFINE[weapon,leftWeapon==4]---5",
+        "EQUIP[Radiant Dagger II]REFINE[weapon,leftWeapon==21]===15",
+        "GRADE[me==C]===10"
+      ],
+      "atk": [
+        "EQUIP[Radiant Dagger II]REFINE[weapon,leftWeapon==3]---20"
+      ],
+      "hitDmg": [
+        "EQUIP[Radiant Dagger II]REFINE[weapon,leftWeapon==3]---1",
+        "EQUIP[Radiant Dagger II]REFINE[weapon,leftWeapon==14]===25"
+      ],
+      "acd": [
+        "EQUIP[Radiant Dagger II]REFINE[weapon,leftWeapon==18]===10"
+      ],
+      "pAtk": [
+        "EQUIP[Radiant Dagger II]REFINE[weapon,leftWeapon==18]===5",
+        "GRADE[me==A]===10"
+      ],
+      "atkPercent": [
+        "GRADE[me==D]===5"
+      ]
+    }
+  },
+  "510235": {
+    "id": 510235,
+    "aegisName": "26_9_Dagger_SHC2",
+    "flavorText": null,
+    "name": "Radiant Dagger II [1]",
+    "unidName": null,
+    "resName": "26_9_Dagger_SHC2",
+    "unidResName": null,
+    "description": "A dagger blazing with radiance II.\n \n^CC3D3D[Additional Options by Grade]^000000\n[Grade D] ATK + 5%.\n[Grade C] Impact Crater damage +10%.\n[Grade B] Attack speed increases (after-attack delay -5%).\n[Grade A] P.ATK + 8.\nClass : ^777777Dagger^000000 Attack : ^777777130^000000\nWeight : ^777777100^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Shadow Cross^000000",
+    "slots": 1,
+    "itemTypeId": 1,
+    "itemSubTypeId": 256,
+    "itemLevel": 5,
+    "attack": 130,
+    "defense": 0,
+    "weight": 100,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "ShadowCross"
+    ],
+    "script": {
+      "atkPercent": [
+        "GRADE[me==D]===5"
+      ],
+      "Impact Crater": [
+        "GRADE[me==C]===10"
+      ],
+      "acd": [
+        "GRADE[me==B]===5"
+      ],
+      "pAtk": [
+        "GRADE[me==A]===8"
+      ]
+    }
+  },
+  "540147": {
+    "id": 540147,
+    "aegisName": "26_9_Book_CD",
+    "flavorText": null,
+    "name": "Radiant Book [2]",
+    "unidName": null,
+    "resName": "26_9_Book_CD",
+    "unidResName": null,
+    "description": "A book blazing with radiance.\n \nCRI + 5, Petitio damage +15%.\nFor every 3 refine levels, ATK + 30 and critical damage +2%.\nFor every 4 refine levels, Petitio damage +7%.\nAt refine +7, critical damage +25%.\nAt refine +9, CRI + 10 and P.ATK + 5.\nAt refine +11, CRI + 5 and Petitio damage +10% additional.\n \n^CC3D3D[Additional Options by Grade]^000000\n[Grade D] ATK + 5%.\n[Grade C] Petitio damage +10%.\n[Grade B] Attack speed increases (after-attack delay -10%).\n[Grade A] P.ATK + 10.\nClass : ^777777Book^000000 Attack : ^777777220^000000\nWeight : ^777777180^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Cardinal^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 271,
+    "itemLevel": 5,
+    "attack": 220,
+    "defense": 0,
+    "weight": 180,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Cardinal"
+    ],
+    "script": {
+      "cri": [
+        "5",
+        "9===10",
+        "11===5"
+      ],
+      "Petitio": [
+        "15",
+        "4---7",
+        "11===10",
+        "GRADE[me==C]===10"
+      ],
+      "atk": [
+        "3---30"
+      ],
+      "criDmg": [
+        "3---2",
+        "7===25"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==A]===10"
+      ],
+      "atkPercent": [
+        "GRADE[me==D]===5"
+      ],
+      "acd": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "650067": {
+    "id": 650067,
+    "aegisName": "26_9_Humma_SS",
+    "flavorText": null,
+    "name": "Radiant Wind Shuriken [2]",
+    "unidName": null,
+    "resName": "26_9_Humma_SS",
+    "unidResName": null,
+    "description": "A wind shuriken blazing with radiance.\n \nIndestructible.\nCRI + 5, Shadow Torrent damage +15%.\nFor every 3 refine levels, ATK + 35 and critical damage +3%.\nFor every 4 refine levels, Shadow Torrent damage +7%.\nAt refine +7, critical damage +25%.\nAt refine +9, attack speed increases (after-attack delay -10%) and P.ATK + 5.\nAt refine +11, CRI + 5 and Shadow Torrent damage +10% additional.\n \n^CC3D3D[Additional Options by Grade]^000000\n[Grade D] ATK + 5%.\n[Grade C] Shadow Torrent damage +10%.\n[B등급] Shadow Torrent damage +10% additional.\n[Grade A] P.ATK + 10.\nClass : ^777777Wind Shuriken^000000 Attack : ^777777310^000000\nWeight : ^777777140^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Shinkiro, Shiranui^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 278,
+    "itemLevel": 5,
+    "attack": 310,
+    "defense": 0,
+    "weight": 140,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Shinkiro",
+      "Shiranui"
+    ],
+    "script": {
+      "cri": [
+        "5",
+        "11===5"
+      ],
+      "Shadow Torrent": [
+        "15",
+        "4---7",
+        "11===10",
+        "GRADE[me==C]===10",
+        "GRADE[me==B]===10"
+      ],
+      "atk": [
+        "3---35"
+      ],
+      "criDmg": [
+        "3---3",
+        "7===25"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==A]===10"
+      ],
+      "atkPercent": [
+        "GRADE[me==D]===5"
+      ],
+      "acd": [
+        "9===10"
       ]
     }
   }
