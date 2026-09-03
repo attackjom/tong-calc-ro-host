@@ -7195,17 +7195,8 @@
     "compositionPos": 16,
     "cardPrefix": "Psychic",
     "script": {
-      "Napalm Beat": [
-        "30"
-      ],
-      "Soul Strike": [
-        "30"
-      ],
-      "Soul Expansion": [
-        "30"
-      ],
-      "Soul Vulcan Strike": [
-        "30"
+      "m_my_element_ghost": [
+        "3"
       ]
     }
   },
@@ -291598,6 +291589,7 @@
     "location": null,
     "compositionPos": null,
     "canGrade": true,
+    "isRefinable": true,
     "usableClass": [
       "all"
     ],
@@ -293014,5 +293006,27 @@
         "9===10"
       ]
     }
+  },
+  "4372": {
+    "id": 4372,
+    "aegisName": "Bacsojin_Card",
+    "flavorText": null,
+    "name": "White Lady Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "เพิ่มผลของสกิล\nHeal, Sanctuary และ\nPotion Pitcher 30%\nเพิ่มปริมาณการใช้ SP\nมากขึ้น 15%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Headgear^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 769,
+    "canGrade": false,
+    "script": {}
   }
 }
