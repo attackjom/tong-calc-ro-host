@@ -293502,5 +293502,31 @@
         "EQUIP[Orrivane Emperor Star Book||Orrivane Emperor Noon Book&&Orrivane Ring (Sky Emperor)]===15"
       ]
     }
+  },
+  "4241": {
+    "id": 4241,
+    "aegisName": "Archangeling_Card",
+    "flavorText": null,
+    "name": "Arch Angeling Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "Max HP + 300\nเพิ่ม HP/SP Recovery 100%, ถ้าผู้ใช้มี Luk 77 หรือมากกว่า\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Headgear^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": 769,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "hp": [
+        "300"
+      ]
+    }
   }
 }
