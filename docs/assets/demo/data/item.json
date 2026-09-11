@@ -277919,32 +277919,6 @@
       ]
     }
   },
-  "31504": {
-    "id": 31504,
-    "aegisName": "C_Starving_Fish_Hat",
-    "flavorText": null,
-    "name": "Costume Hungry Fish Hat",
-    "unidName": null,
-    "resName": "굶주린대어모자",
-    "unidResName": null,
-    "description": "หมวกรูปปลายักษ์ผู้หิวโหยที่กำลังเขมือบมนุษย์\nเพิ่มอัตราดรอปไอเทม 7%, เพิ่มความเร็วในการเคลื่อนที่\n\n(ความสามารถจะถูกลบหลังจากสิ้นสุดระยะเวลากิจกรรม)\n\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 519,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "canGrade": false,
-    "script": {
-      "drop": [
-        "7"
-      ]
-    }
-  },
   "401446": {
     "id": 401446,
     "aegisName": "26_7_Circlet_EM",
@@ -278689,47 +278663,6 @@
       ],
       "spPercent": [
         "EQUIP[Magic Holy Undead Weapon Shadow]===3"
-      ]
-    }
-  },
-  "410609": {
-    "id": 410609,
-    "aegisName": "C_Nine_Tailed_Fox",
-    "flavorText": null,
-    "name": "Costume Nine-Tailed Fox",
-    "unidName": null,
-    "resName": "C_Nine_Tailed_Fox",
-    "unidResName": null,
-    "description": "ATK/MATK + 100\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภท Boss 30%\nเพิ่มอัตราดรอป + 10%\nMaxHP + 10%\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 9 กันยายน 2569)\n^ffffff^4D4DFF[Designer Heidam]^000000^000000\n^b4b4b4สามารถแลกเปลี่ยนเป็น Costume Enchant Stone Box 32 ได้^000000\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 520,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "canGrade": false,
-    "script": {
-      "atk": [
-        "100"
-      ],
-      "matk": [
-        "100"
-      ],
-      "p_class_boss": [
-        "30"
-      ],
-      "m_class_boss": [
-        "30"
-      ],
-      "drop": [
-        "10"
-      ],
-      "hpPercent": [
-        "10"
       ]
     }
   },
@@ -293028,5 +292961,438 @@
     "compositionPos": 769,
     "canGrade": false,
     "script": {}
-  }
+  },
+  "400717": {
+    "id": 400717,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Costume Yakgwa Headband",
+    "unidName": null,
+    "resName": "C_Yakgwa_Hairband",
+    "unidResName": null,
+    "description": "ที่คาดผมเทศกาลแบบใหม่ ดัดแปลงมาจากที่คาดผมแบบดั้งเดิม\n^ffffff_^000000\n^CC3D3D[เอฟเฟกต์ช่วงระยะเวลากิจกรรม]^000000\nATK + 40, MATK + 40\nCRI + 10, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 15%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อมอนสเตอร์ทุกเผ่า 10% (ยกเว้น Player)\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%\n^ff0000(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังสิ้นสุดระยะเวลากิจกรรม)^000000\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "40"
+      ],
+      "matk": [
+        "40"
+      ],
+      "cri": [
+        "10"
+      ],
+      "vct": [
+        "10"
+      ],
+      "p_race_all": [
+        "10"
+      ],
+      "m_race_all": [
+        "10"
+      ],
+      "p_size_all": [
+        "10"
+      ],
+      "m_size_all": [
+        "10"
+      ]
+    }
+  },
+  "410719": {
+    "id": 410719,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Archangel Wing Ear",
+    "unidName": null,
+    "resName": "천사날개귀",
+    "unidResName": null,
+    "description": "เพิ่มอัตราการดรอป 5%, ATK, MATK + 100\n\nเมื่อ Base Lv.250 ขึ้นไป, ATK, MATK + 100,\nทุก ๆ 10 ผลรวมของ Base LUK จะเพิ่ม POW, SPL, CON + 1\n\nเมื่อสวมใส่ร่วมกับ Arch Angeling Card,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภท Boss 12%, เพิ่มอัตราการดรอป 5%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "drop": [
+        "5",
+        "EQUIP[Arch Angeling Card]===5"
+      ],
+      "atk": [
+        "100",
+        "SUM[level==250]===100"
+      ],
+      "matk": [
+        "100",
+        "SUM[level==250]===100"
+      ],
+      "pow": [
+        "SUM[level==250]SUM[luk==10]---1"
+      ],
+      "spl": [
+        "SUM[level==250]SUM[luk==10]---1"
+      ],
+      "con": [
+        "SUM[level==250]SUM[luk==10]---1"
+      ],
+      "p_class_boss": [
+        "EQUIP[Arch Angeling Card]===12"
+      ],
+      "m_class_boss": [
+        "EQUIP[Arch Angeling Card]===12"
+      ]
+    }
+  },
+  "470330": {
+    "id": 470330,
+    "aegisName": "Santa_Boots",
+    "flavorText": null,
+    "name": "Santa Red Boots",
+    "unidName": null,
+    "resName": "루이제의붉은구두",
+    "unidResName": null,
+    "description": "MHP, MSP + 5%\nทุก ๆ การอัพเกรด 2 ขั้น ATK + 10, MATK + 10\nทุก ๆ การอัพเกรด 3 ขั้น เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 3%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\nเมื่ออัพเกรดถึงขั้น 11, ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเมื่ออัพเกรดถึงขั้น 13, เมื่อโจมตีทางกายภาพหรือเวทมนตร์ มีโอกาส 1% ที่จะแปลงร่างเป็น Antonio เป็นเวลา 5 วินาที และในระหว่างแปลงร่างจะ LUK + 200, เพิ่มอัตราการดรอปไอเท็ม 10%, เพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 10%\n\nเมื่อสวมใส่ร่วมกับ Santa Poring Card,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภททั่วไป 18%\n\nเมื่อสวมใส่ร่วมกับ Celine Kimi Card,\nเพิกเฉยต่อพลังป้องกันทางกายภาพ/เวทมนตร์ของศัตรูประเภท Boss 50%, \nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภท 30%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] ATK, MATK + 100\n[Grade C] ลดระยะเวลาร่ายแบบคงที่ลงอีก 0.3 วินาที\n[Grade B] เพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 8%\n[Grade A] เพิ่มอัตราการดรอปไอเท็ม 8%\nประเภท : ^777777Shoes^000000 พลังป้องกัน : ^77777720^000000\nน้ำหนัก : ^77777750^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777130^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 516,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 20,
+    "weight": 50,
+    "requiredLevel": 130,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "hpPercent": [
+        "5"
+      ],
+      "spPercent": [
+        "5"
+      ],
+      "atk": [
+        "2---10",
+        "GRADE[me==D]===100"
+      ],
+      "matk": [
+        "2---10",
+        "GRADE[me==D]===100"
+      ],
+      "p_race_all": [
+        "3---3"
+      ],
+      "m_race_all": [
+        "3---3"
+      ],
+      "melee": [
+        "7===10"
+      ],
+      "range": [
+        "7===10"
+      ],
+      "m_my_element_all": [
+        "7===10"
+      ],
+      "fct": [
+        "11===0.5",
+        "GRADE[me==C]===0.3"
+      ],
+      "drop": [
+        "GRADE[me==A]===8"
+      ],
+      "chance__luk": [
+        "13===200"
+      ],
+      "chance__drop": [
+        "13===10"
+      ],
+      "p_class_normal": [
+        "EQUIP[Santa Poring Card]===18"
+      ],
+      "m_class_normal": [
+        "EQUIP[Santa Poring Card]===18"
+      ],
+      "p_pene_class_boss": [
+        "EQUIP[Celine Kimi Card]===50"
+      ],
+      "m_pene_class_boss": [
+        "EQUIP[Celine Kimi Card]===50"
+      ],
+      "p_class_boss": [
+        "EQUIP[Celine Kimi Card]===30"
+      ],
+      "m_class_boss": [
+        "EQUIP[Celine Kimi Card]===30"
+      ]
+    }
+  },
+  "28929": {
+    "id": 28929,
+    "aegisName": "HappyShield",
+    "flavorText": null,
+    "name": "Happy Shield",
+    "unidName": null,
+    "resName": "HappyShield",
+    "unidResName": null,
+    "description": "เกราะที่พระผู้เป็นเจ้าประทานพรมาให้ เมื่อใช้แล้ว โชคจะเข้าข้างท่านอย่างไม่น่าเชื่อ\n\nเมื่อใช้ร่วมกับ Card ประเภทลดพลังโจมตีจากมอนสเตอร์ของแต่ละเผ่า,\nเมื่อกำจัดมอนสเตอร์เผ่าที่เข้ากันกับ Card จะเพิ่มค่าประสบการณ์ที่ได้รับ 5%\n―――――――――――――\nเมื่ออัพเกรดตั้งแต่ 7 ขึ้นไป,\nเมื่อใช้ร่วมกับ Card ประเภทลดพลังโจมตีจากมอนสเตอร์ของแต่ละเผ่า,\nเมื่อกำจัดมอนสเตอร์เผ่าที่เข้ากันกับ Card จะเพิ่มค่าประสบการณ์ที่ได้รับอีก 5%\n―――――――――――――\nเมื่ออัพเกรดตั้งแต่ 9 ขึ้นไป,\nเมื่อใช้ร่วมกับ Card ประเภทลดพลังโจมตีจากมอนสเตอร์ของแต่ละเผ่า,\nเมื่อกำจัดมอนสเตอร์เผ่าที่เข้ากันกับ Card จะเพิ่มค่าประสบการณ์ที่ได้รับอีก 5%\nประเภท : ^777777Shield^000000 พลังป้องกัน : ^777777150^000000\nน้ำหนัก : ^777777350^000000\nเลเวลที่ต้องการ : ^77777790^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 150,
+    "weight": 350,
+    "requiredLevel": 90,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
+  },
+  "460076": {
+    "id": 460076,
+    "aegisName": "HappyShield_LT",
+    "flavorText": null,
+    "name": "Happy Shield-LT",
+    "unidName": null,
+    "resName": "HappyShield_LT",
+    "unidResName": null,
+    "description": "MDEF+10\n\nเมื่อสวมใส่ร่วมกับ Alnoldi Card, เพิ่ม EXP ที่ได้รับจากมอนสเตอร์เผ่า Plant 5%\nเมื่อสวมใส่ร่วมกับ Anubis Card, เพิ่ม EXP ที่ได้รับจากมอนสเตอร์เผ่า Angel 5%\nเมื่อสวมใส่ร่วมกับ Orc Warrior Card, เพิ่ม EXP ที่ได้รับจากมอนสเตอร์เผ่า Brute 5%\nเมื่อสวมใส่ร่วมกับ Khalitzburg Card, เพิ่ม EXP ที่ได้รับจากมอนสเตอร์เผ่า Demon 5%\nเมื่อสวมใส่ร่วมกับ Sky Petite Card, เพิ่ม EXP ที่ได้รับจากมอนสเตอร์เผ่า Dragon 5%\nเมื่อสวมใส่ร่วมกับ Thara Frog Card, เพิ่ม EXP ที่ได้รับจากมอนสเตอร์เผ่า Demi-Human 5%\nเมื่อสวมใส่ร่วมกับ Bigfoot Card, เพิ่ม EXP ที่ได้รับจากมอนสเตอร์เผ่า Insect 5%\nเมื่อสวมใส่ร่วมกับ Teddy Bear Card, เพิ่ม EXP ที่ได้รับจากมอนสเตอร์เผ่า Undead 5%\nเมื่อสวมใส่ร่วมกับ Penomena Card, เพิ่ม EXP ที่ได้รับจากมอนสเตอร์เผ่า Neutral 5%\nเมื่อสวมใส่ร่วมกับ Rafflesia Card, เพิ่ม EXP ที่ได้รับจากมอนสเตอร์เผ่า Fish 5%\n\n[Option เพิ่มเติม]\n\nเมื่ออัพเกรดถึงขั้น 8, เพิ่ม EXP ที่ได้รับจากออปชั่นเซ็ตด้านบนขึ้นอีก 5%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม EXP ที่ได้รับจากออปชั่นเซ็ตด้านบนขึ้นอีก 5%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] เพิ่ม EXP ที่ได้รับจากมอนสเตอร์ 5%\n[Grade C] ทุก ๆ การอัพเกรด 2 ขั้น ลด Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากศัตรูทุกขนาด 1%\n[Grade B] เพิ่ม EXP ที่ได้รับจากมอนสเตอร์ขึ้นอีก 5%\n[Grade A] เพิ่มอัตราการ Drop 5%\nประเภท : ^777777Shield^000000  พลังป้องกัน : ^777777150^000000\nน้ำหนัก : ^777777350^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^77777790^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 150,
+    "weight": 350,
+    "requiredLevel": 90,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "mdef": [
+        "10"
+      ],
+      "drop": [
+        "GRADE[me==A]===5"
+      ],
+      "p_size_all": [
+        "GRADE[me==C]2---1"
+      ],
+      "m_size_all": [
+        "GRADE[me==C]2---1"
+      ]
+    }
+  },
+  "1000000": {
+		"id": 1000000,
+		"aegisName": "Orrivane_Range_Card",
+		"flavorText": null,
+		"name": "Orrivane Range Card (BETA)",
+		"unidName": "Card",
+		"resName": "이름없는카드",
+		"unidResName": "이름없는카드",
+		"description": "เพิ่ม Damage ทางกายภาพระยะไกล 10%.\nลด Global Cooldown 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Dragon Lance และ Orrivane Ring (Dragon Knight),\nลดระยะเวลาร่ายแบบแปรผันสกิล Dragonic Breath 100%,\nเพิ่ม Damage ทางกายภาพระยะไกล 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Mechanical Mace และ Orrivane Ring (Meister),\nเพิ่ม HIT Damage ทางกายภาพ 10%,\nเพิ่ม Damage ทางกายภาพระยะไกล 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Biologic Sword และ Orrivane Ring (Biolo),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพระยะไกล 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Judgment Claw และ Orrivane Ring (Inquisitor),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพระยะไกล 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Wind Bow หรือ Orrivane Wind Crossbow และ Orrivane Ring (Wind Hawk),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Abyss Crossbow และ Orrivane Ring (Abyss Chaser),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Night Gatling หรือ Orrivane Night Pistol และ Orrivane Ring (Night Watch),\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า + 10%,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Spirit Foxtail และ Orrivane Ring (Spirit Handler),\nลด Cooldown สกิล Lope 6 วินาที,\nเพิ่ม Damage ทางกายภาพระยะไกล 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Musical Harp หรือ Orrivane Musical Rope และ Orrivane Ring (Troubadour & Trouvere),\nเพิ่ม HIT Damage ทางกายภาพ 10%,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%.\n\nประเภท : Card\nใช้กับ : Accessory (Right)\nน้ำหนัก : 1",
+		"slots": 0,
+		"itemTypeId": 6,
+		"itemSubTypeId": 0,
+		"itemLevel": null,
+		"attack": null,
+		"defense": null,
+		"weight": 1,
+		"requiredLevel": null,
+		"location": null,
+		"compositionPos": 8,
+		"canGrade": false,
+		"usableClass": [
+			"all"
+		],
+		"script": {
+			"range": [
+				"10",
+				"EQUIP[Orrivane Dragon Lance&&Orrivane Ring (Dragon Knight)]===10",
+				"EQUIP[Orrivane Mechanical Mace&&Orrivane Ring (Meister)]===10",
+				"EQUIP[Orrivane Biologic Sword&&Orrivane Ring (Biolo)]===10",
+				"EQUIP[Orrivane Judgment Claw&&Orrivane Ring (Inquisitor)]===10",
+				"EQUIP[Orrivane Night Gatling||Orrivane Night Pistol&&Orrivane Ring (Night Watch)]===10",
+				"EQUIP[Orrivane Spirit Foxtail&&Orrivane Ring (Spirit Handler)]===10"
+			],
+			"acd": [
+				"10"
+			],
+			"vct__Dragonic Breath": [
+				"EQUIP[Orrivane Dragon Lance&&Orrivane Ring (Dragon Knight)]===100"
+			],
+			"hitDmg": [
+				"EQUIP[Orrivane Mechanical Mace&&Orrivane Ring (Meister)]===10",
+				"EQUIP[Orrivane Musical Harp||Orrivane Musical Rope&&Orrivane Ring (Troubadour & Trouvere)]===10"
+			],
+			"criDmg": [
+				"EQUIP[Orrivane Biologic Sword&&Orrivane Ring (Biolo)]===20",
+				"EQUIP[Orrivane Judgment Claw&&Orrivane Ring (Inquisitor)]===20",
+				"EQUIP[Orrivane Wind Bow||Orrivane Wind Crossbow&&Orrivane Ring (Wind Hawk)]===20",
+				"EQUIP[Orrivane Abyss Crossbow&&Orrivane Ring (Abyss Chaser)]===20"
+			],
+			"p_size_all": [
+				"EQUIP[Orrivane Wind Bow||Orrivane Wind Crossbow&&Orrivane Ring (Wind Hawk)]===10",
+				"EQUIP[Orrivane Abyss Crossbow&&Orrivane Ring (Abyss Chaser)]===10",
+				"EQUIP[Orrivane Night Gatling||Orrivane Night Pistol&&Orrivane Ring (Night Watch)]===10",
+				"EQUIP[Orrivane Musical Harp||Orrivane Musical Rope&&Orrivane Ring (Troubadour & Trouvere)]===10"
+			],
+			"p_race_all": [
+				"EQUIP[Orrivane Night Gatling||Orrivane Night Pistol&&Orrivane Ring (Night Watch)]===10"
+			],
+			"cd__Lope": [
+				"EQUIP[Orrivane Spirit Foxtail&&Orrivane Ring (Spirit Handler)]===6"
+			]
+		}
+	},
+	"1000001": {
+		"id": 1000001,
+		"aegisName": "Orrivane_Magical_Card",
+		"flavorText": null,
+		"name": "Orrivane Magical Card (BETA)",
+		"unidName": "Card",
+		"resName": "이름없는카드",
+		"unidResName": "이름없는카드",
+		"description": "MATK + 10%.\nลด Global Cooldown 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Imperial Sword และ Orrivane Ring (Imperial Guard),\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Arch Staff หรือ Orrivane Arch Wand และ Orrivane Ring (Arch Mage),\nสามารถใช้งานสกิล Earth Insignia Lv.3,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Elemental Magic Book หรือ Orrivane Elemental Spell Book และ Orrivane Ring (Elemental Master),\nสามารถใช้งานสกิล Comet Lv.1,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Saint Wand และ Orrivane Ring (Cardinal),\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Musical Violin หรือ Orrivane Musical Rope และ Orrivane Ring (Troubadour & Trouvere),\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Hyper Wand และ Orrivane Ring (Hyper Novice),\nสามารถใช้งานสกิล Fire Insignia Lv.3,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Wheel Shuriken และ Orrivane Ring (Shinkiro & Shiranui),\nสามารถใช้งานสกิล Mystical Amplification Lv.10,\nเมื่อโจมตีทางเวทมนตร์มีโอกาส 3% ที่จะ S.MATK +20 SPL+ 100 เป็นระยะเวลา 10 วินาที.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Soul Wand หรือ Orrivane Soul Stick และ Orrivane Ring (Soul Ascetic),\nสามารถใช้งานสกิล Comet Lv.1,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Spirit Foxtail Model และ Orrivane Ring (Spirit Handler),\nลด Cooldown สกิล Lope 1.5 วินาที,\nMATK + 10%.\n\nประเภท : Card\nใช้กับ : Accessory (Right)\nน้ำหนัก : 1",
+		"slots": 0,
+		"itemTypeId": 6,
+		"itemSubTypeId": 0,
+		"itemLevel": null,
+		"attack": null,
+		"defense": null,
+		"weight": 1,
+		"requiredLevel": null,
+		"location": null,
+		"compositionPos": 8,
+		"canGrade": false,
+		"usableClass": [
+			"all"
+		],
+		"script": {
+			"matkPercent": [
+				"10",
+				"EQUIP[Orrivane Imperial Sword&&Orrivane Ring (Imperial Guard)]===10",
+				"EQUIP[Orrivane Arch Staff||Orrivane Arch Wand&&Orrivane Ring (Arch Mage)]===10",
+				"EQUIP[Orrivane Elemental Magic Book||Orrivane Elemental Spell Book&&Orrivane Ring (Elemental Master)]===10",
+				"EQUIP[Orrivane Saint Wand&&Orrivane Ring (Cardinal)]===10",
+				"EQUIP[Orrivane Musical Violin||Orrivane Musical Rope&&Orrivane Ring (Troubadour & Trouvere)]===10",
+				"EQUIP[Orrivane Hyper Wand&&Orrivane Ring (Hyper Novice)]===10",
+				"EQUIP[Orrivane Soul Wand||Orrivane Soul Stick&&Orrivane Ring (Soul Ascetic)]===10",
+				"EQUIP[Orrivane Spirit Foxtail Model&&Orrivane Ring (Spirit Handler)]===10"
+			],
+			"acd": [
+				"10"
+			],
+			"m_element_all": [
+				"EQUIP[Orrivane Imperial Sword&&Orrivane Ring (Imperial Guard)]===10",
+				"EQUIP[Orrivane Saint Wand&&Orrivane Ring (Cardinal)]===10",
+				"EQUIP[Orrivane Musical Violin||Orrivane Musical Rope&&Orrivane Ring (Troubadour & Trouvere)]===10"
+			],
+			"cd__Lope": [
+				"EQUIP[Orrivane Spirit Foxtail Model&&Orrivane Ring (Spirit Handler)]===1.5"
+			],
+			"chance__sMatk": [
+				"EQUIP[Orrivane Wheel Shuriken&&Orrivane Ring (Shinkiro & Shiranui)]===20"
+			],
+			"chance__spl": [
+				"EQUIP[Orrivane Wheel Shuriken&&Orrivane Ring (Shinkiro & Shiranui)]===100"
+			]
+		}
+	},
+	"1000002": {
+		"id": 1000002,
+		"aegisName": "Orrivane_Fighter_Card",
+		"flavorText": null,
+		"name": "Orrivane Fighter Card (BETA)",
+		"unidName": "Card",
+		"resName": "이름없는카드",
+		"unidResName": "이름없는카드",
+		"description": "เพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\nลด Global Cooldown 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Dragon Sword และ Orrivane Ring (Dragon Knight),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Imperial Spear และ Orrivane Ring (Imperial Guard),\nสามารถใช้งานสกิล Enchant Deadly Poison Lv.5,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Mechanical Axe และ Orrivane Ring (Meister),\nเพิ่ม HIT Damage ทางกายภาพ 10%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Biologic Scepter และ Orrivane Ring (Biolo),\nเพิ่ม HIT Damage ทางกายภาพ 10%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Saint Book และ Orrivane Ring (Cardinal),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Judgment Knuckle และ Orrivane Ring (Inquisitor),\nMHP + 10%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Shadow Katar หรือ Orrivane Shadow Cakram และ Orrivane Ring (Shadow Cross),\nCritical Damage + 20%,\nลดคูลดาวน์สกิล Savage Impact 0.25 วินาที.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Abyss Dagger และ Orrivane Ring (Abyss Chaser),\nสามารถใช้งานสกิล Enchant Deadly Poison Lv.5,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Hyper Sword และ Orrivane Ring (Hyper Novice),\nMaxHP + 20%,\nMaxHP + 5,000.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Emperor Star Book หรือ Orrivane Emperor Noon Book และ Orrivane Ring (Sky Emperor),\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Huuma Shuriken และ Orrivane Ring (Shinkiro & Shiranui),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nประเภท : Card\nใช้กับ : Accessory (Right)\nน้ำหนัก : 1",
+		"slots": 0,
+		"itemTypeId": 6,
+		"itemSubTypeId": 0,
+		"itemLevel": null,
+		"attack": null,
+		"defense": null,
+		"weight": 1,
+		"requiredLevel": null,
+		"location": null,
+		"compositionPos": 8,
+		"canGrade": false,
+		"usableClass": [
+			"all"
+		],
+		"script": {
+			"melee": [
+				"10",
+				"EQUIP[Orrivane Dragon Sword&&Orrivane Ring (Dragon Knight)]===10",
+				"EQUIP[Orrivane Imperial Spear&&Orrivane Ring (Imperial Guard)]===10",
+				"EQUIP[Orrivane Mechanical Axe&&Orrivane Ring (Meister)]===10",
+				"EQUIP[Orrivane Biologic Scepter&&Orrivane Ring (Biolo)]===10",
+				"EQUIP[Orrivane Saint Book&&Orrivane Ring (Cardinal)]===10",
+				"EQUIP[Orrivane Judgment Knuckle&&Orrivane Ring (Inquisitor)]===10",
+				"EQUIP[Orrivane Abyss Dagger&&Orrivane Ring (Abyss Chaser)]===10",
+				"EQUIP[Orrivane Emperor Star Book||Orrivane Emperor Noon Book&&Orrivane Ring (Sky Emperor)]===10",
+				"EQUIP[Orrivane Huuma Shuriken&&Orrivane Ring (Shinkiro & Shiranui)]===10"
+			],
+			"acd": [
+				"10"
+			],
+			"criDmg": [
+				"EQUIP[Orrivane Dragon Sword&&Orrivane Ring (Dragon Knight)]===20",
+				"EQUIP[Orrivane Saint Book&&Orrivane Ring (Cardinal)]===20",
+				"EQUIP[Orrivane Shadow Katar||Orrivane Shadow Cakram&&Orrivane Ring (Shadow Cross)]===20",
+				"EQUIP[Orrivane Huuma Shuriken&&Orrivane Ring (Shinkiro & Shiranui)]===20"
+			],
+			"hitDmg": [
+				"EQUIP[Orrivane Mechanical Axe&&Orrivane Ring (Meister)]===10",
+				"EQUIP[Orrivane Biologic Scepter&&Orrivane Ring (Biolo)]===10"
+			],
+			"hpPercent": [
+				"EQUIP[Orrivane Judgment Knuckle&&Orrivane Ring (Inquisitor)]===10",
+				"EQUIP[Orrivane Hyper Sword&&Orrivane Ring (Hyper Novice)]===20"
+			],
+			"hp": [
+				"EQUIP[Orrivane Hyper Sword&&Orrivane Ring (Hyper Novice)]===5000"
+			],
+			"cd__Savage Impact": [
+				"EQUIP[Orrivane Shadow Katar||Orrivane Shadow Cakram&&Orrivane Ring (Shadow Cross)]===0.25"
+			],
+			"p_class_all": [
+				"EQUIP[Orrivane Emperor Star Book||Orrivane Emperor Noon Book&&Orrivane Ring (Sky Emperor)]===15"
+			]
+		}
+	}
 }
