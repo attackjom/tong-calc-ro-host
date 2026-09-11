@@ -120521,7 +120521,8 @@
     "name": "Issgard Crystal",
     "unidName": "Issgard Crystal",
     "resName": "Ice_F_Orb_Hp",
-    "description": "Def + 50, Mdef + 10.\r\nIf grade of enchanted equipment is D or higher, reduces global cooldown by 2%, additional Def + 25, Mdef + 5.\r\nIf grade of enchanted equipment is C or higher, reduces global cooldown by additional 1%, additional Def + 25, Mdef + 5.\r\nIf grade of enchanted equipment is B or higher, reduces global cooldown by additional 1%, additional Def + 25, Mdef + 5.\r\nIf grade of enchanted equipment is A or higher, reduces global cooldown by additional 1%, additional Def + 25, Mdef + 5.\r\n\r\nWhen equipped with Glacier Flower Meow Power (Global Cooldown), reduces global cooldown by 3%.\r\nWhen equipped with Glacier Flower Meow Power (Physical Defense), Res + 30.\r\nWhen equipped with Glacier Flower Meow Power (Magical Defense), Mres + 20.\r\nWhen equipped with Glacier Flower Meow Power (Fixed Casting), reduces fixed casting by 0.3 seconds.",
+    "description": "DEF + 50, MDEF + 10\nเมื่อ Grade D ขึ้นไป, ลด Global Cooldown 2%, DEF + 25, MDEF + 5 เพิ่มเติม\nเมื่อ Grade C ขึ้นไป,  ลด Global Cooldown ลงอีก 1%, DEF + 25, MDEF + 5 เพิ่มเติม\nเมื่อ Grade B ขึ้นไป,  ลด Global Cooldown ลงอีก 1%, DEF + 25, MDEF + 5 เพิ่มเติม\nเมื่อ Grade A ขึ้นไป,  ลด Global Cooldown ลงอีก 1%, DEF + 25, MDEF + 5 เพิ่มเติม\n \nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Global Cooldown), ลด Global Cooldown 3%\nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Physical Defense), RES + 30\nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Magical Defense), MRES + 20\nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Fixed Casting), ลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที",
+    "description_en": "Def + 50, Mdef + 10.\r\nIf grade of enchanted equipment is D or higher, reduces global cooldown by 2%, additional Def + 25, Mdef + 5.\r\nIf grade of enchanted equipment is C or higher, reduces global cooldown by additional 1%, additional Def + 25, Mdef + 5.\r\nIf grade of enchanted equipment is B or higher, reduces global cooldown by additional 1%, additional Def + 25, Mdef + 5.\r\nIf grade of enchanted equipment is A or higher, reduces global cooldown by additional 1%, additional Def + 25, Mdef + 5.\r\n\r\nWhen equipped with Glacier Flower Meow Power (Global Cooldown), reduces global cooldown by 3%.\r\nWhen equipped with Glacier Flower Meow Power (Physical Defense), Res + 30.\r\nWhen equipped with Glacier Flower Meow Power (Magical Defense), Mres + 20.\r\nWhen equipped with Glacier Flower Meow Power (Fixed Casting), reduces fixed casting by 0.3 seconds.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -120571,7 +120572,8 @@
     "name": "Issgard Crystal (Warrior)",
     "unidName": "Issgard Crystal (Warrior)",
     "resName": "Ice_F_Orb_Spell",
-    "description": "Atk + 20.\r\nIf grade of enchanted equipment is D or higher, increases melee physical damage by 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is C or higher, increases melee physical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is B or higher, increases melee physical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is A or higher, increases melee physical damage by additional 2%, additional Atk + 5.\r\n\r\nWhen equipped with Glacier Flower Meow Power (Warrior), increases melee physical damage by 4%.\r\nWhen equipped with Glacier Flower Meow Power (Guide Attack), Atk + 50, P.Atk + 5.\r\nWhen equipped with Glacier Flower Meow Power (Fighting Spirit), Atk + 10%, increases melee physical damage by 8%.",
+    "description": "ATK + 20\nเมื่อ Grade D ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะใกล้ 2%, ATK + 5 เพิ่มเติม\nเมื่อ Grade C ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะใกล้ 2%, ATK + 5 เพิ่มเติม\nเมื่อ Grade B ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะใกล้ 2%, ATK + 5 เพิ่มเติม\nเมื่อ Grade A ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะใกล้ 2%, ATK + 5 เพิ่มเติม\n \nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Warrior), เพิ่ม Damage ทางกายภาพระยะใกล้ 4%\nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Guide Attack), ATK + 50, P.ATK + 5\nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Fighting Spirit), ATK + 10%, เพิ่ม Damage ทางกายภาพระยะใกล้ 8%",
+    "description_en": "Atk + 20.\r\nIf grade of enchanted equipment is D or higher, increases melee physical damage by 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is C or higher, increases melee physical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is B or higher, increases melee physical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is A or higher, increases melee physical damage by additional 2%, additional Atk + 5.\r\n\r\nWhen equipped with Glacier Flower Meow Power (Warrior), increases melee physical damage by 4%.\r\nWhen equipped with Glacier Flower Meow Power (Guide Attack), Atk + 50, P.Atk + 5.\r\nWhen equipped with Glacier Flower Meow Power (Fighting Spirit), Atk + 10%, increases melee physical damage by 8%.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -120613,7 +120615,8 @@
     "name": "Issgard Crystal (Shooter)",
     "unidName": "Issgard Crystal (Shooter)",
     "resName": "Ice_F_Orb_Spell",
-    "description": "Atk + 20.\r\nIf grade of enchanted equipment is D or higher, increases long ranged physical damage by 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is C or higher, increases long ranged physical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is B or higher, increases long ranged physical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is A or higher, increases long ranged physical damage by additional 2%, additional Atk + 5.\r\n\r\nWhen equipped with Glacier Flower Meow Power (Shooter), increases long ranged physical damage by 4%.\r\nWhen equipped with Glacier Flower Meow Power (Guide Attack), Atk + 50, P.Atk + 5.\r\nWhen equipped with Glacier Flower Meow Power (Expert Archer), Atk + 10%, increases long ranged physical damage by 8%.",
+    "description": "ATK + 20\nเมื่อ Grade D ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะไกล 2%, ATK + 5 เพิ่มเติม\nเมื่อ Grade C ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะไกล 2%, ATK + 5 เพิ่มเติม\nเมื่อ Grade B ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะไกล 2%, ATK + 5 เพิ่มเติม\nเมื่อ Grade A ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะไกล 2%, ATK + 5 เพิ่มเติม\n \nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Shooter), เพิ่ม Damage ทางกายภาพระยะไกล 4%\nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Guide Attack), ATK + 50, P.ATK + 5\nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Expert Archer), ATK + 10%, เพิ่ม Damage ทางกายภาพระยะไกล 8%",
+    "description_en": "Atk + 20.\r\nIf grade of enchanted equipment is D or higher, increases long ranged physical damage by 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is C or higher, increases long ranged physical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is B or higher, increases long ranged physical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is A or higher, increases long ranged physical damage by additional 2%, additional Atk + 5.\r\n\r\nWhen equipped with Glacier Flower Meow Power (Shooter), increases long ranged physical damage by 4%.\r\nWhen equipped with Glacier Flower Meow Power (Guide Attack), Atk + 50, P.Atk + 5.\r\nWhen equipped with Glacier Flower Meow Power (Expert Archer), Atk + 10%, increases long ranged physical damage by 8%.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -120655,7 +120658,8 @@
     "name": "Issgard Crystal (Assassin)",
     "unidName": "Issgard Crystal (Assassin)",
     "resName": "Ice_F_Orb_Spell",
-    "description": "Atk + 20.\r\nIf grade of enchanted equipment is D or higher, increases critical damage by 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is C or higher, increases critical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is B or higher, increases critical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is A or higher, increases critical damage by additional 2%, additional Atk + 5.\r\n\r\nWhen equipped with Glacier Flower Meow Power (Warrior), increases melee physical damage by 5%.\r\nWhen equipped with Glacier Flower Meow Power (Shooter), increases long ranged physical damage by 5%.\r\nWhen equipped with Glacier Flower Meow Power (Fast), Cri + 15, increases critical damage by 4%.\r\nWhen equipped with Glacier Flower Meow Power (Fatal), Cri + 20, increases critical damage by 8%.",
+    "description": "ATK + 20\nเมื่อ Grade D ขึ้นไป, Critical Damage + 2%, ATK + 5 เพิ่มเติม\nเมื่อ Grade C ขึ้นไป, Critical Damage + 2%, ATK + 5 เพิ่มเติม\nเมื่อ Grade B ขึ้นไป, Critical Damage + 2%, ATK + 5 เพิ่มเติม\nเมื่อ Grade A ขึ้นไป, Critical Damage + 2%, ATK + 5 เพิ่มเติม\n \nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Warrior), เพิ่ม Damage ทางกายภาพระยะใกล้ 5%\nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Shooter), เพิ่ม Damage ทางกายภาพระยะไกล 5%\nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Fast), CRI + 15, Critical Damage + 4%\nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Fatal), CRI + 20, Critical Damage + 8%",
+    "description_en": "Atk + 20.\r\nIf grade of enchanted equipment is D or higher, increases critical damage by 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is C or higher, increases critical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is B or higher, increases critical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is A or higher, increases critical damage by additional 2%, additional Atk + 5.\r\n\r\nWhen equipped with Glacier Flower Meow Power (Warrior), increases melee physical damage by 5%.\r\nWhen equipped with Glacier Flower Meow Power (Shooter), increases long ranged physical damage by 5%.\r\nWhen equipped with Glacier Flower Meow Power (Fast), Cri + 15, increases critical damage by 4%.\r\nWhen equipped with Glacier Flower Meow Power (Fatal), Cri + 20, increases critical damage by 8%.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -120700,7 +120704,8 @@
     "name": "Issgard Crystal (Mage)",
     "unidName": "Issgard Crystal (Mage)",
     "resName": "Ice_F_Orb_Spell",
-    "description": "Matk + 20.\r\nIf grade of enchanted equipment is D or higher, increases all property magical damage by 2%, additional Matk + 5.\r\nIf grade of enchanted equipment is C or higher, increases all property magical damage by additional 2%, additional Matk + 5.\r\nIf grade of enchanted equipment is B or higher, increases all property magical damage by additional 2%, additional Matk + 5.\r\nIf grade of enchanted equipment is A or higher, increases all property magical damage by additional 2%, additional Matk + 5.\r\n\r\nWhen equipped with Glacier Flower Meow Power (Mage), increases all property magical damage by 4%.\r\nWhen equipped with Glacier Flower Meow Power (Caster), Matk + 50, S.Matk + 5.\r\nWhen equipped with Glacier Flower Meow Power (Magical Power), Matk + 10%, increases all property magical damage by 8%.",
+    "description": "MATK + 20\nเมื่อ Grade D ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 2%, MATK + 5 เพิ่มเติม\nเมื่อ Grade C ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 2%, MATK + 5 เพิ่มเติม\nเมื่อ Grade B ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 2%, MATK + 5 เพิ่มเติม\nเมื่อ Grade A ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 2%, MATK + 5 เพิ่มเติม\n \nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Mage), เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 4%\nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Caster), MATK + 50, S.MATK + 5\nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Spell), MATK + 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 8%",
+    "description_en": "Matk + 20.\r\nIf grade of enchanted equipment is D or higher, increases all property magical damage by 2%, additional Matk + 5.\r\nIf grade of enchanted equipment is C or higher, increases all property magical damage by additional 2%, additional Matk + 5.\r\nIf grade of enchanted equipment is B or higher, increases all property magical damage by additional 2%, additional Matk + 5.\r\nIf grade of enchanted equipment is A or higher, increases all property magical damage by additional 2%, additional Matk + 5.\r\n\r\nWhen equipped with Glacier Flower Meow Power (Mage), increases all property magical damage by 4%.\r\nWhen equipped with Glacier Flower Meow Power (Caster), Matk + 50, S.Matk + 5.\r\nWhen equipped with Glacier Flower Meow Power (Magical Power), Matk + 10%, increases all property magical damage by 8%.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -120742,7 +120747,8 @@
     "name": "Issgard Crystal (Berserker)",
     "unidName": "Issgard Crystal (Berserker)",
     "resName": "Ice_F_Orb_Soul",
-    "description": "Atk + 30.\r\nIf grade of enchanted equipment is D or higher, increases melee physical damage by 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is C or higher, increases melee physical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is B or higher, increases melee physical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is A or higher, increases melee physical damage by additional 2%, additional Atk + 5.\r\n\r\nWhen equipped with Glacier Flower Meow Power (Berserker), increases melee physical damage by 5%.\r\nWhen equipped with Glacier Flower Meow Power (Over Power), P.Atk + 5, POW + 7, CON + 7.",
+    "description": "ATK + 30\nเมื่อ Grade D ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะใกล้ 2%, ATK + 5 เพิ่มเติม\nเมื่อ Grade C ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะใกล้ 2%, ATK + 5 เพิ่มเติม\nเมื่อ Grade B ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะใกล้ 2%, ATK + 5 เพิ่มเติม\nเมื่อ Grade A ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะใกล้ 2%, ATK + 5 เพิ่มเติม\n \nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Berserker), เพิ่ม Damage ทางกายภาพระยะใกล้ 5%\nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Over Power), P.ATK + 5, POW + 7, CON + 7",
+    "description_en": "Atk + 30.\r\nIf grade of enchanted equipment is D or higher, increases melee physical damage by 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is C or higher, increases melee physical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is B or higher, increases melee physical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is A or higher, increases melee physical damage by additional 2%, additional Atk + 5.\r\n\r\nWhen equipped with Glacier Flower Meow Power (Berserker), increases melee physical damage by 5%.\r\nWhen equipped with Glacier Flower Meow Power (Over Power), P.Atk + 5, POW + 7, CON + 7.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -120785,7 +120791,8 @@
     "name": "Issgard Crystal (Marksman)",
     "unidName": "Issgard Crystal (Marksman)",
     "resName": "Ice_F_Orb_Soul",
-    "description": "Atk + 30.\r\nIf grade of enchanted equipment is D or higher, increases long ranged physical damage by 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is C or higher, increases long ranged physical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is B or higher, increases long ranged physical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is A or higher, increases long ranged physical damage by additional 2%, additional Atk + 5.\r\n\r\nWhen equipped with Glacier Flower Meow Power (Marksman), increases long ranged physical damage by 5%.\r\nWhen equipped with Glacier Flower Meow Power (Firing Shot), P.Atk + 5, POW + 7, CON + 7.",
+    "description": "ATK + 30\nเมื่อ Grade D ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะไกล 2%, ATK + 5 เพิ่มเติม\nเมื่อ Grade C ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะไกล 2%, ATK + 5 เพิ่มเติม\nเมื่อ Grade B ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะไกล 2%, ATK + 5 เพิ่มเติม\nเมื่อ Grade A ขึ้นไป, เพิ่ม Damage ทางกายภาพระยะไกล 2%, ATK + 5 เพิ่มเติม\n \nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Marksman), เพิ่ม Damage ทางกายภาพระยะไกล 5%\nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Firing Shot), P.ATK + 5, POW + 7, CON + 7",
+    "description_en": "Atk + 30.\r\nIf grade of enchanted equipment is D or higher, increases long ranged physical damage by 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is C or higher, increases long ranged physical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is B or higher, increases long ranged physical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is A or higher, increases long ranged physical damage by additional 2%, additional Atk + 5.\r\n\r\nWhen equipped with Glacier Flower Meow Power (Marksman), increases long ranged physical damage by 5%.\r\nWhen equipped with Glacier Flower Meow Power (Firing Shot), P.Atk + 5, POW + 7, CON + 7.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -120828,7 +120835,8 @@
     "name": "Issgard Crystal (Executioner)",
     "unidName": "Issgard Crystal (Executioner)",
     "resName": "Ice_F_Orb_Soul",
-    "description": "Atk + 30.\r\nIf grade of enchanted equipment is D or higher, increases critical damage by 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is C or higher, increases critical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is B or higher, increases critical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is A or higher, increases critical damage by additional 2%, additional Atk + 5.\r\n\r\nWhen equipped with Glacier Flower Meow Power (Berserker), increases melee physical damage by 8%.\r\nWhen equipped with Glacier Flower Meow Power (Marksman), increases long ranged physical damage by 8%.\r\nWhen equipped with Glacier Flower Meow Power (Over Power), C.Rate + 5, POW + 7, CRT + 7.\r\nWhen equipped with Glacier Flower Meow Power (Firing Shot), C.Rate + 5, POW + 7, CRT + 7.",
+    "description": "ATK + 30\nเมื่อ Grade D ขึ้นไป, Critical Damage + 2%, ATK + 5 เพิ่มเติม\nเมื่อ Grade C ขึ้นไป, Critical Damage + 2%, ATK + 5 เพิ่มเติม\nเมื่อ Grade B ขึ้นไป, Critical Damage + 2%, ATK + 5 เพิ่มเติม\nเมื่อ Grade A ขึ้นไป, Critical Damage + 2%, ATK + 5 เพิ่มเติม\n \nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Berserker), เพิ่ม Damage ทางกายภาพระยะใกล้ 8%\nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Marksman), เพิ่ม Damage ทางกายภาพระยะไกล 8%\nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Over Power), C.RATE + 5, POW + 7, CRT + 7\nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Firing Shot), C.RATE + 5, POW + 7, CRT + 7",
+    "description_en": "Atk + 30.\r\nIf grade of enchanted equipment is D or higher, increases critical damage by 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is C or higher, increases critical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is B or higher, increases critical damage by additional 2%, additional Atk + 5.\r\nIf grade of enchanted equipment is A or higher, increases critical damage by additional 2%, additional Atk + 5.\r\n\r\nWhen equipped with Glacier Flower Meow Power (Berserker), increases melee physical damage by 8%.\r\nWhen equipped with Glacier Flower Meow Power (Marksman), increases long ranged physical damage by 8%.\r\nWhen equipped with Glacier Flower Meow Power (Over Power), C.Rate + 5, POW + 7, CRT + 7.\r\nWhen equipped with Glacier Flower Meow Power (Firing Shot), C.Rate + 5, POW + 7, CRT + 7.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -120879,7 +120887,8 @@
     "name": "Issgard Crystal (Grand Mage)",
     "unidName": "Issgard Crystal (Grand Mage)",
     "resName": "Ice_F_Orb_Soul",
-    "description": "Matk + 30.\r\nIf grade of enchanted equipment is D or higher, increases all property magical damage by 2%, additional Matk + 5.\r\nIf grade of enchanted equipment is C or higher, increases all property magical damage by additional 2%, additional Matk + 5.\r\nIf grade of enchanted equipment is B or higher, increases all property magical damage by additional 2%, additional Matk + 5.\r\nIf grade of enchanted equipment is A or higher, increases all property magical damage by additional 2%, additional Matk + 5.\r\n\r\nWhen equipped with Glacier Flower Meow Power (Grand Mage), increases all property magical damage by 4%.\r\nWhen equipped with Glacier Flower Meow Power (Spell Buster), S.Matk + 5, SPL + 7, CON + 7.",
+    "description": "MATK + 30\nเมื่อ Grade D ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 2%, MATK + 5 เพิ่มเติม\nเมื่อ Grade C ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 2%, MATK + 5 เพิ่มเติม\nเมื่อ Grade B ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 2%, MATK + 5 เพิ่มเติม\nเมื่อ Grade A ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 2%, MATK + 5 เพิ่มเติม\n \nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Grand Mage), เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 5%\nเมื่อสวมใส่ร่วมกับ Glacier Flower Meow Power (Spell Buster), S.MATK + 5, SPL + 7, CON + 7",
+    "description_en": "Matk + 30.\r\nIf grade of enchanted equipment is D or higher, increases all property magical damage by 2%, additional Matk + 5.\r\nIf grade of enchanted equipment is C or higher, increases all property magical damage by additional 2%, additional Matk + 5.\r\nIf grade of enchanted equipment is B or higher, increases all property magical damage by additional 2%, additional Matk + 5.\r\nIf grade of enchanted equipment is A or higher, increases all property magical damage by additional 2%, additional Matk + 5.\r\n\r\nWhen equipped with Glacier Flower Meow Power (Grand Mage), increases all property magical damage by 4%.\r\nWhen equipped with Glacier Flower Meow Power (Spell Buster), S.Matk + 5, SPL + 7, CON + 7.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -275587,7 +275596,7 @@
     "unidName": null,
     "resName": "Libra_Shoes_J",
     "unidResName": null,
-    "description": "Stylish shoes granted to scholars who have conducted in-depth research in magical studies.\n \nMHP + 5%, MSP + 5%.\nEvery 2 refine levels, MATK + 7, SPL + 4.\nAt +7 refine, DEF + 125, increases attack speed (reduces delay after attack by 10%).\nAt +9 refine, S.MATK + 5, Poison, Shadow, and Neutral magic damage +15%.\nAt +11 refine, SPL + 5, Water, Wind, Earth, and Fire magic damage +15%.\nAt +12 refine, MATK + 10%, variable cast time -10%.\n \nWhen equipped with Scholar\u0027s Muffler, MATK + 12%, Water, Wind, Earth, Fire, Poison, Shadow, and Neutral magic damage +15%,\nwhen Scholar\u0027s Muffler and Scholar\u0027s Shoes are each Grade A or higher, SPL + 12, magic damage to enemies of all elements +15%.\n^ffffff_^000000\n^CC3D3D[Bonus by Grade]^000000\n[Grade D] SPL + 5, CON + 5.\n[Grade C] MATK + 7%, S.MATK + 7.\n[Grade B] global cooldown -3%, fixed cast time -1 sec.\n[Grade A] every 2 refine levels, magic damage to enemies of all sizes +3%.\nClass : ^777777Shoes^000000  Defense : ^77777755^000000\nWeight : ^777777140^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777250^000000\nJobs : ^777777All Classes^000000",
+    "description": "Stylish shoes granted to scholars who have conducted in-depth research in magical studies.\n \nMHP + 5%, MSP + 5%.\nEvery 2 refine levels, MATK + 7, SPL + 4.\nAt +7 refine, DEF + 125, increases attack speed (reduces delay after attack by 10%).\nAt +9 refine, S.MATK + 5, Poison, Shadow, and Neutral magic damage +15%.\nAt +11 refine, SPL + 5, Water, Wind, Earth, and Fire magic damage +15%.\nAt +12 refine, MATK + 10%, variable cast time -10%.\n \nWhen equipped with Scholar's Muffler, MATK + 12%, Water, Wind, Earth, Fire, Poison, Shadow, and Neutral magic damage +15%,\nwhen Scholar's Muffler and Scholar's Shoes are each Grade A or higher, SPL + 12, magic damage to enemies of all elements +15%.\n^ffffff_^000000\n^CC3D3D[Bonus by Grade]^000000\n[Grade D] SPL + 5, CON + 5.\n[Grade C] MATK + 7%, S.MATK + 7.\n[Grade B] global cooldown -3%, fixed cast time -1 sec.\n[Grade A] every 2 refine levels, magic damage to enemies of all sizes +3%.\nClass : ^777777Shoes^000000  Defense : ^77777755^000000\nWeight : ^777777140^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777250^000000\nJobs : ^777777All Classes^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 516,
@@ -275687,7 +275696,7 @@
     "unidName": null,
     "resName": "Daybreak_Stargazer",
     "unidResName": null,
-    "description": "Shoes granted to those who have reached the pinnacle of magical combat mastery.\n \nMHP + 5%, MSP + 5%.\nEvery 2 refine levels, MATK + 7, SPL + 4.\nAt +7 refine, DEF + 125, increases attack speed (reduces delay after attack by 10%).\nAt +9 refine, S.MATK + 5, Shadow, Ghost, and Undead magic damage +15%.\nAt +11 refine, SPL + 5, Fire, Neutral, Holy, and Wind magic damage +15%.\nAt +12 refine, MATK + 10%, variable cast time -10%.\n \nWhen equipped with Mage\u0027s Cloak, MATK + 12%, Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead magic damage +15%,\nwhen Mage\u0027s Cloak and Mage\u0027s Shoes are each Grade A or higher, SPL + 12, magic damage to enemies of all elements +15%.\n^ffffff_^000000\n^CC3D3D[Bonus by Grade]^000000\n[Grade D] SPL + 5, CON + 5.\n[Grade C] MATK + 7%, S.MATK + 7.\n[Grade B] global cooldown -3%, fixed cast time -1 sec.\n[Grade A] every 2 refine levels, magic damage to enemies of all sizes +3%.\nClass : ^777777Shoes^000000  Defense : ^77777755^000000\nWeight : ^777777140^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777250^000000\nJobs : ^777777All Classes^000000",
+    "description": "Shoes granted to those who have reached the pinnacle of magical combat mastery.\n \nMHP + 5%, MSP + 5%.\nEvery 2 refine levels, MATK + 7, SPL + 4.\nAt +7 refine, DEF + 125, increases attack speed (reduces delay after attack by 10%).\nAt +9 refine, S.MATK + 5, Shadow, Ghost, and Undead magic damage +15%.\nAt +11 refine, SPL + 5, Fire, Neutral, Holy, and Wind magic damage +15%.\nAt +12 refine, MATK + 10%, variable cast time -10%.\n \nWhen equipped with Mage's Cloak, MATK + 12%, Fire, Neutral, Holy, Wind, Shadow, Ghost, and Undead magic damage +15%,\nwhen Mage's Cloak and Mage's Shoes are each Grade A or higher, SPL + 12, magic damage to enemies of all elements +15%.\n^ffffff_^000000\n^CC3D3D[Bonus by Grade]^000000\n[Grade D] SPL + 5, CON + 5.\n[Grade C] MATK + 7%, S.MATK + 7.\n[Grade B] global cooldown -3%, fixed cast time -1 sec.\n[Grade A] every 2 refine levels, magic damage to enemies of all sizes +3%.\nClass : ^777777Shoes^000000  Defense : ^77777755^000000\nWeight : ^777777140^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777250^000000\nJobs : ^777777All Classes^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 516,
@@ -293215,184 +293224,184 @@
     }
   },
   "1000000": {
-		"id": 1000000,
-		"aegisName": "Orrivane_Range_Card",
-		"flavorText": null,
-		"name": "Orrivane Range Card (BETA)",
-		"unidName": "Card",
-		"resName": "이름없는카드",
-		"unidResName": "이름없는카드",
-		"description": "เพิ่ม Damage ทางกายภาพระยะไกล 10%.\nลด Global Cooldown 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Dragon Lance และ Orrivane Ring (Dragon Knight),\nลดระยะเวลาร่ายแบบแปรผันสกิล Dragonic Breath 100%,\nเพิ่ม Damage ทางกายภาพระยะไกล 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Mechanical Mace และ Orrivane Ring (Meister),\nเพิ่ม HIT Damage ทางกายภาพ 10%,\nเพิ่ม Damage ทางกายภาพระยะไกล 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Biologic Sword และ Orrivane Ring (Biolo),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพระยะไกล 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Judgment Claw และ Orrivane Ring (Inquisitor),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพระยะไกล 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Wind Bow หรือ Orrivane Wind Crossbow และ Orrivane Ring (Wind Hawk),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Abyss Crossbow และ Orrivane Ring (Abyss Chaser),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Night Gatling หรือ Orrivane Night Pistol และ Orrivane Ring (Night Watch),\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า + 10%,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Spirit Foxtail และ Orrivane Ring (Spirit Handler),\nลด Cooldown สกิล Lope 6 วินาที,\nเพิ่ม Damage ทางกายภาพระยะไกล 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Musical Harp หรือ Orrivane Musical Rope และ Orrivane Ring (Troubadour & Trouvere),\nเพิ่ม HIT Damage ทางกายภาพ 10%,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%.\n\nประเภท : Card\nใช้กับ : Accessory (Right)\nน้ำหนัก : 1",
-		"slots": 0,
-		"itemTypeId": 6,
-		"itemSubTypeId": 0,
-		"itemLevel": null,
-		"attack": null,
-		"defense": null,
-		"weight": 1,
-		"requiredLevel": null,
-		"location": null,
-		"compositionPos": 8,
-		"canGrade": false,
-		"usableClass": [
-			"all"
-		],
-		"script": {
-			"range": [
-				"10",
-				"EQUIP[Orrivane Dragon Lance&&Orrivane Ring (Dragon Knight)]===10",
-				"EQUIP[Orrivane Mechanical Mace&&Orrivane Ring (Meister)]===10",
-				"EQUIP[Orrivane Biologic Sword&&Orrivane Ring (Biolo)]===10",
-				"EQUIP[Orrivane Judgment Claw&&Orrivane Ring (Inquisitor)]===10",
-				"EQUIP[Orrivane Night Gatling||Orrivane Night Pistol&&Orrivane Ring (Night Watch)]===10",
-				"EQUIP[Orrivane Spirit Foxtail&&Orrivane Ring (Spirit Handler)]===10"
-			],
-			"acd": [
-				"10"
-			],
-			"vct__Dragonic Breath": [
-				"EQUIP[Orrivane Dragon Lance&&Orrivane Ring (Dragon Knight)]===100"
-			],
-			"hitDmg": [
-				"EQUIP[Orrivane Mechanical Mace&&Orrivane Ring (Meister)]===10",
-				"EQUIP[Orrivane Musical Harp||Orrivane Musical Rope&&Orrivane Ring (Troubadour & Trouvere)]===10"
-			],
-			"criDmg": [
-				"EQUIP[Orrivane Biologic Sword&&Orrivane Ring (Biolo)]===20",
-				"EQUIP[Orrivane Judgment Claw&&Orrivane Ring (Inquisitor)]===20",
-				"EQUIP[Orrivane Wind Bow||Orrivane Wind Crossbow&&Orrivane Ring (Wind Hawk)]===20",
-				"EQUIP[Orrivane Abyss Crossbow&&Orrivane Ring (Abyss Chaser)]===20"
-			],
-			"p_size_all": [
-				"EQUIP[Orrivane Wind Bow||Orrivane Wind Crossbow&&Orrivane Ring (Wind Hawk)]===10",
-				"EQUIP[Orrivane Abyss Crossbow&&Orrivane Ring (Abyss Chaser)]===10",
-				"EQUIP[Orrivane Night Gatling||Orrivane Night Pistol&&Orrivane Ring (Night Watch)]===10",
-				"EQUIP[Orrivane Musical Harp||Orrivane Musical Rope&&Orrivane Ring (Troubadour & Trouvere)]===10"
-			],
-			"p_race_all": [
-				"EQUIP[Orrivane Night Gatling||Orrivane Night Pistol&&Orrivane Ring (Night Watch)]===10"
-			],
-			"cd__Lope": [
-				"EQUIP[Orrivane Spirit Foxtail&&Orrivane Ring (Spirit Handler)]===6"
-			]
-		}
-	},
-	"1000001": {
-		"id": 1000001,
-		"aegisName": "Orrivane_Magical_Card",
-		"flavorText": null,
-		"name": "Orrivane Magical Card (BETA)",
-		"unidName": "Card",
-		"resName": "이름없는카드",
-		"unidResName": "이름없는카드",
-		"description": "MATK + 10%.\nลด Global Cooldown 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Imperial Sword และ Orrivane Ring (Imperial Guard),\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Arch Staff หรือ Orrivane Arch Wand และ Orrivane Ring (Arch Mage),\nสามารถใช้งานสกิล Earth Insignia Lv.3,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Elemental Magic Book หรือ Orrivane Elemental Spell Book และ Orrivane Ring (Elemental Master),\nสามารถใช้งานสกิล Comet Lv.1,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Saint Wand และ Orrivane Ring (Cardinal),\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Musical Violin หรือ Orrivane Musical Rope และ Orrivane Ring (Troubadour & Trouvere),\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Hyper Wand และ Orrivane Ring (Hyper Novice),\nสามารถใช้งานสกิล Fire Insignia Lv.3,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Wheel Shuriken และ Orrivane Ring (Shinkiro & Shiranui),\nสามารถใช้งานสกิล Mystical Amplification Lv.10,\nเมื่อโจมตีทางเวทมนตร์มีโอกาส 3% ที่จะ S.MATK +20 SPL+ 100 เป็นระยะเวลา 10 วินาที.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Soul Wand หรือ Orrivane Soul Stick และ Orrivane Ring (Soul Ascetic),\nสามารถใช้งานสกิล Comet Lv.1,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Spirit Foxtail Model และ Orrivane Ring (Spirit Handler),\nลด Cooldown สกิล Lope 1.5 วินาที,\nMATK + 10%.\n\nประเภท : Card\nใช้กับ : Accessory (Right)\nน้ำหนัก : 1",
-		"slots": 0,
-		"itemTypeId": 6,
-		"itemSubTypeId": 0,
-		"itemLevel": null,
-		"attack": null,
-		"defense": null,
-		"weight": 1,
-		"requiredLevel": null,
-		"location": null,
-		"compositionPos": 8,
-		"canGrade": false,
-		"usableClass": [
-			"all"
-		],
-		"script": {
-			"matkPercent": [
-				"10",
-				"EQUIP[Orrivane Imperial Sword&&Orrivane Ring (Imperial Guard)]===10",
-				"EQUIP[Orrivane Arch Staff||Orrivane Arch Wand&&Orrivane Ring (Arch Mage)]===10",
-				"EQUIP[Orrivane Elemental Magic Book||Orrivane Elemental Spell Book&&Orrivane Ring (Elemental Master)]===10",
-				"EQUIP[Orrivane Saint Wand&&Orrivane Ring (Cardinal)]===10",
-				"EQUIP[Orrivane Musical Violin||Orrivane Musical Rope&&Orrivane Ring (Troubadour & Trouvere)]===10",
-				"EQUIP[Orrivane Hyper Wand&&Orrivane Ring (Hyper Novice)]===10",
-				"EQUIP[Orrivane Soul Wand||Orrivane Soul Stick&&Orrivane Ring (Soul Ascetic)]===10",
-				"EQUIP[Orrivane Spirit Foxtail Model&&Orrivane Ring (Spirit Handler)]===10"
-			],
-			"acd": [
-				"10"
-			],
-			"m_element_all": [
-				"EQUIP[Orrivane Imperial Sword&&Orrivane Ring (Imperial Guard)]===10",
-				"EQUIP[Orrivane Saint Wand&&Orrivane Ring (Cardinal)]===10",
-				"EQUIP[Orrivane Musical Violin||Orrivane Musical Rope&&Orrivane Ring (Troubadour & Trouvere)]===10"
-			],
-			"cd__Lope": [
-				"EQUIP[Orrivane Spirit Foxtail Model&&Orrivane Ring (Spirit Handler)]===1.5"
-			],
-			"chance__sMatk": [
-				"EQUIP[Orrivane Wheel Shuriken&&Orrivane Ring (Shinkiro & Shiranui)]===20"
-			],
-			"chance__spl": [
-				"EQUIP[Orrivane Wheel Shuriken&&Orrivane Ring (Shinkiro & Shiranui)]===100"
-			]
-		}
-	},
-	"1000002": {
-		"id": 1000002,
-		"aegisName": "Orrivane_Fighter_Card",
-		"flavorText": null,
-		"name": "Orrivane Fighter Card (BETA)",
-		"unidName": "Card",
-		"resName": "이름없는카드",
-		"unidResName": "이름없는카드",
-		"description": "เพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\nลด Global Cooldown 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Dragon Sword และ Orrivane Ring (Dragon Knight),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Imperial Spear และ Orrivane Ring (Imperial Guard),\nสามารถใช้งานสกิล Enchant Deadly Poison Lv.5,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Mechanical Axe และ Orrivane Ring (Meister),\nเพิ่ม HIT Damage ทางกายภาพ 10%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Biologic Scepter และ Orrivane Ring (Biolo),\nเพิ่ม HIT Damage ทางกายภาพ 10%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Saint Book และ Orrivane Ring (Cardinal),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Judgment Knuckle และ Orrivane Ring (Inquisitor),\nMHP + 10%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Shadow Katar หรือ Orrivane Shadow Cakram และ Orrivane Ring (Shadow Cross),\nCritical Damage + 20%,\nลดคูลดาวน์สกิล Savage Impact 0.25 วินาที.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Abyss Dagger และ Orrivane Ring (Abyss Chaser),\nสามารถใช้งานสกิล Enchant Deadly Poison Lv.5,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Hyper Sword และ Orrivane Ring (Hyper Novice),\nMaxHP + 20%,\nMaxHP + 5,000.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Emperor Star Book หรือ Orrivane Emperor Noon Book และ Orrivane Ring (Sky Emperor),\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Huuma Shuriken และ Orrivane Ring (Shinkiro & Shiranui),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nประเภท : Card\nใช้กับ : Accessory (Right)\nน้ำหนัก : 1",
-		"slots": 0,
-		"itemTypeId": 6,
-		"itemSubTypeId": 0,
-		"itemLevel": null,
-		"attack": null,
-		"defense": null,
-		"weight": 1,
-		"requiredLevel": null,
-		"location": null,
-		"compositionPos": 8,
-		"canGrade": false,
-		"usableClass": [
-			"all"
-		],
-		"script": {
-			"melee": [
-				"10",
-				"EQUIP[Orrivane Dragon Sword&&Orrivane Ring (Dragon Knight)]===10",
-				"EQUIP[Orrivane Imperial Spear&&Orrivane Ring (Imperial Guard)]===10",
-				"EQUIP[Orrivane Mechanical Axe&&Orrivane Ring (Meister)]===10",
-				"EQUIP[Orrivane Biologic Scepter&&Orrivane Ring (Biolo)]===10",
-				"EQUIP[Orrivane Saint Book&&Orrivane Ring (Cardinal)]===10",
-				"EQUIP[Orrivane Judgment Knuckle&&Orrivane Ring (Inquisitor)]===10",
-				"EQUIP[Orrivane Abyss Dagger&&Orrivane Ring (Abyss Chaser)]===10",
-				"EQUIP[Orrivane Emperor Star Book||Orrivane Emperor Noon Book&&Orrivane Ring (Sky Emperor)]===10",
-				"EQUIP[Orrivane Huuma Shuriken&&Orrivane Ring (Shinkiro & Shiranui)]===10"
-			],
-			"acd": [
-				"10"
-			],
-			"criDmg": [
-				"EQUIP[Orrivane Dragon Sword&&Orrivane Ring (Dragon Knight)]===20",
-				"EQUIP[Orrivane Saint Book&&Orrivane Ring (Cardinal)]===20",
-				"EQUIP[Orrivane Shadow Katar||Orrivane Shadow Cakram&&Orrivane Ring (Shadow Cross)]===20",
-				"EQUIP[Orrivane Huuma Shuriken&&Orrivane Ring (Shinkiro & Shiranui)]===20"
-			],
-			"hitDmg": [
-				"EQUIP[Orrivane Mechanical Axe&&Orrivane Ring (Meister)]===10",
-				"EQUIP[Orrivane Biologic Scepter&&Orrivane Ring (Biolo)]===10"
-			],
-			"hpPercent": [
-				"EQUIP[Orrivane Judgment Knuckle&&Orrivane Ring (Inquisitor)]===10",
-				"EQUIP[Orrivane Hyper Sword&&Orrivane Ring (Hyper Novice)]===20"
-			],
-			"hp": [
-				"EQUIP[Orrivane Hyper Sword&&Orrivane Ring (Hyper Novice)]===5000"
-			],
-			"cd__Savage Impact": [
-				"EQUIP[Orrivane Shadow Katar||Orrivane Shadow Cakram&&Orrivane Ring (Shadow Cross)]===0.25"
-			],
-			"p_class_all": [
-				"EQUIP[Orrivane Emperor Star Book||Orrivane Emperor Noon Book&&Orrivane Ring (Sky Emperor)]===15"
-			]
-		}
-	}
+    "id": 1000000,
+    "aegisName": "Orrivane_Range_Card",
+    "flavorText": null,
+    "name": "Orrivane Range Card (BETA)",
+    "unidName": "Card",
+    "resName": "이름없는카드",
+    "unidResName": "이름없는카드",
+    "description": "เพิ่ม Damage ทางกายภาพระยะไกล 10%.\nลด Global Cooldown 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Dragon Lance และ Orrivane Ring (Dragon Knight),\nลดระยะเวลาร่ายแบบแปรผันสกิล Dragonic Breath 100%,\nเพิ่ม Damage ทางกายภาพระยะไกล 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Mechanical Mace และ Orrivane Ring (Meister),\nเพิ่ม HIT Damage ทางกายภาพ 10%,\nเพิ่ม Damage ทางกายภาพระยะไกล 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Biologic Sword และ Orrivane Ring (Biolo),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพระยะไกล 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Judgment Claw และ Orrivane Ring (Inquisitor),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพระยะไกล 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Wind Bow หรือ Orrivane Wind Crossbow และ Orrivane Ring (Wind Hawk),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Abyss Crossbow และ Orrivane Ring (Abyss Chaser),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Night Gatling หรือ Orrivane Night Pistol และ Orrivane Ring (Night Watch),\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า + 10%,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Spirit Foxtail และ Orrivane Ring (Spirit Handler),\nลด Cooldown สกิล Lope 6 วินาที,\nเพิ่ม Damage ทางกายภาพระยะไกล 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Musical Harp หรือ Orrivane Musical Rope และ Orrivane Ring (Troubadour & Trouvere),\nเพิ่ม HIT Damage ทางกายภาพ 10%,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%.\n\nประเภท : Card\nใช้กับ : Accessory (Right)\nน้ำหนัก : 1",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 8,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "range": [
+        "10",
+        "EQUIP[Orrivane Dragon Lance&&Orrivane Ring (Dragon Knight)]===10",
+        "EQUIP[Orrivane Mechanical Mace&&Orrivane Ring (Meister)]===10",
+        "EQUIP[Orrivane Biologic Sword&&Orrivane Ring (Biolo)]===10",
+        "EQUIP[Orrivane Judgment Claw&&Orrivane Ring (Inquisitor)]===10",
+        "EQUIP[Orrivane Night Gatling||Orrivane Night Pistol&&Orrivane Ring (Night Watch)]===10",
+        "EQUIP[Orrivane Spirit Foxtail&&Orrivane Ring (Spirit Handler)]===10"
+      ],
+      "acd": [
+        "10"
+      ],
+      "vct__Dragonic Breath": [
+        "EQUIP[Orrivane Dragon Lance&&Orrivane Ring (Dragon Knight)]===100"
+      ],
+      "hitDmg": [
+        "EQUIP[Orrivane Mechanical Mace&&Orrivane Ring (Meister)]===10",
+        "EQUIP[Orrivane Musical Harp||Orrivane Musical Rope&&Orrivane Ring (Troubadour & Trouvere)]===10"
+      ],
+      "criDmg": [
+        "EQUIP[Orrivane Biologic Sword&&Orrivane Ring (Biolo)]===20",
+        "EQUIP[Orrivane Judgment Claw&&Orrivane Ring (Inquisitor)]===20",
+        "EQUIP[Orrivane Wind Bow||Orrivane Wind Crossbow&&Orrivane Ring (Wind Hawk)]===20",
+        "EQUIP[Orrivane Abyss Crossbow&&Orrivane Ring (Abyss Chaser)]===20"
+      ],
+      "p_size_all": [
+        "EQUIP[Orrivane Wind Bow||Orrivane Wind Crossbow&&Orrivane Ring (Wind Hawk)]===10",
+        "EQUIP[Orrivane Abyss Crossbow&&Orrivane Ring (Abyss Chaser)]===10",
+        "EQUIP[Orrivane Night Gatling||Orrivane Night Pistol&&Orrivane Ring (Night Watch)]===10",
+        "EQUIP[Orrivane Musical Harp||Orrivane Musical Rope&&Orrivane Ring (Troubadour & Trouvere)]===10"
+      ],
+      "p_race_all": [
+        "EQUIP[Orrivane Night Gatling||Orrivane Night Pistol&&Orrivane Ring (Night Watch)]===10"
+      ],
+      "cd__Lope": [
+        "EQUIP[Orrivane Spirit Foxtail&&Orrivane Ring (Spirit Handler)]===6"
+      ]
+    }
+  },
+  "1000001": {
+    "id": 1000001,
+    "aegisName": "Orrivane_Magical_Card",
+    "flavorText": null,
+    "name": "Orrivane Magical Card (BETA)",
+    "unidName": "Card",
+    "resName": "이름없는카드",
+    "unidResName": "이름없는카드",
+    "description": "MATK + 10%.\nลด Global Cooldown 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Imperial Sword และ Orrivane Ring (Imperial Guard),\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Arch Staff หรือ Orrivane Arch Wand และ Orrivane Ring (Arch Mage),\nสามารถใช้งานสกิล Earth Insignia Lv.3,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Elemental Magic Book หรือ Orrivane Elemental Spell Book และ Orrivane Ring (Elemental Master),\nสามารถใช้งานสกิล Comet Lv.1,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Saint Wand และ Orrivane Ring (Cardinal),\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Musical Violin หรือ Orrivane Musical Rope และ Orrivane Ring (Troubadour & Trouvere),\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Hyper Wand และ Orrivane Ring (Hyper Novice),\nสามารถใช้งานสกิล Fire Insignia Lv.3,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Wheel Shuriken และ Orrivane Ring (Shinkiro & Shiranui),\nสามารถใช้งานสกิล Mystical Amplification Lv.10,\nเมื่อโจมตีทางเวทมนตร์มีโอกาส 3% ที่จะ S.MATK +20 SPL+ 100 เป็นระยะเวลา 10 วินาที.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Soul Wand หรือ Orrivane Soul Stick และ Orrivane Ring (Soul Ascetic),\nสามารถใช้งานสกิล Comet Lv.1,\nMATK + 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Spirit Foxtail Model และ Orrivane Ring (Spirit Handler),\nลด Cooldown สกิล Lope 1.5 วินาที,\nMATK + 10%.\n\nประเภท : Card\nใช้กับ : Accessory (Right)\nน้ำหนัก : 1",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 8,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matkPercent": [
+        "10",
+        "EQUIP[Orrivane Imperial Sword&&Orrivane Ring (Imperial Guard)]===10",
+        "EQUIP[Orrivane Arch Staff||Orrivane Arch Wand&&Orrivane Ring (Arch Mage)]===10",
+        "EQUIP[Orrivane Elemental Magic Book||Orrivane Elemental Spell Book&&Orrivane Ring (Elemental Master)]===10",
+        "EQUIP[Orrivane Saint Wand&&Orrivane Ring (Cardinal)]===10",
+        "EQUIP[Orrivane Musical Violin||Orrivane Musical Rope&&Orrivane Ring (Troubadour & Trouvere)]===10",
+        "EQUIP[Orrivane Hyper Wand&&Orrivane Ring (Hyper Novice)]===10",
+        "EQUIP[Orrivane Soul Wand||Orrivane Soul Stick&&Orrivane Ring (Soul Ascetic)]===10",
+        "EQUIP[Orrivane Spirit Foxtail Model&&Orrivane Ring (Spirit Handler)]===10"
+      ],
+      "acd": [
+        "10"
+      ],
+      "m_element_all": [
+        "EQUIP[Orrivane Imperial Sword&&Orrivane Ring (Imperial Guard)]===10",
+        "EQUIP[Orrivane Saint Wand&&Orrivane Ring (Cardinal)]===10",
+        "EQUIP[Orrivane Musical Violin||Orrivane Musical Rope&&Orrivane Ring (Troubadour & Trouvere)]===10"
+      ],
+      "cd__Lope": [
+        "EQUIP[Orrivane Spirit Foxtail Model&&Orrivane Ring (Spirit Handler)]===1.5"
+      ],
+      "chance__sMatk": [
+        "EQUIP[Orrivane Wheel Shuriken&&Orrivane Ring (Shinkiro & Shiranui)]===20"
+      ],
+      "chance__spl": [
+        "EQUIP[Orrivane Wheel Shuriken&&Orrivane Ring (Shinkiro & Shiranui)]===100"
+      ]
+    }
+  },
+  "1000002": {
+    "id": 1000002,
+    "aegisName": "Orrivane_Fighter_Card",
+    "flavorText": null,
+    "name": "Orrivane Fighter Card (BETA)",
+    "unidName": "Card",
+    "resName": "이름없는카드",
+    "unidResName": "이름없는카드",
+    "description": "เพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\nลด Global Cooldown 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Dragon Sword และ Orrivane Ring (Dragon Knight),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Imperial Spear และ Orrivane Ring (Imperial Guard),\nสามารถใช้งานสกิล Enchant Deadly Poison Lv.5,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Mechanical Axe และ Orrivane Ring (Meister),\nเพิ่ม HIT Damage ทางกายภาพ 10%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Biologic Scepter และ Orrivane Ring (Biolo),\nเพิ่ม HIT Damage ทางกายภาพ 10%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Saint Book และ Orrivane Ring (Cardinal),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Judgment Knuckle และ Orrivane Ring (Inquisitor),\nMHP + 10%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Shadow Katar หรือ Orrivane Shadow Cakram และ Orrivane Ring (Shadow Cross),\nCritical Damage + 20%,\nลดคูลดาวน์สกิล Savage Impact 0.25 วินาที.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Abyss Dagger และ Orrivane Ring (Abyss Chaser),\nสามารถใช้งานสกิล Enchant Deadly Poison Lv.5,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Hyper Sword และ Orrivane Ring (Hyper Novice),\nMaxHP + 20%,\nMaxHP + 5,000.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Emperor Star Book หรือ Orrivane Emperor Noon Book และ Orrivane Ring (Sky Emperor),\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nเมื่อสวมใส่ร่วมกับ Orrivane Huuma Shuriken และ Orrivane Ring (Shinkiro & Shiranui),\nCritical Damage + 20%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 10%.\n\nประเภท : Card\nใช้กับ : Accessory (Right)\nน้ำหนัก : 1",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": null,
+    "defense": null,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 8,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "melee": [
+        "10",
+        "EQUIP[Orrivane Dragon Sword&&Orrivane Ring (Dragon Knight)]===10",
+        "EQUIP[Orrivane Imperial Spear&&Orrivane Ring (Imperial Guard)]===10",
+        "EQUIP[Orrivane Mechanical Axe&&Orrivane Ring (Meister)]===10",
+        "EQUIP[Orrivane Biologic Scepter&&Orrivane Ring (Biolo)]===10",
+        "EQUIP[Orrivane Saint Book&&Orrivane Ring (Cardinal)]===10",
+        "EQUIP[Orrivane Judgment Knuckle&&Orrivane Ring (Inquisitor)]===10",
+        "EQUIP[Orrivane Abyss Dagger&&Orrivane Ring (Abyss Chaser)]===10",
+        "EQUIP[Orrivane Emperor Star Book||Orrivane Emperor Noon Book&&Orrivane Ring (Sky Emperor)]===10",
+        "EQUIP[Orrivane Huuma Shuriken&&Orrivane Ring (Shinkiro & Shiranui)]===10"
+      ],
+      "acd": [
+        "10"
+      ],
+      "criDmg": [
+        "EQUIP[Orrivane Dragon Sword&&Orrivane Ring (Dragon Knight)]===20",
+        "EQUIP[Orrivane Saint Book&&Orrivane Ring (Cardinal)]===20",
+        "EQUIP[Orrivane Shadow Katar||Orrivane Shadow Cakram&&Orrivane Ring (Shadow Cross)]===20",
+        "EQUIP[Orrivane Huuma Shuriken&&Orrivane Ring (Shinkiro & Shiranui)]===20"
+      ],
+      "hitDmg": [
+        "EQUIP[Orrivane Mechanical Axe&&Orrivane Ring (Meister)]===10",
+        "EQUIP[Orrivane Biologic Scepter&&Orrivane Ring (Biolo)]===10"
+      ],
+      "hpPercent": [
+        "EQUIP[Orrivane Judgment Knuckle&&Orrivane Ring (Inquisitor)]===10",
+        "EQUIP[Orrivane Hyper Sword&&Orrivane Ring (Hyper Novice)]===20"
+      ],
+      "hp": [
+        "EQUIP[Orrivane Hyper Sword&&Orrivane Ring (Hyper Novice)]===5000"
+      ],
+      "cd__Savage Impact": [
+        "EQUIP[Orrivane Shadow Katar||Orrivane Shadow Cakram&&Orrivane Ring (Shadow Cross)]===0.25"
+      ],
+      "p_class_all": [
+        "EQUIP[Orrivane Emperor Star Book||Orrivane Emperor Noon Book&&Orrivane Ring (Sky Emperor)]===15"
+      ]
+    }
+  }
 }
