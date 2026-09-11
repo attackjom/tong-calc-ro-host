@@ -293137,7 +293137,7 @@
     "defense": 0,
     "weight": 10,
     "requiredLevel": 1,
-    "location": null,
+    "location": "Middle",
     "compositionPos": null,
     "canGrade": false,
     "usableClass": [
