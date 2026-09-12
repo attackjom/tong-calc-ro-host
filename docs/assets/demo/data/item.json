@@ -293520,8 +293520,8 @@
     "defense": 0,
     "weight": 1,
     "requiredLevel": null,
-    "location": 769,
-    "compositionPos": null,
+    "location": null,
+    "compositionPos": 769,
     "canGrade": false,
     "script": {
       "hp": [
