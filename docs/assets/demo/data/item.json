@@ -293495,8 +293495,8 @@
     "defense": 0,
     "weight": 1,
     "requiredLevel": null,
-    "location": 769,
-    "compositionPos": null,
+    "location": null,
+    "compositionPos": 769,
     "canGrade": false,
     "script": {
       "hp": [
@@ -294439,7 +294439,7 @@
     "defense": 5,
     "weight": 10,
     "requiredLevel": 170,
-    "location": "Middle",
+    "location": "Lower",
     "compositionPos": null,
     "canGrade": false,
     "script": {
