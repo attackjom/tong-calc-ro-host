@@ -291474,7 +291474,7 @@
       "p_size_all": [
         "GRADE[me==B]===10"
       ],
-      "chance__p_pene_race_all": [
+      "chance__pene_res": [
         "EQUIP[Naght Sieger Card]===20"
       ],
       "p_final": [
@@ -294666,7 +294666,7 @@
       "m_size_all": [
         "GRADE[me==B]===10"
       ],
-      "chance__m_pene_race_all": [
+      "chance__pene_mres": [
         "EQUIP[Naght Sieger Card]===20"
       ],
       "m_final": [
@@ -295422,6 +295422,466 @@
     "script": {
       "int": [
         "3"
+      ]
+    }
+  },
+  "300935": {
+    "id": 300935,
+    "aegisName": "Razrygz_Tew_Card",
+    "flavorText": null,
+    "name": "Razrygz Mock Siege Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "Increases magical damage against monsters of all races by 7% (excluding Players).\n^ffffff_^000000\nWhen equipped with Razrygz Pendant, increases Fire, Neutral, Holy, Wind, Shadow, Ghost and Undead property magical damage by 7%, and increases magical damage against enemies of all sizes and properties by 7%.\n^ffffff_^000000\nClass : ^777777Card^000000\nCompound on : ^777777Accessory (Left)^000000\nWeight : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 128,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "m_race_all": [
+        "7"
+      ],
+      "m_my_element_fire": [
+        "EQUIP[Razrygz Pendant]===7"
+      ],
+      "m_my_element_neutral": [
+        "EQUIP[Razrygz Pendant]===7"
+      ],
+      "m_my_element_holy": [
+        "EQUIP[Razrygz Pendant]===7"
+      ],
+      "m_my_element_wind": [
+        "EQUIP[Razrygz Pendant]===7"
+      ],
+      "m_my_element_dark": [
+        "EQUIP[Razrygz Pendant]===7"
+      ],
+      "m_my_element_ghost": [
+        "EQUIP[Razrygz Pendant]===7"
+      ],
+      "m_my_element_undead": [
+        "EQUIP[Razrygz Pendant]===7"
+      ],
+      "m_size_all": [
+        "EQUIP[Razrygz Pendant]===7"
+      ],
+      "m_element_all": [
+        "EQUIP[Razrygz Pendant]===7"
+      ]
+    }
+  },
+  "491080": {
+    "id": 491080,
+    "aegisName": "Blooming_Blue",
+    "flavorText": null,
+    "name": "Blooming Blue",
+    "unidName": null,
+    "resName": "Blooming_Blue",
+    "unidResName": null,
+    "description": "Gloves discovered in a simulated Valkyrie Realm Underground Dungeon.\n^ffffff_^000000\nMATK + 5%, increases magical damage of all properties by 10%.\nIncreases Metallic Fury damage by 15%.\nIf Base Level is 240 or higher, reduces variable casting time by 10%, reduces global cooldown by 5%, and increases Rhythmic Wave damage by 10%.\n^ffffff_^000000\nWhen equipped with Demon King's Castle Necklace, increases Metallic Fury and Rhythmic Wave damage by 10%.\nClass : ^777777Accessory (Left)^000000 Defense : ^7777770^000000\nWeight : ^77777710^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777225^000000\nJobs : ^777777Troubadour, Trouvere^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 511,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 225,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Troubadour",
+      "Trouvere"
+    ],
+    "script": {
+      "matkPercent": [
+        "5"
+      ],
+      "m_my_element_all": [
+        "10"
+      ],
+      "Metallic Fury": [
+        "15",
+        "EQUIP[Demon King's Castle Necklace]===10"
+      ],
+      "vct": [
+        "SUM[level==240]===10"
+      ],
+      "acd": [
+        "SUM[level==240]===5"
+      ],
+      "Rhythmical Wave": [
+        "SUM[level==240]===10",
+        "EQUIP[Demon King's Castle Necklace]===10"
+      ]
+    }
+  },
+  "491081": {
+    "id": 491081,
+    "aegisName": "Razrygz_Pendant",
+    "flavorText": null,
+    "name": "Razrygz Pendant",
+    "unidName": null,
+    "resName": "Razrygz_Pendant",
+    "unidResName": null,
+    "description": "A pendant crafted as a souvenir of the simulated Razrygz Siege.\n^ffffff_^000000\nMATK + 7%, increases Fire, Neutral, Holy, Wind, Shadow, Ghost and Undead property magical damage by 10%.\nIf Base Level is 240 or higher, reduces variable casting time by 7% and global cooldown by 4%.\nClass : ^777777Accessory (Left)^000000 Defense : ^7777770^000000\nWeight : ^77777710^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777225^000000\nJobs : ^777777All Jobs^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 511,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 225,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matkPercent": [
+        "7"
+      ],
+      "m_my_element_fire": [
+        "10"
+      ],
+      "m_my_element_neutral": [
+        "10"
+      ],
+      "m_my_element_holy": [
+        "10"
+      ],
+      "m_my_element_wind": [
+        "10"
+      ],
+      "m_my_element_dark": [
+        "10"
+      ],
+      "m_my_element_ghost": [
+        "10"
+      ],
+      "m_my_element_undead": [
+        "10"
+      ],
+      "vct": [
+        "SUM[level==240]===7"
+      ],
+      "acd": [
+        "SUM[level==240]===4"
+      ]
+    }
+  },
+  "510230": {
+    "id": 510230,
+    "aegisName": "Magical_A_Dagger",
+    "flavorText": null,
+    "name": "Magical Academic Sword",
+    "unidName": null,
+    "resName": "Magical_A_Dagger",
+    "unidResName": null,
+    "description": "A dagger crafted for the simulated Razrygz Siege.\n^ffffff_^000000\nMATK + 230.\nIncreases Abyss Flame damage by 25%.\nFor every 3 refine levels, MATK + 10, MATK + 1%.\nAt refine level 7, increases Abyss Square damage by 15% and Fire and Neutral property magical damage by 15%.\nAt refine level 9, additionally increases Abyss Square and Abyss Flame damage by 15%.\nAt refine level 11, additionally increases Fire and Neutral property magical damage by 10%.\nAt refine level 12, reduces variable casting time by 10% and global cooldown by 5%.\n^ffffff_^000000\nWhen equipped with Demon King's Castle Necklace, increases Abyss Flame damage by 10%. If the weapon is refined to +12 or higher, reduces Abyss Flame skill cooldown by 0.15 seconds.\n^ffffff_^000000\nWhen equipped with Engraved Soul Purifying Rune Robe, increases Abyss Flame and Abyss Square damage by 15%. If the armor is refined to +12 or higher, additionally increases Abyss Square damage by 10% and reduces Abyss Flame skill cooldown by 0.15 seconds.\n^ffffff_^000000\n^CC3D3D[Additional Grade Options]^000000\n[Grade D] Increases Abyss Flame damage by 15%.\n[Grade C] Increases Fire and Neutral property magical damage by 10%.\n[Grade B] Increases Abyss Square damage by 10%.\n[Grade A] Reduces variable casting time by 5% and global cooldown by 5%.\nClass : ^777777Dagger^000000 Attack : ^777777100^000000\nWeight : ^777777170^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777235^000000\nJobs : ^777777Abyss Chaser^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 256,
+    "itemLevel": 5,
+    "attack": 100,
+    "defense": 0,
+    "weight": 170,
+    "requiredLevel": 235,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "AbyssChaser"
+    ],
+    "script": {
+      "matk": [
+        "230",
+        "3---10"
+      ],
+      "matkPercent": [
+        "3---1"
+      ],
+      "Abyss Flame": [
+        "25",
+        "9===15",
+        "EQUIP[Demon King's Castle Necklace]===10",
+        "EQUIP[Engraved Soul Purifying Rune Robe]===15",
+        "GRADE[weapon==D]===15"
+      ],
+      "Abyss Square": [
+        "7===15",
+        "9===15",
+        "EQUIP[Engraved Soul Purifying Rune Robe]===15",
+        "EQUIP[Engraved Soul Purifying Rune Robe]REFINE[armor==12]===10",
+        "GRADE[weapon==B]===10"
+      ],
+      "m_my_element_fire": [
+        "7===15",
+        "11===10",
+        "GRADE[weapon==C]===10"
+      ],
+      "m_my_element_neutral": [
+        "7===15",
+        "11===10",
+        "GRADE[weapon==C]===10"
+      ],
+      "vct": [
+        "12===10",
+        "GRADE[weapon==A]===5"
+      ],
+      "acd": [
+        "12===5",
+        "GRADE[weapon==A]===5"
+      ],
+      "cd__Abyss Flame": [
+        "EQUIP[Demon King's Castle Necklace]REFINE[weapon==12]===0.15",
+        "EQUIP[Engraved Soul Purifying Rune Robe]REFINE[armor==12]===0.15"
+      ]
+    }
+  },
+  "510231": {
+    "id": 510231,
+    "aegisName": "OverFlame_Knife",
+    "flavorText": null,
+    "name": "Infernal Flame Dagger",
+    "unidName": null,
+    "resName": "OverFlame_Knife",
+    "unidResName": null,
+    "description": "A dagger discovered in a simulated Valkyrie Realm Underground Dungeon.\n^ffffff_^000000\nATK + 5%, increases Primed (Solid/Flame/Deep Blind/Swift) Trap damage by 15%.\nFor every 2 refine levels, ATK + 10.\nAt refine level 7, increases Primed (Solid/Flame) Trap damage by 25%.\nAt refine level 9, increases Primed (Deep Blind/Swift) Trap damage by 25%.\nAt refine level 11, reduces variable casting time by 10% and increases melee physical damage by 25%.\nAt refine level 12, increases physical damage on targets by 15% and additionally increases melee physical damage by 15%.\n^ffffff_^000000\nWhen equipped with Blue Flame Magical Armor, increases melee physical damage by 15% and physical damage on targets by 15%. If the weapon is refined to +12 or higher, increases Primed (Solid/Flame/Deep Blind/Swift) Trap damage by 15%.\n^ffffff_^000000\nWhen equipped with Flame Flower Magical Armor, increases melee physical damage by 20% and physical damage on targets by 20%. For every 2 refine levels of the weapon, ATK + 1%, ATK + 12, and increases Primed (Solid/Flame/Deep Blind/Swift) Trap damage by 4%. If the armor is refined to +12 or higher, reduces Primed (Solid/Flame/Deep Blind/Swift) Trap skill cooldown by 0.2 seconds.\n^ffffff_^000000\n^CC3D3D[Additional Grade Options]^000000\n[Grade D] Reduces variable casting time by 10%.\n[Grade C] Increases melee physical damage by 15%.\n[Grade B] Increases Primed (Solid/Flame/Deep Blind/Swift) Trap damage by 15%.\n[Grade A] HIT + 25, increases HIT physical damage on targets by 5%.\nClass : ^777777Dagger^000000 Attack : ^777777220^000000\nWeight : ^777777160^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777225^000000\nJobs : ^777777Windhawk^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 256,
+    "itemLevel": 5,
+    "attack": 220,
+    "defense": 0,
+    "weight": 160,
+    "requiredLevel": 225,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Windhawk"
+    ],
+    "script": {
+      "atkPercent": [
+        "5",
+        "EQUIP[Flame Flower Magical Armor]REFINE[weapon==2]---1"
+      ],
+      "atk": [
+        "2---10",
+        "EQUIP[Flame Flower Magical Armor]REFINE[weapon==2]---12"
+      ],
+      "Primed Solid Trap": [
+        "15",
+        "7===25",
+        "EQUIP[Blue Flame Magical Armor]REFINE[weapon==12]===15",
+        "EQUIP[Flame Flower Magical Armor]REFINE[weapon==2]---4",
+        "GRADE[weapon==B]===15"
+      ],
+      "Primed Flame Trap": [
+        "15",
+        "7===25",
+        "EQUIP[Blue Flame Magical Armor]REFINE[weapon==12]===15",
+        "EQUIP[Flame Flower Magical Armor]REFINE[weapon==2]---4",
+        "GRADE[weapon==B]===15"
+      ],
+      "Primed Deep Blind Trap": [
+        "15",
+        "9===25",
+        "EQUIP[Blue Flame Magical Armor]REFINE[weapon==12]===15",
+        "EQUIP[Flame Flower Magical Armor]REFINE[weapon==2]---4",
+        "GRADE[weapon==B]===15"
+      ],
+      "Primed Swift Trap": [
+        "15",
+        "9===25",
+        "EQUIP[Blue Flame Magical Armor]REFINE[weapon==12]===15",
+        "EQUIP[Flame Flower Magical Armor]REFINE[weapon==2]---4",
+        "GRADE[weapon==B]===15"
+      ],
+      "vct": [
+        "11===10",
+        "GRADE[weapon==D]===10"
+      ],
+      "melee": [
+        "11===25",
+        "12===15",
+        "EQUIP[Blue Flame Magical Armor]===15",
+        "EQUIP[Flame Flower Magical Armor]===20",
+        "GRADE[weapon==C]===15"
+      ],
+      "p_element_all": [
+        "12===15",
+        "EQUIP[Blue Flame Magical Armor]===15",
+        "EQUIP[Flame Flower Magical Armor]===20"
+      ],
+      "hit": [
+        "GRADE[weapon==A]===25"
+      ],
+      "hitDmg": [
+        "GRADE[weapon==A]===5"
+      ],
+      "cd__Primed Solid Trap": [
+        "EQUIP[Flame Flower Magical Armor]REFINE[armor==12]===0.2"
+      ],
+      "cd__Primed Flame Trap": [
+        "EQUIP[Flame Flower Magical Armor]REFINE[armor==12]===0.2"
+      ],
+      "cd__Primed Deep Blind Trap": [
+        "EQUIP[Flame Flower Magical Armor]REFINE[armor==12]===0.2"
+      ],
+      "cd__Primed Swift Trap": [
+        "EQUIP[Flame Flower Magical Armor]REFINE[armor==12]===0.2"
+      ]
+    }
+  },
+  "510232": {
+    "id": 510232,
+    "aegisName": "Sharpen_F_Knife",
+    "flavorText": null,
+    "name": "Sharpen Feather Knife",
+    "unidName": null,
+    "resName": "Sharpen_F_Knife",
+    "unidResName": null,
+    "description": "A dagger crafted for the simulated Razrygz Siege.\n^ffffff_^000000\nIncreases ranged physical damage by 15%.\nFor every 3 refine levels, ATK + 12, CRI + 2.\nAt refine level 7, increases ranged physical damage by 12% and critical damage by 12%.\nAt refine level 9, increases Plume Piercer damage by 20% and reduces variable casting time by 5%.\nAt refine level 11, additionally increases ranged physical damage by 8% and Plume Piercer damage by 15%.\nAt refine level 12, additionally increases ranged physical damage by 10% and critical damage by 15%.\n^ffffff_^000000\nWhen equipped with Glacier Armor, reduces variable casting time by 5% and increases critical damage by 15%.\n^ffffff_^000000\nWhen equipped with Dim Glacier Armor, reduces variable casting time by 10%, C.RATE + 5, increases critical damage by 20%, and for every 2 refine levels of the weapon, ATK + 1%, ATK + 10, and increases Plume Piercer damage by 5%.\n^ffffff_^000000\nWhen equipped with Isgard Ring, CRI + 7, increases ranged physical damage by 10%, and increases Plume Piercer damage by 10%.\n^ffffff_^000000\n^CC3D3D[Additional Grade Options]^000000\n[Grade D] P.ATK + 5, reduces variable casting time by 5%.\n[Grade C] Increases Plume Piercer damage by 10%.\n[Grade B] Increases ranged physical damage by 10% and critical damage by 15%.\n[Grade A] CRI + 10, C.RATE + 5.\nClass : ^777777Dagger^000000 Attack : ^777777225^000000\nWeight : ^777777120^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777225^000000\nJobs : ^777777Alitea^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 256,
+    "itemLevel": 5,
+    "attack": 225,
+    "defense": 0,
+    "weight": 120,
+    "requiredLevel": 225,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Alitea"
+    ],
+    "script": {
+      "range": [
+        "15",
+        "7===12",
+        "11===8",
+        "12===10",
+        "EQUIP[Isgard Ring]===10",
+        "GRADE[weapon==B]===10"
+      ],
+      "atk": [
+        "3---12",
+        "EQUIP[Dim Glacier Armor]REFINE[weapon==2]---10"
+      ],
+      "atkPercent": [
+        "EQUIP[Dim Glacier Armor]REFINE[weapon==2]---1"
+      ],
+      "cri": [
+        "3---2",
+        "EQUIP[Isgard Ring]===7",
+        "GRADE[weapon==A]===10"
+      ],
+      "criDmg": [
+        "7===12",
+        "12===15",
+        "EQUIP[Glacier Armor]===15",
+        "EQUIP[Dim Glacier Armor]===20",
+        "GRADE[weapon==B]===15"
+      ],
+      "Plume Piercer": [
+        "9===20",
+        "11===15",
+        "EQUIP[Dim Glacier Armor]REFINE[weapon==2]---5",
+        "EQUIP[Isgard Ring]===10",
+        "GRADE[weapon==C]===10"
+      ],
+      "vct": [
+        "9===5",
+        "EQUIP[Glacier Armor]===5",
+        "EQUIP[Dim Glacier Armor]===10",
+        "GRADE[weapon==D]===5"
+      ],
+      "cRate": [
+        "EQUIP[Dim Glacier Armor]===5",
+        "GRADE[weapon==A]===5"
+      ],
+      "pAtk": [
+        "GRADE[weapon==D]===5"
+      ]
+    }
+  },
+  "550230": {
+    "id": 550230,
+    "aegisName": "Saint_Tree_Rod",
+    "flavorText": null,
+    "name": "Sacred Tree Staff",
+    "unidName": null,
+    "resName": "Saint_Tree_Rod",
+    "unidResName": null,
+    "description": "A staff crafted for the simulated Razrygz Siege.\n^ffffff_^000000\nMATK + 230, indestructible.\nMATK + 5%, reduces global cooldown by 5%.\nFor every 3 refine levels, MATK + 20.\nAt refine level 7, increases Arbitrium damage by 15%.\nAt refine level 9, additionally increases Arbitrium damage by 20%.\nAt refine level 11, increases Holy property magical damage by 20% and reduces variable casting time by 10%.\n^ffffff_^000000\nWhen equipped with Razrygz Pendant, reduces variable casting time by 8%. If the weapon is refined to +12 or higher, increases Holy property magical damage by 15%.\n^ffffff_^000000\nWhen equipped with Engraved Soul Purifying Rune Robe, increases Arbitrium damage by 15%. If the armor is refined to +12 or higher, reduces Arbitrium skill cooldown by 0.25 seconds.\n^ffffff_^000000\n^CC3D3D[Additional Grade Options]^000000\n[Grade D] S.MATK + 5, SPL + 5.\n[Grade C] Increases Holy property magical damage by 10%.\n[Grade B] Increases Arbitrium damage by 15%.\n[Grade A] Increases magical damage against monsters of all races by 10% (excluding Players).\nClass : ^777777One-handed Staff^000000 Attack : ^777777100^000000\nWeight : ^777777140^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777235^000000\nJobs : ^777777Cardinal^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 265,
+    "itemLevel": 5,
+    "attack": 100,
+    "defense": 0,
+    "weight": 140,
+    "requiredLevel": 235,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Cardinal"
+    ],
+    "script": {
+      "matk": [
+        "230",
+        "3---20"
+      ],
+      "matkPercent": [
+        "5"
+      ],
+      "acd": [
+        "5"
+      ],
+      "Arbitrium": [
+        "7===15",
+        "9===20",
+        "EQUIP[Engraved Soul Purifying Rune Robe]===15",
+        "GRADE[weapon==B]===15"
+      ],
+      "m_my_element_holy": [
+        "11===20",
+        "EQUIP[Razrygz Pendant]REFINE[weapon==12]===15",
+        "GRADE[weapon==C]===10"
+      ],
+      "vct": [
+        "11===10",
+        "EQUIP[Razrygz Pendant]===8"
+      ],
+      "cd__Arbitrium": [
+        "EQUIP[Engraved Soul Purifying Rune Robe]REFINE[armor==12]===0.25"
+      ],
+      "sMatk": [
+        "GRADE[weapon==D]===5"
+      ],
+      "spl": [
+        "GRADE[weapon==D]===5"
+      ],
+      "m_race_all": [
+        "GRADE[weapon==A]===10"
       ]
     }
   }
