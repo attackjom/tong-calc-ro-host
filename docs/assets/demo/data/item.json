@@ -263000,7 +263000,7 @@
     "unidName": null,
     "resName": "어센드크라운",
     "unidResName": null,
-    "description": "A circlet engraved with radiant runes.\n \nEvery 2 refine levels, ATK + 3, CRI + 2.\nEvery 3 refine levels, ATK + 2%, increases ranged physical damage by 1%, increases critical damage by 3%.\nEvery 4 refine levels, increases Attack Stance Activation and Triple Laser damage by 5%.\nAt refine level 7, increases ranged physical damage by 10%.\nAt refine level 9, P.ATK + 5.\nAt refine level 11, reduces fixed casting time by 0.5 seconds.\n \nWhen equipped together with Radiant Mace, increases Triple Laser damage by 40%, increases critical damage by 15%.\nIf the combined refine level of Radiant Rune Circlet (Meister) and Radiant Mace is 24 or higher, both are Grade A or above, and ABR-Infinity is learned at level 4 or higher, for each level of Triple Laser, increases physical damage against all races by 6% (excluding players), CRI + 2.\n \n^CC3D3D[Additional Effects by Grade]^000000\n[Grade D] P.ATK + 5.\n[Grade C] Increases Triple Laser damage by 15%.\n[Grade B] Increases physical damage against all size enemies by 10%.\n[Grade A] Increases physical damage against all elemental enemies by 10%.\nClass : ^777777Headgear^000000 Defense : ^77777750^000000\nLocation : ^777777Upper^000000 Weight : ^7777770^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Meister^000000",
+    "description": "A circlet engraved with radiant runes.\n \nEvery 2 refine levels, ATK + 3, CRI + 2.\nEvery 3 refine levels, ATK + 2%, increases ranged physical damage by 1%, increases critical damage by 3%.\nEvery 4 refine levels, increases Activation Attack Machine and Triple Laser damage by 5%.\nAt refine level 7, increases ranged physical damage by 10%.\nAt refine level 9, P.ATK + 5.\nAt refine level 11, reduces fixed casting time by 0.5 seconds.\n \nWhen equipped together with Radiant Mace, increases Triple Laser damage by 40%, increases critical damage by 15%.\nIf the combined refine level of Radiant Rune Circlet (Meister) and Radiant Mace is 24 or higher, both are Grade A or above, and ABR - Infinity is learned at level 4 or higher, for each level of Triple Laser, increases physical damage against all races by 6% (excluding players), CRI + 2.\n \n^CC3D3D[Additional Effects by Grade]^000000\n[Grade D] P.ATK + 5.\n[Grade C] Increases Triple Laser damage by 15%.\n[Grade B] Increases physical damage against all size enemies by 10%.\n[Grade A] Increases physical damage against all elemental enemies by 10%.\nClass : ^777777Headgear^000000 Defense : ^77777750^000000\nLocation : ^777777Upper^000000 Weight : ^7777770^000000\nArmor Level : ^7777772^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Meister^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 512,
@@ -263020,7 +263020,8 @@
         "2---3"
       ],
       "cri": [
-        "2---2"
+        "2---2",
+        "EQUIP[Radiant Mace]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL2[ABR - Infinity==4]LEARN_SKILL[Triple Laser==1]---2"
       ],
       "atkPercent": [
         "3---2"
@@ -263033,6 +263034,9 @@
         "3---3",
         "EQUIP[Radiant Mace]===15"
       ],
+      "Activation Attack Machine": [
+        "4---5"
+      ],
       "Triple Laser": [
         "4---5",
         "EQUIP[Radiant Mace]===40",
@@ -263044,6 +263048,9 @@
       ],
       "fct": [
         "11===0.5"
+      ],
+      "p_race_all": [
+        "EQUIP[Radiant Mace]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL2[ABR - Infinity==4]LEARN_SKILL[Triple Laser==1]---6"
       ],
       "p_size_all": [
         "GRADE[me==B]===10"
@@ -263495,7 +263502,7 @@
     "unidName": null,
     "resName": "26_5_Mace_MT",
     "unidResName": null,
-    "description": "A mace blazing with radiance.\n \nIndestructible.\nCRI + 5, increases Attack Stance Activation damage by 15%.\nEvery 3 refine levels, ATK + 35, increases critical damage by 3%.\nEvery 4 refine levels, increases Attack Stance Activation damage by 7%.\nAt refine level 7, increases critical damage by 25%.\nAt refine level 9, CRI + 10, P.ATK + 5.\nAt refine level 11, CRI + 5, additionally increases Attack Stance Activation damage by 10%.\n \n^CC3D3D[Additional Effects by Grade]^000000\n[Grade D] ATK + 5%.\n[Grade C] Increases Attack Stance Activation damage by 10%.\n[Grade B] Reduces variable casting time by 10%.\n[Grade A] P.ATK + 10.\nClass : ^777777Mace^000000 Attack : ^777777300^000000\nWeight : ^777777280^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Meister^000000",
+    "description": "A mace blazing with radiance.\n \nIndestructible.\nCRI + 5, increases Activation Attack Machine damage by 15%.\nEvery 3 refine levels, ATK + 35, increases critical damage by 3%.\nEvery 4 refine levels, increases Activation Attack Machine damage by 7%.\nAt refine level 7, increases critical damage by 25%.\nAt refine level 9, CRI + 10, P.ATK + 5.\nAt refine level 11, CRI + 5, additionally increases Activation Attack Machine damage by 10%.\n \n^CC3D3D[Additional Effects by Grade]^000000\n[Grade D] ATK + 5%.\n[Grade C] Increases Activation Attack Machine damage by 10%.\n[Grade B] Reduces variable casting time by 10%.\n[Grade A] P.ATK + 10.\nClass : ^777777Mace^000000 Attack : ^777777300^000000\nWeight : ^777777280^000000\nWeapon Level : ^7777775^000000\nRequired Level : ^777777240^000000\nJobs : ^777777Meister^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 263,
@@ -263516,7 +263523,7 @@
         "9===10",
         "11===5"
       ],
-      "Attack Stance": [
+      "Activation Attack Machine": [
         "15",
         "4---7",
         "11===10",
@@ -273091,7 +273098,7 @@
     "unidName": null,
     "resName": "Ascend Crown",
     "unidResName": null,
-    "description": "A circlet engraved with radiant runes.\n \nFor every 2 refine levels: ATK +3, CRI +2.\nFor every 3 refine levels: ATK +2%, Critical Damage +3%.\nFor every 4 refine levels: Primal Claw, Feral Claw, Alpha Claw, and Frenzy Fang damage +5%.\nAt Refine +7: Melee Physical Damage +10%.\nAt Refine +9: P.ATK +5.\nAt Refine +11: Fixed Casting Time -0.5 sec.\n \nWhen equipped together with Radiant Axe:\nFrenzy Fang Damage +40%, Critical Damage +20%.\nIf the total refine level of Radiant Rune Circlet (Alitea) and Radiant Axe is 24 or higher, both are Grade A or above, and Savage Lunge is learned at Lv.10 or higher:\nFor each level of Frenzy Fang, Physical Damage against all races +6% (excluding players), and Attack Speed increases (After-Cast Delay -2%).\n \n^CC3D3D[Additional Effects by Grade]^000000\n[D Grade] P.ATK +5.\n[C Grade] Melee Physical Damage +15%.\n[B Grade] Physical Damage against all sizes +10%.\n[A Grade] Physical Damage against all elements +10%.\nClass: ^777777Headgear^000000 Defense: ^77777750^000000\nLocation: ^777777Upper^000000 Weight: ^7777770^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777240^000000\nEquippable By: ^777777Alitea^000000",
+    "description": "A circlet engraved with radiant runes.\n \nFor every 2 refine levels: ATK +3, CRI +2.\nFor every 3 refine levels: ATK +2%, Critical Damage +3%.\nFor every 4 refine levels: Primal Claw, Feral Claw, Alpha Claw, and Frenzy Fang damage +5%.\nAt Refine +7: Melee Physical Damage +10%.\nAt Refine +9: P.ATK +5.\nAt Refine +11: Fixed Casting Time -0.5 sec.\n \nWhen equipped together with Radiant Axe:\nFrenzy Fang Damage +40%, Critical Damage +20%.\nIf the total refine level of Radiant Rune Circlet (Alitea) and Radiant Axe is 24 or higher, both are Grade A or above, and Savage Lunge is learned at Lv.10 or higher:\nFor each level of Frenzy Fang, Physical Damage against all races +6% (excluding players), and Attack Speed increases (After-Attack Delay -2%).\n \n^CC3D3D[Additional Effects by Grade]^000000\n[D Grade] P.ATK +5.\n[C Grade] Melee Physical Damage +15%.\n[B Grade] Physical Damage against all sizes +10%.\n[A Grade] Physical Damage against all elements +10%.\nClass: ^777777Headgear^000000 Defense: ^77777750^000000\nLocation: ^777777Upper^000000 Weight: ^7777770^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777240^000000\nEquippable By: ^777777Alitea^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 512,
@@ -273147,7 +273154,7 @@
       "p_race_all": [
         "EQUIP[Radiant Axe]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL2[Savage Lunge==10]LEARN_SKILL[Frenzy Fang==1]---6"
       ],
-      "acd": [
+      "aspdPercent": [
         "EQUIP[Radiant Axe]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL2[Savage Lunge==10]LEARN_SKILL[Frenzy Fang==1]---2"
       ],
       "p_size_all": [
@@ -292098,11 +292105,11 @@
     "id": 315698,
     "aegisName": "IQ_Soul_BH",
     "flavorText": null,
-    "name": "Inquisitor Soul (Pacheon Strike)",
+    "name": "Inquisitor Soul (Broken Heaven)",
     "unidName": null,
     "resName": "Wolf_Orb_War_1",
     "unidResName": null,
-    "description": "Increases Pacheon Strike damage by 2%.\nFor every 2 refine levels, additionally increases Pacheon Strike damage by 1%.",
+    "description": "Increases Broken Heaven damage by 2%.\nFor every 2 refine levels, additionally increases Broken Heaven damage by 1%.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -292115,7 +292122,7 @@
     "compositionPos": 65535,
     "canGrade": false,
     "script": {
-      "Pacheon Strike": [
+      "Broken Heaven": [
         "2",
         "2---1"
       ]
@@ -292125,7 +292132,7 @@
     "id": 315699,
     "aegisName": "MT_Soul_OP",
     "flavorText": null,
-    "name": "Maestro Soul (Overdrive Protocol)",
+    "name": "Meister Soul (Overdrive Protocol)",
     "unidName": null,
     "resName": "Wolf_Orb_Sp_1",
     "unidResName": null,
@@ -292519,11 +292526,11 @@
     "id": 315713,
     "aegisName": "AT_Soul_NR",
     "flavorText": null,
-    "name": "Alitea Soul (Nature's Fury)",
+    "name": "Alitea Soul (Nature Fury)",
     "unidName": null,
     "resName": "Wolf_Orb_F_Cast_1",
     "unidResName": null,
-    "description": "Increases Nature's Fury damage by 2%.\nFor every 2 refine levels, additionally increases Nature's Fury damage by 1%.",
+    "description": "Increases Nature Fury damage by 2%.\nFor every 2 refine levels, additionally increases Nature Fury damage by 1%.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -292536,7 +292543,7 @@
     "compositionPos": 65535,
     "canGrade": false,
     "script": {
-      "Nature's Fury": [
+      "Nature Fury": [
         "2",
         "2---1"
       ]
@@ -295882,6 +295889,588 @@
       ],
       "m_race_all": [
         "GRADE[weapon==A]===10"
+      ]
+    }
+  },
+  "315392": {
+    "id": 315392,
+    "aegisName": "Glacier_F_Orb_211",
+    "flavorText": null,
+    "name": "Glacier Power (Servant Weapon - Cleave)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases Servant Weapon - Cleave damage by 10%.\nFor every 4 refine levels, increases Servant Weapon - Cleave damage by 5%.\nAt refine level 9, additionally increases Servant Weapon - Cleave damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Servant Weapon - Cleave": [
+        "10",
+        "4---5",
+        "9===10"
+      ]
+    }
+  },
+  "315393": {
+    "id": 315393,
+    "aegisName": "Glacier_F_Orb_212",
+    "flavorText": null,
+    "name": "Glacier Power (Shield Slam)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases Shield Slam damage by 10%.\nFor every 4 refine levels, increases Shield Slam damage by 5%.\nAt refine level 9, additionally increases Shield Slam damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Shield Slam": [
+        "10",
+        "4---5",
+        "9===10"
+      ]
+    }
+  },
+  "315394": {
+    "id": 315394,
+    "aegisName": "Glacier_F_Orb_213",
+    "flavorText": null,
+    "name": "Glacier Power (Overdrive Protocol)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases Overdrive Protocol damage by 10%.\nFor every 4 refine levels, increases Overdrive Protocol damage by 5%.\nAt refine level 9, additionally increases Overdrive Protocol damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Overdrive Protocol": [
+        "10",
+        "4---5",
+        "9===10"
+      ]
+    }
+  },
+  "315395": {
+    "id": 315395,
+    "aegisName": "Glacier_F_Orb_214",
+    "flavorText": null,
+    "name": "Glacier Power (Rampant Vine)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases Rampant Vine damage by 10%.\nFor every 4 refine levels, increases Rampant Vine damage by 5%.\nAt refine level 9, additionally increases Rampant Vine damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Rampant Vine": [
+        "10",
+        "4---5",
+        "9===10"
+      ]
+    }
+  },
+  "315396": {
+    "id": 315396,
+    "aegisName": "Glacier_F_Orb_215",
+    "flavorText": null,
+    "name": "Glacier Power (Phantom Dagger)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases Phantom Dagger damage by 10%.\nFor every 4 refine levels, increases Phantom Dagger damage by 5%.\nAt refine level 9, additionally increases Phantom Dagger damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Phantom Dagger": [
+        "10",
+        "4---5",
+        "9===10"
+      ]
+    }
+  },
+  "315397": {
+    "id": 315397,
+    "aegisName": "Glacier_F_Orb_216",
+    "flavorText": null,
+    "name": "Glacier Power (Wraith Dash)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases Wraith Dash damage by 10%.\nFor every 4 refine levels, increases Wraith Dash damage by 5%.\nAt refine level 9, additionally increases Wraith Dash damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Wraith Dash": [
+        "10",
+        "4---5",
+        "9===10"
+      ]
+    }
+  },
+  "315398": {
+    "id": 315398,
+    "aegisName": "Glacier_F_Orb_217",
+    "flavorText": null,
+    "name": "Glacier Power (Elemental Integration)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases Burning Flame, Frozen Hail, Storm Rise, Terra Burst, and Venom Bombard damage by 10%.\nFor every 4 refine levels, increases Burning Flame, Frozen Hail, Storm Rise, Terra Burst, and Venom Bombard damage by 5%.\nAt refine level 9, additionally increases Burning Flame, Frozen Hail, Storm Rise, Terra Burst, and Venom Bombard damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Burning Flame": [
+        "10",
+        "4---5",
+        "9===10"
+      ],
+      "Frozen Hail": [
+        "10",
+        "4---5",
+        "9===10"
+      ],
+      "Storm Rise": [
+        "10",
+        "4---5",
+        "9===10"
+      ],
+      "Terra Burst": [
+        "10",
+        "4---5",
+        "9===10"
+      ],
+      "Venom Bombard": [
+        "10",
+        "4---5",
+        "9===10"
+      ]
+    }
+  },
+  "315399": {
+    "id": 315399,
+    "aegisName": "Glacier_F_Orb_218",
+    "flavorText": null,
+    "name": "Glacier Power (Punitio)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases Punitio damage by 10%.\nFor every 4 refine levels, increases Punitio damage by 5%.\nAt refine level 9, additionally increases Punitio damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Punitio": [
+        "10",
+        "4---5",
+        "9===10"
+      ]
+    }
+  },
+  "315400": {
+    "id": 315400,
+    "aegisName": "Glacier_F_Orb_219",
+    "flavorText": null,
+    "name": "Glacier Power (Lex Expiatrix)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases Lex Expiatrix damage by 10%.\nFor every 4 refine levels, increases Lex Expiatrix damage by 5%.\nAt refine level 9, additionally increases Lex Expiatrix damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Lex Expiatrix": [
+        "10",
+        "4---5",
+        "9===10"
+      ]
+    }
+  },
+  "315401": {
+    "id": 315401,
+    "aegisName": "Glacier_F_Orb_220",
+    "flavorText": null,
+    "name": "Glacier Power (Broken Heaven)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases Broken Heaven damage by 10%.\nFor every 4 refine levels, increases Broken Heaven damage by 5%.\nAt refine level 9, additionally increases Broken Heaven damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Broken Heaven": [
+        "10",
+        "4---5",
+        "9===10"
+      ]
+    }
+  },
+  "315402": {
+    "id": 315402,
+    "aegisName": "Glacier_F_Orb_221",
+    "flavorText": null,
+    "name": "Glacier Power (Fragment Bolt)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases Fragment Bolt damage by 10%.\nFor every 4 refine levels, increases Fragment Bolt damage by 5%.\nAt refine level 9, additionally increases Fragment Bolt damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Fragment Bolt": [
+        "10",
+        "4---5",
+        "9===10"
+      ]
+    }
+  },
+  "315403": {
+    "id": 315403,
+    "aegisName": "Glacier_F_Orb_222",
+    "flavorText": null,
+    "name": "Glacier Power (Advanced Trap)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases Solid Trap, Deep Blind Trap, Flame Trap, and Swift Trap damage by 10%.\nFor every 4 refine levels, increases Solid Trap, Deep Blind Trap, Flame Trap, and Swift Trap damage by 5%.\nAt refine level 9, additionally increases Solid Trap, Deep Blind Trap, Flame Trap, and Swift Trap damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Solid Trap": [
+        "10",
+        "4---5",
+        "9===10"
+      ],
+      "Deep Blind Trap": [
+        "10",
+        "4---5",
+        "9===10"
+      ],
+      "Flame Trap": [
+        "10",
+        "4---5",
+        "9===10"
+      ],
+      "Swift Trap": [
+        "10",
+        "4---5",
+        "9===10"
+      ]
+    }
+  },
+  "315404": {
+    "id": 315404,
+    "aegisName": "Glacier_F_Orb_223",
+    "flavorText": null,
+    "name": "Glacier Power (Primed Trap)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases Primed Solid Trap, Primed Swift Trap, Primed Flame Trap, and Primed Deep Blind Trap damage by 10%.\nFor every 4 refine levels, increases Primed Solid Trap, Primed Swift Trap, Primed Flame Trap, and Primed Deep Blind Trap damage by 5%.\nAt refine level 9, additionally increases Primed Solid Trap, Primed Swift Trap, Primed Flame Trap, and Primed Deep Blind Trap damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Primed Solid Trap": [
+        "10",
+        "4---5",
+        "9===10"
+      ],
+      "Primed Swift Trap": [
+        "10",
+        "4---5",
+        "9===10"
+      ],
+      "Primed Flame Trap": [
+        "10",
+        "4---5",
+        "9===10"
+      ],
+      "Primed Deep Blind Trap": [
+        "10",
+        "4---5",
+        "9===10"
+      ]
+    }
+  },
+  "315405": {
+    "id": 315405,
+    "aegisName": "Glacier_F_Orb_224",
+    "flavorText": null,
+    "name": "Glacier Power (Fuga de Fleche)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases Fuga de Fleche damage by 10%.\nFor every 4 refine levels, increases Fuga de Fleche damage by 5%.\nAt refine level 9, additionally increases Fuga de Fleche damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Fuga de Fleche": [
+        "10",
+        "4---5",
+        "9===10"
+      ]
+    }
+  },
+  "315406": {
+    "id": 315406,
+    "aegisName": "Glacier_F_Orb_225",
+    "flavorText": null,
+    "name": "Glacier Power (Shadow Torrent)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases Shadow Torrent damage by 10%.\nFor every 4 refine levels, increases Shadow Torrent damage by 5%.\nAt refine level 9, additionally increases Shadow Torrent damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Shadow Torrent": [
+        "10",
+        "4---5",
+        "9===10"
+      ]
+    }
+  },
+  "315407": {
+    "id": 315407,
+    "aegisName": "Glacier_F_Orb_226",
+    "flavorText": null,
+    "name": "Glacier Power (Wind Cutter Turbo)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases Wind Cutter Turbo damage by 10%.\nFor every 4 refine levels, increases Wind Cutter Turbo damage by 5%.\nAt refine level 9, additionally increases Wind Cutter Turbo damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Wind Cutter Turbo": [
+        "10",
+        "4---5",
+        "9===10"
+      ]
+    }
+  },
+  "315408": {
+    "id": 315408,
+    "aegisName": "Glacier_F_Orb_227",
+    "flavorText": null,
+    "name": "Glacier Power (High Magnum Break)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases High Magnum Break damage by 10%.\nFor every 4 refine levels, increases High Magnum Break damage by 5%.\nAt refine level 9, additionally increases High Magnum Break damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "High Magnum Break": [
+        "10",
+        "4---5",
+        "9===10"
+      ]
+    }
+  },
+  "315409": {
+    "id": 315409,
+    "aegisName": "Glacier_F_Orb_228",
+    "flavorText": null,
+    "name": "Glacier Power (Plume Piercer)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases Plume Piercer damage by 10%.\nFor every 4 refine levels, increases Plume Piercer damage by 5%.\nAt refine level 9, additionally increases Plume Piercer damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Plume Piercer": [
+        "10",
+        "4---5",
+        "9===10"
+      ]
+    }
+  },
+  "315410": {
+    "id": 315410,
+    "aegisName": "Glacier_F_Orb_229",
+    "flavorText": null,
+    "name": "Glacier Power (Nature Fury)",
+    "unidName": null,
+    "resName": "Glacier_F_Orb_1",
+    "unidResName": null,
+    "description": "Increases Nature Fury damage by 10%.\nFor every 4 refine levels, increases Nature Fury damage by 5%.\nAt refine level 9, additionally increases Nature Fury damage by 10%.",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "Nature Fury": [
+        "10",
+        "4---5",
+        "9===10"
       ]
     }
   }
