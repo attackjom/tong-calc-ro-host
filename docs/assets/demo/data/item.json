@@ -295492,7 +295492,7 @@
     "id": 491080,
     "aegisName": "Blooming_Blue",
     "flavorText": null,
-    "name": "Blooming Blue",
+    "name": "Blooming Blue [1]",
     "unidName": null,
     "resName": "Blooming_Blue",
     "unidResName": null,
@@ -295539,7 +295539,7 @@
     "id": 491081,
     "aegisName": "Razrygz_Pendant",
     "flavorText": null,
-    "name": "Razrygz Pendant",
+    "name": "Razrygz Pendant [1]",
     "unidName": null,
     "resName": "Razrygz_Pendant",
     "unidResName": null,
@@ -295595,7 +295595,7 @@
     "id": 510230,
     "aegisName": "Magical_A_Dagger",
     "flavorText": null,
-    "name": "Magical Academic Sword",
+    "name": "Magical Academic Sword [2]",
     "unidName": null,
     "resName": "Magical_A_Dagger",
     "unidResName": null,
@@ -295664,7 +295664,7 @@
     "id": 510231,
     "aegisName": "OverFlame_Knife",
     "flavorText": null,
-    "name": "Infernal Flame Dagger",
+    "name": "Infernal Flame Dagger [2]",
     "unidName": null,
     "resName": "OverFlame_Knife",
     "unidResName": null,
@@ -295760,7 +295760,7 @@
     "id": 510232,
     "aegisName": "Sharpen_F_Knife",
     "flavorText": null,
-    "name": "Sharpen Feather Knife",
+    "name": "Sharpen Feather Knife [2]",
     "unidName": null,
     "resName": "Sharpen_F_Knife",
     "unidResName": null,
@@ -295833,7 +295833,7 @@
     "id": 550230,
     "aegisName": "Saint_Tree_Rod",
     "flavorText": null,
-    "name": "Sacred Tree Staff",
+    "name": "Sacred Tree Staff [2]",
     "unidName": null,
     "resName": "Saint_Tree_Rod",
     "unidResName": null,
@@ -296471,6 +296471,182 @@
         "10",
         "4---5",
         "9===10"
+      ]
+    }
+  },
+  "480866": {
+    "id": 480866,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Costume ROS 2026 Champion Radiance",
+    "unidName": null,
+    "resName": "C_Qualifier26_1st",
+    "unidResName": null,
+    "description": "วงเวทลึกลับดุจวงโคจรอันเจิดจรัสของดวงดาวบนท้องฟ้ายามค่ำคืน โอบล้อมร่างกายเอาไว้\nกล่าวกันว่าเป็นสิ่งที่มอบให้แก่ผู้คว้าชัยชนะอันทรงเกียรติจากสนามรบ\n\nได้รับความสามารถของสกิล Discount Lv.10, Overcharge Lv.10\n\nเมื่อผู้สวมใส่เป็น Merchant Class หรือ Super Novice Class,\nทุก ๆ Base Lv.20, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 1%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 1%\n\nเมื่อ Base POW 100, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%\nเมื่อ Base SPL 100, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\nเมื่อ Base CON 100, เพิ่ม Damage ทางกายภาพระยะไกล 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\nเมื่อ Base CRT 100, Critical Damage + 10%\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 19 พฤษภาคม 2570)\n\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 522,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "melee": [
+        "USED[Merchant||Super Novice]SUM[level==20]---1",
+        "SUM[pow==100]===10"
+      ],
+      "range": [
+        "USED[Merchant||Super Novice]SUM[level==20]---1",
+        "SUM[pow==100]===10",
+        "SUM[con==100]===10"
+      ],
+      "m_element_all": [
+        "USED[Merchant||Super Novice]SUM[level==20]---1",
+        "SUM[spl==100]===10",
+        "SUM[con==100]===10"
+      ],
+      "criDmg": [
+        "SUM[crt==100]===10"
+      ]
+    }
+  },
+  "480867": {
+    "id": 480867,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Costume ROS 2026 Victory Radiance",
+    "unidName": null,
+    "resName": "C_Qualifier26_2nd",
+    "unidResName": null,
+    "description": "วงเวทลึกลับดุจวงโคจรแห่งแสงที่ส่องประกายบนท้องฟ้ายามค่ำคืน โอบล้อมร่างกายเอาไว้\nกล่าวกันว่าเป็นสิ่งที่มอบให้แก่ผู้สร้างผลงานอันยอดเยี่ยมในการต่อสู้\n\nได้รับความสามารถของสกิล Discount Lv.10, Overcharge Lv.10\n\nเมื่อผู้สวมใส่เป็น Merchant Class หรือ Super Novice Class,\nทุก ๆ Base Lv.20, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 1%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 1%\n\nเมื่อ Base POW 100, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 6%\nเมื่อ Base SPL 100, เพิ่ม Damageทางเวทมนตร์ทุกธาตุ 6%\nเมื่อ Base CON 100, เพิ่ม Damage ทางกายภาพระยะไกล 6%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 6%\nเมื่อ Base CRT 100, Critical Damage + 6%\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 19 พฤษภาคม 2570)\n\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 522,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "melee": [
+        "USED[Merchant||Super Novice]SUM[level==20]---1",
+        "SUM[pow==100]===6"
+      ],
+      "range": [
+        "USED[Merchant||Super Novice]SUM[level==20]---1",
+        "SUM[pow==100]===6",
+        "SUM[con==100]===6"
+      ],
+      "m_element_all": [
+        "USED[Merchant||Super Novice]SUM[level==20]---1",
+        "SUM[spl==100]===6",
+        "SUM[con==100]===6"
+      ],
+      "criDmg": [
+        "SUM[crt==100]===6"
+      ]
+    }
+  },
+  "480868": {
+    "id": 480868,
+    "aegisName": null,
+    "flavorText": null,
+    "name": "Costume ROS 2026 Shining Radiance",
+    "unidName": null,
+    "resName": "C_Qualifier26_3rd",
+    "unidResName": null,
+    "description": "วงเวทลึกลับดุจวงโคจรแห่งดวงดาวบนท้องฟ้ายามค่ำคืน โอบล้อมร่างกายเอาไว้\nกล่าวกันว่าเป็นสิ่งที่มอบให้แก่ผู้ที่คว้ารางวัลจากการแข่งขัน\n\nได้รับความสามารถของสกิล Discount Lv.10, Overcharge Lv.10\n\nเมื่อผู้สวมใส่เป็น Merchant Class หรือ Super Novice Class,\nทุก ๆ Base Lv.30, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 1%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 1%\n\nเมื่อ Base POW 100, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 4%\nเมื่อ Base SPL 100, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 4%\nเมื่อ Base CON 100, เพิ่ม Damage ทางกายภาพระยะไกล 4%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 4%\nเมื่อ Base CRT 100, Critical Damage + 4%\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 19 พฤษภาคม 2570)\n\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 522,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "melee": [
+        "USED[Merchant||Super Novice]SUM[level==30]---1",
+        "SUM[pow==100]===4"
+      ],
+      "range": [
+        "USED[Merchant||Super Novice]SUM[level==30]---1",
+        "SUM[pow==100]===4",
+        "SUM[con==100]===4"
+      ],
+      "m_element_all": [
+        "USED[Merchant||Super Novice]SUM[level==30]---1",
+        "SUM[spl==100]===4",
+        "SUM[con==100]===4"
+      ],
+      "criDmg": [
+        "SUM[crt==100]===4"
+      ]
+    }
+  },
+  "490704": {
+    "id": 490704,
+    "aegisName": "Miracle_Stone",
+    "flavorText": null,
+    "name": "Miracle Stone [1]",
+    "unidName": null,
+    "resName": "Miracle_Stone",
+    "unidResName": null,
+    "description": "MATK+10%,\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%,\nลด Global Cooldown 5%\n\nเมื่อสวมใส่ร่วมกับ Elvira Card หรือ Headless Mule Card หรือ  Dwigh Card หรือ Mavka Card หรือ Jennifer Card, \nSPL+ 5,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Gioia Card หรือ Corrupted Queen Spider Card หรือ Phantom of Himmelmez Card หรือ Abysmal Witch Card หรือ Aquila Card,\nเพิ่มความต้านทานต่อการโจมตีทุกธาตุ 30%,\nเพิกเฉยต่อพลังป้องกันทางเวทมนตร์ของศัตรูทุกประเภท 30%,\nSPL + 10,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรุทุกประเภท 30%,\nเมื่อใช้งาน Garment Lv.2, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 20%\nประเภท : ^777777Accessory^000000  พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777130^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 517,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 130,
+    "location": "Accessory",
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "matkPercent": [
+        "10"
+      ],
+      "m_element_all": [
+        "10",
+        "EQUIP[Gioia Card||Corrupted Queen Spider Card||Phantom of Himmelmez Card||Abysmal Witch Card||Aquila Card]ITEM_LV[garment==2]===20"
+      ],
+      "acd": [
+        "5"
+      ],
+      "spl": [
+        "EQUIP[Elvira Card||Headless Mule Card||Dwigh Card||Mavka Card||Jennifer Card]===5",
+        "EQUIP[Gioia Card||Corrupted Queen Spider Card||Phantom of Himmelmez Card||Abysmal Witch Card||Aquila Card]===10"
+      ],
+      "m_race_all": [
+        "EQUIP[Elvira Card||Headless Mule Card||Dwigh Card||Mavka Card||Jennifer Card]===15",
+        "EQUIP[Gioia Card||Corrupted Queen Spider Card||Phantom of Himmelmez Card||Abysmal Witch Card||Aquila Card]===30"
+      ],
+      "m_pene_race_all": [
+        "EQUIP[Gioia Card||Corrupted Queen Spider Card||Phantom of Himmelmez Card||Abysmal Witch Card||Aquila Card]===30"
       ]
     }
   }
