@@ -296634,21 +296634,45 @@
         "10"
       ],
       "m_element_all": [
-        "EQUIP[Gioia Card||Corrupted Queen Spider Card||Phantom of Himmelmez Card||Abysmal Witch Card||Aquila Card]ITEM_LV[garment==2]===20"
+        "EQUIP[Gioia Card]ITEM_LV[garment==2]===20",
+        "EQUIP[Corrupted Queen Spider Card]ITEM_LV[garment==2]===20",
+        "EQUIP[Phantom of Himmelmez Card]ITEM_LV[garment==2]===20",
+        "EQUIP[Abysmal Witch Card]ITEM_LV[garment==2]===20",
+        "EQUIP[Aquila Card]ITEM_LV[garment==2]===20"
       ],
       "acd": [
         "5"
       ],
       "spl": [
-        "EQUIP[Elvira Card||Headless Mule Card||Dwigh Card||Mavka Card||Jennifer Card]===5",
-        "EQUIP[Gioia Card||Corrupted Queen Spider Card||Phantom of Himmelmez Card||Abysmal Witch Card||Aquila Card]===10"
+        "EQUIP[Elvira Card]===5",
+        "EQUIP[Headless Mule Card]===5",
+        "EQUIP[Dwigh Card]===5",
+        "EQUIP[Mavka Card]===5",
+        "EQUIP[Jennifer Card]===5",
+        "EQUIP[Gioia Card]===10",
+        "EQUIP[Corrupted Queen Spider Card]===10",
+        "EQUIP[Phantom of Himmelmez Card]===10",
+        "EQUIP[Abysmal Witch Card]===10",
+        "EQUIP[Aquila Card]===10"
       ],
       "m_class_all": [
-        "EQUIP[Elvira Card||Headless Mule Card||Dwigh Card||Mavka Card||Jennifer Card]===15",
-        "EQUIP[Gioia Card||Corrupted Queen Spider Card||Phantom of Himmelmez Card||Abysmal Witch Card||Aquila Card]===30"
+        "EQUIP[Elvira Card]===15",
+        "EQUIP[Headless Mule Card]===15",
+        "EQUIP[Dwigh Card]===15",
+        "EQUIP[Mavka Card]===15",
+        "EQUIP[Jennifer Card]===15",
+        "EQUIP[Gioia Card]===30",
+        "EQUIP[Corrupted Queen Spider Card]===30",
+        "EQUIP[Phantom of Himmelmez Card]===30",
+        "EQUIP[Abysmal Witch Card]===30",
+        "EQUIP[Aquila Card]===30"
       ],
       "m_pene_race_all": [
-        "EQUIP[Gioia Card||Corrupted Queen Spider Card||Phantom of Himmelmez Card||Abysmal Witch Card||Aquila Card]===30"
+        "EQUIP[Gioia Card]===30",
+        "EQUIP[Corrupted Queen Spider Card]===30",
+        "EQUIP[Phantom of Himmelmez Card]===30",
+        "EQUIP[Abysmal Witch Card]===30",
+        "EQUIP[Aquila Card]===30"
       ]
     }
   }
