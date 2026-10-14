@@ -231743,15 +231743,15 @@
     "aegisName": "Astraea_Helm_LT",
     "flavorText": null,
     "name": "Astraea Helm-LT [1]",
-    "unidName": "Helm",
+    "unidName": null,
     "resName": "Astraea_Helm_LT",
-    "unidResName": "헬름",
-    "description": "MaxHP + 5%\nทุก ๆ การอัพเกรด 2 ขั้น ATK, MATK + 15\nทุก ๆ การอัพเกรด 4 ขั้น ลด Damage ที่ได้รับจากศัตรูทุกประเภท/เผ่า/ธาตุ 2%, ลด Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากศัตรูทุกขนาด 2%\nเมื่ออัพเกรดถึงขั้น 7, MaxHP + 7%\nเมื่ออัพเกรดถึงขั้น 9, ลดระยะเวลาร่ายแบบแปรผัน 15%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%\nเมื่ออัพเกรดถึงขั้น 13, ลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที\n\nเมื่อสวมใส่ร่วมกับ Astraea Shoes-LT,\nMaxHP + 7000,\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที, \nPerfect Dodge + 12\n\nเมื่อสวมใส่ร่วมกับ Astraea Manteau-LT,\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 15%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%,\nลด Damage ทางกายภาพระยะไกลที่ได้รับ 15%,\nลด Damage ทางกายภาพ/เวทมนตร์ทุกธาตุที่ได้รับ 5%\n\nเมื่อสวมใส่ร่วมกับ Astraea Armor-LT,\nเมื่อได้รับการโจมตีทางกายภาพ มีโอกาส 3% ที่จะ VIT+200 เป็นเวลา 10 วินาที,\nเพิ่มผลของไอเท็มสายฟื้นฟูและ Heal 20%\nเมื่อผู้สวมใส่มีอาชีพ Arch Bishop จะสามารถใช้งาน Energy Coat ได้\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^77777720^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^77777720^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777150^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "unidResName": null,
+    "description": "MaxHP + 5%\nทุก ๆ การอัพเกรด 2 ขั้น ATK, MATK + 15\nทุก ๆ การอัพเกรด 4 ขั้น ลด Damage ที่ได้รับจากศัตรูทุกประเภท/เผ่า/ธาตุ 2%, ลด Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากศัตรูทุกขนาด 2%\nเมื่ออัพเกรดถึงขั้น 7, MaxHP + 7%\nเมื่ออัพเกรดถึงขั้น 9, ลดระยะเวลาร่ายแบบแปรผัน 15%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%\nเมื่ออัพเกรดถึงขั้น 13, ลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที\n\nเมื่อสวมใส่ร่วมกับ Astraea Shoes-LT,\nMaxHP + 7000,\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที, \nPerfect Dodge + 12\n\nเมื่อสวมใส่ร่วมกับ Astraea Manteau-LT,\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 15%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%,\nลด Damage ทางกายภาพระยะไกลที่ได้รับ 15%,\nลด Damage ทางกายภาพ/เวทมนตร์ทุกธาตุที่ได้รับ 5%\n\nเมื่อสวมใส่ร่วมกับ Astraea Armor-LT,\nเมื่อได้รับการโจมตีทางกายภาพ มีโอกาส 3% ที่จะ VIT+200 เป็นเวลา 10 วินาที,\nเพิ่มผลของไอเท็มสายฟื้นฟูและ Heal 20%\nเมื่อผู้สวมใส่มีอาชีพ Arch Bishop จะสามารถใช้งาน Energy Coat ได้\n\nเมื่อสวมใส่ร่วมกับ Star Cluster of Stamina Lv.3,\nลด Damage ทางกายภาพจากมอนสเตอร์ขนาดกลาง 15%\nเมื่อ Base STA 90 ขึ้นไป, ลด Damage ทางกายภาพระยะไกลที่ได้รับ 10%, เพิ่ม Damage ทางกายภาพระยะใกล้ที่ได้รับ 10%\n\nเมื่อสวมใส่ร่วมกับ Star Cluster of Wisdom Lv.3,\nลด Damage ทางเวทมนตร์จากมอนสเตอร์ขนาดกลาง 15%\nเมื่อ Base WIS 90 ขึ้นไป, ลด Damage ทางกายภาพระยะใกล้ที่ได้รับ 10%, เพิ่ม Damage ทางกายภาพระยะไกลที่ได้รับ 10%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] RES + 30, MRES + 30\n[Grade C] POW, SPL, CON + 5\n[Grade B] เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 15%\n[Grade A] ลด Global Cooldown 15%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^77777720^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^77777720^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777150^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 512,
     "itemLevel": 2,
-    "attack": null,
+    "attack": 0,
     "defense": 20,
     "weight": 20,
     "requiredLevel": 150,
@@ -231802,6 +231802,30 @@
       ],
       "chance__vit": [
         "EQUIP[Astraea Armor-LT]===200"
+      ],
+      "res": [
+        "GRADE[me==D]===30"
+      ],
+      "mres": [
+        "GRADE[me==D]===30"
+      ],
+      "pow": [
+        "GRADE[me==C]===5"
+      ],
+      "spl": [
+        "GRADE[me==C]===5"
+      ],
+      "con": [
+        "GRADE[me==C]===5"
+      ],
+      "p_race_all": [
+        "GRADE[me==B]===15"
+      ],
+      "m_race_all": [
+        "GRADE[me==B]===15"
+      ],
+      "acd": [
+        "GRADE[me==A]===15"
       ]
     }
   },
@@ -282487,7 +282511,7 @@
   },
   "480908": {
     "id": 480908,
-    "aegisName": null,
+    "aegisName": "ROS2026_Cape_TH",
     "flavorText": null,
     "name": "Ragnarok Stars 2026 Cape [1]",
     "unidName": null,
@@ -296901,6 +296925,969 @@
       ],
       "m_pene_race_all": [
         "100"
+      ]
+    }
+  },
+  "420323": {
+    "id": 420323,
+    "aegisName": "CharmOfAnywhere",
+    "flavorText": null,
+    "name": "Charm of Anywhere",
+    "unidName": null,
+    "resName": "CharmOfAnywhere",
+    "unidResName": null,
+    "description": "ASPD + 10%, ASPD + 1, MATK + 3%, SPL + 3\nเมื่อโจมตีทางกายภาพระยะใกล้ มีโอกาส 10% ที่จะ Autospell สกิล From the Abyss Lv.2 (เมื่อเรียนรู้ในเลเวลที่สูงกว่า จะร่ายตามเลเวลสูงสุด)\nเมื่อโจมตีทางกายภาพระยะไกล มีโอกาส 10% ที่จะ Autospell สกิล From the Abyss Lv.2 (เมื่อเรียนรู้ในเลเวลที่สูงกว่า จะร่ายตามเลเวลสูงสุด)\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777771^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Rogue Classes^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 100,
+    "location": "Lower",
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "aspdPercent": [
+        "10"
+      ],
+      "aspd": [
+        "1"
+      ],
+      "matkPercent": [
+        "3"
+      ],
+      "spl": [
+        "3"
+      ]
+    }
+  },
+  "420328": {
+    "id": 420328,
+    "aegisName": "Ice_Seal_Rose",
+    "flavorText": null,
+    "name": "Ice Sealed Luck Equipment",
+    "unidName": null,
+    "resName": "얼어붙은땅의장미",
+    "unidResName": null,
+    "description": "เพิ่มค่าประสบการณ์เมื่อกำจัดมอนสเตอร์ 3%, เพิ่มอัตราดรอปไอเทม 3%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูธาตุ Water 20%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากศัตรูธาตุ Water 10%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777771^000000\nเลเวลที่ต้องการ : ^777777150^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 150,
+    "location": "Lower",
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "drop": [
+        "3"
+      ],
+      "p_element_water": [
+        "20"
+      ],
+      "m_element_water": [
+        "20"
+      ]
+    }
+  },
+  "420330": {
+    "id": 420330,
+    "aegisName": "Fire_Seal_Rose",
+    "flavorText": null,
+    "name": "Hot Flame Luck Equipment",
+    "unidName": null,
+    "resName": "진홍의장미",
+    "unidResName": null,
+    "description": "เพิ่มค่าประสบการณ์เมื่อกำจัดมอนสเตอร์ 3%, เพิ่มอัตราดรอปไอเทม 3%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูธาตุ Fire 20%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากศัตรูธาตุ Fire 10%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777771^000000\nเลเวลที่ต้องการ : ^777777150^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 150,
+    "location": "Lower",
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "drop": [
+        "3"
+      ],
+      "p_element_fire": [
+        "20"
+      ],
+      "m_element_fire": [
+        "20"
+      ]
+    }
+  },
+  "420331": {
+    "id": 420331,
+    "aegisName": "Undead_Seal_Rose",
+    "flavorText": null,
+    "name": "Deep Sleep Luck Equipment",
+    "unidName": null,
+    "resName": "Undead_Seal_Rose",
+    "unidResName": null,
+    "description": "เพิ่มค่าประสบการณ์เมื่อกำจัดมอนสเตอร์ 3%, เพิ่มอัตราดรอปไอเทม 3%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูธาตุ Undead 20%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากศัตรูธาตุ Undead 10%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777771^000000\nเลเวลที่ต้องการ : ^777777150^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 150,
+    "location": "Lower",
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "drop": [
+        "3"
+      ],
+      "p_element_undead": [
+        "20"
+      ],
+      "m_element_undead": [
+        "20"
+      ]
+    }
+  },
+  "420332": {
+    "id": 420332,
+    "aegisName": "Ground_Seal_Rose",
+    "flavorText": null,
+    "name": "Earth Luck Equipment",
+    "unidName": null,
+    "resName": "Ground_Seal_Rose",
+    "unidResName": null,
+    "description": "เพิ่มค่าประสบการณ์เมื่อกำจัดมอนสเตอร์ 3%, เพิ่มอัตราดรอปไอเทม 3%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูธาตุ Earth 20%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากศัตรูธาตุ Earth 10%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777771^000000\nเลเวลที่ต้องการ : ^777777150^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 10,
+    "requiredLevel": 150,
+    "location": "Lower",
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "drop": [
+        "3"
+      ],
+      "p_element_earth": [
+        "20"
+      ],
+      "m_element_earth": [
+        "20"
+      ]
+    }
+  },
+  "420597": {
+    "id": 420597,
+    "aegisName": "C_Halloween_Pumpkin",
+    "flavorText": null,
+    "name": "Costume Halloween Pumpkin",
+    "unidName": null,
+    "resName": "C_Halloween_Pumpkin",
+    "unidResName": null,
+    "description": "ฟักทองฮาโลวีนยักษ์ที่จะปรากฏขึ้นมาเมื่อกำลังนั่งพักอยู่\nรอบ ๆ ฟักทองที่สวมหมวกแม่มด มีวิสเปอร์และค้างคาวคอยเฝ้าปกป้องอยู่\n\nเพิ่มปริมาณฟื้นฟู HP ของ Pumpkin 3113%\nเพิ่ม EXP ที่ได้รับ 20%\nเพิ่มอัตรา Drop ไอเทม 20%\nเมื่อใช้งานสกิล First Aid จะเปลี่ยนร่างเป็น Drake 60 วินาที\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 9 ธันวาคม 2569)\n^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000\n^b4b4b4สามารถแลกเปลี่ยนเป็น Costume Enchant Stone Box 33 ได้^000000\n\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 521,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "drop": [
+        "20"
+      ]
+    }
+  },
+  "480604": {
+    "id": 480604,
+    "aegisName": "Mel_Wing",
+    "flavorText": null,
+    "name": "Wings of Melody [1]",
+    "unidName": null,
+    "resName": "C_Melody_Wing",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด 2 ขั้น, ATK + 15, MATK + 15, CON + 1, SPL + 1\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางกายภาพระยะไกล 7%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 7%\nเมื่ออัพเกรดถึงขั้น 7, ASPD + 15%\nเมื่ออัพเกรดถึงขั้น 9, ATK, MATK + 10%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 10%\nเมื่ออัพเกรดถึงขั้น 13,\nเมื่อใช้สกิล Drum Sound on Battlefield, P.ATK + 25, S.MATK + 25 เป็นเวลา 60 วินาที\nเพิ่ม Damage สกิล Metalic Fury 30%, เพิ่ม Damage สกิล Rose Blossom 30%\n\nเมื่อสวมใส่ร่วมกับ Awaken Pere Card,\nCON, SPL + 15,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภท Boss 50%\n\nเมื่อสวมใส่ร่วมกับ Singing Pere Card,\nเพิ่ม Damage สกิล Metalic Fury ขึ้นอีก 30%\n\nเมื่อสวมใส่ร่วมกับ Playing Pere Card,\nเพิ่ม Damage สกิล Rose Blossom ขึ้นอีก 30%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] RES, MRES + 30\n[Grade C] เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 10%\n[Grade B] เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 12%\n[Grade A] ลด Cooldown สกิล Kvasir Sonata, Skilled Special Singer 30 วินาที\nประเภท : ^777777Garment^000000  พลังป้องกัน : ^77777720^000000\nน้ำหนัก : ^777777120^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777Minstrel Classes, Wanderer Classes^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 20,
+    "weight": 120,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Minstrel",
+      "Wanderer"
+    ],
+    "script": {
+      "atk": [
+        "2---15"
+      ],
+      "matk": [
+        "2---15"
+      ],
+      "con": [
+        "2---1",
+        "EQUIP[Awaken Pere Card]===15"
+      ],
+      "spl": [
+        "2---1",
+        "EQUIP[Awaken Pere Card]===15"
+      ],
+      "range": [
+        "3---7"
+      ],
+      "m_my_element_all": [
+        "3---7"
+      ],
+      "aspdPercent": [
+        "7===15"
+      ],
+      "atkPercent": [
+        "9===10"
+      ],
+      "matkPercent": [
+        "9===10"
+      ],
+      "p_race_all": [
+        "11===10"
+      ],
+      "m_race_all": [
+        "11===10"
+      ],
+      "Metallic Fury": [
+        "13===30",
+        "EQUIP[Singing Pere Card]===30"
+      ],
+      "Rose Blossom": [
+        "13===30",
+        "EQUIP[Playing Pere Card]===30"
+      ],
+      "p_class_boss": [
+        "EQUIP[Awaken Pere Card]===50"
+      ],
+      "m_class_boss": [
+        "EQUIP[Awaken Pere Card]===50"
+      ],
+      "res": [
+        "GRADE[me==D]===30"
+      ],
+      "mres": [
+        "GRADE[me==D]===30"
+      ],
+      "p_element_all": [
+        "GRADE[me==C]===10"
+      ],
+      "m_element_all": [
+        "GRADE[me==C]===10"
+      ],
+      "p_size_all": [
+        "GRADE[me==B]===12"
+      ],
+      "m_size_all": [
+        "GRADE[me==B]===12"
+      ],
+      "chance__pAtk": [
+        "13===25"
+      ],
+      "chance__sMatk": [
+        "13===25"
+      ]
+    }
+  },
+  "401483": {
+    "id": 401483,
+    "aegisName": "ROS2026_Helm_TH",
+    "flavorText": null,
+    "name": "ROS 2026 Pheonix Glory Crown [1]",
+    "unidName": null,
+    "resName": "크림힐트의왕관",
+    "unidResName": null,
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nมงกุฎที่ระลึกฉลองการแข่งขัน Ragnarok Stars 2026\n\nATK, MATK + 15\nทุก ๆ การอัพเกรด 2 ขั้น, เพิ่มปริมาณฟื้นฟู HP/SP 20%\nเมื่ออัพเกรดถึงขั้น 7, ATK + 5%, MATK + 5%.\nเมื่ออัพเกรดถึงขั้น 9, ลดระยะเวลาร่ายแบบแปรผัน 10%,\nเมื่ออัพเกรดถึงขั้น 11, เมื่อกำจัดมอนสเตอร์มีโอกาส 0.3% ที่จะดรอปไอเทม Siege Supply Box\nเมื่ออัพเกรดถึงขั้น 13, ลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^77777710^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^77777780^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 10,
+    "weight": 80,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "15"
+      ],
+      "matk": [
+        "15"
+      ],
+      "atkPercent": [
+        "7===5"
+      ],
+      "matkPercent": [
+        "7===5"
+      ],
+      "vct": [
+        "9===10"
+      ],
+      "fct": [
+        "13===0.3"
+      ]
+    }
+  },
+  "401086": {
+    "id": 401086,
+    "aegisName": "Helm_Of_Mid_Sol_God",
+    "flavorText": null,
+    "name": "Midgard Headgear of the Sun God [1]",
+    "unidName": null,
+    "resName": "C_Helm_Of_Ra",
+    "unidResName": null,
+    "description": "MDEF + 20\nทุก ๆ การอัพเกรด 2 ขั้น ATK, MATK + 35\nทุก ๆ การอัพเกรด 3 ขั้น All Trait + 2\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 15%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%\nเมื่ออัพเกรดถึงขั้น 9, MHP + 30%\nเมื่ออัพเกรดถึงขั้น 11, P.ATK, S.MATK + 20\nเมื่ออัพเกรดถึงขั้น 13, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 15%\n\nเมื่อสวมใส่ร่วมกับ Megingjard,\nเพิ่ม Damage ทางกายภาพต่อศัตรูประเภท Boss 35%\n\nเมื่อสวมใส่ร่วมกับ Brisingamen,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูประเภท Boss 50%\n\nเมื่อสวมใส่ร่วมกับ Sleipnir,\nลดระยะเวลาร่ายแบบคงที่ 1 วินาที, \nเพิ่ม Damage ทางกายภาพ/เวทมนต์ต่อศัตรูทุกเผ่า 25%, \nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 25%,\nP.ATK, S.MATK + 25\n\nเมื่อสวมใส่ร่วมกับ Mjolnir,\nเพิ่ม Damage สกิล Spark Blaster, Triple Laser 60%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 18%\n[Grade C] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 18%\n[Grade B] ลดระยะเวลาร่ายแบบคงที่ 1 วินาที\n[Grade A] เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 18%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^777777100^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^777777350^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 100,
+    "weight": 350,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "mdef": [
+        "20"
+      ],
+      "atk": [
+        "2---35"
+      ],
+      "matk": [
+        "2---35"
+      ],
+      "allTrait": [
+        "3---2"
+      ],
+      "melee": [
+        "7===15"
+      ],
+      "range": [
+        "7===15"
+      ],
+      "m_my_element_all": [
+        "7===15"
+      ],
+      "hpPercent": [
+        "9===30"
+      ],
+      "pAtk": [
+        "11===20",
+        "EQUIP[Sleipnir]===25"
+      ],
+      "sMatk": [
+        "11===20",
+        "EQUIP[Sleipnir]===25"
+      ],
+      "p_race_all": [
+        "13===15",
+        "EQUIP[Sleipnir]===25"
+      ],
+      "m_race_all": [
+        "13===15",
+        "EQUIP[Sleipnir]===25"
+      ],
+      "p_class_boss": [
+        "EQUIP[Megingjard]===35"
+      ],
+      "m_class_boss": [
+        "EQUIP[Brisingamen]===50"
+      ],
+      "fct": [
+        "EQUIP[Sleipnir]===1",
+        "GRADE[me==B]===1"
+      ],
+      "p_element_all": [
+        "EQUIP[Sleipnir]===25"
+      ],
+      "m_element_all": [
+        "EQUIP[Sleipnir]===25",
+        "GRADE[me==C]===18"
+      ],
+      "Spark Blaster": [
+        "EQUIP[Mjolnir]===60"
+      ],
+      "Triple Laser": [
+        "EQUIP[Mjolnir]===60"
+      ],
+      "p_size_all": [
+        "GRADE[me==D]===18"
+      ],
+      "m_size_all": [
+        "GRADE[me==D]===18"
+      ],
+      "p_class_all": [
+        "GRADE[me==A]===18"
+      ],
+      "m_class_all": [
+        "GRADE[me==A]===18"
+      ]
+    }
+  },
+  "2410": {
+    "id": 2410,
+    "aegisName": "Sleipnir",
+    "flavorText": null,
+    "name": "Sleipnir",
+    "unidName": null,
+    "resName": "슬레이프니르",
+    "unidResName": null,
+    "description": "รองเท้าที่ตั้งชื่อตามม้าศึกของ Odin มันนำมาซึ่งผลที่น่ากลัวเพราะมันคือความใฝ่ฝันของนักรบทุกคนที่จะสวมใส่มัน\nMHP/MSP +20%\nความเร็วในการฟื้นฟู SP +25%\nINT + 25, MDEF + 10\nทำให้เดินเร็วตลอดเวลา\nไม่สามารถทำลายได้\nประเภท : ^777777Footwear^000000 ป้องกัน : ^77777740^000000\nน้ำหนัก : ^777777350^000000\nLv ที่ต้องการ : ^77777794^000000\nอาชีพ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 516,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 40,
+    "weight": 350,
+    "requiredLevel": 94,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "hpPercent": [
+        "20"
+      ],
+      "spPercent": [
+        "20"
+      ],
+      "int": [
+        "25"
+      ],
+      "mdef": [
+        "10"
+      ]
+    }
+  },
+  "2630": {
+    "id": 2630,
+    "aegisName": "Brysinggamen",
+    "flavorText": null,
+    "name": "Brisingamen",
+    "unidName": null,
+    "resName": "브리싱가멘",
+    "unidResName": null,
+    "description": "ครั้งหนึ่งเคยสวมใส่โดย เทพเจ้า Freyja นี่คือสร้อยมหาเทพที่เสริมสร้างคุณลักษณะและความสามารถของผู้สวมใส่ในเวลาเดียวกัน\nSTR/AGI/DEX/VIT +6. LUK/INT +10.\nMDEF +5\nเพิ่มพลังในการฟื้นฟู HP ของ Skill Heal และ Sanctuary +6%\nประเภท : ^777777Accessory^000000\nป้องกัน : ^7777771^000000 น้ำหนัก : ^777777150^000000\nLv ที่ต้องการ : ^77777794^000000\nอาชีพ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 2,
+    "itemSubTypeId": 517,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 1,
+    "weight": 150,
+    "requiredLevel": 94,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "str": [
+        "6"
+      ],
+      "agi": [
+        "6"
+      ],
+      "dex": [
+        "6"
+      ],
+      "vit": [
+        "6"
+      ],
+      "luk": [
+        "10"
+      ],
+      "int": [
+        "10"
+      ],
+      "mdef": [
+        "5"
+      ]
+    }
+  },
+  "1530": {
+    "id": 1530,
+    "aegisName": "Mjolnir",
+    "flavorText": null,
+    "name": "Mjolnir",
+    "unidName": null,
+    "resName": "묘르닐",
+    "unidResName": null,
+    "description": "นี่คือฆ้อนยักษ์ ที่เชื่อกันว่าเป็นของเทพ Thor มันจะกลับสู่ผู้ใช้เมื่อขว้างออกไป ทำลายศัตรูด้วยพลังแห่งสายฟ้า\nDEX +50\nSTR +20\nการโจมตีทางกายภาพแบบประชิดมีโอกาสสูงที่จะทำให้ร่าย Skill Level 10 Thunderstorm อัตโนมัติ\nการโจมตีทางกายภาพแบบประชิดมีโอกาสสูงที่จะสามารถความเสียหายวงกว้างเป็นเวลา 10 วินาที\nเร่ง Attack Speed แบบไม่มีขีดจำกัด\nไม่สามารถทำลายได้\nประเภท : ^777777Blunt Weapon^000000 พลังโจมตี : ^777777350^000000\nน้ำหนัก : ^777777600^000000\nอาวุธ Lv : ^7777774^000000\nLv ที่ต้องการ : ^77777795^000000\nอาชีพ : ^777777Merchant Cls/Swordman Cls^000000",
+    "slots": 0,
+    "itemTypeId": 1,
+    "itemSubTypeId": 263,
+    "itemLevel": 4,
+    "attack": 350,
+    "defense": 0,
+    "weight": 600,
+    "requiredLevel": 95,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Merchant",
+      "Swordman"
+    ],
+    "script": {
+      "dex": [
+        "50"
+      ],
+      "str": [
+        "20"
+      ]
+    }
+  },
+  "460188": {
+    "id": 460188,
+    "aegisName": "Soul_Talis_Shield",
+    "flavorText": null,
+    "name": "Soul Talisman Shield [1]",
+    "unidName": null,
+    "resName": "이뮨드쉴드",
+    "unidResName": null,
+    "description": "ASPD + 10%\nทุก ๆ การอัพเกรด 1 ขั้น, MaxHP + 100\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 4%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 7 ขึ้นไป, ASPD + 2\nเมื่อขั้นอัพเกรดตั้งแต่ 9 ขึ้นไป,  ลด Cooldown สกิล Talisman of Four Bearing God 0.1 วินาที\nเมื่อขั้นอัพเกรดตั้งแต่ 11 ขึ้นไป, เมื่อโจมตีทางเวทมนตร์ มีโอกาส 4% ที่ INT + 150 เป็นเวลา 10 วินาที แต่จะสูญเสีย HP 100, SP 100 หน่วยต่อวินาที\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป, เพิ่ม Damage สกิล Talisman of Four Bearing God 15%\n\nประเภท : ^777777Shield^000000  พลังป้องกัน : ^77777730^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777Soul Ascetic^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 30,
+    "weight": 10,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "SoulAscetic"
+    ],
+    "script": {
+      "aspdPercent": [
+        "10"
+      ],
+      "hp": [
+        "1---100"
+      ],
+      "m_my_element_all": [
+        "3---4"
+      ],
+      "aspd": [
+        "7===2"
+      ],
+      "cd__Talisman of Four Bearing God": [
+        "9===0.1"
+      ],
+      "Talisman of Four Bearing God": [
+        "12===15"
+      ],
+      "chance__int": [
+        "11===150"
+      ]
+    }
+  },
+  "460189": {
+    "id": 460189,
+    "aegisName": "Soul_Talis_Shield_LT",
+    "flavorText": null,
+    "name": "Soul Talisman Shield-LT [1]",
+    "unidName": null,
+    "resName": "이뮨드쉴드",
+    "unidResName": null,
+    "description": "ASPD + 3,\nลด Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากมอนสเตอร์ประเภททั่วไป/Boss 10%,\nทุก ๆ การอัพเกรด 1 ขั้น, MaxHP + 500,\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 8%\n\nเมื่อขั้นอัพเกรดตั้งแต่ 9 ขึ้นไป, ลด Cooldown สกิล Talisman of Four Bearing Godl 0.3 วินาที\nเมื่อขั้นอัพเกรดตั้งแต่ 11 ขึ้นไป, เมื่อโจมตีทางเวทมนตร์ มีโอกาส 4% ที่จะได้รับสถานะ [Talisman Blessing] เป็นเวลา 10 วินาที\nเมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป, เพิ่ม Damage สกิล Talisman of Four Bearing Godl 20%\n\nผลเอฟเฟกต์ [Talisman Blessing]\nSPL + 50,\nS.MATK + 10,\nสูญเสีย HP 500 หน่วยต่อวินาที\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] เพิกเฉยต่อพลังป้องกันทางเวทมนตร์ของศัตรูทุกเผ่า 30% (ยกเว้น Player)\n[Grade C] ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\n[Grade B] เพิ่มผลเอฟเฟกต์ [Talisman Blessing] SPL + 50, S.MATK + 10 เพิ่มเติม\n[Grade A] เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 20%, MATK +15%\n\nประเภท : ^777777Shield^000000  พลังป้องกัน : ^77777730^000000\nน้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777Soul Ascetic^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 30,
+    "weight": 10,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "SoulAscetic"
+    ],
+    "script": {
+      "aspd": [
+        "3"
+      ],
+      "hp": [
+        "1---500"
+      ],
+      "m_my_element_all": [
+        "3---8"
+      ],
+      "cd__Talisman of Four Bearing God": [
+        "9===0.3"
+      ],
+      "Talisman of Four Bearing God": [
+        "12===20"
+      ],
+      "m_pene_race_all": [
+        "GRADE[me==D]===30"
+      ],
+      "fct": [
+        "GRADE[me==C]===0.5"
+      ],
+      "m_size_all": [
+        "GRADE[me==A]===20"
+      ],
+      "matkPercent": [
+        "GRADE[me==A]===15"
+      ],
+      "chance__spl": [
+        "11===50",
+        "GRADE[me==B]11===50"
+      ],
+      "chance__sMatk": [
+        "11===10",
+        "GRADE[me==B]11===10"
+      ]
+    }
+  },
+  "480969": {
+    "id": 480969,
+    "aegisName": "Storm_Wings_TH",
+    "flavorText": null,
+    "name": "Green Storm Wing [1]",
+    "unidName": null,
+    "resName": "Wing_Of_Angel_Move_GR",
+    "unidResName": null,
+    "description": "ทุก ๆ การอัพเกรด 2 ขั้น, ATK + 15, CON + 1\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 5%\nเมื่ออัพเกรดถึงขั้น 7, ASPD + 15%\nเมื่ออัพเกรดถึงขั้น 9, ATK + 15%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 10%.\nเมื่ออัพเกรดถึงขั้น 13, เมื่อใช้สกิล Calamity Gale, P.ATK + 25, CON + 50, เพิ่ม Damage สกิล Gale Storm 30%, เพิ่ม Damage สกิล Crescive Bolt 30% เป็นเวลา 60 วินาที\n\nเมื่อสวมใส่ร่วมกับ Realized Amdarais Card,\nCON +15, เพิ่ม Damage ทางกายภาพต่อศัตรูประเภท Boss 50%\n\nเมื่อสวมใส่ร่วมกับ Phantom of Amdarais Card,\nCRI + 30, เพิ่ม Damage สกิล Gale Storm, Crescive Bolt ขึ้นอีก 30%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] RES, MRES + 30\n[Grade C] เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 10%\n[Grade B] เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 12%\n[Grade A] สามารถใช้งานสกิล Infiltrate Lv.5 ได้, ลด Cooldown สกิล Calamity Gale 60 วินาที\n\nประเภท : ^777777Garment^000000  พลังป้องกัน : ^77777720^000000\nน้ำหนัก : ^777777120^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777200^000000\nอาชีพที่ใส่ได้ : ^777777Windhawk^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 20,
+    "weight": 120,
+    "requiredLevel": 200,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Windhawk"
+    ],
+    "script": {
+      "atk": [
+        "2---15"
+      ],
+      "con": [
+        "2---1",
+        "EQUIP[Realized Amdarais Card]===15"
+      ],
+      "p_size_all": [
+        "3---5",
+        "GRADE[me==B]===12"
+      ],
+      "aspdPercent": [
+        "7===15"
+      ],
+      "atkPercent": [
+        "9===15"
+      ],
+      "p_race_all": [
+        "11===10"
+      ],
+      "p_class_boss": [
+        "EQUIP[Realized Amdarais Card]===50"
+      ],
+      "cri": [
+        "EQUIP[Phantom of Amdarais Card]===30"
+      ],
+      "Gale Storm": [
+        "EQUIP[Phantom of Amdarais Card]===30"
+      ],
+      "Crescive Bolt": [
+        "EQUIP[Phantom of Amdarais Card]===30"
+      ],
+      "res": [
+        "GRADE[me==D]===30"
+      ],
+      "mres": [
+        "GRADE[me==D]===30"
+      ],
+      "p_element_all": [
+        "GRADE[me==C]===10"
+      ],
+      "cd__Calamity Gale": [
+        "GRADE[me==A]===60"
+      ],
+      "chance__pAtk": [
+        "13===25(60s)"
+      ],
+      "chance__con": [
+        "13===50(60s)"
+      ],
+      "chance__Gale Storm": [
+        "13===30(60s)"
+      ],
+      "chance__Crescive Bolt": [
+        "13===30(60s)"
+      ]
+    }
+  },
+  "491107": {
+    "id": 491107,
+    "aegisName": "FuriousRing_SHC",
+    "flavorText": null,
+    "name": "Furious Ring (Shadow Cross) [1]",
+    "unidName": null,
+    "resName": "Ring_Of_Brave",
+    "unidResName": null,
+    "description": "แหวนที่สั่นพ้องกับ Furious Weapon เพื่อปลุกพลังที่หลับใหลภายใน\nATK + 100\nลด Global Cooldown 10%\nPOW + 10\nเพิ่ม Hit Damage ทางกายภาพ 10%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Furious Shape ที่มือขวา,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%, เพิ่ม Damage สกิล Shadow Stab 25%\n\nเมื่อ Furious Shape ที่มือขวามีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%, เพิ่ม Damage สกิล Shadow Stab 25%\n\nเมื่อ Furious Shape ที่มือขวามี Grade C ขึ้นไป,\nP.ATK + 10, ลด Cooldown สกิล Shadow Stab 0.5 วินาที,\nเพิ่ม Damage สกิล Shadow Stab 25%\n\nเมื่อ Furious Shape ที่มือขวา มี Grade B ขึ้นไป,\nลด Cooldown สกิล Dark Claw 30 วินาที,\nสามารถใช้งานสกิล Power Lv.4,\nทุก ๆ การเรียนรู้สกิล Dark Claw 1 เลเวล, ATK + 20, เพิ่ม Damage ทางกายภาพระยะใกล้ 5%,\nเมื่อใช้งานสกิล Cross Impact จะ Autospell สกิล Shadow Stab Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Shadow Stab มีโอกาส 30% ที่จะ Autospell สกิล Shadow Stab Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเพิ่ม Damage สกิล Shadow Stab 25%\n\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Cross^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 205,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "ShadowCross"
+    ],
+    "script": {
+      "atk": [
+        "100",
+        "EQUIP[Furious Shape]POS_SPECIFIC[weapon==Furious Shape]GRADE[weapon==B]LEARN_SKILL[Dark Claw==1]---20"
+      ],
+      "acd": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "hitDmg": [
+        "10"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Furious Shape]POS_SPECIFIC[weapon==Furious Shape]===15"
+      ],
+      "Shadow Stab": [
+        "EQUIP[Furious Shape]POS_SPECIFIC[weapon==Furious Shape]===25",
+        "EQUIP[Furious Shape]POS_SPECIFIC[weapon==Furious Shape]REFINE[weapon==10]===25",
+        "EQUIP[Furious Shape]POS_SPECIFIC[weapon==Furious Shape]GRADE[weapon==C]===25",
+        "EQUIP[Furious Shape]POS_SPECIFIC[weapon==Furious Shape]GRADE[weapon==B]===25"
+      ],
+      "p_element_all": [
+        "EQUIP[Furious Shape]POS_SPECIFIC[weapon==Furious Shape]REFINE[weapon==10]===15"
+      ],
+      "pAtk": [
+        "EQUIP[Furious Shape]POS_SPECIFIC[weapon==Furious Shape]GRADE[weapon==C]===10"
+      ],
+      "cd__Shadow Stab": [
+        "EQUIP[Furious Shape]POS_SPECIFIC[weapon==Furious Shape]GRADE[weapon==C]===0.5"
+      ],
+      "cd__Dark Claw": [
+        "EQUIP[Furious Shape]POS_SPECIFIC[weapon==Furious Shape]GRADE[weapon==B]===30"
+      ],
+      "power": [
+        "EQUIP[Furious Shape]POS_SPECIFIC[weapon==Furious Shape]GRADE[weapon==B]===80"
+      ],
+      "melee": [
+        "EQUIP[Furious Shape]POS_SPECIFIC[weapon==Furious Shape]GRADE[weapon==B]LEARN_SKILL[Dark Claw==1]---5"
+      ]
+    }
+  },
+  "491108": {
+    "id": 491108,
+    "aegisName": "FuriousRing_AG",
+    "flavorText": null,
+    "name": "Furious Ring (Arch Mage) [1]",
+    "unidName": null,
+    "resName": "Ring_Of_Brave",
+    "unidResName": null,
+    "description": "แหวนที่สั่นพ้องกับ Furious Weapon เพื่อปลุกพลังที่หลับใหลภายใน\nMATK + 100,\nลด Global Cooldown 10%,\nSPL + 10,\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Furious Specter,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%, เพิ่ม Damage สกิล Soul Vulcan Strike, Mystery Illusion 20%\n\nเมื่อ Furious Specter มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%, เพิ่ม Damage สกิล Soul Vulcan Strike, Mystery Illusion 20%\n\nเมื่อ Furious Specter มี Grade C ขึ้นไป,\nS.MATK + 10,\nลด Cooldown สกิล Soul Vulcan Strike 0.6 วินาที,\nลด Cooldown สกิล Mystery Illusion 2 วินาที, เพิ่ม Damage สกิล Soul Vulcan Strike, Mystery Illusion 20%\n\nเมื่อ Furious Specter มี Grade B ขึ้นไป,\nลด Cooldown สกิล Intensification 300 วินาที,\nสามารถใช้งานสกิล High Jump Lv.5 ได้, เพิ่ม Damage สกิล Soul Vulcan Strike, Mystery Illusion 20%\n\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Arch Mage^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 205,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "ArchMage"
+    ],
+    "script": {
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "fct": [
+        "0.5"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "m_size_all": [
+        "EQUIP[Furious Specter]===15"
+      ],
+      "Soul Vulcan Strike": [
+        "EQUIP[Furious Specter]===20",
+        "EQUIP[Furious Specter]REFINE[weapon==10]===20",
+        "EQUIP[Furious Specter]GRADE[weapon==C]===20",
+        "EQUIP[Furious Specter]GRADE[weapon==B]===20"
+      ],
+      "Mystery Illusion": [
+        "EQUIP[Furious Specter]===20",
+        "EQUIP[Furious Specter]REFINE[weapon==10]===20",
+        "EQUIP[Furious Specter]GRADE[weapon==C]===20",
+        "EQUIP[Furious Specter]GRADE[weapon==B]===20"
+      ],
+      "m_element_all": [
+        "EQUIP[Furious Specter]REFINE[weapon==10]===15"
+      ],
+      "sMatk": [
+        "EQUIP[Furious Specter]GRADE[weapon==C]===10"
+      ],
+      "cd__Soul Vulcan Strike": [
+        "EQUIP[Furious Specter]GRADE[weapon==C]===0.6"
+      ],
+      "cd__Mystery Illusion": [
+        "EQUIP[Furious Specter]GRADE[weapon==C]===2"
+      ],
+      "cd__Intensification": [
+        "EQUIP[Furious Specter]GRADE[weapon==B]===300"
+      ]
+    }
+  },
+  "491109": {
+    "id": 491109,
+    "aegisName": "FuriousRing_SS2",
+    "flavorText": null,
+    "name": "White Furious Ring (Shinkiro & Shiranui) [1]",
+    "unidName": null,
+    "resName": "루파크의반지",
+    "unidResName": null,
+    "description": "แหวนที่สั่นพ้องกับ Furious Weapon เพื่อปลุกพลังที่หลับใหลภายใน\nATK + 100\nลด Global Cooldown 10%\nPOW + 10\nเพิ่ม Hit Damage ทางกายภาพ 10%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Furious Huuma Shuriken,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%, เพิ่ม Damage สกิล Kunai - Rotation 25%\n\nเมื่อ Furious Huuma Shuriken มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%, เพิ่ม Damage สกิล Kunai - Rotation 25%\n\nเมื่อ Furious Huuma Shuriken มี Grade C ขึ้นไป,\nP.ATK + 10, ลด Cooldown สกิล Kunai - Rotation 1.7 วินาที,\nเพิ่ม Damage สกิล Kunai - Rotation 25%\n\nเมื่อ Furious Huuma Shuriken มี Grade B ขึ้นไป,\nสามารถใช้งานสกิล Power Lv.4 ได้,\nเมื่อใช้งานสกิล Infiltrate จะ Autospell สกิล Kunai - Rotation Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Kunai - Rotation มีโอกาส 30% ที่จะ Autospell สกิล Kunai - Rotation Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเพิ่ม Damage สกิล Kunai - Rotation 25%\n\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Shinkiro, Shiranui^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 205,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Shinkiro",
+      "Shiranui"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "pow": [
+        "10"
+      ],
+      "hitDmg": [
+        "10"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Furious Huuma Shuriken]===15"
+      ],
+      "Kunai - Rotation": [
+        "EQUIP[Furious Huuma Shuriken]===25",
+        "EQUIP[Furious Huuma Shuriken]REFINE[weapon==10]===25",
+        "EQUIP[Furious Huuma Shuriken]GRADE[weapon==C]===25",
+        "EQUIP[Furious Huuma Shuriken]GRADE[weapon==B]===25"
+      ],
+      "p_element_all": [
+        "EQUIP[Furious Huuma Shuriken]REFINE[weapon==10]===15"
+      ],
+      "pAtk": [
+        "EQUIP[Furious Huuma Shuriken]GRADE[weapon==C]===10"
+      ],
+      "cd__Kunai - Rotation": [
+        "EQUIP[Furious Huuma Shuriken]GRADE[weapon==C]===1.7"
+      ],
+      "power": [
+        "EQUIP[Furious Huuma Shuriken]GRADE[weapon==B]===80"
       ]
     }
   }
