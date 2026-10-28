@@ -284535,41 +284535,6 @@
       ]
     }
   },
-  "480608": {
-    "id": 480608,
-    "aegisName": "C_S_Beelzebub_Wing",
-    "flavorText": null,
-    "name": "Costume Beelzebub's Wings",
-    "unidName": null,
-    "resName": "C_S_Beelzebub_Wing",
-    "unidResName": null,
-    "description": "ลดระยะเวลาร่ายแบบแปรผัน 100%\nASPD + 20%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูธาตุ Poison 50%\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 7 ตุลาคม 2569)\n^ffffff^4D4DFF[Designer Heidam]^000000^000000\n^b4b4b4สามารถแลกเปลี่ยนเป็น Costume Enchant Stone Box 33 ได้^000000\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 522,
-    "itemLevel": null,
-    "attack": null,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "canGrade": false,
-    "script": {
-      "vct": [
-        "100"
-      ],
-      "aspdPercent": [
-        "20"
-      ],
-      "p_element_poison": [
-        "50"
-      ],
-      "m_element_poison": [
-        "50"
-      ]
-    }
-  },
   "9038": {
     "id": 9038,
     "aegisName": "New_Year_Doll_Egg",
@@ -292587,56 +292552,6 @@
       ]
     }
   },
-  "401458": {
-    "id": 401458,
-    "aegisName": null,
-    "flavorText": null,
-    "name": "Costume Toad Cap (Brown)",
-    "unidName": null,
-    "resName": "C_Toad_Cap",
-    "unidResName": null,
-    "description": "A festival costume that can be used to quickly repair a water jar that breaks at the worst possible time.\nI once read a storybook about why it was shaped like a toad when I was young.\n^ffffff_^000000\n^CC3D3D[Event-Exclusive Option]^000000\nATK + 40, MATK + 40.\nCRI + 10, variable cast time -10%.\nEXP gained from monster hunting + 15%.\nPhysical/Magic damage dealt to monsters of all races + 10% (excluding players).\nPhysical/Magic damage dealt to enemies of all sizes + 10%.\n^ff0000(Event-exclusive options will be removed when the event ends.)^000000\nClass : ^777777Costume Equipment^000000 Defense : ^7777770^000000\nLocation : ^777777Upper^000000 Weight : ^7777770^000000\nRequired Level : ^7777771^000000\nJobs : ^777777All Classes^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 519,
-    "itemLevel": null,
-    "attack": 0,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "canGrade": false,
-    "usableClass": [
-      "all"
-    ],
-    "script": {
-      "atk": [
-        "40"
-      ],
-      "matk": [
-        "40"
-      ],
-      "cri": [
-        "10"
-      ],
-      "vct": [
-        "10"
-      ],
-      "p_race_all": [
-        "10"
-      ],
-      "m_race_all": [
-        "10"
-      ],
-      "p_size_all": [
-        "10"
-      ],
-      "m_size_all": [
-        "10"
-      ]
-    }
-  },
   "401523": {
     "id": 401523,
     "aegisName": "26_9_Circlet_SHC",
@@ -293057,56 +292972,6 @@
     "compositionPos": 769,
     "canGrade": false,
     "script": {}
-  },
-  "400717": {
-    "id": 400717,
-    "aegisName": null,
-    "flavorText": null,
-    "name": "Costume Yakgwa Headband",
-    "unidName": null,
-    "resName": "C_Yakgwa_Hairband",
-    "unidResName": null,
-    "description": "ที่คาดผมเทศกาลแบบใหม่ ดัดแปลงมาจากที่คาดผมแบบดั้งเดิม\n^ffffff_^000000\n^CC3D3D[เอฟเฟกต์ช่วงระยะเวลากิจกรรม]^000000\nATK + 40, MATK + 40\nCRI + 10, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 15%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อมอนสเตอร์ทุกเผ่า 10% (ยกเว้น Player)\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%\n^ff0000(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังสิ้นสุดระยะเวลากิจกรรม)^000000\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 519,
-    "itemLevel": null,
-    "attack": 0,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "canGrade": false,
-    "usableClass": [
-      "all"
-    ],
-    "script": {
-      "atk": [
-        "40"
-      ],
-      "matk": [
-        "40"
-      ],
-      "cri": [
-        "10"
-      ],
-      "vct": [
-        "10"
-      ],
-      "p_race_all": [
-        "10"
-      ],
-      "m_race_all": [
-        "10"
-      ],
-      "p_size_all": [
-        "10"
-      ],
-      "m_size_all": [
-        "10"
-      ]
-    }
   },
   "410719": {
     "id": 410719,
@@ -293614,56 +293479,6 @@
       ],
       "drop": [
         "7"
-      ]
-    }
-  },
-  "401367": {
-    "id": 401367,
-    "aegisName": "C_CLB_BS_head",
-    "flavorText": null,
-    "name": "Costume Baby Shark Mascot Head (Event)",
-    "unidName": null,
-    "resName": "C_CLB_BS_head",
-    "unidResName": null,
-    "description": "Pinkfong Baby Shark Collaboration\n \nหมวกมาสคอตที่ออกแบบเลียนแบบรูปลักษณ์ของ Baby Shark ที่สวมใส่บนศีรษะ\n^ffffff_^000000\n^CC3D3D[ความสามารถช่วงเวลากิจกรรม]^000000\nATK + 50, MATK + 50\nCRI + 10, ลดระยะเวลาร่ายแบบแปรผัน 10%\nเพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 5%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ/ทุกขนาด 10%\n^ff0000(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 7 ตุลาคม 2569)^000000\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^7777770^000000\nเลเวล Armor : ^7777771^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
-    "slots": 0,
-    "itemTypeId": 9,
-    "itemSubTypeId": 519,
-    "itemLevel": null,
-    "attack": 0,
-    "defense": 0,
-    "weight": 0,
-    "requiredLevel": 1,
-    "location": null,
-    "compositionPos": null,
-    "canGrade": false,
-    "usableClass": [
-      "all"
-    ],
-    "script": {
-      "atk": [
-        "50"
-      ],
-      "matk": [
-        "50"
-      ],
-      "cri": [
-        "10"
-      ],
-      "vct": [
-        "10"
-      ],
-      "p_element_all": [
-        "10"
-      ],
-      "m_element_all": [
-        "10"
-      ],
-      "p_size_all": [
-        "10"
-      ],
-      "m_size_all": [
-        "10"
       ]
     }
   },
@@ -296714,6 +296529,39 @@
       ]
     }
   },
+  "108453": {
+    "id": 108453,
+    "aegisName": "Evt_Festa_Potion",
+    "flavorText": null,
+    "name": "[Event] Ragnarok Festa Potion",
+    "unidName": null,
+    "resName": "Evt_SP_Potion_4",
+    "unidResName": null,
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นอื่นได้^000000\nของที่ระลึกจากงาน Ragnarok Festa 2026 ที่บรรจุน้ำทะเลสีฟ้าใสเอาไว้\nหลังผ่านการเสริมพลังจากสตรีศักดิ์สิทธิ์แห่ง Midgard ก็สามารถกดใช้งานได้ไม่จำกัดเพื่อรับพรสุดพิเศษ\n\nเมื่อใช้งานจะได้รับเอฟเฟกต์เป็นเวลา 30 นาทีดังนี้\nเพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 30%,\nลดระยะเวลาร่ายแบบแปรผัน 100%,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 20%\n(ผลเอฟเฟกต์จะหายไปเมื่อตัวละครอยู่ในสถานะไม่สามารถต่อสู้ได้)\n\n(ไอเท็มนี้จะถูกลบหลังจากปิดปรับปรุงเซิร์ฟเวอร์วันที่ 6 มกราคม 2570)\n\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 3333,
+    "itemSubTypeId": 768,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [],
+    "script": {
+      "vct": [
+        "100"
+      ],
+      "p_size_all": [
+        "20"
+      ],
+      "m_size_all": [
+        "20"
+      ]
+    }
+  },
   "300995": {
     "id": 300995,
     "aegisName": null,
@@ -299710,6 +299558,922 @@
       ],
       "atkPercent": [
         "GRADE[me==D]===5"
+      ]
+    }
+  },
+  "20113": {
+    "id": 20113,
+    "aegisName": "C_Star_Reading_Hat",
+    "flavorText": null,
+    "name": "Costume Stargazer's Hat",
+    "unidName": null,
+    "resName": "점성술사의모자",
+    "unidResName": null,
+    "description": "^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\nหมวกที่เล่าขานกันว่าเป็นหมวกคู่ใจของเหล่ากะลาสี\nโดดเด่นด้วยเครื่องประดับรูปเข็มทิศซึ่งได้รับแรงบันดาลใจจากดาวเหนือ ดาวนำทางของนักเดินเรือ\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อมอนสเตอร์ทุกขนาด 15%,\nเพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 15%, เพิ่มอัตราดรอปไอเทม 15%,\nสามารถใช้งานสกิล Overcharge Lv.10 ได้,\nเพิ่มอัตราฟื้นฟูของ Delicious Fish 1000%\n\nหากมีการเรียนรู้สกิล Overcharge Lv.10 อยู่แล้ว, ทุก ๆ การเรียนรู้ 1 เลเวล ATK/MATK + 5\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 13 มกราคม 2570)\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "p_size_all": [
+        "15"
+      ],
+      "m_size_all": [
+        "15"
+      ],
+      "drop": [
+        "15"
+      ],
+      "atk": [
+        "LEARN_SKILL[Overcharge==10]===50"
+      ],
+      "matk": [
+        "LEARN_SKILL[Overcharge==10]===50"
+      ]
+    }
+  },
+  "315929": {
+    "id": 315929,
+    "aegisName": "Festa_Sup_Tri",
+    "flavorText": null,
+    "name": "Ragnarok Festa Supreme (Triple)",
+    "unidName": null,
+    "resName": "Heros_Diamond_2",
+    "unidResName": null,
+    "description": "All Status + 10,\nATK, MATK + 50,\nASPD + 10%,\nลดระยะเวลาร่ายแบบแปรผัน 10%,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%\n\nเมื่อสวมใส่ร่วมกับ Ragnarok Festa Supreme (Upper),\nAll Trait + 10,\nP.ATK, S.MATK + 10,\nลด Global Cooldown 10%,\nMHP, MSP + 10%,\nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%,\nMATK + 10%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 78,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "allStatus": [
+        "10"
+      ],
+      "atk": [
+        "50"
+      ],
+      "matk": [
+        "50"
+      ],
+      "aspdPercent": [
+        "10"
+      ],
+      "vct": [
+        "10"
+      ],
+      "p_size_all": [
+        "10"
+      ],
+      "m_size_all": [
+        "10"
+      ],
+      "allTrait": [
+        "EQUIP[Ragnarok Festa Supreme (Upper)]===10"
+      ],
+      "pAtk": [
+        "EQUIP[Ragnarok Festa Supreme (Upper)]===10"
+      ],
+      "sMatk": [
+        "EQUIP[Ragnarok Festa Supreme (Upper)]===10"
+      ],
+      "acd": [
+        "EQUIP[Ragnarok Festa Supreme (Upper)]===10"
+      ],
+      "hpPercent": [
+        "EQUIP[Ragnarok Festa Supreme (Upper)]===10"
+      ],
+      "spPercent": [
+        "EQUIP[Ragnarok Festa Supreme (Upper)]===10"
+      ],
+      "melee": [
+        "EQUIP[Ragnarok Festa Supreme (Upper)]===10"
+      ],
+      "range": [
+        "EQUIP[Ragnarok Festa Supreme (Upper)]===10"
+      ],
+      "matkPercent": [
+        "EQUIP[Ragnarok Festa Supreme (Upper)]===10"
+      ]
+    }
+  },
+  "315930": {
+    "id": 315930,
+    "aegisName": "Festa_STR_Tri",
+    "flavorText": null,
+    "name": "Ragnarok Festa STR (Triple)",
+    "unidName": null,
+    "resName": "md_geffen_ruby3",
+    "unidResName": null,
+    "description": "STR + 10,\nATK, MATK + 25,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 5%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 5%\n\nเมื่อสวมใส่ร่วมกับ Ragnarok Festa POW (Upper),\nPOW + 5,\nP.ATK + 5,\nลด Global Cooldown 5%,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 5%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 78,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "str": [
+        "10"
+      ],
+      "atk": [
+        "25"
+      ],
+      "matk": [
+        "25"
+      ],
+      "p_size_all": [
+        "5"
+      ],
+      "m_size_all": [
+        "5"
+      ],
+      "melee": [
+        "5",
+        "EQUIP[Ragnarok Festa POW (Upper)]===5"
+      ],
+      "pow": [
+        "EQUIP[Ragnarok Festa POW (Upper)]===5"
+      ],
+      "pAtk": [
+        "EQUIP[Ragnarok Festa POW (Upper)]===5"
+      ],
+      "acd": [
+        "EQUIP[Ragnarok Festa POW (Upper)]===5"
+      ]
+    }
+  },
+  "315931": {
+    "id": 315931,
+    "aegisName": "Festa_AGI_Tri",
+    "flavorText": null,
+    "name": "Ragnarok Festa AGI (Triple)",
+    "unidName": null,
+    "resName": "md_geffen_saph3",
+    "unidResName": null,
+    "description": "AGI + 10,\nATK, MATK + 25,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 5%,\nASPD + 5%\n\nเมื่อสวมใส่ร่วมกับ Ragnarok Festa STA (Upper),\nSTA + 5,\nP.ATK, S.MATK + 5,\nลด Global Cooldown 5%,\nRES + 10, MHP + 5%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 78,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "agi": [
+        "10"
+      ],
+      "atk": [
+        "25"
+      ],
+      "matk": [
+        "25"
+      ],
+      "p_size_all": [
+        "5"
+      ],
+      "m_size_all": [
+        "5"
+      ],
+      "aspdPercent": [
+        "5"
+      ],
+      "sta": [
+        "EQUIP[Ragnarok Festa STA (Upper)]===5"
+      ],
+      "pAtk": [
+        "EQUIP[Ragnarok Festa STA (Upper)]===5"
+      ],
+      "sMatk": [
+        "EQUIP[Ragnarok Festa STA (Upper)]===5"
+      ],
+      "acd": [
+        "EQUIP[Ragnarok Festa STA (Upper)]===5"
+      ],
+      "res": [
+        "EQUIP[Ragnarok Festa STA (Upper)]===10"
+      ],
+      "hpPercent": [
+        "EQUIP[Ragnarok Festa STA (Upper)]===5"
+      ]
+    }
+  },
+  "315932": {
+    "id": 315932,
+    "aegisName": "Festa_VIT_Tri",
+    "flavorText": null,
+    "name": "Ragnarok Festa VIT (Triple)",
+    "unidName": null,
+    "resName": "md_geffen_amet3",
+    "unidResName": null,
+    "description": "VIT + 10,\nATK, MATK + 25,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 5%,\nMHP + 5%\n\nเมื่อสวมใส่ร่วมกับ Ragnarok Festa WIS (Upper),\nWIS + 5,\nP.ATK, S.MATK + 5,\nลด Global Cooldown 5%,\nMRES + 10, MSP + 5%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 78,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "vit": [
+        "10"
+      ],
+      "atk": [
+        "25"
+      ],
+      "matk": [
+        "25"
+      ],
+      "p_size_all": [
+        "5"
+      ],
+      "m_size_all": [
+        "5"
+      ],
+      "hpPercent": [
+        "5"
+      ],
+      "wis": [
+        "EQUIP[Ragnarok Festa WIS (Upper)]===5"
+      ],
+      "pAtk": [
+        "EQUIP[Ragnarok Festa WIS (Upper)]===5"
+      ],
+      "sMatk": [
+        "EQUIP[Ragnarok Festa WIS (Upper)]===5"
+      ],
+      "acd": [
+        "EQUIP[Ragnarok Festa WIS (Upper)]===5"
+      ],
+      "mres": [
+        "EQUIP[Ragnarok Festa WIS (Upper)]===10"
+      ],
+      "spPercent": [
+        "EQUIP[Ragnarok Festa WIS (Upper)]===5"
+      ]
+    }
+  },
+  "315933": {
+    "id": 315933,
+    "aegisName": "Festa_INT_Tri",
+    "flavorText": null,
+    "name": "Ragnarok Festa INT (Triple)",
+    "unidName": null,
+    "resName": "md_geffen_amet3",
+    "unidResName": null,
+    "description": "INT + 10,\nATK, MATK + 25,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 5%,\nMATK + 5%\n\nเมื่อสวมใส่ร่วมกับ Ragnarok Festa SPL (Upper),\nSPL + 5,\nS.MATK +5,\nลด Global Cooldown 5%,\nMATK + 5%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 78,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "int": [
+        "10"
+      ],
+      "atk": [
+        "25"
+      ],
+      "matk": [
+        "25"
+      ],
+      "p_size_all": [
+        "5"
+      ],
+      "m_size_all": [
+        "5"
+      ],
+      "matkPercent": [
+        "5",
+        "EQUIP[Ragnarok Festa SPL (Upper)]===5"
+      ],
+      "spl": [
+        "EQUIP[Ragnarok Festa SPL (Upper)]===5"
+      ],
+      "sMatk": [
+        "EQUIP[Ragnarok Festa SPL (Upper)]===5"
+      ],
+      "acd": [
+        "EQUIP[Ragnarok Festa SPL (Upper)]===5"
+      ]
+    }
+  },
+  "315934": {
+    "id": 315934,
+    "aegisName": "Festa_DEX_Tri",
+    "flavorText": null,
+    "name": "Ragnarok Festa DEX (Triple)",
+    "unidName": null,
+    "resName": "md_geffen_jade3",
+    "unidResName": null,
+    "description": "DEX + 10,\nATK, MATK + 25,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 5%,\nเพิ่ม Damage ทางกายภาพระยะไกล 5%\n\nเมื่อสวมใส่ร่วมกับ Ragnarok Festa CON (Upper),\nCON + 5,\nP.ATK + 5,\nลด Global Cooldown 5%,\nเพิ่ม Damage ทางกายภาพระยะไกล 5%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 78,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "dex": [
+        "10"
+      ],
+      "atk": [
+        "25"
+      ],
+      "matk": [
+        "25"
+      ],
+      "p_size_all": [
+        "5"
+      ],
+      "m_size_all": [
+        "5"
+      ],
+      "range": [
+        "5",
+        "EQUIP[Ragnarok Festa CON (Upper)]===5"
+      ],
+      "con": [
+        "EQUIP[Ragnarok Festa CON (Upper)]===5"
+      ],
+      "pAtk": [
+        "EQUIP[Ragnarok Festa CON (Upper)]===5"
+      ],
+      "acd": [
+        "EQUIP[Ragnarok Festa CON (Upper)]===5"
+      ]
+    }
+  },
+  "315935": {
+    "id": 315935,
+    "aegisName": "Festa_LUK_Tri",
+    "flavorText": null,
+    "name": "Ragnarok Festa LUK (Triple)",
+    "unidName": null,
+    "resName": "MD_Geffen_Rsheild",
+    "unidResName": null,
+    "description": "LUK + 10,\nATK, MATK + 25,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 5%,\nCRI + 10\n\nเมื่อสวมใส่ร่วมกับ Ragnarok Festa CRT (Upper),,\nCRT + 5,\nP.ATK + 5,\nลด Global Cooldown 5%,\nCritical Damage + 10%",
+    "slots": 0,
+    "itemTypeId": 11,
+    "itemSubTypeId": 78,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "luk": [
+        "10"
+      ],
+      "atk": [
+        "25"
+      ],
+      "matk": [
+        "25"
+      ],
+      "p_size_all": [
+        "5"
+      ],
+      "m_size_all": [
+        "5"
+      ],
+      "cri": [
+        "10"
+      ],
+      "crt": [
+        "EQUIP[Ragnarok Festa CRT (Upper)]===5"
+      ],
+      "pAtk": [
+        "EQUIP[Ragnarok Festa CRT (Upper)]===5"
+      ],
+      "acd": [
+        "EQUIP[Ragnarok Festa CRT (Upper)]===5"
+      ],
+      "criDmg": [
+        "EQUIP[Ragnarok Festa CRT (Upper)]===10"
+      ]
+    }
+  },
+  "410665": {
+    "id": 410665,
+    "aegisName": "C_Nf_Stamp",
+    "flavorText": null,
+    "name": "Costume Cons of Emoji",
+    "unidName": null,
+    "resName": "C_Nf_Stamp",
+    "unidResName": null,
+    "description": "ATK + 40, MATK + 40\nMHP + 5%, MSP + 5%\nHIT + 25, CRI + 5\nลด Global Cooldown 3%\nเพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 20%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อมอนสเตอร์ทุกเผ่า 10% (ยกเว้น Player)\nเพิ่ม Hit Damage ทางกายภาพ 10%, Critical Damage + 10%\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\n^ff0000(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 6 มกราคม 2570)^000000\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 520,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "40"
+      ],
+      "matk": [
+        "40"
+      ],
+      "hpPercent": [
+        "5"
+      ],
+      "spPercent": [
+        "5"
+      ],
+      "hit": [
+        "25"
+      ],
+      "cri": [
+        "5"
+      ],
+      "acd": [
+        "3"
+      ],
+      "p_race_all": [
+        "10"
+      ],
+      "m_race_all": [
+        "10"
+      ],
+      "hitDmg": [
+        "10"
+      ],
+      "criDmg": [
+        "10"
+      ],
+      "m_my_element_all": [
+        "10"
+      ]
+    }
+  },
+  "480993": {
+    "id": 480993,
+    "aegisName": "Scarlet_Hero_Manteau_LT",
+    "flavorText": null,
+    "name": "Scarlet Hero Manteau-LT [1]",
+    "unidName": null,
+    "resName": "Commander_manteau_J",
+    "unidResName": null,
+    "description": "ผ้าคลุมสีชาดที่ว่ากันว่าไม่ได้มีสีเช่นนี้ตั้งแต่แรก แต่ตำนานของผู้นั้นซึ่งย้อมผ้าคลุมตัวนี้ด้วยเลือดศัตรูจากทั่วทุกสมรภูมิจนผู้นั้นได้รับการขนานนามว่าเป็นอัศวินสีชาด\nสามารถใช้สกิล Bowling Bash Lv.10 ได้\nATK + 100\nทุก ๆ การอัพเกรด 2 ขั้น, ATK + 25\nทุก ๆ การอัพเกรด 4 ขั้น, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%\nเมื่ออัพเกรดถึงขั้น 7, ASPD + 15%, ATK + 15%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพระยะใกล้ 30%\nเมื่ออัพเกรดถึงขั้น 11, ทุก ๆ Base Lv.1 เพิ่ม Damage สกิล Ignition Break 2%, เพิ่ม Damage สกิล Bowling Bash 4%, ลด Cooldown สกิล Bowling Bash 1 วินาที, ลด Cooldown สกิล Ignition Break 1 วินาที\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] POW+ 10, CRI + 30\n[Grade C] P.ATK + 10, MaxHP + 15%\n[Grade B] ทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 4%\n[Grade A] เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 15%\n\nประเภท : ^777777Garment^000000  พลังป้องกัน : ^77777760^000000\nน้ำหนัก : ^77777790^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777Swordsman Class^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 515,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 60,
+    "weight": 90,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Swordman"
+    ],
+    "script": {
+      "atk": [
+        "100",
+        "2---25"
+      ],
+      "p_size_all": [
+        "4---10",
+        "GRADE[me==B]3---4"
+      ],
+      "m_size_all": [
+        "GRADE[me==B]3---4"
+      ],
+      "aspdPercent": [
+        "7===15"
+      ],
+      "atkPercent": [
+        "7===15"
+      ],
+      "melee": [
+        "9===30"
+      ],
+      "Ignition Break": [
+        "REFINE[11]level:1---2"
+      ],
+      "Bowling Bash": [
+        "REFINE[11]level:1---4"
+      ],
+      "cd__Bowling Bash": [
+        "11===1"
+      ],
+      "cd__Ignition Break": [
+        "11===1"
+      ],
+      "pow": [
+        "GRADE[me==D]===10"
+      ],
+      "cri": [
+        "GRADE[me==D]===30"
+      ],
+      "pAtk": [
+        "GRADE[me==C]===10"
+      ],
+      "hpPercent": [
+        "GRADE[me==C]===15"
+      ],
+      "p_race_all": [
+        "GRADE[me==A]===15"
+      ],
+      "m_race_all": [
+        "GRADE[me==A]===15"
+      ]
+    }
+  },
+  "491130": {
+    "id": 491130,
+    "aegisName": "FuriousRing_IQ2",
+    "flavorText": null,
+    "name": "White Furious Ring (Inquisitor) [1]",
+    "unidName": null,
+    "resName": "루파크의반지",
+    "unidResName": null,
+    "description": "แหวนที่สั่นพ้องกับ Furious Weapon เพื่อปลุกพลังที่หลับใหลภายใน\nATK + 100\nลด Global Cooldown 10%\nPOW + 10\nCRI + 15\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Furious Gale Claw,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%, เพิ่ม Damage สกิล Explosion Blaster, Massive Flame Blaster 20%\n\nเมื่อ Furious Gale Claw มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%, เพิ่ม Damage สกิล Explosion Blaster, Massive Flame Blaster 20%\n\nเมื่อ Furious Gale Claw มี Grade C ขึ้นไป,\nP.ATK + 10, ลด Cooldown สกิล Explosion Blaster 0.35 วินาที, ลด Cooldown สกิล Massive Flame Blaster 1 วินาที,\nเพิ่ม Damage สกิล Explosion Blaster, Massive Flame Blaster 20%\n\nเมื่อ Furious Gale Claw มี Grade B ขึ้นไป,\nเพิ่ม Damage ทางกายภาพระยะไกล 30%,\nลด Global Cooldown 20%,\nเมื่อใช้งานสกิล Oleum Sanctum จะ Autospell สกิล Explosion Blaster Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเมื่อใช้งานสกิล Explosion Blaster มีโอกาส 40% ที่จะ Autospell  สกิล Massive Flame Blaster Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),\nเพิ่ม Damage สกิล Explosion Blaster, Massive Flame Blaster 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Inquisitor^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 205,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Inquisitor"
+    ],
+    "script": {
+      "atk": [
+        "100"
+      ],
+      "acd": [
+        "10",
+        "EQUIP[Furious Gale Claw]GRADE[weapon==B]===20"
+      ],
+      "pow": [
+        "10"
+      ],
+      "cri": [
+        "15"
+      ],
+      "p_class_all": [
+        "15"
+      ],
+      "p_size_all": [
+        "EQUIP[Furious Gale Claw]===15"
+      ],
+      "p_element_all": [
+        "EQUIP[Furious Gale Claw]REFINE[weapon==10]===15"
+      ],
+      "pAtk": [
+        "EQUIP[Furious Gale Claw]GRADE[weapon==C]===10"
+      ],
+      "Explosion Blaster": [
+        "EQUIP[Furious Gale Claw]===20",
+        "EQUIP[Furious Gale Claw]REFINE[weapon==10]===20",
+        "EQUIP[Furious Gale Claw]GRADE[weapon==C]===20",
+        "EQUIP[Furious Gale Claw]GRADE[weapon==B]===20"
+      ],
+      "Massive Flame Blaster": [
+        "EQUIP[Furious Gale Claw]===20",
+        "EQUIP[Furious Gale Claw]REFINE[weapon==10]===20",
+        "EQUIP[Furious Gale Claw]GRADE[weapon==C]===20",
+        "EQUIP[Furious Gale Claw]GRADE[weapon==B]===20"
+      ],
+      "cd__Explosion Blaster": [
+        "EQUIP[Furious Gale Claw]GRADE[weapon==C]===0.35"
+      ],
+      "cd__Massive Flame Blaster": [
+        "EQUIP[Furious Gale Claw]GRADE[weapon==C]===1"
+      ],
+      "range": [
+        "EQUIP[Furious Gale Claw]GRADE[weapon==B]===30"
+      ]
+    }
+  },
+  "491131": {
+    "id": 491131,
+    "aegisName": "FuriousRing_AG2",
+    "flavorText": null,
+    "name": "White Furious Ring (Arch Mage) [1]",
+    "unidName": null,
+    "resName": "루파크의반지",
+    "unidResName": null,
+    "description": "แหวนที่สั่นพ้องกับ Furious Weapon เพื่อปลุกพลังที่หลับใหลภายใน\nMATK + 100\nลด Global Cooldown 10%\nSPL + 10\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Furious Flame Staff,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%, เพิ่ม Damage สกิล Violent Quake, All Bloom 25%\n\nเมื่อ Furious Flame Staff มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%, เพิ่ม Damage สกิล Violent Quake, All Bloom 25%\n\nเมื่อ Furious Flame Staff มี Grade C ขึ้นไป,\nS.MATK + 10, ลด Cooldown สกิล Violent Quake 2.8 วินาที, ลด Cooldown สกิล All Bloom 2.8 วินาที,\nเพิ่ม Damage สกิล Violent Quake, All Bloom 25%\n\nเมื่อ Furious Flame Staff มี Grade B ขึ้นไป,\nสามารถใช้งานสกิล High Jump Lv.5 ได้,\nลด Cooldown สกิล Violent Quake 2.8 วินาที, ลด Cooldown สกิล All Bloom 2.8 วินาที,\nเมื่อโจมตีทางเวทมนตร์ มีโอกาส 3% ที่จะ S.MATK + 50, SPL + 100, เพิ่ม Damage สกิล Violent Quake 100% เป็นเวลา 10 วินาที,\nเพิ่ม Damage สกิล Violent Quake, All Bloom 25%\n\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Arch Mage^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 205,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "ArchMage"
+    ],
+    "script": {
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "fct": [
+        "0.5"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "m_size_all": [
+        "EQUIP[Furious Flame Staff]===15"
+      ],
+      "m_element_all": [
+        "EQUIP[Furious Flame Staff]REFINE[weapon==10]===15"
+      ],
+      "sMatk": [
+        "EQUIP[Furious Flame Staff]GRADE[weapon==C]===10"
+      ],
+      "Violent Quake": [
+        "EQUIP[Furious Flame Staff]===25",
+        "EQUIP[Furious Flame Staff]REFINE[weapon==10]===25",
+        "EQUIP[Furious Flame Staff]GRADE[weapon==C]===25",
+        "EQUIP[Furious Flame Staff]GRADE[weapon==B]===25"
+      ],
+      "All Bloom": [
+        "EQUIP[Furious Flame Staff]===25",
+        "EQUIP[Furious Flame Staff]REFINE[weapon==10]===25",
+        "EQUIP[Furious Flame Staff]GRADE[weapon==C]===25",
+        "EQUIP[Furious Flame Staff]GRADE[weapon==B]===25"
+      ],
+      "cd__Violent Quake": [
+        "EQUIP[Furious Flame Staff]GRADE[weapon==C]===2.8",
+        "EQUIP[Furious Flame Staff]GRADE[weapon==B]===2.8"
+      ],
+      "cd__All Bloom": [
+        "EQUIP[Furious Flame Staff]GRADE[weapon==C]===2.8",
+        "EQUIP[Furious Flame Staff]GRADE[weapon==B]===2.8"
+      ],
+      "chance__sMatk": [
+        "EQUIP[Furious Flame Staff]GRADE[weapon==B]===50"
+      ],
+      "chance__spl": [
+        "EQUIP[Furious Flame Staff]GRADE[weapon==B]===100"
+      ],
+      "chance__Violent Quake": [
+        "EQUIP[Furious Flame Staff]GRADE[weapon==B]===100"
+      ]
+    }
+  },
+  "491132": {
+    "id": 491132,
+    "aegisName": "FuriousRing_SS",
+    "flavorText": null,
+    "name": "Furious Ring (Shinkiro & Shiranui) [1]",
+    "unidName": null,
+    "resName": "Ring_Of_Brave",
+    "unidResName": null,
+    "description": "แหวนที่สั่นพ้องกับ Furious Weapon เพื่อปลุกพลังที่หลับใหลภายใน\nMATK + 100\nลด Global Cooldown 10%\nSPL + 10\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Furious Wheel Shuriken,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Cold Blooded Cannon, Golden Dragon Cannon 25%\n\nเมื่อ Furious Wheel Shuriken มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Cold Blooded Cannon, Golden Dragon Cannon 25%\n\nเมื่อ Furious Wheel Shuriken มี Grade C ขึ้นไป,\nS.MATK + 10,\nลด Cooldown สกิล Cold Blooded Cannon 0.5 วินาที,\nลด Cooldown สกิล Golden Dragon Cannon 0.3 วินาที,\nเพิ่ม Damage สกิล Cold Blooded Cannon, Golden Dragon Cannon 25%\n\nเมื่อ Furious Wheel Shuriken มี Grade B ขึ้นไป,\nเมื่อใช้งานสกิล Golden Dragon Cannon มีโอกาส 40% ที่จะ Autospell สกิล Violent Quake Lv.5,\nเมื่อโจมตีทางเวทมนตร์ มีโอกาส 3% ที่จะ S.MATK + 50, SPL + 100, เพิ่ม Damage สกิล Violent Quake 100% เป็นเวลา 10 วินาที,\nเพิ่ม Damage สกิล Cold Blooded Cannon, Golden Dragon Cannon 25%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Shinkiro & Shiranui^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 510,
+    "itemLevel": 1,
+    "attack": 0,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 205,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "Shinkiro",
+      "Shiranui"
+    ],
+    "script": {
+      "matk": [
+        "100"
+      ],
+      "acd": [
+        "10"
+      ],
+      "spl": [
+        "10"
+      ],
+      "fct": [
+        "0.5"
+      ],
+      "m_class_all": [
+        "15"
+      ],
+      "m_size_all": [
+        "EQUIP[Furious Wheel Shuriken]===15"
+      ],
+      "m_element_all": [
+        "EQUIP[Furious Wheel Shuriken]REFINE[weapon==10]===15"
+      ],
+      "sMatk": [
+        "EQUIP[Furious Wheel Shuriken]GRADE[weapon==C]===10"
+      ],
+      "Cold Blooded Cannon": [
+        "EQUIP[Furious Wheel Shuriken]===25",
+        "EQUIP[Furious Wheel Shuriken]REFINE[weapon==10]===25",
+        "EQUIP[Furious Wheel Shuriken]GRADE[weapon==C]===25",
+        "EQUIP[Furious Wheel Shuriken]GRADE[weapon==B]===25"
+      ],
+      "Golden Dragon Cannon": [
+        "EQUIP[Furious Wheel Shuriken]===25",
+        "EQUIP[Furious Wheel Shuriken]REFINE[weapon==10]===25",
+        "EQUIP[Furious Wheel Shuriken]GRADE[weapon==C]===25",
+        "EQUIP[Furious Wheel Shuriken]GRADE[weapon==B]===25"
+      ],
+      "cd__Cold Blooded Cannon": [
+        "EQUIP[Furious Wheel Shuriken]GRADE[weapon==C]===0.5"
+      ],
+      "cd__Golden Dragon Cannon": [
+        "EQUIP[Furious Wheel Shuriken]GRADE[weapon==C]===0.3"
+      ],
+      "chance__sMatk": [
+        "EQUIP[Furious Wheel Shuriken]GRADE[weapon==B]===50"
+      ],
+      "chance__spl": [
+        "EQUIP[Furious Wheel Shuriken]GRADE[weapon==B]===100"
+      ],
+      "chance__Violent Quake": [
+        "EQUIP[Furious Wheel Shuriken]GRADE[weapon==B]===100"
+      ]
+    }
+  },
+  "491133": {
+    "id": 491133,
+    "aegisName": "Exotic_Temp_Ring_LT",
+    "flavorText": null,
+    "name": "Exotic Temporal Ring-LT [1]",
+    "unidName": null,
+    "resName": "Ring_Of_Nature",
+    "unidResName": null,
+    "description": "ATK, MATK + 120\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 4%\nเมื่ออัพเกรดถึงขั้น 7, CRI + 50, ลดระยะเวลาร่ายแบบแปรผัน 20%\nเมื่ออัพเกรดถึงขั้น 9, ลด Global Cooldown 10%\nเมื่ออัพเกรดถึงขั้น 12, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 15% (ยกเว้น Player)\n\nเมื่อสวมใส่ร่วมกับ Exotic Temporal Boots-LT,\nเมื่อ Base STR เท่ากับ 108 หรือมากกว่า, เพิ่ม HIT Damage ทางกายภาพ 10%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%\nเมื่อ Base AGI เท่ากับ 108 หรือมากกว่า, ASPD + 10%, Critical Damage + 20%\nเมื่อ Base VIT เท่ากับ 108 หรือมากกว่า, MaxHP + 15%, ลด Global Cooldown 15%\nเมื่อ Base INT เท่ากับ 108 หรือมากกว่า, MATK + 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%\nเมื่อ Base DEX เท่ากับ 108 หรือมากกว่า, เพิ่ม Damage ทางกายภาพระยะไกล 10%, ATK + 15%\nเมื่อ Base LUK เท่ากับ 108 หรือมากกว่า, Critical Damage + 20%, ASPD + 15%\n\nเมื่อ Exotic Temporal Boots-LT มี Grade A,\nเพิ่มค่าประสบการณ์เมื่อกำจัดมอนสเตอร์ 10%, เพิ่มอัตรา Drop ไอเทม 10%\n\nเมื่อสวมใส่ร่วมกับ Exotic Temporal Manteau-LT,\nเพิกเฉยต่อพลังต้านทานกายภาพ/เวทมนตร์ของศัตรูทุกเผ่า 10% (ยกเว้น Player, Doram)\n\nเมื่อ Exotic Temporal Manteau มี Grade A,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภท Boss 15%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\n[Grade C] P.ATK, S.MATK + 15\n[Grade B] All Status + 10, All Trait + 10\n[Grade A] เพิ่มค่าประสบการณ์เมื่อกำจัดมอนสเตอร์ 10%, เพิ่มอัตรา Drop ไอเทม 10%\nประเภท : ^777777Accessory^000000  พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 517,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 0,
+    "weight": 20,
+    "requiredLevel": 100,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "isRefinable": true,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "atk": [
+        "120"
+      ],
+      "matk": [
+        "120"
+      ],
+      "p_size_all": [
+        "3---4",
+        "EQUIP[Exotic Temporal Boots-LT]str:108===10"
+      ],
+      "m_size_all": [
+        "3---4"
+      ],
+      "cri": [
+        "7===50"
+      ],
+      "vct": [
+        "7===20"
+      ],
+      "acd": [
+        "9===10",
+        "EQUIP[Exotic Temporal Boots-LT]vit:108===15"
+      ],
+      "p_race_all": [
+        "12===15"
+      ],
+      "m_race_all": [
+        "12===15"
+      ],
+      "hitDmg": [
+        "EQUIP[Exotic Temporal Boots-LT]str:108===10"
+      ],
+      "aspdPercent": [
+        "EQUIP[Exotic Temporal Boots-LT]agi:108===10",
+        "EQUIP[Exotic Temporal Boots-LT]luk:108===15"
+      ],
+      "criDmg": [
+        "EQUIP[Exotic Temporal Boots-LT]agi:108===20",
+        "EQUIP[Exotic Temporal Boots-LT]luk:108===20"
+      ],
+      "hpPercent": [
+        "EQUIP[Exotic Temporal Boots-LT]vit:108===15"
+      ],
+      "matkPercent": [
+        "EQUIP[Exotic Temporal Boots-LT]int:108===10"
+      ],
+      "m_my_element_all": [
+        "EQUIP[Exotic Temporal Boots-LT]int:108===15"
+      ],
+      "range": [
+        "EQUIP[Exotic Temporal Boots-LT]dex:108===10"
+      ],
+      "atkPercent": [
+        "EQUIP[Exotic Temporal Boots-LT]dex:108===15"
+      ],
+      "pene_res": [
+        "EQUIP[Exotic Temporal Manteau-LT]===10"
+      ],
+      "pene_mres": [
+        "EQUIP[Exotic Temporal Manteau-LT]===10"
+      ],
+      "p_class_boss": [
+        "EQUIP[Exotic Temporal Manteau]GRADE[garment==A]===15"
+      ],
+      "m_class_boss": [
+        "EQUIP[Exotic Temporal Manteau]GRADE[garment==A]===15"
+      ],
+      "fct": [
+        "GRADE[me==D]===0.5"
+      ],
+      "pAtk": [
+        "GRADE[me==C]===15"
+      ],
+      "sMatk": [
+        "GRADE[me==C]===15"
+      ],
+      "allStatus": [
+        "GRADE[me==B]===10"
+      ],
+      "allTrait": [
+        "GRADE[me==B]===10"
+      ],
+      "drop": [
+        "EQUIP[Exotic Temporal Boots-LT]GRADE[boot==A]===10",
+        "GRADE[me==A]===10"
       ]
     }
   }
