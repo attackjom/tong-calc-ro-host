@@ -229014,29 +229014,29 @@
       ],
       "cri": [
         "2---1",
-        "EQUIP[Shadow Dance Pendant&&Master Shadow Weapon]===3"
+        "EQUIP[Shadow Dance Shadow Pendant&&Master Shadow Weapon]===3"
       ],
       "atk": [
         "2---4"
       ],
       "atkPercent": [
-        "EQUIP[Shadow Dance Pendant]===2"
+        "EQUIP[Shadow Dance Shadow Pendant]===2"
       ],
       "pAtk": [
-        "EQUIP[Shadow Dance Pendant]===2",
-        "EQUIP[Shadow Dance Pendant&&Master Shadow Weapon]===2"
+        "EQUIP[Shadow Dance Shadow Pendant]===2",
+        "EQUIP[Shadow Dance Shadow Pendant&&Master Shadow Weapon]===2"
       ],
       "p_size_all": [
-        "EQUIP[Shadow Dance Pendant]REFINE[shadowEarring,shadowPendant==15]===7"
+        "EQUIP[Shadow Dance Shadow Pendant]REFINE[shadowEarring,shadowPendant==15]===7"
       ],
       "p_pene_race_all": [
-        "EQUIP[Shadow Dance Pendant]REFINE[shadowEarring,shadowPendant==18]===50"
+        "EQUIP[Shadow Dance Shadow Pendant]REFINE[shadowEarring,shadowPendant==18]===50"
       ],
       "cRate": [
-        "EQUIP[Shadow Dance Pendant&&Master Shadow Weapon]===1"
+        "EQUIP[Shadow Dance Shadow Pendant&&Master Shadow Weapon]===1"
       ],
       "pene_res": [
-        "EQUIP[Shadow Dance Pendant&&Master Shadow Weapon]REFINE[shadowPendant,shadowWeapon,shadowEarring==27]===10"
+        "EQUIP[Shadow Dance Shadow Pendant&&Master Shadow Weapon]REFINE[shadowPendant,shadowWeapon,shadowEarring==27]===10"
       ]
     }
   },
@@ -296617,7 +296617,7 @@
     "unidName": null,
     "resName": "이름없는카드",
     "unidResName": null,
-    "description": "ทุก ๆ Base CRT 20, CRI + 5\nเมื่อ Base POW 100, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 40%, เพิ่ม Damage ทางกายภาพต่อมอนสเตอร์ประเภททั่วไป 10%\n\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
+    "description": "ทุก ๆ Base CRT 20, CRI + 5\nเมื่อ Base POW หรือ CON 100, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 40%, เพิ่ม Damage ทางกายภาพต่อมอนสเตอร์ประเภททั่วไป 10%\n\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Garment^000000\nน้ำหนัก : ^7777771^000000",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 0,
@@ -296637,13 +296637,13 @@
         "crt:20---5"
       ],
       "melee": [
-        "SUM[pow==100]===40"
+        "SUM[pow==100||con==100]===40"
       ],
       "range": [
-        "SUM[pow==100]===40"
+        "SUM[pow==100||con==100]===40"
       ],
       "p_class_normal": [
-        "SUM[pow==100]===10"
+        "SUM[pow==100||con==100]===10"
       ]
     }
   },
@@ -300372,7 +300372,7 @@
     "unidName": null,
     "resName": "Ring_Of_Nature",
     "unidResName": null,
-    "description": "ATK, MATK + 120\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 4%\nเมื่ออัพเกรดถึงขั้น 7, CRI + 50, ลดระยะเวลาร่ายแบบแปรผัน 20%\nเมื่ออัพเกรดถึงขั้น 9, ลด Global Cooldown 10%\nเมื่ออัพเกรดถึงขั้น 12, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 15% (ยกเว้น Player)\n\nเมื่อสวมใส่ร่วมกับ Exotic Temporal Boots-LT,\nเมื่อ Base STR เท่ากับ 108 หรือมากกว่า, เพิ่ม HIT Damage ทางกายภาพ 10%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%\nเมื่อ Base AGI เท่ากับ 108 หรือมากกว่า, ASPD + 10%, Critical Damage + 20%\nเมื่อ Base VIT เท่ากับ 108 หรือมากกว่า, MaxHP + 15%, ลด Global Cooldown 15%\nเมื่อ Base INT เท่ากับ 108 หรือมากกว่า, MATK + 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%\nเมื่อ Base DEX เท่ากับ 108 หรือมากกว่า, เพิ่ม Damage ทางกายภาพระยะไกล 10%, ATK + 15%\nเมื่อ Base LUK เท่ากับ 108 หรือมากกว่า, Critical Damage + 20%, ASPD + 15%\n\nเมื่อ Exotic Temporal Boots-LT มี Grade A,\nเพิ่มค่าประสบการณ์เมื่อกำจัดมอนสเตอร์ 10%, เพิ่มอัตรา Drop ไอเทม 10%\n\nเมื่อสวมใส่ร่วมกับ Exotic Temporal Manteau-LT,\nเพิกเฉยต่อพลังต้านทานกายภาพ/เวทมนตร์ของศัตรูทุกเผ่า 10% (ยกเว้น Player, Doram)\n\nเมื่อ Exotic Temporal Manteau มี Grade A,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภท Boss 15%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\n[Grade C] P.ATK, S.MATK + 15\n[Grade B] All Status + 10, All Trait + 10\n[Grade A] เพิ่มค่าประสบการณ์เมื่อกำจัดมอนสเตอร์ 10%, เพิ่มอัตรา Drop ไอเทม 10%\nประเภท : ^777777Accessory^000000  พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "description": "ATK, MATK + 120\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 4%\nเมื่ออัพเกรดถึงขั้น 7, CRI + 50, ลดระยะเวลาร่ายแบบแปรผัน 20%\nเมื่ออัพเกรดถึงขั้น 9, ลด Global Cooldown 10%\nเมื่ออัพเกรดถึงขั้น 12, เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 15% (ยกเว้น Player)\n\nเมื่อสวมใส่ร่วมกับ Exotic Temporal Boots-LT,\nเมื่อ Base STR เท่ากับ 108 หรือมากกว่า, เพิ่ม HIT Damage ทางกายภาพ 10%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%\nเมื่อ Base AGI เท่ากับ 108 หรือมากกว่า, ASPD + 10%, Critical Damage + 20%\nเมื่อ Base VIT เท่ากับ 108 หรือมากกว่า, MaxHP + 15%, ลด Global Cooldown 15%\nเมื่อ Base INT เท่ากับ 108 หรือมากกว่า, MATK + 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%\nเมื่อ Base DEX เท่ากับ 108 หรือมากกว่า, เพิ่ม Damage ทางกายภาพระยะไกล 10%, ATK + 15%\nเมื่อ Base LUK เท่ากับ 108 หรือมากกว่า, Critical Damage + 20%, ASPD + 15%\n\nเมื่อ Exotic Temporal Boots-LT มี Grade A,\nเพิ่มค่าประสบการณ์เมื่อกำจัดมอนสเตอร์ 10%, เพิ่มอัตรา Drop ไอเทม 10%\n\nเมื่อสวมใส่ร่วมกับ Exotic Temporal Manteau-LT,\nเพิกเฉยต่อพลังต้านทานกายภาพ/เวทมนตร์ของศัตรูทุกเผ่า 10% (ยกเว้น Player, Doram)\n\nเมื่อ Exotic Temporal Manteau-LT มี Grade A,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภท Boss 15%\n\n[Option เพิ่มเติมตาม Grade]\n[Grade D] ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\n[Grade C] P.ATK, S.MATK + 15\n[Grade B] All Status + 10, All Trait + 10\n[Grade A] เพิ่มค่าประสบการณ์เมื่อกำจัดมอนสเตอร์ 10%, เพิ่มอัตรา Drop ไอเทม 10%\nประเภท : ^777777Accessory^000000  พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 517,
@@ -300451,10 +300451,10 @@
         "EQUIP[Exotic Temporal Manteau-LT]===10"
       ],
       "p_class_boss": [
-        "EQUIP[Exotic Temporal Manteau]GRADE[garment==A]===15"
+        "EQUIP[Exotic Temporal Manteau-LT]GRADE[garment==A]===15"
       ],
       "m_class_boss": [
-        "EQUIP[Exotic Temporal Manteau]GRADE[garment==A]===15"
+        "EQUIP[Exotic Temporal Manteau-LT]GRADE[garment==A]===15"
       ],
       "fct": [
         "GRADE[me==D]===0.5"
