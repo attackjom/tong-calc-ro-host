@@ -300476,5 +300476,647 @@
         "GRADE[me==A]===10"
       ]
     }
+  },
+  "401605": {
+    "id": 401605,
+    "aegisName": "26_11_Circlet_BO",
+    "flavorText": null,
+    "name": "Radiant Rune Circlet (Biolo) [1]",
+    "unidName": null,
+    "resName": "어센드크라운",
+    "unidResName": null,
+    "description": "A Circlet crafted with Radiant Runes.\n\nEvery 2 refine rate, Atk + 3, Hit + 5.\nEvery 3 refine rate, Atk + 2%, Increase melee physical damage by 1%, Increases hit physical damage by 3%.\nEvery 4 refine rate, Increases Explosive Powder and Dust Explosion damage by 5%.\nIf refine rate is 7 or higher, Increase melee physical damage by 10%.\nIf refine rate is 9 or higher, P.Atk + 5.\nIf refine rate is 11 or higher, Homing Attack chance + 10%.\n\nWhen equipped together with the Radiant Mace, Increases Explosive Powder damage by 40% and increases Attack speed (After Attack Delay reduced by 15%).\nIf the combined refine rate of the Radiant Rune Circlet (Biolo) and the Radiant Mace is 24 or higher, both are Grade A or higher, and Explosive Powder is learned at level 5 or higher, for each level of Explosive Powder, Increases physical damage against all race enemies by 6% (excluding players), Increases hit physical damage by 2%.\n\n^CC3D3D[Bonus by grade]^000000\n[Grade D] P.Atk + 5.\n[Grade C] Increases Explosive Powder damage by 10%.\n[Grade B] Increases physical damage against all size enemies by 10%.\n[Grade A] Increases physical damage against all property enemies by 10%.\nClass: ^777777Headgear^000000 Defense: ^77777750^000000\nLocation: ^777777Upper^000000 Weight: ^7777770^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777240^000000\nJobs: ^777777Biolo^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 50,
+    "weight": 0,
+    "requiredLevel": 240,
+    "location": "Upper",
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Biolo"
+    ],
+    "script": {
+      "atk": [
+        "2---3"
+      ],
+      "hit": [
+        "2---5"
+      ],
+      "atkPercent": [
+        "3---2"
+      ],
+      "melee": [
+        "3---1",
+        "7===10"
+      ],
+      "hitDmg": [
+        "3---3",
+        "EQUIP[Radiant Mace]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL2[Explosive Powder==5]LEARN_SKILL[Explosive Powder==1]---2"
+      ],
+      "Explosive Powder": [
+        "4---5",
+        "EQUIP[Radiant Mace]===40",
+        "GRADE[me==C]===10"
+      ],
+      "Dust Explosion": [
+        "4---5"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==D]===5"
+      ],
+      "perfectHit": [
+        "11===10"
+      ],
+      "aspdPercent": [
+        "EQUIP[Radiant Mace]===15"
+      ],
+      "p_race_all": [
+        "EQUIP[Radiant Mace]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL2[Explosive Powder==5]LEARN_SKILL[Explosive Powder==1]---6"
+      ],
+      "p_size_all": [
+        "GRADE[me==B]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "401606": {
+    "id": 401606,
+    "aegisName": "26_11_Circlet_TR",
+    "flavorText": null,
+    "name": "Radiant Rune Circlet (Trouvere & Troubadour) [1]",
+    "unidName": null,
+    "resName": "어센드크라운",
+    "unidResName": null,
+    "description": "A Circlet engraved with Radiant Runes.\n\nEvery 2 refine rate, Matk + 5.\nEvery 3 refine rate, Matk + 2%, Increases all property magical damage by 2%.\nEvery 4 refine rate, Increases Rhythmical Wave and Metallic Fury damage by 5%.\nIf refine rate is 7 or higher, Increases all property magical damage by 10%.\nIf refine rate is 9 or higher, S.Matk + 5.\nIf refine rate is 11 or higher, Decrease fixed cast time by 0.5 seconds.\n\nWhen equipped together with the Radiant Violin or Radiant Whip, Increases Rhythmical Wave damage by 40%, Increases all property magical damage by 15%.\nIf the combined refine rate of the Radiant Rune Circlet (Trouvere & Troubadour), Radiant Violin or Radiant Whip is 24 or higher, each is Grade A or higher, and Rhythmical Wave is learned at level 5 or higher, using Metallic Fury triggers Rhythmical Wave Lv. 3.\n\n^CC3D3D[Bonus by grade]^000000\n[Grade D] S.Matk + 5.\n[Grade C] Reduces variable casting time by 10%.\n[Grade B] Increases magical damage against all size enemies by 10%.\n[Grade A] Increases magical damage against all property enemies by 10%.\nClass: ^777777Headgear^000000 Defense: ^77777750^000000\nLocation: ^777777Upper^000000 Weight: ^7777770^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777240^000000\nJobs: ^777777Troubadour, Trouvere^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 50,
+    "weight": 0,
+    "requiredLevel": 240,
+    "location": "Upper",
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Troubadour",
+      "Trouvere"
+    ],
+    "script": {
+      "matk": [
+        "2---5"
+      ],
+      "matkPercent": [
+        "3---2"
+      ],
+      "m_my_element_all": [
+        "3---2",
+        "7===10",
+        "EQUIP[Violin of Radiance||Radiant Whip]===15"
+      ],
+      "Rhythmical Wave": [
+        "4---5",
+        "EQUIP[Violin of Radiance||Radiant Whip]===40"
+      ],
+      "Metallic Fury": [
+        "4---5"
+      ],
+      "sMatk": [
+        "9===5",
+        "GRADE[me==D]===5"
+      ],
+      "fct": [
+        "11===0.5"
+      ],
+      "vct": [
+        "GRADE[me==C]===10"
+      ],
+      "m_size_all": [
+        "GRADE[me==B]===10"
+      ],
+      "m_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "401607": {
+    "id": 401607,
+    "aegisName": "26_11_Circlet_NW",
+    "flavorText": null,
+    "name": "Radiant Rune Circlet (Night Watch) [1]",
+    "unidName": null,
+    "resName": "어센드크라운",
+    "unidResName": null,
+    "description": "A circlet engraved with Radiant Runes.\n\nEvery 2 refine rate, Atk + 3, CRI + 2.\nEvery 3 refine rate, Atk + 2%, increases critical damage by 3%.\nEvery 4 refine rate, increases Magazine for One and Wild Shot damage by 5%.\nIf refine rate is 7 or higher, increases long ranged physical damage by 10%.\nIf refine rate is 9 or higher, P.Atk + 5.\nIf refine rate is 11 or higher, decrease fixed cast time by 0.5 seconds.\n\nWhen equipped together with the Radiant Pistol, increases Magazine for One damage by 40% and increases critical damage by 15%.\nIf the sum of the refine levels of the Radiant Rune Circlet (Night Watch) and the Radiant Pistol is 24 or higher, each is Grade A or higher, and Hidden Card is learned to level 10 or higher, increases long ranged physical damage by 10% and decreases Wild Shot skill cooldown by 0.25 seconds.\n\n^CC3D3D[Bonus by Grade]^000000\n[Grade D] P.Atk + 5.\n[Grade C] CRI + 10, C.Rate + 5.\n[Grade B] Increases physical damage against all size enemies by 10%.\n[Grade A] Increases physical damage against all property enemies by 10%.\nClass: ^777777Headgear^000000 Defense: ^77777750^000000\nLocation: ^777777Upper^000000 Weight: ^7777770^000000\nArmor Level: ^7777772^000000\nRequired Level: ^777777240^000000\nJobs: ^777777Night Watch^000000",
+    "slots": 1,
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "itemLevel": 2,
+    "attack": 0,
+    "defense": 50,
+    "weight": 0,
+    "requiredLevel": 240,
+    "location": "Upper",
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "NightWatch"
+    ],
+    "script": {
+      "atk": [
+        "2---3"
+      ],
+      "cri": [
+        "2---2",
+        "GRADE[me==C]===10"
+      ],
+      "atkPercent": [
+        "3---2"
+      ],
+      "criDmg": [
+        "3---3",
+        "EQUIP[Radiant Pistol]===15"
+      ],
+      "Magazine for One": [
+        "4---5",
+        "EQUIP[Radiant Pistol]===40"
+      ],
+      "Wild Shot": [
+        "4---5"
+      ],
+      "range": [
+        "7===10",
+        "EQUIP[Radiant Pistol]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL[Hidden Card==10]===10"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==D]===5"
+      ],
+      "fct": [
+        "11===0.5"
+      ],
+      "cd__Wild Shot": [
+        "EQUIP[Radiant Pistol]GRADES[weapon==A&&headUpper==A]REFINE[weapon,headUpper==24]LEARN_SKILL[Hidden Card==10]===0.25"
+      ],
+      "cRate": [
+        "GRADE[me==C]===5"
+      ],
+      "p_size_all": [
+        "GRADE[me==B]===10"
+      ],
+      "p_element_all": [
+        "GRADE[me==A]===10"
+      ]
+    }
+  },
+  "570108": {
+    "id": 570108,
+    "aegisName": "26_11_Violin_TR",
+    "flavorText": null,
+    "name": "Violin of Radiance [2]",
+    "unidName": null,
+    "resName": "26_11_Violin_TR",
+    "unidResName": null,
+    "description": "An instrument burning with radiance.\n\nMatk + 230.\nReduces variable casting time by 5%, Metallic Fury damage + 15%.\nEvery 3 refine rate, Matk + 30, Increases all property magical damage by 2%.\nEvery 4 refine rate, Metallic Fury damage + 7%.\nIf refine rate is 7 or higher, Increases all property magical damage by 25%.\nIf refine rate is 9 or higher, Reduces variable casting time by 10%, S.Matk + 5.\nIf refine rate is 11 or higher, Metallic Fury damage + an additional 15%.\n\n^CC3D3D[Bonus by Grade]^000000\n[Grade D] Matk + 5%.\n[Grade C] Metallic Fury damage + 10%.\n[Grade B] Reduces global cooldown by 10%.\n[Grade A] S.Matk + 10.\nClass: ^777777Instrument^000000 Attack: ^777777110^000000\nWeight: ^777777140^000000\nWeapon Level: ^7777775^000000\nRequired Level: ^777777240^000000\nJobs: ^777777Troubadour^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 269,
+    "itemLevel": 5,
+    "attack": 110,
+    "defense": 0,
+    "weight": 140,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Troubadour"
+    ],
+    "script": {
+      "matk": [
+        "230",
+        "3---30"
+      ],
+      "vct": [
+        "5",
+        "9===10"
+      ],
+      "Metallic Fury": [
+        "15",
+        "4---7",
+        "11===15",
+        "GRADE[me==C]===10"
+      ],
+      "m_my_element_all": [
+        "3---2",
+        "7===25"
+      ],
+      "sMatk": [
+        "9===5",
+        "GRADE[me==A]===10"
+      ],
+      "matkPercent": [
+        "GRADE[me==D]===5"
+      ],
+      "acd": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "580108": {
+    "id": 580108,
+    "aegisName": "26_11_Whip_TR",
+    "flavorText": null,
+    "name": "Radiant Whip [2]",
+    "unidName": null,
+    "resName": "26_11_Whip_TR",
+    "unidResName": null,
+    "description": "A whip burning with radiant light.\n\nMatk + 230.\nReduces variable casting time by 5%, Metallic Fury damage increase by 15%.\nEvery 3 refine rate, Matk + 30, Increases all property magical damage by 2%.\nEvery 4 refine rate, Metallic Fury damage increase by 7%.\nIf refine rate is 7 or higher, Increases all property magical damage by 25%.\nIf refine rate is 9 or higher, Reduces variable casting time by 10%, S.Matk + 5.\nIf refine rate is 11 or higher, additional Metallic Fury damage increase by 15%.\n\n^CC3D3D[Bonus by Grade]^000000\n[Grade D] Matk + 5%.\n[Grade C] Metallic Fury damage increase by 10%.\n[Grade B] Reduces global cooldown by 10%.\n[Grade A] S.Matk + 10.\nClass: ^777777Whip^000000 Attack: ^777777110^000000\nWeight: ^777777140^000000\nWeapon Level: ^7777775^000000\nRequired Level: ^777777240^000000\nApplicable Jobs: ^777777Trouvere^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 270,
+    "itemLevel": 5,
+    "attack": 110,
+    "defense": 0,
+    "weight": 140,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Trouvere"
+    ],
+    "script": {
+      "matk": [
+        "230",
+        "3---30"
+      ],
+      "vct": [
+        "5",
+        "9===10"
+      ],
+      "Metallic Fury": [
+        "15",
+        "4---7",
+        "11===15",
+        "GRADE[me==C]===10"
+      ],
+      "m_my_element_all": [
+        "3---2",
+        "7===25"
+      ],
+      "sMatk": [
+        "9===5",
+        "GRADE[me==A]===10"
+      ],
+      "matkPercent": [
+        "GRADE[me==D]===5"
+      ],
+      "acd": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "590140": {
+    "id": 590140,
+    "aegisName": "26_11_Club_BO",
+    "flavorText": null,
+    "name": "Radiant Mace [2]",
+    "unidName": null,
+    "resName": "26_11_Club_BO",
+    "unidResName": null,
+    "description": "A mace burning with radiance.\n^ffffff_^000000\nIndestructible, Homing attack chance + 5%, Dust Explosion damage increase by 15%.\nEvery 3 refine levels, Atk + 30, Increases hit physical damage by 2%.\nEvery 4 refine levels, Dust Explosion damage increase by 7%.\nIf refine level is 7 or higher, Increases hit physical damage by 25%.\nIf refine level is 9 or higher, Homing attack chance + 10%, P.Atk + 5.\nIf refine level is 11 or higher, Dust Explosion damage additionally increase by 15%.\n^ffffff_^000000\n^CC3D3D[Bonus by Grade]^000000\n[Grade D] Atk + 5%.\n[Grade C] Dust Explosion damage increase by 10%.\n[Grade B] Attack speed increase (After attack delay decrease by 10%).\n[Grade A] P.Atk + 10.\nClass: ^777777Mace^000000 Attack: ^777777260^000000\nWeight: ^777777180^000000\nWeapon Level: ^7777775^000000\nRequired Level: ^777777240^000000\nApplicable Jobs: ^777777Biolo^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 263,
+    "itemLevel": 5,
+    "attack": 260,
+    "defense": 0,
+    "weight": 180,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "Biolo"
+    ],
+    "script": {
+      "perfectHit": [
+        "5",
+        "9===10"
+      ],
+      "Dust Explosion": [
+        "15",
+        "4---7",
+        "11===15",
+        "GRADE[me==C]===10"
+      ],
+      "atk": [
+        "3---30"
+      ],
+      "hitDmg": [
+        "3---2",
+        "7===25"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==A]===10"
+      ],
+      "atkPercent": [
+        "GRADE[me==D]===5"
+      ],
+      "aspdPercent": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "800053": {
+    "id": 800053,
+    "aegisName": "26_11_Revolver_NW",
+    "flavorText": null,
+    "name": "Radiant Pistol [2]",
+    "unidName": null,
+    "resName": "26_11_Revolver_NW",
+    "unidResName": null,
+    "description": "A pistol burning with radiant light.\n\nCRI + 5, increases Wild Shot damage by 15%.\nEvery 3 refine levels, Atk + 35, increases critical damage by 3%.\nEvery 4 refine levels, increases Wild Shot damage by 7%.\nIf refine level is 7 or higher, increases critical damage by 25%.\nIf refine level is 9 or higher, increases long ranged physical damage by 10%, P.Atk + 5.\nIf refine level is 11 or higher, CRI + 5, additionally increases Wild Shot damage by 10%.\n\n^CC3D3D[Bonus by Grade]^000000\n[Grade D] Atk + 5%.\n[Grade C] Increases Wild Shot damage by 10%.\n[Grade B] Reduces variable casting time by 10%.\n[Grade A] P.Atk + 10.\nClass: ^777777Pistol^000000 Attack: ^777777230^000000\nWeight: ^777777140^000000\nWeapon Level: ^7777775^000000\nRequired Level: ^777777240^000000\nApplicable Jobs: ^777777Night Watch^000000",
+    "slots": 2,
+    "itemTypeId": 1,
+    "itemSubTypeId": 273,
+    "itemLevel": 5,
+    "attack": 230,
+    "defense": 0,
+    "weight": 140,
+    "requiredLevel": 240,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": true,
+    "usableClass": [
+      "NightWatch"
+    ],
+    "script": {
+      "cri": [
+        "5",
+        "11===5"
+      ],
+      "Wild Shot": [
+        "15",
+        "4---7",
+        "11===10",
+        "GRADE[me==C]===10"
+      ],
+      "atk": [
+        "3---35"
+      ],
+      "criDmg": [
+        "3---3",
+        "7===25"
+      ],
+      "range": [
+        "9===10"
+      ],
+      "pAtk": [
+        "9===5",
+        "GRADE[me==A]===10"
+      ],
+      "atkPercent": [
+        "GRADE[me==D]===5"
+      ],
+      "vct": [
+        "GRADE[me==B]===10"
+      ]
+    }
+  },
+  "1270295": {
+    "id": 1270295,
+    "aegisName": "S_Cast_Master_Armor",
+    "flavorText": null,
+    "name": "Cast Master Shadow Armor",
+    "unidName": null,
+    "resName": "SV_Armor_Shadow",
+    "unidResName": null,
+    "description": "Armor worn over regular armor that provides additional Defense. It can be used alone, but the Defense effect is small.\nReduces variable casting time by 3%, Flee + 10.\nEvery 3 refine rate, reduces variable casting time by 2%.\nIf refine rate is 10 or higher, P.Atk + 3, S.Matk + 3.\n\nWhen equipped together with Cast Master Shadow Shoes, reduces variable casting time by 3%.\nIf the sum of refine rates is 15 or higher, Atk + 5%, Matk + 5%, increases physical and magical damage against enemies of all properties by 5%.\nIf the sum of refine rates is 18 or higher, ignores 50% of physical/magical Defense of all races (except players).\n\nWhen equipped together with Cast Master Shadow Shoes and Master Shadow Shield, increases physical and magical damage against enemies of all sizes by 5%, reduces global cooldown by 5%.\nIf the sum of refine rates is 27 or higher, ignores 10% of physical/magical Resistance of all races (except players).\n\n^ffffff<NAVI>^4D4DFF[Shadow Exclusive Spellbook]^000000<INFO>itemmall,41,63,0,100,0,0</INFO></NAVI>^000000\nRandom options can be granted with 2 Shadow Essence.\nClass: ^777777Shadow Equipment^000000\nLocation: ^777777Padded Armor^000000 Weight: ^7777770^000000\nRequired Level: ^777777200^000000\nApplicable Jobs: ^777777All Jobs^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 526,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": "Armor",
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "vct": [
+        "3",
+        "3---2",
+        "EQUIP[Cast Master Shoes Shadow]===3"
+      ],
+      "flee": [
+        "10"
+      ],
+      "pAtk": [
+        "10===3"
+      ],
+      "sMatk": [
+        "10===3"
+      ],
+      "atkPercent": [
+        "EQUIP[Cast Master Shoes Shadow]REFINE[shadowArmor,shadowBoot==15]===5"
+      ],
+      "matkPercent": [
+        "EQUIP[Cast Master Shoes Shadow]REFINE[shadowArmor,shadowBoot==15]===5"
+      ],
+      "p_element_all": [
+        "EQUIP[Cast Master Shoes Shadow]REFINE[shadowArmor,shadowBoot==15]===5"
+      ],
+      "m_element_all": [
+        "EQUIP[Cast Master Shoes Shadow]REFINE[shadowArmor,shadowBoot==15]===5"
+      ],
+      "p_pene_race_all": [
+        "EQUIP[Cast Master Shoes Shadow]REFINE[shadowArmor,shadowBoot==18]===50"
+      ],
+      "m_pene_race_all": [
+        "EQUIP[Cast Master Shoes Shadow]REFINE[shadowArmor,shadowBoot==18]===50"
+      ],
+      "p_size_all": [
+        "EQUIP[Cast Master Shoes Shadow&&Master Shadow Shield]===5"
+      ],
+      "m_size_all": [
+        "EQUIP[Cast Master Shoes Shadow&&Master Shadow Shield]===5"
+      ],
+      "acd": [
+        "EQUIP[Cast Master Shoes Shadow&&Master Shadow Shield]===5"
+      ],
+      "pene_res": [
+        "EQUIP[Cast Master Shoes Shadow&&Master Shadow Shield]REFINE[shadowArmor,shadowBoot,shadowShield==27]===10"
+      ],
+      "pene_mres": [
+        "EQUIP[Cast Master Shoes Shadow&&Master Shadow Shield]REFINE[shadowArmor,shadowBoot,shadowShield==27]===10"
+      ]
+    }
+  },
+  "1270296": {
+    "id": 1270296,
+    "aegisName": "S_Cast_Master_Shoes",
+    "flavorText": null,
+    "name": "Cast Master Shoes Shadow",
+    "unidName": null,
+    "resName": "SV_Shoes_Shadow",
+    "unidResName": null,
+    "description": "Shoes that can be equipped in addition to regular shoes. They can be used alone, but the effect is weaker.\nReduces variable casting time by 3%, Flee + 10.\nEvery 3 refine rate, Reduces variable casting time by 2%.\nIf refine rate is 10 or higher, P.Atk + 3, S.Matk + 3.\n\n^ffffff<NAVI>^4D4DFF[Shadow Exclusive Spellbook]^000000<INFO>itemmall,41,63,0,100,0,0</INFO></NAVI>^000000\nRandom options can be applied using 2 Shadow Essence.\nClass: ^777777Shadow Equipment^000000\nLocation: ^777777Shoes^000000 Weight: ^7777770^000000\nRequired Level: ^777777200^000000\nJobs: ^777777All Jobs^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 528,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": "Shoes",
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "vct": [
+        "3",
+        "3---2"
+      ],
+      "flee": [
+        "10"
+      ],
+      "pAtk": [
+        "10===3"
+      ],
+      "sMatk": [
+        "10===3"
+      ]
+    }
+  },
+  "1270297": {
+    "id": 1270297,
+    "aegisName": "S_Cast_Master_Earring",
+    "flavorText": null,
+    "name": "Cast Master Shadow Earring",
+    "unidName": null,
+    "resName": "SV_Earring_Shadow",
+    "unidResName": null,
+    "description": "A holy earring said to protect its wearer. It draws out the wearer's latent abilities.\nReduces variable casting time by 3%, Flee + 10.\nEvery 3 refine rate, reduces variable casting time by 2%.\nIf refine rate is 10 or higher, P.Atk + 3, S.Matk + 3.\n\nWhen equipped together with Cast Master Shadow Pendant, reduces variable casting time by 3%.\nIf the sum of refine rates is 15 or higher, Atk + 5%, Matk + 5%, increases physical and magical damage against enemies of all elements by 5%.\nIf the sum of refine rates is 18 or higher, ignores 50% of physical and magical Defense of all races (excluding players).\n\nWhen equipped together with Cast Master Shadow Pendant and Master Shadow Weapon, increases physical and magical damage against enemies of all sizes by 5%, reduces global cooldown by 5%.\nIf the sum of refine rates is 27 or higher, ignores 10% of physical and magical Resistance of all races (excluding players).\n\n^ffffff<NAVI>^4D4DFF[Shadow Exclusive Spellbook]^000000<INFO>itemmall,41,63,0,100,0,0</INFO></NAVI>^000000\nRandom options can be applied using 2 Shadow Essence.\nClass: ^777777Shadow Equipment^000000\nLocation: ^777777Earring^000000 Weight: ^7777770^000000\nRequired Level: ^777777200^000000\nApplicable Jobs: ^777777All Jobs^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 529,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": "AccessoryRight",
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "vct": [
+        "3",
+        "3---2",
+        "EQUIP[Cast Master Shadow Pendant]===3"
+      ],
+      "flee": [
+        "10"
+      ],
+      "pAtk": [
+        "10===3"
+      ],
+      "sMatk": [
+        "10===3"
+      ],
+      "atkPercent": [
+        "EQUIP[Cast Master Shadow Pendant]REFINE[shadowEarring,shadowPendant==15]===5"
+      ],
+      "matkPercent": [
+        "EQUIP[Cast Master Shadow Pendant]REFINE[shadowEarring,shadowPendant==15]===5"
+      ],
+      "p_element_all": [
+        "EQUIP[Cast Master Shadow Pendant]REFINE[shadowEarring,shadowPendant==15]===5"
+      ],
+      "m_element_all": [
+        "EQUIP[Cast Master Shadow Pendant]REFINE[shadowEarring,shadowPendant==15]===5"
+      ],
+      "p_pene_race_all": [
+        "EQUIP[Cast Master Shadow Pendant]REFINE[shadowEarring,shadowPendant==18]===50"
+      ],
+      "m_pene_race_all": [
+        "EQUIP[Cast Master Shadow Pendant]REFINE[shadowEarring,shadowPendant==18]===50"
+      ],
+      "p_size_all": [
+        "EQUIP[Cast Master Shadow Pendant&&Master Shadow Weapon]===5"
+      ],
+      "m_size_all": [
+        "EQUIP[Cast Master Shadow Pendant&&Master Shadow Weapon]===5"
+      ],
+      "acd": [
+        "EQUIP[Cast Master Shadow Pendant&&Master Shadow Weapon]===5"
+      ],
+      "pene_res": [
+        "EQUIP[Cast Master Shadow Pendant&&Master Shadow Weapon]REFINE[shadowEarring,shadowPendant,shadowWeapon==27]===10"
+      ],
+      "pene_mres": [
+        "EQUIP[Cast Master Shadow Pendant&&Master Shadow Weapon]REFINE[shadowEarring,shadowPendant,shadowWeapon==27]===10"
+      ]
+    }
+  },
+  "1270298": {
+    "id": 1270298,
+    "aegisName": "S_Cast_Master_Pendant",
+    "flavorText": null,
+    "name": "Cast Master Shadow Pendant",
+    "unidName": null,
+    "resName": "SV_Pendant_Shadow",
+    "unidResName": null,
+    "description": "A sacred necklace said to protect its wearer. It draws out the wearer's latent abilities.\nReduces variable casting time by 3%, Flee + 10.\nEvery 3 refine levels, reduces variable casting time by 2%.\nIf refine level is 10, P.Atk + 3, S.Matk + 3.\n\n^ffffff<NAVI>^4D4DFF[Shadow-Exclusive Spellbook]^000000<INFO>itemmall,41,63,0,100,0,0</INFO></NAVI>^000000\nRandom options can be applied using 2 Shadow Essence.\nClass: ^777777Shadow Equipment^000000\nLocation: ^777777Pendant^000000 Weight: ^7777770^000000\nRequired Level: ^777777200^000000\nJobs: ^777777All Jobs^000000",
+    "slots": 0,
+    "itemTypeId": 10,
+    "itemSubTypeId": 530,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 200,
+    "location": "AccessoryLeft",
+    "compositionPos": null,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {
+      "vct": [
+        "3",
+        "3---2"
+      ],
+      "flee": [
+        "10"
+      ],
+      "pAtk": [
+        "10===3"
+      ],
+      "sMatk": [
+        "10===3"
+      ]
+    }
   }
 }
