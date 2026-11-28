@@ -16177,7 +16177,11 @@
     "unusableClass": [
       "Acolyte"
     ],
-    "script": {}
+    "script": {
+      "exp_race_dragon": [
+        "10"
+      ]
+    }
   },
   "13017": {
     "id": 13017,
@@ -16261,7 +16265,11 @@
     "unusableClass": [
       "Acolyte"
     ],
-    "script": {}
+    "script": {
+      "exp_race_dragon": [
+        "10"
+      ]
+    }
   },
   "13034": {
     "id": 13034,
@@ -16326,7 +16334,7 @@
     "name": "Black Wing [1]",
     "unidName": "Dagger",
     "resName": "블랙윙",
-    "description": "กริชที่ถูกสร้างขึ้นโดย Rogue Guild\nเพิ่มพลังโจมตี 30% ให้แก่สกิล Fatal Menace, เพิ่มพลังโจมตี 2% และ เพิ่ม MATK 3 ทุกๆการอัพเกรดที่มากกว่าระดับ +6\n\"HIT +5, MATK +5 เมื่อใช้ร่วมกับ Black Cat\nMasquerade : Enervation และ Groomy ใช้ SP ลดลง 20\"\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777142^000000\nน้ำหนัก : ^77777760^000000\nLv ของอาวุธ : ^7777773^000000\nLv ที่ต้องการ : ^777777102^000000\nอาชีพ : ^777777Shadow Chaser Only^000000",
+    "description": "กริชที่ถูกสร้างขึ้นโดย Rogue Guild\nเพิ่มพลังโจมตี 30% ให้แก่สกิล Fatal Manace, เพิ่มพลังโจมตี 2% และ เพิ่ม MATK 3 ทุกๆการอัพเกรดที่มากกว่าระดับ +6\n\"HIT +5, MATK +5 เมื่อใช้ร่วมกับ Black Cat\nMasquerade : Enervation และ Groomy ใช้ SP ลดลง 20\"\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777142^000000\nน้ำหนัก : ^77777760^000000\nLv ของอาวุธ : ^7777773^000000\nLv ที่ต้องการ : ^777777102^000000\nอาชีพ : ^777777Shadow Chaser Only^000000",
     "slots": 1,
     "itemTypeId": 1,
     "itemSubTypeId": 256,
@@ -18392,6 +18400,9 @@
       "spPercent": [
         "7===3",
         "9===5"
+      ],
+      "exp": [
+        "5"
       ]
     }
   },
@@ -20844,6 +20855,9 @@
       ],
       "m_my_element_neutral": [
         "EQUIP[Alicel Egg]5"
+      ],
+      "exp": [
+        "EQUIP[Angeling Egg]===10"
       ]
     }
   },
@@ -24379,6 +24393,10 @@
     "script": {
       "fct": [
         "EQUIP[Angel Poring Shoes]REFINE[boot==12]0.4"
+      ],
+      "exp": [
+        "4",
+        "EQUIP[Angel Poring Shoes]===4"
       ]
     }
   },
@@ -24498,6 +24516,9 @@
       ],
       "drop": [
         "5"
+      ],
+      "exp": [
+        "5"
       ]
     }
   },
@@ -24556,6 +24577,9 @@
     "script": {
       "allStatus": [
         "EQUIP[Kafra Uniform]===4"
+      ],
+      "exp": [
+        "EQUIP[Kafra Uniform]===5"
       ]
     }
   },
@@ -25283,6 +25307,10 @@
       ],
       "vct": [
         "9===10"
+      ],
+      "exp": [
+        "LEVEL[1-99]===10",
+        "LEVEL[100]===4"
       ]
     }
   },
@@ -25320,6 +25348,9 @@
         "EQUIP[Candy Bag Backpack (Physical)||Candy Bag Backpack (Range)||Candy Bag Backpack (Magical)]REFINE[garment==12]===1"
       ],
       "drop": [
+        "5"
+      ],
+      "exp": [
         "5"
       ]
     }
@@ -27516,6 +27547,9 @@
     "script": {
       "allStatus": [
         "1"
+      ],
+      "exp": [
+        "2---1"
       ]
     }
   },
@@ -27613,6 +27647,10 @@
       ],
       "acd": [
         "12===7"
+      ],
+      "exp": [
+        "LEVEL[1-99]===10",
+        "LEVEL[100]===4"
       ]
     }
   },
@@ -27645,6 +27683,10 @@
       ],
       "acd": [
         "12===7"
+      ],
+      "exp": [
+        "LEVEL[1-99]===10",
+        "LEVEL[100]===4"
       ]
     }
   },
@@ -27677,6 +27719,10 @@
       ],
       "acd": [
         "12===7"
+      ],
+      "exp": [
+        "LEVEL[1-99]===10",
+        "LEVEL[100]===4"
       ]
     }
   },
@@ -35765,6 +35811,9 @@
         "2",
         "7===1",
         "9===2"
+      ],
+      "exp": [
+        "EQUIP[All Race Shadow Shield]===3"
       ]
     }
   },
@@ -45981,7 +46030,7 @@
     "name": "Shadow Chaser Eden Group Advanced Shadow Weapon",
     "unidName": "Shadow Weapon",
     "resName": "웨폰쉐도우",
-    "description": "ถุงมือที่สวมใส่กับมือที่ถืออาวุธ เพื่อดึงศักยภาพของผู้สวมใส่ออกมา ไม่สามารถอัพเกรดได้\nไม่สามารถอัพเกรดได้\nATK + 10, MATK + 10\nเมื่อสวมใส่ร่วมกับ Eden Group Advanced Shadow Armor, Shield, Shoes, Earring, Pendant\nเมื่อทำการโจมตีทางกายภาพทั่วไป มีโอกาสที่จะใช้สกิล Psychic Wave Lv.3 โดยอัตโนมัติ, \nเพิ่ม Damage สกิล Triangle Shot, Fatal Menace 15%, \nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%, \nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 15%, \nลด Delay หลังใช้สกิล 15%, \nASPD + 2, \nเพิกเฉยต่อพลังป้องกันทางกายภาพ/เวทมนตร์ของมอนสเตอร์ทุกเผ่า 50%(ยกเว้น Player)\nประเภท : ^777777Shadow^000000\nตำแหน่ง : ^777777Weapon^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
+    "description": "ถุงมือที่สวมใส่กับมือที่ถืออาวุธ เพื่อดึงศักยภาพของผู้สวมใส่ออกมา ไม่สามารถอัพเกรดได้\nไม่สามารถอัพเกรดได้\nATK + 10, MATK + 10\nเมื่อสวมใส่ร่วมกับ Eden Group Advanced Shadow Armor, Shield, Shoes, Earring, Pendant\nเมื่อทำการโจมตีทางกายภาพทั่วไป มีโอกาสที่จะใช้สกิล Psychic Wave Lv.3 โดยอัตโนมัติ, \nเพิ่ม Damage สกิล Triangle Shot, Fatal Manace 15%, \nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%, \nเพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 15%, \nลด Delay หลังใช้สกิล 15%, \nASPD + 2, \nเพิกเฉยต่อพลังป้องกันทางกายภาพ/เวทมนตร์ของมอนสเตอร์ทุกเผ่า 50%(ยกเว้น Player)\nประเภท : ^777777Shadow^000000\nตำแหน่ง : ^777777Weapon^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 280,
@@ -46643,7 +46692,7 @@
     "name": "Super Novice Eden Group Advanced Shadow Weapon",
     "unidName": "Shadow Weapon",
     "resName": "웨폰쉐도우",
-    "description": "ถุงมือที่สวมใส่กับมือที่ถืออาวุธ เพื่อดึงศักยภาพของผู้สวมใส่ออกมา ไม่สามารถอัพเกรดได้\nไม่สามารถอัพเกรดได้\nATK + 10, MATK + 10\nเมื่อสวมใส่ร่วมกับ Eden Group Advanced Shadow Armor, Shield, Shoes, Earring, Pendant\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%, \nลดระยะเวลาร่ายแบบแปรผัน 10%, \nเพิ่ม Damage สกิล Raid, Back Stab, Fire Bolt, Cold Bolt, Lightning Bolt, Fire Ball, Heaven's Drive 15%, \nลด Delay หลังใช้สกิล 15%, \nเพิ่ม Damage ทางกายภาพระยะใกล้ 15%, \nเพิกเฉยต่อพลังป้องกันทางกายภาพ/เวทมนตร์ของมอนสเตอร์ทุกเผ่า 50%(ยกเว้น Player)\nประเภท : ^777777Shadow^000000\nตำแหน่ง : ^777777Weapon^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Novice^000000",
+    "description": "ถุงมือที่สวมใส่กับมือที่ถืออาวุธ เพื่อดึงศักยภาพของผู้สวมใส่ออกมา ไม่สามารถอัพเกรดได้\nไม่สามารถอัพเกรดได้\nATK + 10, MATK + 10\nเมื่อสวมใส่ร่วมกับ Eden Group Advanced Shadow Armor, Shield, Shoes, Earring, Pendant\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%, \nลดระยะเวลาร่ายแบบแปรผัน 10%, \nเพิ่ม Damage สกิล Raid, Back Stab, Fire Bolt, Cold Bolt, Lightening Bolt, Fire Ball, Heaven's Drive 15%, \nลด Delay หลังใช้สกิล 15%, \nเพิ่ม Damage ทางกายภาพระยะใกล้ 15%, \nเพิกเฉยต่อพลังป้องกันทางกายภาพ/เวทมนตร์ของมอนสเตอร์ทุกเผ่า 50%(ยกเว้น Player)\nประเภท : ^777777Shadow^000000\nตำแหน่ง : ^777777Weapon^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Novice^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 280,
@@ -46866,7 +46915,7 @@
     "name": "Major Auto Spell Shadow Earring",
     "unidName": "Shadow Earrings",
     "resName": "이어링쉐도우3",
-    "description": "ต่างหูศักดิ์สิทธิ์ที่เล่าขานกันว่าสามารถปกป้องผู้สวมใส่ได้ ช่วยดึงศักยภาพที่ซ่อนอยู่ของผู้สวมใส่ออกมา\nATK + 3%.\nทุก ๆ การอัพเกรด 2 ขั้น เพิ่ม Damage ทางกายภาพระยะใกล้ 1%\nเมื่ออัพเกรดถึงขั้น 9, ASPD + 1.\nเมื่ออัพเกรดถึงขั้น 10, เมื่อโจมตีทางกายภาพระยะใกล้ทั่วไป มีโอกาส 7% ที่จะเกิด Fatal Menace Lv.7 (เมื่อเรียนรู้ในเลเวลที่สูงขึ้น จะเกิดตามเลเวลสกิลที่เรียนรู้)\nเมื่อสวมใส่ร่วมกับ Major Auto Spell Shadow Pendant, ATK + 2%,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 18 ขึ้นไป, เมื่อโจมตีทางกายภาพระยะใกล้ทั่วไป มีโอกาส 4% ที่จะเกิด Power Swing Lv.4 (เมื่อเรียนรู้ในเลเวลที่สูงขึ้น จะเกิดตามเลเวลสกิลที่เรียนรู้),\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 20 ขึ้นไป, เมื่อโจมตีทางกายภาพระยะใกล้ทั่วไป มีโอกาส 8% ที่จะเปลี่ยนเป็นเกิด Power Swing Lv.8 (เมื่อเรียนรู้ในเลเวลที่สูงขึ้น จะเกิดตามเลเวลสกิลที่เรียนรู้)\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Earrings^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "description": "ต่างหูศักดิ์สิทธิ์ที่เล่าขานกันว่าสามารถปกป้องผู้สวมใส่ได้ ช่วยดึงศักยภาพที่ซ่อนอยู่ของผู้สวมใส่ออกมา\nATK + 3%.\nทุก ๆ การอัพเกรด 2 ขั้น เพิ่ม Damage ทางกายภาพระยะใกล้ 1%\nเมื่ออัพเกรดถึงขั้น 9, ASPD + 1.\nเมื่ออัพเกรดถึงขั้น 10, เมื่อโจมตีทางกายภาพระยะใกล้ทั่วไป มีโอกาส 7% ที่จะเกิด Fatal Manace Lv.7 (เมื่อเรียนรู้ในเลเวลที่สูงขึ้น จะเกิดตามเลเวลสกิลที่เรียนรู้)\nเมื่อสวมใส่ร่วมกับ Major Auto Spell Shadow Pendant, ATK + 2%,\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 18 ขึ้นไป, เมื่อโจมตีทางกายภาพระยะใกล้ทั่วไป มีโอกาส 4% ที่จะเกิด Power Swing Lv.4 (เมื่อเรียนรู้ในเลเวลที่สูงขึ้น จะเกิดตามเลเวลสกิลที่เรียนรู้),\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 20 ขึ้นไป, เมื่อโจมตีทางกายภาพระยะใกล้ทั่วไป มีโอกาส 8% ที่จะเปลี่ยนเป็นเกิด Power Swing Lv.8 (เมื่อเรียนรู้ในเลเวลที่สูงขึ้น จะเกิดตามเลเวลสกิลที่เรียนรู้)\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Earrings^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 529,
@@ -54452,7 +54501,7 @@
     "name": "Ju Card",
     "unidName": "Ju Card",
     "resName": "이름없는카드",
-    "description": "เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 10%\nเมื่ออาวุธเป็น Book เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt ขึ้นอีก 20%\nเมื่ออัพเกรดตั้งแต่ 14 ขึ้นไป เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt ขึ้นอีก 20%\n\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
+    "description": "เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt 10%\nเมื่ออาวุธเป็น Book เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt ขึ้นอีก 20%\nเมื่ออัพเกรดตั้งแต่ 14 ขึ้นไป เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt ขึ้นอีก 20%\n\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Weapon^000000\nน้ำหนัก : ^7777771^000000",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 0,
@@ -58403,6 +58452,9 @@
     "script": {
       "allStatus": [
         "1"
+      ],
+      "exp": [
+        "5"
       ]
     }
   },
@@ -58429,6 +58481,9 @@
     "script": {
       "allStatus": [
         "1"
+      ],
+      "exp": [
+        "5"
       ]
     }
   },
@@ -59221,7 +59276,7 @@
     "name": "Boltigin [2]",
     "unidName": "Book",
     "resName": "Boltigin",
-    "description": "หนังสือว่าด้วยการตีความทางเวทมนตร์เกี่ยวกับธาตุทั้ง 4\n^ffffff_^000000\nMATK + 175, เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 20%\nทุก ๆ การอัพเกรด 1 ขั้น MATK + 4\nเมื่ออัพเกรดถึงขั้น 9 เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt ขึ้นอีก 30%\nเมื่ออัพเกรดถึงขั้น 11 เพิ่ม Damage สกิล Heaven's Drive, Earth Spike 50%\nประเภท : ^777777Book^000000 พลังโจมตี : ^777777120^000000\nน้ำหนัก : ^77777780^000000\nเลเวลอาวุธ : ^7777774^000000\nเลเวลที่ต้องการ : ^777777170^000000\nอาชีพที่ใส่ได้ : ^777777Sorcerer^000000",
+    "description": "หนังสือว่าด้วยการตีความทางเวทมนตร์เกี่ยวกับธาตุทั้ง 4\n^ffffff_^000000\nMATK + 175, เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt 20%\nทุก ๆ การอัพเกรด 1 ขั้น MATK + 4\nเมื่ออัพเกรดถึงขั้น 9 เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt ขึ้นอีก 30%\nเมื่ออัพเกรดถึงขั้น 11 เพิ่ม Damage สกิล Heaven's Drive, Earth Spike 50%\nประเภท : ^777777Book^000000 พลังโจมตี : ^777777120^000000\nน้ำหนัก : ^77777780^000000\nเลเวลอาวุธ : ^7777774^000000\nเลเวลที่ต้องการ : ^777777170^000000\nอาชีพที่ใส่ได้ : ^777777Sorcerer^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 271,
@@ -59796,7 +59851,7 @@
     "name": "Jack the Knife [2]",
     "unidName": "Knife",
     "resName": "Jack_The_Knife",
-    "description": "มีดสั้นที่มีใบมีดแหลมคม\nมันมีความจำเพาะที่ใช้ได้ดีทั้งการเฉือนและการแทง\n^ffffff_^000000 \nเพิ่ม Damage สกิล Back Stab 40%\nทุก ๆ การอัพเกรด 1 ขั้น ATK + 4\nเมื่ออัพเกรดถึงขั้น 9 เพิ่ม Damage สกิล Fatal Menace 30%\nเมื่ออัพเกรดถึงขั้น 11 ลดการใช้ SP ของสกิล Fatal Menace 10%\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777185^000000\nน้ำหนัก : ^77777790^000000\nเลเวลอาวุธ : ^7777774^000000\nเลเวลที่ต้องการ : ^777777170^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
+    "description": "มีดสั้นที่มีใบมีดแหลมคม\nมันมีความจำเพาะที่ใช้ได้ดีทั้งการเฉือนและการแทง\n^ffffff_^000000 \nเพิ่ม Damage สกิล Back Stab 40%\nทุก ๆ การอัพเกรด 1 ขั้น ATK + 4\nเมื่ออัพเกรดถึงขั้น 9 เพิ่ม Damage สกิล Fatal Manace 30%\nเมื่ออัพเกรดถึงขั้น 11 ลดการใช้ SP ของสกิล Fatal Manace 10%\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777185^000000\nน้ำหนัก : ^77777790^000000\nเลเวลอาวุธ : ^7777774^000000\nเลเวลที่ต้องการ : ^777777170^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 256,
@@ -66914,7 +66969,7 @@
     "name": "Gertie's Memory",
     "unidName": "Gertie's Memory",
     "resName": "도둑피규어",
-    "description": "ทุก ๆ การอัพเกรด Jack the Knife 3 ขั้น เพิ่ม Damage สกิล Back Stab 10% และเพิ่ม Damage สกิล Fatal Menace 5%\n^ffffff_^000000 \nทุก ๆ การอัพเกรด Platinum Dagger 3 ขั้น เพิ่ม Damage เวทมนตร์ธาตุ Fire, Water, Wind, Earth 5% และเพิ่ม ASPD 2%\n^ffffff_^000000 \nทุก ๆ การอัพเกรด Rapid Fire 3 ขั้น เพิ่ม Damage สกิล Triangle Shot 7% และเพิ่ม Damage ทางกายภาพระยะไกล 2%",
+    "description": "ทุก ๆ การอัพเกรด Jack the Knife 3 ขั้น เพิ่ม Damage สกิล Back Stab 10% และเพิ่ม Damage สกิล Fatal Manace 5%\n^ffffff_^000000 \nทุก ๆ การอัพเกรด Platinum Dagger 3 ขั้น เพิ่ม Damage เวทมนตร์ธาตุ Fire, Water, Wind, Earth 5% และเพิ่ม ASPD 2%\n^ffffff_^000000 \nทุก ๆ การอัพเกรด Rapid Fire 3 ขั้น เพิ่ม Damage สกิล Triangle Shot 7% และเพิ่ม Damage ทางกายภาพระยะไกล 2%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -67234,7 +67289,7 @@
     "name": "Scholar Stone II (Middle)",
     "unidName": "Scholar Stone II (Middle)",
     "resName": "마술사피규어",
-    "description": "เพิ่ม Damage ของ Fire Bolt, Cold Bolt, Lightning Bolt 20%",
+    "description": "เพิ่ม Damage ของ Fire Bolt, Cold Bolt, Lightening Bolt 20%",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 72,
@@ -72569,7 +72624,7 @@
     "name": "Sewage Venenum Card",
     "unidName": "Sewage Venenum Card",
     "resName": "이름없는카드",
-    "description": "AGI +2, DEX +1\nMaxHP +10%, เพิ่ม Damage สกิล Fatal Menace, Triangle Shot 10%\nเมื่อใช้ร่วมกับ Scimitar Buffalo Bandit Card และ Aries Card เพิ่ม Damage สกิล Fatal Menace, Triangle Shot 20%,\nทุก ๆ การอัพเกรด Shoes 2 ขั้น เพิ่ม Damage สกิล Fatal Menace ขึ้นอีก 5% และทุก ๆ การอัพเกรด Weapon 2 ขั้น เพิ่ม Damage สกิล Triangle Shot ขึ้นอีก 5%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Accessory^000000\nน้ำหนัก : ^7777771^000000",
+    "description": "AGI +2, DEX +1\nMaxHP +10%, เพิ่ม Damage สกิล Fatal Manace, Triangle Shot 10%\nเมื่อใช้ร่วมกับ Scimitar Buffalo Bandit Card และ Aries Card เพิ่ม Damage สกิล Fatal Manace, Triangle Shot 20%,\nทุก ๆ การอัพเกรด Shoes 2 ขั้น เพิ่ม Damage สกิล Fatal Manace ขึ้นอีก 5% และทุก ๆ การอัพเกรด Weapon 2 ขั้น เพิ่ม Damage สกิล Triangle Shot ขึ้นอีก 5%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Accessory^000000\nน้ำหนัก : ^7777771^000000",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 0,
@@ -74053,7 +74108,7 @@
     "name": "Midnight Ju Card",
     "unidName": "Midnight Ju Card",
     "resName": "이름없는카드",
-    "description": "เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 15%\nเมื่ออาวุธเป็น Book เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt ขึ้นอีก 20%, เมื่ออัพเกรดถึงขั้น 14 เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt ขึ้นอีก 30%\nประเภท: ^777777Card^000000\nใช้กับ: ^777777Weapon^000000\nน้ำหนัก: ^7777771^000000",
+    "description": "เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt 15%\nเมื่ออาวุธเป็น Book เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt ขึ้นอีก 20%, เมื่ออัพเกรดถึงขั้น 14 เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt ขึ้นอีก 30%\nประเภท: ^777777Card^000000\nใช้กับ: ^777777Weapon^000000\nน้ำหนัก: ^7777771^000000",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 0,
@@ -79603,7 +79658,7 @@
     "name": "[Event] Gertie's Memory",
     "unidName": "[Event] Gertie's Memory",
     "resName": "도둑피규어",
-    "description": "เมื่อสวมใส่ร่วมกับ Gertie's Memory และ Biolab Cape(Melee/Range/Magic),\nเมื่อโจมตีทางกายภาพระยะใกล้ มีโอกาส 1% ที่จะใช้สกิล Psychic Wave Lv. 5 (ทุก ๆ การอัพเกรด Garment 3 ขั้น เพิ่มโอกาสขึ้นอีก 6%)\nทุก ๆ การอัพเกรด Garment 3 ขั้น\nเพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral 5%\nเพิ่ม Damage สกิล Fatal Menace 5%\nเพิ่ม Damage สกิล Psychic Wave 5%\nเพิ่ม Damage สกิล Triangle Shot 5%",
+    "description": "เมื่อสวมใส่ร่วมกับ Gertie's Memory และ Biolab Cape(Melee/Range/Magic),\nเมื่อโจมตีทางกายภาพระยะใกล้ มีโอกาส 1% ที่จะใช้สกิล Psychic Wave Lv. 5 (ทุก ๆ การอัพเกรด Garment 3 ขั้น เพิ่มโอกาสขึ้นอีก 6%)\nทุก ๆ การอัพเกรด Garment 3 ขั้น\nเพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral 5%\nเพิ่ม Damage สกิล Fatal Manace 5%\nเพิ่ม Damage สกิล Psychic Wave 5%\nเพิ่ม Damage สกิล Triangle Shot 5%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -85199,7 +85254,7 @@
     "name": "Automatic (Fatal Raid)",
     "unidName": "Automatic Orb (Fatal Raid)",
     "resName": "Auto_Orb_Thief",
-    "description": "เพิ่ม Damage สกิล Fatal Menace, Raid 15%\nเมื่ออัพเกรดถึงขั้น 9 เพิ่ม Damage สกิล Fatal Menace, Raid ขึ้นอีก 3%\nเมื่ออัพเกรดถึงขั้น 11 เพิ่ม Damage สกิล Fatal Menace, Raid ขึ้นอีก 7%",
+    "description": "เพิ่ม Damage สกิล Fatal Manace, Raid 15%\nเมื่ออัพเกรดถึงขั้น 9 เพิ่ม Damage สกิล Fatal Manace, Raid ขึ้นอีก 3%\nเมื่ออัพเกรดถึงขั้น 11 เพิ่ม Damage สกิล Fatal Manace, Raid ขึ้นอีก 7%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -85379,7 +85434,7 @@
     "name": "Automatic (Double Bolt)",
     "unidName": "Automatic Orb (Double Bolt)",
     "resName": "Auto_Orb_Magician",
-    "description": "เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 15%\nเมื่ออัพเกรดถึงขั้น 9 เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt ขึ้นอีก 3%\nเมื่ออัพเกรดถึงขั้น 11 เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt ขึ้นอีก 7%",
+    "description": "เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt 15%\nเมื่ออัพเกรดถึงขั้น 9 เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt ขึ้นอีก 3%\nเมื่ออัพเกรดถึงขั้น 11 เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt ขึ้นอีก 7%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -89952,7 +90007,7 @@
     "name": "Wolf Orb (Fatal Attack)",
     "unidName": "Wolf Orb (Fatal Attack)",
     "resName": "Wolf_Orb_Skill_16",
-    "description": "เพิ่ม Damage สกิล Fatal Menace, Raid 15%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage สกิล Fatal Menace, Raid ขึ้นอีก 15%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Fatal Menace, Raid ขึ้นอีก 15%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Fatal Menace, Raid ขึ้นอีก 15%",
+    "description": "เพิ่ม Damage สกิล Fatal Manace, Raid 15%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage สกิล Fatal Manace, Raid ขึ้นอีก 15%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Fatal Manace, Raid ขึ้นอีก 15%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Fatal Manace, Raid ขึ้นอีก 15%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -100147,7 +100202,7 @@
     "name": "Ice Flower Spell (Fatal Attack)",
     "unidName": "Ice Flower Spell (Fatal Attack)",
     "resName": "Ice_F_Orb_Skill_16",
-    "description": "เพิ่ม Damage สกิล Fatal Menace, Raid 15%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage สกิล Fatal Menace, Raid ขึ้นอีก 15%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Fatal Menace, Raid ขึ้นอีก 15%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Fatal Menace, Raid ขึ้นอีก 15%, เพิ่ม Damage สกิล Abyss Dagge 15%",
+    "description": "เพิ่ม Damage สกิล Fatal Manace, Raid 15%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage สกิล Fatal Manace, Raid ขึ้นอีก 15%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Fatal Manace, Raid ขึ้นอีก 15%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Fatal Manace, Raid ขึ้นอีก 15%, เพิ่ม Damage สกิล Abyss Dagge 15%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -102250,10 +102305,10 @@
   "311218": {
     "id": 311218,
     "aegisName": "Glacier_F_Orb_27",
-    "name": "Glacier Flower Spell (Fatal Menace)",
-    "unidName": "Glacier Flower Spell (Fatal Menace)",
+    "name": "Glacier Flower Spell (Fatal Manace)",
+    "unidName": "Glacier Flower Spell (Fatal Manace)",
     "resName": "Glacier_F_Orb_27",
-    "description": "เพิ่ม Damage สกิล Fatal Menace 20%\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage สกิล Fatal Menace ขึ้นอีก 10%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Fatal Menace ขึ้นอีก 20%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Fatal Menace ขึ้นอีก 20%",
+    "description": "เพิ่ม Damage สกิล Fatal Manace 20%\nทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage สกิล Fatal Manace ขึ้นอีก 10%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Fatal Manace ขึ้นอีก 20%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Fatal Manace ขึ้นอีก 20%",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -106196,7 +106251,7 @@
     "name": "Shadow Chaser Stone (Middle)",
     "unidName": "Shadow Chaser Stone (Middle)",
     "resName": "Stalker_Figure",
-    "description": "ทุก ๆ การเรียนรู้ Shadow Formation 1 เลเวล ลด Delay หลังใช้สกิล 1%\nเมื่อใช้งานร่วมกับ Shadow Chaser Stone (Garment), เพิ่ม Damage สกิล Triangle Shot 15%\nเมื่อใช้งานร่วมกับ Shadow Chaser Stone II (Garment), เพิ่ม Damage สกิล Fatal Menace 15%",
+    "description": "ทุก ๆ การเรียนรู้ Shadow Formation 1 เลเวล ลด Delay หลังใช้สกิล 1%\nเมื่อใช้งานร่วมกับ Shadow Chaser Stone (Garment), เพิ่ม Damage สกิล Triangle Shot 15%\nเมื่อใช้งานร่วมกับ Shadow Chaser Stone II (Garment), เพิ่ม Damage สกิล Fatal Manace 15%",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 72,
@@ -142694,7 +142749,7 @@
     "name": "Spinel Diadem [1]",
     "unidName": "Helm",
     "resName": "보병궁보관",
-    "description": "มงกุฎที่ทำขึ้นเพื่อร่างทดลองเฉพาะ ถูกประดับตกแต่งด้วยสปิเนลสีน้ำเงิน ซึ่งเป็นตัวแทนของความหวังและการฟื้นฟู\nทุก ๆ การอัพเกรด 2 ขั้น MATK +2%, MATK +10\nเมื่ออัพเกรดถึงขั้น 7, All Status +3 \nเมื่ออัพเกรดถึงขั้น 9, ASPD +10%\nเมื่ออัพเกรดถึงขั้น 11 เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral, Earth, Water 20%\n\nเมื่อสวมใส่ร่วมกับ Boltigin, \nMATK +10%\nทุก ๆ การอัพเกรด Weapon 1 ขั้น เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 10%\n \nเมื่อสวมใส่ร่วมกับ Psychic Spear Rod, \nลด Cooldown สกิล Psychic Wave 1 วินาที\nทุก ๆ การอัพเกรด Weapon 1 ขั้น เพิ่ม Damage สกิล Psychic Wave 3%\n\nเมื่อสวมใส่ร่วมกับ Dust Grave, \nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nทุก ๆ การอัพเกรด Weapon 1 ขั้น เพิ่ม Damage สกิล Earth Grave 10%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^77777710^000000\nตำแหน่ง : ^777777Upper ^000000 น้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777170^000000\nอาชีพที่ใส่ได้ : ^777777Sorcerer^000000",
+    "description": "มงกุฎที่ทำขึ้นเพื่อร่างทดลองเฉพาะ ถูกประดับตกแต่งด้วยสปิเนลสีน้ำเงิน ซึ่งเป็นตัวแทนของความหวังและการฟื้นฟู\nทุก ๆ การอัพเกรด 2 ขั้น MATK +2%, MATK +10\nเมื่ออัพเกรดถึงขั้น 7, All Status +3 \nเมื่ออัพเกรดถึงขั้น 9, ASPD +10%\nเมื่ออัพเกรดถึงขั้น 11 เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral, Earth, Water 20%\n\nเมื่อสวมใส่ร่วมกับ Boltigin, \nMATK +10%\nทุก ๆ การอัพเกรด Weapon 1 ขั้น เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt 10%\n \nเมื่อสวมใส่ร่วมกับ Psychic Spear Rod, \nลด Cooldown สกิล Psychic Wave 1 วินาที\nทุก ๆ การอัพเกรด Weapon 1 ขั้น เพิ่ม Damage สกิล Psychic Wave 3%\n\nเมื่อสวมใส่ร่วมกับ Dust Grave, \nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nทุก ๆ การอัพเกรด Weapon 1 ขั้น เพิ่ม Damage สกิล Earth Grave 10%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^77777710^000000\nตำแหน่ง : ^777777Upper ^000000 น้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777170^000000\nอาชีพที่ใส่ได้ : ^777777Sorcerer^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 512,
@@ -142800,6 +142855,12 @@
       ],
       "m_race_demihuman": [
         "EQUIP[Aegirnian Armor&&Aegirnian Manteau&&Aegirnian Shoes]50"
+      ],
+      "exp_race_fish": [
+        "EQUIP[Aegirnian Armor&&Aegirnian Manteau&&Aegirnian Shoes]===20"
+      ],
+      "exp_race_demihuman": [
+        "EQUIP[Aegirnian Armor&&Aegirnian Manteau&&Aegirnian Shoes]===20"
       ]
     }
   },
@@ -143559,7 +143620,7 @@
     "name": "Goat Crown [1]",
     "unidName": "Helm",
     "resName": "마갈궁왕관",
-    "description": "มงกุฎที่มีรูปร่างเหมือนกับเขาแพะ ทำขึ้นเพื่อร่างทดลองโดยเฉพาะ\nผู้สวมใส่มักมีบุคลิกนิสัยดื้อดึงและยึดติด แต่จะเอาตัวรอดได้อย่างเก่งกาจ\nทุก ๆ การอัพเกรด 2 ขั้น ATK +20, MATK +20\nเมื่ออัพเกรดถึงขั้น 7, ASPD +10%\nเมื่ออัพเกรดถึงขั้น 9, ATK +15%, MATK +15%\nเมื่ออัพเกรดถึงขั้น 11 เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%\n\nเมื่อสวมใส่ร่วมกับ Jack the Knife,\nลด Delay หลังใช้สกิล 10%\nทุก ๆ การอัพเกรด Weapon 1 ขั้น เพิ่ม Damage สกิล Fatal Menace 10%\n\nเมื่อสวมใส่ร่วมกับ Platinum Dagger,\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\nทุก ๆ การอัพเกรด Weapon 1 ขั้น เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 5%\n\nเมื่อสวมใส่ร่วมกับ Rapid Fire,\nเพิ่ม Damage ทางกายภาพระยะไกล 10%\nทุก ๆ การอัพเกรด Weapon 1 ขั้น เพิ่ม Damage สกิล Triangle Shot, Severe Rainstorm 10%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^77777710^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777170^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
+    "description": "มงกุฎที่มีรูปร่างเหมือนกับเขาแพะ ทำขึ้นเพื่อร่างทดลองโดยเฉพาะ\nผู้สวมใส่มักมีบุคลิกนิสัยดื้อดึงและยึดติด แต่จะเอาตัวรอดได้อย่างเก่งกาจ\nทุก ๆ การอัพเกรด 2 ขั้น ATK +20, MATK +20\nเมื่ออัพเกรดถึงขั้น 7, ASPD +10%\nเมื่ออัพเกรดถึงขั้น 9, ATK +15%, MATK +15%\nเมื่ออัพเกรดถึงขั้น 11 เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 10%\n\nเมื่อสวมใส่ร่วมกับ Jack the Knife,\nลด Delay หลังใช้สกิล 10%\nทุก ๆ การอัพเกรด Weapon 1 ขั้น เพิ่ม Damage สกิล Fatal Manace 10%\n\nเมื่อสวมใส่ร่วมกับ Platinum Dagger,\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%\nทุก ๆ การอัพเกรด Weapon 1 ขั้น เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 5%\n\nเมื่อสวมใส่ร่วมกับ Rapid Fire,\nเพิ่ม Damage ทางกายภาพระยะไกล 10%\nทุก ๆ การอัพเกรด Weapon 1 ขั้น เพิ่ม Damage สกิล Triangle Shot, Severe Rainstorm 10%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^77777710^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777170^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 512,
@@ -144671,7 +144732,7 @@
     "name": "Helm of Faith (Shadow Chaser) [1]",
     "unidName": "Cap",
     "resName": "Viva_Adul_Hat_SC",
-    "description": "Helm ที่บรรจุพลังแห่งความเชื่อไว้ภายใน\nสามารถเพิ่มพลังของอาวุธ Vivatus, Adulter ให้มีความแข็งแกร่งยิ่งขึ้น\n \nเมื่อ Lv.210 ขึ้นไป, POW + 2, P.ATK + 1.\nเมื่อ Lv.230 ขึ้นไป, POW + 3, P.ATK + 2.\nทุก ๆ การอัพเกรด 2 ขั้น ATK+ 10.\nทุก ๆ การอัพเกรด 3 ขั้น เพิ่ม Damage สกิล Fatal Menace 15%\nทุก ๆ การอัพเกรด 4 ขั้น เพิ่ม Damage ทางกายภาพระยะใกล้ 7%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 5%\nเมื่ออัพเกรดถึงขั้น 9, ลดระยะเวลาร่ายแบบคงที่ 0.2 วินาที.\nเมื่ออัพเกรดถึงขั้น 11, ATK + 5%, ลดระยะเวลาร่ายแบบคงที่ลงอีก 0.3 วินาที\n \nเมื่อสวมใส่ร่วมกับ Adulter Fides Dagger, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%,\nทุก ๆ การอัพเกรดอาวุธ 3 ขั้น เพิ่ม Damage สกิล Fatal Menace 5%\n \nเมื่อสวมใส่ร่วมกับ Vivatus Fides Dagger, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%,\nทุก ๆ การอัพเกรดอาวุธ 3 ขั้น เพิ่ม Damage สกิล Fatal Menace 5%, เพิ่ม Damage สกิล Abyss Dagger 7%,\nเมื่ออาวุธมี Grade C ขึ้นไป, เพิ่ม Damage สกิล Abyss Dagger ขึ้นอีก 15%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^77777710^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777180^000000\nอาชีพที่สวมใส่ : ^777777Shadow Chaser Classes^000000",
+    "description": "Helm ที่บรรจุพลังแห่งความเชื่อไว้ภายใน\nสามารถเพิ่มพลังของอาวุธ Vivatus, Adulter ให้มีความแข็งแกร่งยิ่งขึ้น\n \nเมื่อ Lv.210 ขึ้นไป, POW + 2, P.ATK + 1.\nเมื่อ Lv.230 ขึ้นไป, POW + 3, P.ATK + 2.\nทุก ๆ การอัพเกรด 2 ขั้น ATK+ 10.\nทุก ๆ การอัพเกรด 3 ขั้น เพิ่ม Damage สกิล Fatal Manace 15%\nทุก ๆ การอัพเกรด 4 ขั้น เพิ่ม Damage ทางกายภาพระยะใกล้ 7%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 5%\nเมื่ออัพเกรดถึงขั้น 9, ลดระยะเวลาร่ายแบบคงที่ 0.2 วินาที.\nเมื่ออัพเกรดถึงขั้น 11, ATK + 5%, ลดระยะเวลาร่ายแบบคงที่ลงอีก 0.3 วินาที\n \nเมื่อสวมใส่ร่วมกับ Adulter Fides Dagger, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%,\nทุก ๆ การอัพเกรดอาวุธ 3 ขั้น เพิ่ม Damage สกิล Fatal Manace 5%\n \nเมื่อสวมใส่ร่วมกับ Vivatus Fides Dagger, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%,\nทุก ๆ การอัพเกรดอาวุธ 3 ขั้น เพิ่ม Damage สกิล Fatal Manace 5%, เพิ่ม Damage สกิล Abyss Dagger 7%,\nเมื่ออาวุธมี Grade C ขึ้นไป, เพิ่ม Damage สกิล Abyss Dagger ขึ้นอีก 15%\nประเภท : ^777777Headgear^000000 พลังป้องกัน : ^77777710^000000\nตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^77777710^000000\nเลเวล Armor : ^7777772^000000\nเลเวลที่ต้องการ : ^777777180^000000\nอาชีพที่สวมใส่ : ^777777Shadow Chaser Classes^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 512,
@@ -151765,6 +151826,9 @@
     "script": {
       "acd": [
         "EQUIP[Essence of Sin Fate Lv.2||Essence of Sin Fate Lv.3]===5"
+      ],
+      "exp": [
+        "5"
       ]
     }
   },
@@ -153047,6 +153111,9 @@
       ],
       "cd__Ignition Break": [
         "EQUIP[Dragon Warrior Cloak]LEVEL[1-200]===2"
+      ],
+      "exp": [
+        "EQUIP[Dragon Warrior Cloak]REFINE[headUpper,garment==16]===10"
       ]
     }
   },
@@ -153720,6 +153787,9 @@
       ],
       "m_race_dragon": [
         "15"
+      ],
+      "exp_race_dragon": [
+        "5"
       ]
     }
   },
@@ -154820,6 +154890,9 @@
       ],
       "cri": [
         "EQUIP[Archangel Wing]REFINE[garment==8]luk:20---2"
+      ],
+      "exp": [
+        "EQUIP[Archangel Wing]===8"
       ]
     }
   },
@@ -155125,6 +155198,10 @@
       ],
       "m_race_all": [
         "EQUIP[Illusion Armor A-type||Illusion Armor B-type]8"
+      ],
+      "exp": [
+        "8",
+        "EQUIP[Illusion Armor A-type||Illusion Armor B-type]===2"
       ]
     }
   },
@@ -155158,6 +155235,11 @@
       ],
       "m_race_all": [
         "EQUIP[Automatic Armor A-Type||Automatic Armor B-Type]===8"
+      ],
+      "exp": [
+        "8",
+        "EQUIP[Automatic Engine Wing C-Type]===4",
+        "EQUIP[Automatic Engine Wing C-Type]REFINE[garment==2]---1"
       ]
     }
   },
@@ -155762,6 +155844,11 @@
       ],
       "drop": [
         "8"
+      ],
+      "exp": [
+        "8",
+        "EQUIP[Gray Wolf Manteau||Gray Wolf Muffler]===4",
+        "EQUIP[Gray Wolf Manteau||Gray Wolf Muffler]REFINE[garment==2]---1"
       ]
     }
   },
@@ -156601,7 +156688,7 @@
     "name": "Noblesse Fatal Suit [1]",
     "unidName": "Cotton Shirt",
     "resName": "Noblesse_Fatal_Suit",
-    "description": "ชุดเกราะของ Shadow Chaser ระดับสูงที่สลักลวดลายของ Rune Midgarts\n^ffffff_^000000\nATK +50\n^ffffff_^000000\nเมื่ออัพเกรดถึงขั้น 7, ASPD +3%\nเมื่ออัพเกรดถึงขั้น 9 เพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 5%\n^ffffff_^000000\nเมื่อสวมใส่ร่วมกับ Noblesse Attack Manteau, Noblesse Attack Boots, Noblesse Attack Ring,\nลด Delay หลังใช้สกิล 5%, ATK +2%, เพิ่ม Damage สกิล Fatal Menace 10%\n^ffffff_^000000\nเมื่อค่าอัพเกรดของ Noblesse Fatal Suit, Noblesse Attack Manteau, Noblesse Attack Boots รวมกันตั้งแต่ 27 ขึ้นไป,\nลด Delay หลังใช้สกิลลงอีก 5%, ATK +3%, เพิ่ม Damage สกิล Fatal Menace ขึ้นอีก 10%\n^ffffff_^000000\nประเภท : ^777777Armor^000000  พลังป้องกัน : ^77777770^000000\nน้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
+    "description": "ชุดเกราะของ Shadow Chaser ระดับสูงที่สลักลวดลายของ Rune Midgarts\n^ffffff_^000000\nATK +50\n^ffffff_^000000\nเมื่ออัพเกรดถึงขั้น 7, ASPD +3%\nเมื่ออัพเกรดถึงขั้น 9 เพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 5%\n^ffffff_^000000\nเมื่อสวมใส่ร่วมกับ Noblesse Attack Manteau, Noblesse Attack Boots, Noblesse Attack Ring,\nลด Delay หลังใช้สกิล 5%, ATK +2%, เพิ่ม Damage สกิล Fatal Manace 10%\n^ffffff_^000000\nเมื่อค่าอัพเกรดของ Noblesse Fatal Suit, Noblesse Attack Manteau, Noblesse Attack Boots รวมกันตั้งแต่ 27 ขึ้นไป,\nลด Delay หลังใช้สกิลลงอีก 5%, ATK +3%, เพิ่ม Damage สกิล Fatal Manace ขึ้นอีก 10%\n^ffffff_^000000\nประเภท : ^777777Armor^000000  พลังป้องกัน : ^77777770^000000\nน้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 513,
@@ -158135,7 +158222,7 @@
     "name": "Imperial Fatal Suit [1]",
     "unidName": "Cotton Shirt",
     "resName": "Imperial_Fatal_Suit",
-    "description": "ชุดเกราะของ Shadow Chaser ระดับสูงที่สลักลวดลายของ Rune Midgarts\n^ffffff_^000000\nATK +75\n^ffffff_^000000\nเมื่ออัพเกรดถึงขั้น 7, ASPD +5%\nเมื่ออัพเกรดถึงขั้น 9 เพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 7%\n^ffffff_^000000\nเมื่อสวมใส่ร่วมกับ Imperial Attack Manteau, Imperial Attack Boots, Imperial Attack Ring,\nลด Delay หลังใช้สกิล 5%, ATK +2%, เพิ่ม Damage สกิล Fatal Menace 10%\n^ffffff_^000000\nเมื่อค่าอัพเกรดของ Imperial Fatal Suit, Imperial Attack Manteau, Imperial Attack Boots รวมกันตั้งแต่ 27 ขึ้นไป,\nลด Delay หลังใช้สกิลลงอีก 10%, ATK +3%, เพิ่ม Damage สกิล Fatal Menace ขึ้นอีก 15%\n^ffffff_^000000\nประเภท : ^777777Armor^000000  พลังป้องกัน : ^77777790^000000\nน้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777125^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
+    "description": "ชุดเกราะของ Shadow Chaser ระดับสูงที่สลักลวดลายของ Rune Midgarts\n^ffffff_^000000\nATK +75\n^ffffff_^000000\nเมื่ออัพเกรดถึงขั้น 7, ASPD +5%\nเมื่ออัพเกรดถึงขั้น 9 เพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 7%\n^ffffff_^000000\nเมื่อสวมใส่ร่วมกับ Imperial Attack Manteau, Imperial Attack Boots, Imperial Attack Ring,\nลด Delay หลังใช้สกิล 5%, ATK +2%, เพิ่ม Damage สกิล Fatal Manace 10%\n^ffffff_^000000\nเมื่อค่าอัพเกรดของ Imperial Fatal Suit, Imperial Attack Manteau, Imperial Attack Boots รวมกันตั้งแต่ 27 ขึ้นไป,\nลด Delay หลังใช้สกิลลงอีก 10%, ATK +3%, เพิ่ม Damage สกิล Fatal Manace ขึ้นอีก 15%\n^ffffff_^000000\nประเภท : ^777777Armor^000000  พลังป้องกัน : ^77777790^000000\nน้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777125^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 513,
@@ -159585,7 +159672,7 @@
     "name": "Grace Fatal Suit [1]",
     "unidName": "Cotton Shirt",
     "resName": "Grace_Fatal_Suit",
-    "description": "ชุดเกราะของ Shadow Chaser ระดับสูงที่สลักลวดลายของ Rune Midgarts\n^ffffff_^000000\nATK +100\n^ffffff_^000000\nเมื่ออัพเกรดถึงขั้น 7, ASPD +7%\nเมื่ออัพเกรดถึงขั้น 9 เพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 10%\n^ffffff_^000000\nเมื่อสวมใส่ร่วมกับ Grace Attack Manteau, Grace Attack Boots, Grace Attack Ring,\nลด Delay หลังใช้สกิล 10%, ATK +2%, เพิ่ม Damage สกิล Fatal Menace 15%\n^ffffff_^000000\nเมื่อค่าอัพเกรดของ Grace Fatal Suit, Grace Attack Manteau, Grace Attack Boots รวมกันตั้งแต่ 27 ขึ้นไป,\nลด Delay หลังใช้สกิลลงอีก 10%, ATK +3%, เพิ่ม Damage สกิล Fatal Menace ขึ้นอีก 15%\n^ffffff_^000000\nประเภท : ^777777Armor^000000  พลังป้องกัน : ^777777100^000000\nน้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777150^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
+    "description": "ชุดเกราะของ Shadow Chaser ระดับสูงที่สลักลวดลายของ Rune Midgarts\n^ffffff_^000000\nATK +100\n^ffffff_^000000\nเมื่ออัพเกรดถึงขั้น 7, ASPD +7%\nเมื่ออัพเกรดถึงขั้น 9 เพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 10%\n^ffffff_^000000\nเมื่อสวมใส่ร่วมกับ Grace Attack Manteau, Grace Attack Boots, Grace Attack Ring,\nลด Delay หลังใช้สกิล 10%, ATK +2%, เพิ่ม Damage สกิล Fatal Manace 15%\n^ffffff_^000000\nเมื่อค่าอัพเกรดของ Grace Fatal Suit, Grace Attack Manteau, Grace Attack Boots รวมกันตั้งแต่ 27 ขึ้นไป,\nลด Delay หลังใช้สกิลลงอีก 10%, ATK +3%, เพิ่ม Damage สกิล Fatal Manace ขึ้นอีก 15%\n^ffffff_^000000\nประเภท : ^777777Armor^000000  พลังป้องกัน : ^777777100^000000\nน้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777150^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 513,
@@ -167518,6 +167605,9 @@
       ],
       "m_race_fish": [
         "9===15"
+      ],
+      "exp": [
+        "7===8"
       ]
     }
   },
@@ -169426,6 +169516,9 @@
       ],
       "m_race_insect": [
         "9===15"
+      ],
+      "exp": [
+        "7===8"
       ]
     }
   },
@@ -169509,7 +169602,7 @@
     "name": "Zodiac Boots (Mage) [1]",
     "unidName": "Zodiac Boots (Mage)",
     "resName": "HalfBloodPrincess_Shoes",
-    "description": "รองเท้าคุณภาพดีที่ได้รับพลังจากกลุ่มดาว Aquarius\n\nMATK +50\nทุก ๆ การอัพเกรด 2 ขั้น MATK +10, MATK +1%\nทุก ๆ การอัพเกรด 4 ขั้น เพิ่ม Damage สกิล Crimson Rock, Psychic Wave 15%\nเมื่ออัพเกรดตั้งแต่ 9 ขึ้นไป ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเมื่ออัพเกรดตั้งแต่ 11 ขึ้นไป ลด Delay หลังใช้สกิล 10%\n\nเมื่อสวมใส่ร่วมกับ Kathryne's Memory,\nลด Cooldown สกิล Crimson Rock 3 วินาที\nทุก ๆ การอัพเกรด Weapon 4 ขั้น เพิ่ม Damage ทางเวทมนตร์ธาตุ Fire 15% และลดระยะเวลาร่ายแบบแปรผัน 10%\n\nเมื่อสวมใส่ร่วมกับ Celia's Memory,\nลด Cooldown สกิล Psychic Wave 1 วินาที\nสามารถใช้สกิล Dark Claw Lv. 5\nลด Cooldown สกิล Dark Claw 30 วินาที\nทุก ๆ การอัพเกรด Weapon 4 ขั้น เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 40%\n\nเมื่อสวมใส่ร่วมกับ Kathryne's Memory และ Jade Crown,\nเมื่อค่าอัพเกรดรวมกันของ Headgear, Shoes, Weapon ตั้งแต่ 33 ขึ้นไป เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 20%\nและเมื่อโจมตีทางเวทมนตร์ มีโอกาส 3% ที่จะ MATK +30% เป็นเวลา 10 วินาที\nเมื่อค่าอัพเกรดรวมกันของ Headgear, Shoes, Weapon ตั้งแต่ 35 ขึ้นไป เพิกเฉยต่อพลังป้องกันทางเวทมนตร์ของมอนสเตอร์ทุกเผ่า 40% (ยกเว้น Player)\n\nเมื่อสวมใส่ร่วมกับ Celia's Memory และ Spinel Diadem,\nเมื่อค่าอัพเกรดรวมกันของ Headgear, Shoes, Weapon ตั้งแต่ 33 ขึ้นไป เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 20%\nและเมื่อโจมตีทางเวทมนตร์ มีโอกาส 3% ที่จะ INT +200 เป็นเวลา 10 วินาที\nเมื่อค่าอัพเกรดรวมกันของ Headgear, Shoes, Weapon ตั้งแต่ 35 ขึ้นไป เพิกเฉยต่อพลังป้องกันทางเวทมนตร์ของมอนสเตอร์ทุกเผ่า 40% (ยกเว้น Player)\nประเภท : ^777777Shoes^000000  พลังป้องกัน : ^77777760^000000\nน้ำหนัก : ^77777790^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Mage Class 3^000000",
+    "description": "รองเท้าคุณภาพดีที่ได้รับพลังจากกลุ่มดาว Aquarius\n\nMATK +50\nทุก ๆ การอัพเกรด 2 ขั้น MATK +10, MATK +1%\nทุก ๆ การอัพเกรด 4 ขั้น เพิ่ม Damage สกิล Crimson Rock, Psychic Wave 15%\nเมื่ออัพเกรดตั้งแต่ 9 ขึ้นไป ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเมื่ออัพเกรดตั้งแต่ 11 ขึ้นไป ลด Delay หลังใช้สกิล 10%\n\nเมื่อสวมใส่ร่วมกับ Kathryne's Memory,\nลด Cooldown สกิล Crimson Rock 3 วินาที\nทุก ๆ การอัพเกรด Weapon 4 ขั้น เพิ่ม Damage ทางเวทมนตร์ธาตุ Fire 15% และลดระยะเวลาร่ายแบบแปรผัน 10%\n\nเมื่อสวมใส่ร่วมกับ Celia's Memory,\nลด Cooldown สกิล Psychic Wave 1 วินาที\nสามารถใช้สกิล Dark Claw Lv. 5\nลด Cooldown สกิล Dark Claw 30 วินาที\nทุก ๆ การอัพเกรด Weapon 4 ขั้น เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt 40%\n\nเมื่อสวมใส่ร่วมกับ Kathryne's Memory และ Jade Crown,\nเมื่อค่าอัพเกรดรวมกันของ Headgear, Shoes, Weapon ตั้งแต่ 33 ขึ้นไป เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 20%\nและเมื่อโจมตีทางเวทมนตร์ มีโอกาส 3% ที่จะ MATK +30% เป็นเวลา 10 วินาที\nเมื่อค่าอัพเกรดรวมกันของ Headgear, Shoes, Weapon ตั้งแต่ 35 ขึ้นไป เพิกเฉยต่อพลังป้องกันทางเวทมนตร์ของมอนสเตอร์ทุกเผ่า 40% (ยกเว้น Player)\n\nเมื่อสวมใส่ร่วมกับ Celia's Memory และ Spinel Diadem,\nเมื่อค่าอัพเกรดรวมกันของ Headgear, Shoes, Weapon ตั้งแต่ 33 ขึ้นไป เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 20%\nและเมื่อโจมตีทางเวทมนตร์ มีโอกาส 3% ที่จะ INT +200 เป็นเวลา 10 วินาที\nเมื่อค่าอัพเกรดรวมกันของ Headgear, Shoes, Weapon ตั้งแต่ 35 ขึ้นไป เพิกเฉยต่อพลังป้องกันทางเวทมนตร์ของมอนสเตอร์ทุกเผ่า 40% (ยกเว้น Player)\nประเภท : ^777777Shoes^000000  พลังป้องกัน : ^77777760^000000\nน้ำหนัก : ^77777790^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Mage Class 3^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 516,
@@ -172704,6 +172797,9 @@
       ],
       "sp": [
         "level:1---2"
+      ],
+      "exp": [
+        "10"
       ]
     }
   },
@@ -174391,7 +174487,7 @@
     "name": "Black Mithril Manteau [1]",
     "unidName": "Black Mithril Manteau",
     "resName": "보자기망토",
-    "description": "ผ้าคลุมที่หลอมขึ้นด้วยมิธริลซึ่งมีน้ำหนักเบาและแข็งแกร่งเหนือเหล็กกล้า ได้รับความนิยมอย่างมากในองกรค์ลับแห่งหนึ่ง\n\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%\nทุก ๆ การเรียนรู้สกิล Reproduce 1 เลเวล Perfect Hit +10%\nทุก ๆ Base Lv. 10 เพิ่ม Damage สกิล Fatal Menace, Severe Rainstorm 2%\n\nเมื่ออัพเกรดตั้งแต่ 7 ขึ้นไป,\nลดปริมาณการใช้ SP สกิล Fatal Menace 10 หน่วย\n\nเมื่ออัพเกรดตั้งแต่ 9 ขึ้นไป,\nลด Delay หลังใช้สกิล 12%\n\nเมื่ออัพเกรดตั้งแต่ 11 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อมอนสเตอร์ประเภท Boss 15%\n\nเมื่ออัพเกรดตั้งแต่ 13 ขึ้นไป,\nยกเลิกการลงโทษขนาดของอาวุธ\n\nเมื่อสวมใส่ร่วมกับ Black Mithril Guard หรือ [Not for Sale] Black Mithril Guard,\nสามารถใช้สกิล Dark Claw Lv. 5\nทุก ๆ การอัพเกรดรวมกัน 3 ขั้น MaxHP +2%\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 21 ขึ้นไป เมื่อโจมตีทางกายภาพ มีโอกาส 3% ที่จะ AGI +200 เป็นเวลา 10 วินาที\nประเภท : ^777777Garment^000000  พลังป้องกัน : ^77777780^000000\nน้ำหนัก : ^777777250^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
+    "description": "ผ้าคลุมที่หลอมขึ้นด้วยมิธริลซึ่งมีน้ำหนักเบาและแข็งแกร่งเหนือเหล็กกล้า ได้รับความนิยมอย่างมากในองกรค์ลับแห่งหนึ่ง\n\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%\nทุก ๆ การเรียนรู้สกิล Reproduce 1 เลเวล Perfect Hit +10%\nทุก ๆ Base Lv. 10 เพิ่ม Damage สกิล Fatal Manace, Severe Rainstorm 2%\n\nเมื่ออัพเกรดตั้งแต่ 7 ขึ้นไป,\nลดปริมาณการใช้ SP สกิล Fatal Manace 10 หน่วย\n\nเมื่ออัพเกรดตั้งแต่ 9 ขึ้นไป,\nลด Delay หลังใช้สกิล 12%\n\nเมื่ออัพเกรดตั้งแต่ 11 ขึ้นไป,\nเพิ่ม Damage ทางกายภาพต่อมอนสเตอร์ประเภท Boss 15%\n\nเมื่ออัพเกรดตั้งแต่ 13 ขึ้นไป,\nยกเลิกการลงโทษขนาดของอาวุธ\n\nเมื่อสวมใส่ร่วมกับ Black Mithril Guard หรือ [Not for Sale] Black Mithril Guard,\nสามารถใช้สกิล Dark Claw Lv. 5\nทุก ๆ การอัพเกรดรวมกัน 3 ขั้น MaxHP +2%\nเมื่อค่าอัพเกรดรวมกันตั้งแต่ 21 ขึ้นไป เมื่อโจมตีทางกายภาพ มีโอกาส 3% ที่จะ AGI +200 เป็นเวลา 10 วินาที\nประเภท : ^777777Garment^000000  พลังป้องกัน : ^77777780^000000\nน้ำหนัก : ^777777250^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 515,
@@ -181288,6 +181384,10 @@
       "allTrait": [
         "1",
         "EQUIP[Fur Seal Mini Fan-LT]===3"
+      ],
+      "exp": [
+        "LEVEL[1-174]===10",
+        "LEVEL[175]===5"
       ]
     }
   },
@@ -181314,6 +181414,10 @@
     "script": {
       "allTrait": [
         "1"
+      ],
+      "exp": [
+        "LEVEL[1-174]===10",
+        "LEVEL[175]===5"
       ]
     }
   },
@@ -182384,7 +182488,7 @@
     "name": "Ring of Unknown Hero(Shadow Chaser) [1]",
     "unidName": "Ring of Unknown Hero(Shadow Chaser)",
     "resName": "Ullr_Bracelet",
-    "description": "แหวนของฮีโร่นิรนาม\n\nลด Delay หลังใช้สกิล 3%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 6%\n\nเมื่อสวมใส่ร่วมกับ Patent Madogum,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 8%\nเมื่อ Patent Madogum อัพเกรดตั้งแต่ 11 ขึ้นไป,\nเมื่อ Base INT และ AGI รวมกันได้ทุก ๆ 12 หน่วย เพิ่ม Damage สกิล Psychic Wave 1%\n\nเมื่อสวมใส่ร่วมกับ Patent Fatalist,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 8%\nเมื่อ Patent Fatalist อัพเกรดตั้งแต่ 11 ขึ้นไป,\nเมื่อ Base STR และ AGI รวมกันได้ทุก ๆ 12 หน่วย เพิ่ม Damage สกิล Fatal Menace 1%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777777^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
+    "description": "แหวนของฮีโร่นิรนาม\n\nลด Delay หลังใช้สกิล 3%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 6%\n\nเมื่อสวมใส่ร่วมกับ Patent Madogum,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกเผ่า 8%\nเมื่อ Patent Madogum อัพเกรดตั้งแต่ 11 ขึ้นไป,\nเมื่อ Base INT และ AGI รวมกันได้ทุก ๆ 12 หน่วย เพิ่ม Damage สกิล Psychic Wave 1%\n\nเมื่อสวมใส่ร่วมกับ Patent Fatalist,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 8%\nเมื่อ Patent Fatalist อัพเกรดตั้งแต่ 11 ขึ้นไป,\nเมื่อ Base STR และ AGI รวมกันได้ทุก ๆ 12 หน่วย เพิ่ม Damage สกิล Fatal Manace 1%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777777^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 510,
@@ -182994,7 +183098,7 @@
     "name": "Ring of Unknown Hero(Novice) [1]",
     "unidName": "Ring of Unknown Hero(Novice)",
     "resName": "Ullr_Bracelet",
-    "description": "แหวนของฮีโร่นิรนาม\n\nลด Delay หลังใช้สกิล 3%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 6%\n\nเมื่อสวมใส่ร่วมกับ Patent Blessed Knife,\nเพิ่ม Damage ทางกายภาพต่อมอนสเตอร์ทุกเผ่า 8%\nเมื่อ Patent Blessed Knife อัพเกรดตั้งแต่ 11 ขึ้นไป,\nเมื่อ Base STR และ AGI รวมกันได้ทุก ๆ 12 หน่วย เพิ่ม Damage สกิล Fatal Menace 1%\n\nเมื่อสวมใส่ร่วมกับ Patent Freedom Stick,\nเพิ่ม Damage ทางเวทมนตร์ต่อมอนสเตอร์ทุกเผ่า 8%\nเมื่อ Patent Freedom Stick อัพเกรดตั้งแต่ 11 ขึ้นไป,\nเมื่อ Base INT และ DEX รวมกันได้ทุก ๆ 12 หน่วย เพิ่ม Damage สกิล Psychic Wave 1%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777777^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Novice^000000",
+    "description": "แหวนของฮีโร่นิรนาม\n\nลด Delay หลังใช้สกิล 3%\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 6%\n\nเมื่อสวมใส่ร่วมกับ Patent Blessed Knife,\nเพิ่ม Damage ทางกายภาพต่อมอนสเตอร์ทุกเผ่า 8%\nเมื่อ Patent Blessed Knife อัพเกรดตั้งแต่ 11 ขึ้นไป,\nเมื่อ Base STR และ AGI รวมกันได้ทุก ๆ 12 หน่วย เพิ่ม Damage สกิล Fatal Manace 1%\n\nเมื่อสวมใส่ร่วมกับ Patent Freedom Stick,\nเพิ่ม Damage ทางเวทมนตร์ต่อมอนสเตอร์ทุกเผ่า 8%\nเมื่อ Patent Freedom Stick อัพเกรดตั้งแต่ 11 ขึ้นไป,\nเมื่อ Base INT และ DEX รวมกันได้ทุก ๆ 12 หน่วย เพิ่ม Damage สกิล Psychic Wave 1%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777777^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Novice^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 510,
@@ -183719,7 +183823,7 @@
     "name": "King Of Elemental Ring [1]",
     "unidName": "King Of Elemental Ring",
     "resName": "Lord_of_Elemental",
-    "description": "Global Cooldown -5%\nMATK + 100 \nMATK + 10%\n\nเมื่อสวมใส่ร่วมกับ Temporal Circlet (Sorcerer),\nGlobal Cooldown -5%\nทุก ๆ 3 ขั้นอัพเกรด Headgear, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 4%\nเมื่ออัพเกรดถึงขั้น 11, เมื่อโจมตีทางเวทมนตร์ มีโอกาส 3% ที่จะ MATK + 20%, INT + 100 เป็นเวลา 10 วินาที\n\nเมื่อสวมใส่ร่วมกับ All Above Time (Magic),\nGlobal Cooldown -5%\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 10%\n\nเมื่อใช้งานร่วมกับ Temporal Jewel (Int) Lv. 3,\nลด Cooldown สกิล Psychic Wave 1 วินาที\nทุก ๆ 2 ขั้นอัพเกรด Headgear, เพิ่ม Damage สกิล Psychic Wave 20%\n\nเมื่อใช้งานร่วมกับ Temporal Jewel (Agi) Lv. 3,\nลด Cooldown สกิล Diamond Dust 1 วินาที\nทุก ๆ 2 ขั้นอัพเกรด Headgear, เพิ่ม Damage สกิล Diamond Dust 20%\n\nเมื่อใช้งานร่วมกับ Temporal Jewel (Vit) Lv. 3,\nเมื่อโจมตีทางกายภาพระยะใกล้ทั่วไป, มีโอกาส 15% ที่จะเกิดสกิล Cold Bolt Lv. 10\nทุก ๆ 2 ขั้นอัพเกรด Headgear, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 8%\n\nเมื่อใช้งานร่วมกับ Time Jewel (Int) Lv. 3,\nลด Cooldown สกิล Psychic Wave 0.35 วินาที\nเพิ่ม Damage สกิล Psychic Wave 70%\n\nเมื่อใช้งานร่วมกับ Time Jewel (Agi) Lv. 3,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 10%\nเพิ่ม Damage สกิล Diamond Dust 70%\n\nเมื่อใช้งานร่วมกับ Time Jewel (Vit) Lv. 3,\nเมื่อโจมตีทางกายภาพระยะใกล้ทั่วไป, มีโอกาส 8% ที่จะใช้งานสกิล Dark Claw Lv. 5 ใส่เป้าหมาย\nเพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 280%\nประเภท : ^777777Accessory (Left)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777170^000000\nอาชีพที่ใส่ได้ : ^777777Sorcerer^000000",
+    "description": "Global Cooldown -5%\nMATK + 100 \nMATK + 10%\n\nเมื่อสวมใส่ร่วมกับ Temporal Circlet (Sorcerer),\nGlobal Cooldown -5%\nทุก ๆ 3 ขั้นอัพเกรด Headgear, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 4%\nเมื่ออัพเกรดถึงขั้น 11, เมื่อโจมตีทางเวทมนตร์ มีโอกาส 3% ที่จะ MATK + 20%, INT + 100 เป็นเวลา 10 วินาที\n\nเมื่อสวมใส่ร่วมกับ All Above Time (Magic),\nGlobal Cooldown -5%\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 10%\n\nเมื่อใช้งานร่วมกับ Temporal Jewel (Int) Lv. 3,\nลด Cooldown สกิล Psychic Wave 1 วินาที\nทุก ๆ 2 ขั้นอัพเกรด Headgear, เพิ่ม Damage สกิล Psychic Wave 20%\n\nเมื่อใช้งานร่วมกับ Temporal Jewel (Agi) Lv. 3,\nลด Cooldown สกิล Diamond Dust 1 วินาที\nทุก ๆ 2 ขั้นอัพเกรด Headgear, เพิ่ม Damage สกิล Diamond Dust 20%\n\nเมื่อใช้งานร่วมกับ Temporal Jewel (Vit) Lv. 3,\nเมื่อโจมตีทางกายภาพระยะใกล้ทั่วไป, มีโอกาส 15% ที่จะเกิดสกิล Cold Bolt Lv. 10\nทุก ๆ 2 ขั้นอัพเกรด Headgear, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 8%\n\nเมื่อใช้งานร่วมกับ Time Jewel (Int) Lv. 3,\nลด Cooldown สกิล Psychic Wave 0.35 วินาที\nเพิ่ม Damage สกิล Psychic Wave 70%\n\nเมื่อใช้งานร่วมกับ Time Jewel (Agi) Lv. 3,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 10%\nเพิ่ม Damage สกิล Diamond Dust 70%\n\nเมื่อใช้งานร่วมกับ Time Jewel (Vit) Lv. 3,\nเมื่อโจมตีทางกายภาพระยะใกล้ทั่วไป, มีโอกาส 8% ที่จะใช้งานสกิล Dark Claw Lv. 5 ใส่เป้าหมาย\nเพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt 280%\nประเภท : ^777777Accessory (Left)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777170^000000\nอาชีพที่ใส่ได้ : ^777777Sorcerer^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 511,
@@ -183842,7 +183946,7 @@
     "name": "Giant Protection [1]",
     "unidName": "Giant Protection",
     "resName": "Giant_Protection",
-    "description": "ลดดีเลย์หลังใช้สกิล 5%,\nATK + 100\nATK + 10%\n\nเมื่อสวมใส่ร่วมกับ Temporal Circlet (Shadow Chaser),\nลดดีเลย์หลังใช้สกิล 5%,\nทุก ๆ การอัพเกรด Headgear 2 ขั้น, เพิ่ม Damage สกิล Fatal Menace, Triangle Shot 15%,\nทุก ๆ การอัพเกรด Headgear 3 ขั้น, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 4%,\nเมื่ออัพเกรดถึงขั้น 11, เมื่อโจมตีทางกายภาพ มีโอกาส 3% ที่จะ ATK + 20%, AGI + 100 เป็นเวลา 10 วินาที\n\nเมื่อสวมใส่ร่วมกับ All Above Time (Range) หรือ All Above Time (Melee),\nลดดีเลย์หลังใช้สกิล 5%,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 10%\n\nเมื่อใช้งานร่วมกับ Temporal Jewel (Str) Lv. 3,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 15%,\nทุก ๆ การอัพเกรด Headgear 2 ขั้น, เพิ่ม Damage สกิล Fatal Menace 5%\n\nเมื่อใช้งานร่วมกับ Temporal Jewel (Dex) Lv. 3,\nลด Cooldown สกิล Feint Bomb ลง 1.8 วินาที,\nทุก ๆ การอัพเกรด Headgear 2 ขั้น, เพิ่ม Damage สกิล Triangle Shot 10%\n\nเมื่อใช้งานร่วมกับ Time Jewel (Str) Lv. 3,\nเมื่อโจมตีทางกายภาพ มีโอกาส 3% ที่จะฟื้นฟู HP 3% ของ Damage ที่ทำ,\nเมื่อโจมตีทางกายภาพ มีโอกาส 1% ที่จะฟื้นฟู SP 2% ของ Damage ที่ทำ,\nเพิ่ม Damage สกิล Fatal Menace 70%\n\nเมื่อใช้งานร่วมกับ Time Jewel (Dex) Lv. 3,\nเพิ่ม Damage ทางกายภาพระยะไกล 30%,\nเพิ่ม Damage สกิล Triangle Shot 105%\n\nประเภท : ^777777Accessory (Left)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777170^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser Class^000000",
+    "description": "ลดดีเลย์หลังใช้สกิล 5%,\nATK + 100\nATK + 10%\n\nเมื่อสวมใส่ร่วมกับ Temporal Circlet (Shadow Chaser),\nลดดีเลย์หลังใช้สกิล 5%,\nทุก ๆ การอัพเกรด Headgear 2 ขั้น, เพิ่ม Damage สกิล Fatal Manace, Triangle Shot 15%,\nทุก ๆ การอัพเกรด Headgear 3 ขั้น, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 4%,\nเมื่ออัพเกรดถึงขั้น 11, เมื่อโจมตีทางกายภาพ มีโอกาส 3% ที่จะ ATK + 20%, AGI + 100 เป็นเวลา 10 วินาที\n\nเมื่อสวมใส่ร่วมกับ All Above Time (Range) หรือ All Above Time (Melee),\nลดดีเลย์หลังใช้สกิล 5%,\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 10%\n\nเมื่อใช้งานร่วมกับ Temporal Jewel (Str) Lv. 3,\nเพิ่ม Damage ทางกายภาพระยะใกล้ 15%,\nทุก ๆ การอัพเกรด Headgear 2 ขั้น, เพิ่ม Damage สกิล Fatal Manace 5%\n\nเมื่อใช้งานร่วมกับ Temporal Jewel (Dex) Lv. 3,\nลด Cooldown สกิล Feint Bomb ลง 1.8 วินาที,\nทุก ๆ การอัพเกรด Headgear 2 ขั้น, เพิ่ม Damage สกิล Triangle Shot 10%\n\nเมื่อใช้งานร่วมกับ Time Jewel (Str) Lv. 3,\nเมื่อโจมตีทางกายภาพ มีโอกาส 3% ที่จะฟื้นฟู HP 3% ของ Damage ที่ทำ,\nเมื่อโจมตีทางกายภาพ มีโอกาส 1% ที่จะฟื้นฟู SP 2% ของ Damage ที่ทำ,\nเพิ่ม Damage สกิล Fatal Manace 70%\n\nเมื่อใช้งานร่วมกับ Time Jewel (Dex) Lv. 3,\nเพิ่ม Damage ทางกายภาพระยะไกล 30%,\nเพิ่ม Damage สกิล Triangle Shot 105%\n\nประเภท : ^777777Accessory (Left)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777170^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser Class^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 511,
@@ -186643,7 +186747,7 @@
     "name": "Abyss Chaser Tail [1]",
     "unidName": "Abyss Chaser Tail",
     "resName": "카우다다이모니카",
-    "description": "ATK + 100\nCRI + 15\nลด Delay หลังใช้สกิล 10%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%\nเพิ่ม Damage สกิล Deft Stab 25%\nเพิ่ม Damage สกิล Fatal Menace 35%\n\nเมื่อสวมใส่ร่วมกับ Poenitentia Dilacero ที่มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nP.ATK + 10\nเพิ่ม Damage สกิล Deft Stab 35%\nเพิ่ม Damage สกิล Fatal Menace 70%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 15%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ต้องการ : ^777777Abyss Chaser^000000",
+    "description": "ATK + 100\nCRI + 15\nลด Delay หลังใช้สกิล 10%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%\nเพิ่ม Damage สกิล Deft Stab 25%\nเพิ่ม Damage สกิล Fatal Manace 35%\n\nเมื่อสวมใส่ร่วมกับ Poenitentia Dilacero ที่มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nP.ATK + 10\nเพิ่ม Damage สกิล Deft Stab 35%\nเพิ่ม Damage สกิล Fatal Manace 70%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 15%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ต้องการ : ^777777Abyss Chaser^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 510,
@@ -186692,7 +186796,7 @@
     "name": "Poenitentia Ring (Abyss Chaser) [1]",
     "unidName": "Poenitentia Ring (Abyss Chaser)",
     "resName": "Into_The_Abyss",
-    "description": "ATK + 100\nCRI + 15\nลด Delay หลังใช้สกิล 10%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%\nเพิ่ม Damage สกิล Deft Stab 25%\nเพิ่ม Damage สกิล Fatal Menace 35%\n\nเมื่อสวมใส่ร่วมกับ Poenitentia Dilacero ที่มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nP.ATK + 10\nเมื่อใช้งานสกิล Deft Stab มีโอกาส 40% ที่จะเกิด Autospell สกิล Deft Stab Lv.10\nประเภท : ^777777Accessory (Left)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ต้องการ : ^777777Abyss Chaser^000000",
+    "description": "ATK + 100\nCRI + 15\nลด Delay หลังใช้สกิล 10%\nเพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%\nเพิ่ม Damage สกิล Deft Stab 25%\nเพิ่ม Damage สกิล Fatal Manace 35%\n\nเมื่อสวมใส่ร่วมกับ Poenitentia Dilacero ที่มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nP.ATK + 10\nเมื่อใช้งานสกิล Deft Stab มีโอกาส 40% ที่จะเกิด Autospell สกิล Deft Stab Lv.10\nประเภท : ^777777Accessory (Left)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777710^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ต้องการ : ^777777Abyss Chaser^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 511,
@@ -187743,6 +187847,10 @@
       ],
       "fct": [
         "EQUIP[Ragnarok Stars 2025 Card]===0.2"
+      ],
+      "exp": [
+        "5",
+        "EQUIP[Ragnarok Stars 2025 Card]===5"
       ]
     }
   },
@@ -190348,7 +190456,7 @@
     "name": "Gula Teeth [2]",
     "unidName": "Knife",
     "resName": "Ep172_1h_Dagger2",
-    "description": "เครื่องมือที่ใช้ในการทดลองหลายประเภท\nแต่รูปร่างเปลี่ยนไปอย่างมากจากเครื่องรบกวนพลังเวทย์ที่กลุ่ม Illusion ติดตั้งทิ้งเอาไว้\n\nเพิ่ม Damage สกิล Fatal Menace 10%\nทุก ๆ การอัพเกรด 3 ขั้น ATK +12\nเมื่ออัพเกรดถึงขั้น 7 เพิ่ม Damage สกิล Fatal Menace ขึ้นอีก 10%\nเมื่ออัพเกรดถึงขั้น 9 ลด Delay หลังใช้สกิล 10%\nเมื่ออัพเกรดถึงขั้น 11 เพิ่ม Damage สกิล Fatal Menace ขึ้นอีก 15%\n\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777180^000000\nน้ำหนัก : ^77777790^000000\nเลเวลของอาวุธ : ^7777774^000000\nเลเวลที่ต้องการ : ^777777150^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
+    "description": "เครื่องมือที่ใช้ในการทดลองหลายประเภท\nแต่รูปร่างเปลี่ยนไปอย่างมากจากเครื่องรบกวนพลังเวทย์ที่กลุ่ม Illusion ติดตั้งทิ้งเอาไว้\n\nเพิ่ม Damage สกิล Fatal Manace 10%\nทุก ๆ การอัพเกรด 3 ขั้น ATK +12\nเมื่ออัพเกรดถึงขั้น 7 เพิ่ม Damage สกิล Fatal Manace ขึ้นอีก 10%\nเมื่ออัพเกรดถึงขั้น 9 ลด Delay หลังใช้สกิล 10%\nเมื่ออัพเกรดถึงขั้น 11 เพิ่ม Damage สกิล Fatal Manace ขึ้นอีก 15%\n\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777180^000000\nน้ำหนัก : ^77777790^000000\nเลเวลของอาวุธ : ^7777774^000000\nเลเวลที่ต้องการ : ^777777150^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 256,
@@ -190430,7 +190538,7 @@
     "name": "Magic Fatal Booster Dagger",
     "unidName": "Knife",
     "resName": "MF_B_Dagger",
-    "description": "^ff0000ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\n^ff0000ไม่สามารถฝากคลังได้^000000\nมีดสั้นที่ถูกสร้างขึ้นเพื่อช่วยเหลือการเติบโตของนักผจญภัย\n^000088ไม่สามารถอัพเกรดทั่วไปได้^000000\nMATK +180\nATK +2%, MATK +2%\nทุก ๆ การอัพเกรด 1 ขั้น ATK +3, MATK +3\nทุก ๆ Base Lv. 15, ATK +3, MATK +3 (ใช้งานสูงสุดถึง Lv. 195)\nเมื่ออัพเกรดถึงขั้น 7 ทุก ๆ การเรียนรู้สกิล Plagiarism 1 เลเวล เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral 1%, ทุก ๆ การเรียนรู้สกิล Back Stab 1 เลเวล ลด Delay หลังใช้สกิล 1%\nเมื่ออัพเกรดถึงขั้น 9, ASPD +1, เพิ่ม Damage สกิล Fatal Menace 25%\nเมื่ออัพเกรดถึงขั้น 11 เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 15%, เพิ่ม Damage ทางกายภาพระยะใกล้ 15%\nเมื่ออัพเกรดถึงขั้น 13 เพิ่ม Damage สกิล Fatal Menace ขึ้นอีก 15%, เพิ่ม Damage สกิล Psychic Wave 15%\n^ffffff_^000000\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777190^000000\nน้ำหนัก : ^7777770^000000\nเลเวลของอาวุธ : ^7777774^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
+    "description": "^ff0000ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000\n^ff0000ไม่สามารถฝากคลังได้^000000\nมีดสั้นที่ถูกสร้างขึ้นเพื่อช่วยเหลือการเติบโตของนักผจญภัย\n^000088ไม่สามารถอัพเกรดทั่วไปได้^000000\nMATK +180\nATK +2%, MATK +2%\nทุก ๆ การอัพเกรด 1 ขั้น ATK +3, MATK +3\nทุก ๆ Base Lv. 15, ATK +3, MATK +3 (ใช้งานสูงสุดถึง Lv. 195)\nเมื่ออัพเกรดถึงขั้น 7 ทุก ๆ การเรียนรู้สกิล Plagiarism 1 เลเวล เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral 1%, ทุก ๆ การเรียนรู้สกิล Back Stab 1 เลเวล ลด Delay หลังใช้สกิล 1%\nเมื่ออัพเกรดถึงขั้น 9, ASPD +1, เพิ่ม Damage สกิล Fatal Manace 25%\nเมื่ออัพเกรดถึงขั้น 11 เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 15%, เพิ่ม Damage ทางกายภาพระยะใกล้ 15%\nเมื่ออัพเกรดถึงขั้น 13 เพิ่ม Damage สกิล Fatal Manace ขึ้นอีก 15%, เพิ่ม Damage สกิล Psychic Wave 15%\n^ffffff_^000000\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777190^000000\nน้ำหนัก : ^7777770^000000\nเลเวลของอาวุธ : ^7777774^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
     "slots": 0,
     "itemTypeId": 1,
     "itemSubTypeId": 256,
@@ -190701,7 +190809,7 @@
     "name": "Poenitentia Dilacero [2]",
     "unidName": "Knife",
     "resName": "Poenetentia_Dilacero",
-    "description": "Dagger ที่โอบอุ้มความเจ็บปวดจากการสูญเสีย\n\nATK + 10%.\nเพิ่ม Damage สกิล Deft Stab 10%\nทุก ๆ การอัพเกรด 2 ขั้น, เพิ่ม Damage สกิล Fatal Menace 3%\nเมื่ออัพเกรดถึงขั้น 7, ASPD + 10%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Fatal Menace ขึ้นอีก 30%\nเมื่ออัพเกรดถึงขั้น 11, ลด Delay หลังใช้สกิล 12%\n^ffffff_^000000\n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] เพิ่ม Damage สกิล Deft Stab ขึ้นอีก 5%\n[Grade C] เพิ่ม Damage สกิล Deft Stab ขึ้นอีก 8%, P.ATK + 1.\n[Grade B] เพิ่ม Damage สกิล Deft Stab ขึ้นอีก 12%, POW + 1.\n^ffffff_^000000\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777190^000000\nน้ำหนัก : ^77777790^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Abyss Chaser^000000",
+    "description": "Dagger ที่โอบอุ้มความเจ็บปวดจากการสูญเสีย\n\nATK + 10%.\nเพิ่ม Damage สกิล Deft Stab 10%\nทุก ๆ การอัพเกรด 2 ขั้น, เพิ่ม Damage สกิล Fatal Manace 3%\nเมื่ออัพเกรดถึงขั้น 7, ASPD + 10%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Fatal Manace ขึ้นอีก 30%\nเมื่ออัพเกรดถึงขั้น 11, ลด Delay หลังใช้สกิล 12%\n^ffffff_^000000\n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] เพิ่ม Damage สกิล Deft Stab ขึ้นอีก 5%\n[Grade C] เพิ่ม Damage สกิล Deft Stab ขึ้นอีก 8%, P.ATK + 1.\n[Grade B] เพิ่ม Damage สกิล Deft Stab ขึ้นอีก 12%, POW + 1.\n^ffffff_^000000\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777190^000000\nน้ำหนัก : ^77777790^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777230^000000\nอาชีพที่ใส่ได้ : ^777777Abyss Chaser^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 256,
@@ -190803,7 +190911,7 @@
     "name": "Adulter Fides Dagger [2]",
     "unidName": "Knife",
     "resName": "Adulter_F_Dagger",
-    "description": "Dagger ที่ซึมซับไปด้วยความเชื่อที่ผิดเพี้ยน\n\nเพิ่ม Damage สกิล Fatal Menace 10%\nทุก ๆ การอัพเกรด 3 ขั้น ATK + 12.\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage สกิล Fatal Menace ขึ้นอีก 20%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Fatal Menace ขึ้นอีก 25%\nเมื่ออัพเกรดถึงขั้น 12, เพิ่ม Damage ทางกายภาพระยะใกล้ 15%\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777210^000000\nน้ำหนัก : ^777777120^000000\nเลเวล Weapon : ^7777774^000000\nเลเวลที่ต้องการ : ^777777180^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser Class^000000",
+    "description": "Dagger ที่ซึมซับไปด้วยความเชื่อที่ผิดเพี้ยน\n\nเพิ่ม Damage สกิล Fatal Manace 10%\nทุก ๆ การอัพเกรด 3 ขั้น ATK + 12.\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage สกิล Fatal Manace ขึ้นอีก 20%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Fatal Manace ขึ้นอีก 25%\nเมื่ออัพเกรดถึงขั้น 12, เพิ่ม Damage ทางกายภาพระยะใกล้ 15%\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777210^000000\nน้ำหนัก : ^777777120^000000\nเลเวล Weapon : ^7777774^000000\nเลเวลที่ต้องการ : ^777777180^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser Class^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 256,
@@ -190840,7 +190948,7 @@
     "name": "Vivatus Fides Dagger [2]",
     "unidName": "Knife",
     "resName": "Vivatus_F_Dagger",
-    "description": "Dagger ที่เกิดใหม่ด้วยพลังของความเชื่อที่แท้จริงผ่านพิธีชำระล้าง\n\nเพิ่ม Damage สกิล Fatal Menace 10%\nทุก ๆ การอัพเกรด 3 ขั้น ATK + 12.\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage สกิล Fatal Menace ขึ้นอีก 20%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Fatal Menace ขึ้นอีก 25%\nเมื่ออัพเกรดถึงขั้น 12, เพิ่ม Damage ทางกายภาพระยะใกล้ 15%\n^ffffff_^000000\n^CC3D3D[Option ตามแต่ละ Grade]^000000\n[Grade D] เมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%\n[Grade C] เพิ่ม Damage สกิล Fatal Menace ขึ้นอีก 15%\n[Grade B] ATK + 7%.\n[Grade A] ทุก ๆ การอัพเกรด 3 ขั้น POW + 1, P.ATK + 1.\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777210^000000\nน้ำหนัก : ^777777120^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777210^000000\nอาชีพที่ใส่ได้ : ^777777Abyss Chaser^000000",
+    "description": "Dagger ที่เกิดใหม่ด้วยพลังของความเชื่อที่แท้จริงผ่านพิธีชำระล้าง\n\nเพิ่ม Damage สกิล Fatal Manace 10%\nทุก ๆ การอัพเกรด 3 ขั้น ATK + 12.\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage สกิล Fatal Manace ขึ้นอีก 20%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Fatal Manace ขึ้นอีก 25%\nเมื่ออัพเกรดถึงขั้น 12, เพิ่ม Damage ทางกายภาพระยะใกล้ 15%\n^ffffff_^000000\n^CC3D3D[Option ตามแต่ละ Grade]^000000\n[Grade D] เมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%\n[Grade C] เพิ่ม Damage สกิล Fatal Manace ขึ้นอีก 15%\n[Grade B] ATK + 7%.\n[Grade A] ทุก ๆ การอัพเกรด 3 ขั้น POW + 1, P.ATK + 1.\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777210^000000\nน้ำหนัก : ^777777120^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777210^000000\nอาชีพที่ใส่ได้ : ^777777Abyss Chaser^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 256,
@@ -190943,7 +191051,7 @@
     "name": "Eden Group Shadow Chaser Dagger",
     "unidName": "Knife",
     "resName": "저주받은단검",
-    "description": "มีดสั้นระดับสูงที่สร้างขึ้นโดย Eden Group\nMATK + 180\nไม่สามารถอัพเกรดได้\nATK + 3%, MATK + 3%, ทุก ๆ การเรียนรู้สกิล Plagiarism 1 เลเวล ลด Delay หลังใช้สกิล 1%\nหาก Base Lv.105 ขึ้นไป ASPD + 1, เพิ่ม Damage สกิล Fatal Menace 25%\nหาก Base Lv.110 ขึ้นไป เพิ่ม Damage ทางกายภาพ/เวทมนตร์ที่ทำต่อศัตรูทุกขนาด 15%, เพิ่ม Damage ทางกายภาพระยะใกล้ 15%.\nหาก Base Lv.115 ขึ้นไป เพิ่ม Damage สกิล Fatal Menace ขึ้นอีก 15%, เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral, Fire 15%\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777180^000000\nน้ำหนัก : ^7777770^000000\nเลเวลอาวุธ : ^7777774^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
+    "description": "มีดสั้นระดับสูงที่สร้างขึ้นโดย Eden Group\nMATK + 180\nไม่สามารถอัพเกรดได้\nATK + 3%, MATK + 3%, ทุก ๆ การเรียนรู้สกิล Plagiarism 1 เลเวล ลด Delay หลังใช้สกิล 1%\nหาก Base Lv.105 ขึ้นไป ASPD + 1, เพิ่ม Damage สกิล Fatal Manace 25%\nหาก Base Lv.110 ขึ้นไป เพิ่ม Damage ทางกายภาพ/เวทมนตร์ที่ทำต่อศัตรูทุกขนาด 15%, เพิ่ม Damage ทางกายภาพระยะใกล้ 15%.\nหาก Base Lv.115 ขึ้นไป เพิ่ม Damage สกิล Fatal Manace ขึ้นอีก 15%, เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral, Fire 15%\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777180^000000\nน้ำหนัก : ^7777770^000000\nเลเวลอาวุธ : ^7777774^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser^000000",
     "slots": 0,
     "itemTypeId": 1,
     "itemSubTypeId": 256,
@@ -191097,7 +191205,7 @@
     "name": "Fatalist-LT [2]",
     "unidName": "Knife",
     "resName": "Fatalist_LT",
-    "description": "เวอร์ชั่นปรับปรุงของดาบนักเดินทางเก่าที่เน้นการแทงมากกว่าการฟัน\nทำงานประสานกันกับ Hero Boots-LT\nATK + 5%.\nเมื่อ Lv.210 ขึ้นไป, POW + 2,  P.ATK + 1.\nทุก ๆ การอัพเกรด 2 ขั้น ATK + 15.\nทุก ๆ การอัพเกรด 3 ขั้น ASPD + 2%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage สกิล Fatal Menace 25%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Fatal Menace ขึ้นอีก 20%, ลด Delay หลังใช้สกิล 7%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางกายภาพระยะใกล้ 15%, ลด Delay หลังใช้สกิลลงอีก 7%\n \nเมื่อสวมใส่ร่วมกับ Hero Boots-LT, ATK + 10%, P.ATK + 2.\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] ATK + 3%.\n[Grade C] เพิ่ม Damage ทางกายภาพระยะใกล้ 15%, P.ATK + 1.\n[Grade B] POW + 3, P.ATK + 2.\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777215^000000\nน้ำหนัก : ^777777120^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777190^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser Class^000000",
+    "description": "เวอร์ชั่นปรับปรุงของดาบนักเดินทางเก่าที่เน้นการแทงมากกว่าการฟัน\nทำงานประสานกันกับ Hero Boots-LT\nATK + 5%.\nเมื่อ Lv.210 ขึ้นไป, POW + 2,  P.ATK + 1.\nทุก ๆ การอัพเกรด 2 ขั้น ATK + 15.\nทุก ๆ การอัพเกรด 3 ขั้น ASPD + 2%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage สกิล Fatal Manace 25%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Fatal Manace ขึ้นอีก 20%, ลด Delay หลังใช้สกิล 7%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางกายภาพระยะใกล้ 15%, ลด Delay หลังใช้สกิลลงอีก 7%\n \nเมื่อสวมใส่ร่วมกับ Hero Boots-LT, ATK + 10%, P.ATK + 2.\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] ATK + 3%.\n[Grade C] เพิ่ม Damage ทางกายภาพระยะใกล้ 15%, P.ATK + 1.\n[Grade B] POW + 3, P.ATK + 2.\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777215^000000\nน้ำหนัก : ^777777120^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777190^000000\nอาชีพที่ใส่ได้ : ^777777Shadow Chaser Class^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 256,
@@ -191823,7 +191931,7 @@
     "name": "Blessed Knife-LT [2]",
     "unidName": "Knife",
     "resName": "Blessed_Knife_LT",
-    "description": "มีดสั้นเวอร์ชั่นปรับปรุงที่วีรชนผู้กล้าในอดีตเคยใช้มันสู้รบ\nกล่าวขานกันว่า ภายในเปี่ยมไปด้วยพรของเหล่าเทวทูต จึงทำให้ผู้ที่ได้รับการคุ้มครองจากทูตสวรรค์เท่านั้นที่ใช้มีดนี้ได้\nทำงานประสานกันกับ Hero Boots-LT\nATK + 5%.\nเมื่อ Lv.210 ขึ้นไป, POW + 2, P.ATK + 1.\nทุก ๆ การอัพเกรด 2 ขั้น ATK + 15.\nทุก ๆ การอัพเกรด 3 ขั้น เพิ่ม Damage สกิล Back Stap 25%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%, สามารถใช้งาน Fatal Menace Lv.10\nเมื่ออัพเกรดถึงขั้น 9, ASPD + 10%, เพิ่ม Damage สกิล Fatal Menace 15%\nเมื่ออัพเกรดถึงขั้น 11, ลด Delay หลังใช้สกิล 10%, เพิ่ม Damage ทางกายภาพระยะใกล้ 20%\n \nเมื่อสวมใส่ร่วมกับ Hero Boots-LT, ATK + 10%, P.ATK + 2.\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] ATK + 3%.\n[Grade C] เพิ่ม Damage ทางกายภาพระยะใกล้ 15%, P.ATK + 1.\n[Grade B] POW + 3, P.ATK + 2.\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777220^000000\nน้ำหนัก : ^777777120^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777190^000000\nอาชีพที่สวมใส่ : ^777777Novice Classes^000000",
+    "description": "มีดสั้นเวอร์ชั่นปรับปรุงที่วีรชนผู้กล้าในอดีตเคยใช้มันสู้รบ\nกล่าวขานกันว่า ภายในเปี่ยมไปด้วยพรของเหล่าเทวทูต จึงทำให้ผู้ที่ได้รับการคุ้มครองจากทูตสวรรค์เท่านั้นที่ใช้มีดนี้ได้\nทำงานประสานกันกับ Hero Boots-LT\nATK + 5%.\nเมื่อ Lv.210 ขึ้นไป, POW + 2, P.ATK + 1.\nทุก ๆ การอัพเกรด 2 ขั้น ATK + 15.\nทุก ๆ การอัพเกรด 3 ขั้น เพิ่ม Damage สกิล Back Stap 25%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%, สามารถใช้งาน Fatal Manace Lv.10\nเมื่ออัพเกรดถึงขั้น 9, ASPD + 10%, เพิ่ม Damage สกิล Fatal Manace 15%\nเมื่ออัพเกรดถึงขั้น 11, ลด Delay หลังใช้สกิล 10%, เพิ่ม Damage ทางกายภาพระยะใกล้ 20%\n \nเมื่อสวมใส่ร่วมกับ Hero Boots-LT, ATK + 10%, P.ATK + 2.\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] ATK + 3%.\n[Grade C] เพิ่ม Damage ทางกายภาพระยะใกล้ 15%, P.ATK + 1.\n[Grade B] POW + 3, P.ATK + 2.\nประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777220^000000\nน้ำหนัก : ^777777120^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777190^000000\nอาชีพที่สวมใส่ : ^777777Novice Classes^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 256,
@@ -194125,7 +194233,7 @@
     "name": "Boosting Spellbook [2]",
     "unidName": "Book",
     "resName": "빛나는책",
-    "description": "หนังสือเวทสุดพิเศษที่เตรียมไว้เพื่อทำให้นักผจญภัยพัฒนาไปอย่างรวดเร็ว\n\nMATK +165\nMATK +2%, เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral 3%\nทุก ๆ การอัพเกรด 1 ขั้น MATK +3\nทุก ๆ Base Lv. 15, MATK +3 (ใช้งานสูงสุดถึง Lv. 180)\nเมื่ออัพเกรดถึงขั้น 7 ทุก ๆ การเรียนรู้สกิล Indulge 1 เลเวล เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral 2%\nเมื่ออัพเกรดถึงขั้น 9 เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 10%\n\nเมื่อสวมใส่ร่วมกับ Elemental Booster (Robe/Muffler/Shoes/Earring),\nMATK +20, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุดขนาด 10%,\nทุก ๆ Base Lv. 15 เพิ่ม Damage สกิล Psychic Wave 1% (ใช้งานสูงสุดถึง Lv. 180),\nเมื่อใช้สกิล Foresight เพิ่ม Damage สกิล Psychic Wave ขึ้นอีก 20% เป็นเวลา 60 วินาที\n\nเมื่อสวมใส่ร่วมกับ Defunct Booster (Robe/Muffler/Shoes/Earring),\nMATK +20, ASPD +2\nทุก ๆ Base Lv. 15 เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 2% (ใช้งานสูงสุดถึง Lv. 180),\nเมื่อใช้สกิล Lucky Cast เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt ขึ้นอีก 35% เป็นเวลา 60 วินาที\nประเภท : ^777777Book^000000 พลังโจมตี : ^777777165^000000\nน้ำหนัก : ^7777770^000000\nเลเวลของอาวุธ : ^7777774^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Sorcerer Cls^000000",
+    "description": "หนังสือเวทสุดพิเศษที่เตรียมไว้เพื่อทำให้นักผจญภัยพัฒนาไปอย่างรวดเร็ว\n\nMATK +165\nMATK +2%, เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral 3%\nทุก ๆ การอัพเกรด 1 ขั้น MATK +3\nทุก ๆ Base Lv. 15, MATK +3 (ใช้งานสูงสุดถึง Lv. 180)\nเมื่ออัพเกรดถึงขั้น 7 ทุก ๆ การเรียนรู้สกิล Indulge 1 เลเวล เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral 2%\nเมื่ออัพเกรดถึงขั้น 9 เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 10%\n\nเมื่อสวมใส่ร่วมกับ Elemental Booster (Robe/Muffler/Shoes/Earring),\nMATK +20, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุดขนาด 10%,\nทุก ๆ Base Lv. 15 เพิ่ม Damage สกิล Psychic Wave 1% (ใช้งานสูงสุดถึง Lv. 180),\nเมื่อใช้สกิล Foresight เพิ่ม Damage สกิล Psychic Wave ขึ้นอีก 20% เป็นเวลา 60 วินาที\n\nเมื่อสวมใส่ร่วมกับ Defunct Booster (Robe/Muffler/Shoes/Earring),\nMATK +20, ASPD +2\nทุก ๆ Base Lv. 15 เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt 2% (ใช้งานสูงสุดถึง Lv. 180),\nเมื่อใช้สกิล Lucky Cast เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt ขึ้นอีก 35% เป็นเวลา 60 วินาที\nประเภท : ^777777Book^000000 พลังโจมตี : ^777777165^000000\nน้ำหนัก : ^7777770^000000\nเลเวลของอาวุธ : ^7777774^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Sorcerer Cls^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 271,
@@ -195052,7 +195160,7 @@
     "name": "Eden Group Sorcerer Spell Book",
     "unidName": "Book",
     "resName": "드래곤의유산",
-    "description": "หนังสือระดับสูงที่สร้างขึ้นโดย Eden Group\nMATK + 180\nไม่สามารถอัพเกรดได้\nMATK + 5%, ทุก ๆ การเรียนรู้สกิล Auto Spell 1 เลเวล ASPD + 1%\nหาก Base Lv.105 ขึ้นไป เพิ่ม Damage ทางเวทมนตร์ธาตุ Water, Wind, Earth, Fire 10%, เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt, Earth Spike, Heaven's Drive 25%\nหาก Base Lv.110 ขึ้นไป เพิ่ม Damage ทางเวทมนตร์ธาตุ Water, Wind, Earth, Neutral ขึ้นอีก 15%, เพิ่ม Damage ทางเวทมนตร์ที่ทำต่อศัตรูทุกขนาด 15%\nหาก Base Lv.115 ขึ้นไป เพิ่ม Damage สกิล Psychic Wave, Diamond Dust, Earth Grave, Varetyr Spear ขึ้นอีก 15%\nประเภท : ^777777Book^000000 พลังโจมตี : ^777777150^000000\nน้ำหนัก : ^7777770^000000\nเลเวลอาวุธ : ^7777774^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Sorcerer^000000",
+    "description": "หนังสือระดับสูงที่สร้างขึ้นโดย Eden Group\nMATK + 180\nไม่สามารถอัพเกรดได้\nMATK + 5%, ทุก ๆ การเรียนรู้สกิล Auto Spell 1 เลเวล ASPD + 1%\nหาก Base Lv.105 ขึ้นไป เพิ่ม Damage ทางเวทมนตร์ธาตุ Water, Wind, Earth, Fire 10%, เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt, Earth Spike, Heaven's Drive 25%\nหาก Base Lv.110 ขึ้นไป เพิ่ม Damage ทางเวทมนตร์ธาตุ Water, Wind, Earth, Neutral ขึ้นอีก 15%, เพิ่ม Damage ทางเวทมนตร์ที่ทำต่อศัตรูทุกขนาด 15%\nหาก Base Lv.115 ขึ้นไป เพิ่ม Damage สกิล Psychic Wave, Diamond Dust, Earth Grave, Varetyr Spear ขึ้นอีก 15%\nประเภท : ^777777Book^000000 พลังโจมตี : ^777777150^000000\nน้ำหนัก : ^7777770^000000\nเลเวลอาวุธ : ^7777774^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Sorcerer^000000",
     "slots": 0,
     "itemTypeId": 1,
     "itemSubTypeId": 271,
@@ -196829,8 +196937,8 @@
     "name": "Furious Grimoire [2]",
     "unidName": "Book",
     "resName": "Grimoire_Furious",
-    "description": "Grimoire ซึ่งบรรจุพลังแห่งโทสะเอาไว้\n \nMATK + 190\nเพิ่ม Damage สกิล Diamond Storm 10%\nเพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 100%\nเพิ่มระยะเวลาร่ายแบบคงที่สกิล Fire Bolt, Cold Bolt, Lightning Bolt 2.5 วินาที\nเมื่อ Base Lv.210 ขึ้นไป, MATK + 4%, MATK + 40\nเมื่อ Base Lv.220 ขึ้นไป, เพิ่ม Damage สกิล Terra Drive 10%\nเมื่อ Base Lv.230 ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 10%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางเวทมนตร์ธาตุ Fire, Water, Wind, Earth 10%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt ขึ้นอีก 60%\nเมื่ออัพเกรดถึงขั้น 10, ASPD + 10%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Diamond Storm, Terra Drive ขึ้นอีก 15%, เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt ขึ้นอีก 40%\n \nเมื่อสวมใส่ร่วมกับ Furious Boot, เพิ่ม Damage สกิล Diamond Storm 15%, เมื่อโจมตีทางกายภายระยะใกล้ทั่วไป มีโอกาส 5% ที่จะ Autospell สกิล Diamond Storm Lv.4 (มีผลต่อเมื่อเรียนรู้ Diamond Storm Lv.4 ขึ้นไป, เมื่อ Furious Boot มี Grade B ขึ้นอีก มีโอกาส 7% ที่จะเกิด)\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] เพิ่ม Damage ทางเวทมนตร์ธาตุ Fire, Water, Wind, Earth 10%\n[Grade C] เพิ่ม Damage สกิล Diamond Storm 10%\n[Grade B] เพิ่ม Damage สกิล Terra Drive 10%\n[Grade A] ทุก ๆ การอัพเกรด 2 ขั้น, MATK + 3%, S.MATK + 3\nประเภท : ^777777Book^000000 พลังโจมตี : ^777777100^000000\nน้ำหนัก : ^777777100^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Elemental Master^000000",
-    "description_en": "Matk + 190.\r\nIncreases Diamond Storm damage by 10%.\r\nIncreases Fire Bolt, Cold Bolt and Lightning Bolt damage by 100%.\r\nIncreases fixed casting time of Fire Bolt, Cold Bolt and Lightning Bolt by 2.5 seconds.\r\nIf the user's base level is 210 or higher, Matk + 4%, Matk + 40.\r\nIf the user's base level is 220 or higher, increases Terra Drive damage by 10%.\r\nIf the user's base level is 230 or higher, increases magical damage against all size enemies by 10%.\r\nIf refine rate is 7 or higher, increases fire, water, wind and earth property magical damage by 10%.\r\nIf refine rate is 9 or higher, increases Fire Bolt, Cold Bolt and Lightning Bolt damage by additional 60%.\r\nIf refine rate is 10 or higher, increases attack speed (reduces delay after attack by 10%).\r\nIf refine rate is 11 or higher, increases Diamond Storm and Terra Drive damage by additional 15%, increases Fire Bolt, Cold Bolt and Lightning Bolt damage by additional 40%.\r\n\r\nWhen equipped with Furious Boots, increases Diamond Storm damage by 15%, when dealing normal melee physical damage, has a 5% chance to auto-cast Diamond Storm level 4 (the user must have learned Diamond Storm at level 4 or higher for auto-casting, if grade of Furious Boots is B or higher, increases the auto-casting chance to 7%).\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] Increases fire, water, wind and earth property magical damage by 10%.\r\n[Grade C] Increases Diamond Storm damage by 10%.\r\n[Grade B] Increases Terra Drive damage by 10%.\r\n[Grade A] Every 2 refine rate, Matk + 3%, S.Matk + 3.\r\nClass: ^777777Book^000000 Attack: ^777777100^000000\r\nWeight: ^777777100^000000\r\nWeapon Level: ^7777775^000000\r\nRequired Level: ^777777205^000000\r\nJobs: ^777777Elemental Master^000000",
+    "description": "Grimoire ซึ่งบรรจุพลังแห่งโทสะเอาไว้\n \nMATK + 190\nเพิ่ม Damage สกิล Diamond Storm 10%\nเพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt 100%\nเพิ่มระยะเวลาร่ายแบบคงที่สกิล Fire Bolt, Cold Bolt, Lightening Bolt 2.5 วินาที\nเมื่อ Base Lv.210 ขึ้นไป, MATK + 4%, MATK + 40\nเมื่อ Base Lv.220 ขึ้นไป, เพิ่ม Damage สกิล Terra Drive 10%\nเมื่อ Base Lv.230 ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 10%\nเมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางเวทมนตร์ธาตุ Fire, Water, Wind, Earth 10%\nเมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt ขึ้นอีก 60%\nเมื่ออัพเกรดถึงขั้น 10, ASPD + 10%\nเมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Diamond Storm, Terra Drive ขึ้นอีก 15%, เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt ขึ้นอีก 40%\n \nเมื่อสวมใส่ร่วมกับ Furious Boot, เพิ่ม Damage สกิล Diamond Storm 15%, เมื่อโจมตีทางกายภายระยะใกล้ทั่วไป มีโอกาส 5% ที่จะ Autospell สกิล Diamond Storm Lv.4 (มีผลต่อเมื่อเรียนรู้ Diamond Storm Lv.4 ขึ้นไป, เมื่อ Furious Boot มี Grade B ขึ้นอีก มีโอกาส 7% ที่จะเกิด)\n \n^CC3D3D[Option เพิ่มเติมตาม Grade]^000000\n[Grade D] เพิ่ม Damage ทางเวทมนตร์ธาตุ Fire, Water, Wind, Earth 10%\n[Grade C] เพิ่ม Damage สกิล Diamond Storm 10%\n[Grade B] เพิ่ม Damage สกิล Terra Drive 10%\n[Grade A] ทุก ๆ การอัพเกรด 2 ขั้น, MATK + 3%, S.MATK + 3\nประเภท : ^777777Book^000000 พลังโจมตี : ^777777100^000000\nน้ำหนัก : ^777777100^000000\nเลเวล Weapon : ^7777775^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Elemental Master^000000",
+    "description_en": "Matk + 190.\r\nIncreases Diamond Storm damage by 10%.\r\nIncreases Fire Bolt, Cold Bolt and Lightening Bolt damage by 100%.\r\nIncreases fixed casting time of Fire Bolt, Cold Bolt and Lightening Bolt by 2.5 seconds.\r\nIf the user's base level is 210 or higher, Matk + 4%, Matk + 40.\r\nIf the user's base level is 220 or higher, increases Terra Drive damage by 10%.\r\nIf the user's base level is 230 or higher, increases magical damage against all size enemies by 10%.\r\nIf refine rate is 7 or higher, increases fire, water, wind and earth property magical damage by 10%.\r\nIf refine rate is 9 or higher, increases Fire Bolt, Cold Bolt and Lightening Bolt damage by additional 60%.\r\nIf refine rate is 10 or higher, increases attack speed (reduces delay after attack by 10%).\r\nIf refine rate is 11 or higher, increases Diamond Storm and Terra Drive damage by additional 15%, increases Fire Bolt, Cold Bolt and Lightening Bolt damage by additional 40%.\r\n\r\nWhen equipped with Furious Boots, increases Diamond Storm damage by 15%, when dealing normal melee physical damage, has a 5% chance to auto-cast Diamond Storm level 4 (the user must have learned Diamond Storm at level 4 or higher for auto-casting, if grade of Furious Boots is B or higher, increases the auto-casting chance to 7%).\r\n\r\n^CC3D3D[Bonus by grade]^000000\r\n[Grade D] Increases fire, water, wind and earth property magical damage by 10%.\r\n[Grade C] Increases Diamond Storm damage by 10%.\r\n[Grade B] Increases Terra Drive damage by 10%.\r\n[Grade A] Every 2 refine rate, Matk + 3%, S.Matk + 3.\r\nClass: ^777777Book^000000 Attack: ^777777100^000000\r\nWeight: ^777777100^000000\r\nWeapon Level: ^7777775^000000\r\nRequired Level: ^777777205^000000\r\nJobs: ^777777Elemental Master^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 271,
@@ -198391,7 +198499,7 @@
     "name": "Eden Group Super Novice Wand",
     "unidName": "Rod",
     "resName": "생존의지팡이",
-    "description": "ไม้เท้าระดับสูงที่สร้างขึ้นโดย Eden Group\nMATK + 180\nไม่สามารถอัพเกรดได้\nMATK + 5%, ไม่สามารถทำลายได้, ทุก ๆ การเรียนรู้สกิล Increase SP Recovery 1 เลเวล ลดระยะเวลาร่ายแบบแปรผัน 1%\nหาก Base Lv.105 ขึ้นไป เพิ่ม Damage ทางเวทมนตร์ธาตุ Water, Wind, Earth, Fire 10%, เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt, Fire Ball, Heaven's Drive 25%\nหาก Base Lv.110 ขึ้นไป เพิ่ม Damage ทางเวทมนตร์ธาตุ Water, Wind, Earth, Fire ขึ้นอีก 10%, เพิ่ม Damage ทางเวทมนตร์ที่ทำต่อศัตรูทุกขนาด 15%,\nหาก Base Lv.115 ขึ้นไป เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt, Fire Ball, Heaven's Drive ขึ้นอีก 15%\nประเภท : ^777777Staff^000000 พลังโจมตี : ^777777100^000000\nน้ำหนัก : ^7777770^000000\nเลเวลอาวุธ : ^7777774^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Novice^000000",
+    "description": "ไม้เท้าระดับสูงที่สร้างขึ้นโดย Eden Group\nMATK + 180\nไม่สามารถอัพเกรดได้\nMATK + 5%, ไม่สามารถทำลายได้, ทุก ๆ การเรียนรู้สกิล Increase SP Recovery 1 เลเวล ลดระยะเวลาร่ายแบบแปรผัน 1%\nหาก Base Lv.105 ขึ้นไป เพิ่ม Damage ทางเวทมนตร์ธาตุ Water, Wind, Earth, Fire 10%, เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt, Fire Ball, Heaven's Drive 25%\nหาก Base Lv.110 ขึ้นไป เพิ่ม Damage ทางเวทมนตร์ธาตุ Water, Wind, Earth, Fire ขึ้นอีก 10%, เพิ่ม Damage ทางเวทมนตร์ที่ทำต่อศัตรูทุกขนาด 15%,\nหาก Base Lv.115 ขึ้นไป เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt, Fire Ball, Heaven's Drive ขึ้นอีก 15%\nประเภท : ^777777Staff^000000 พลังโจมตี : ^777777100^000000\nน้ำหนัก : ^7777770^000000\nเลเวลอาวุธ : ^7777774^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Novice^000000",
     "slots": 0,
     "itemTypeId": 1,
     "itemSubTypeId": 265,
@@ -199768,7 +199876,7 @@
     "name": "Super Novice Booster Wand",
     "unidName": "Staff",
     "resName": "Wand_Of_Flame",
-    "description": "Can't be refined by normal means.\nCan't be destroyed.\nMatk + 2%, Matk + 200.\nMatk + 3 per refine rate.\nMatk + 3 per 15 base level (up to level 195).\nIf refine rate is 7 or higher, reduces variable casting time by 1% per each level of Increase SP Recovery user learned.\nIf refine rate is 9 or higher, increases all property magical damage by 10%, increases Fire Bolt, Cold Bolt and Lightning Bolt damage by 15%.\nIf refine rate is 11 or higher, additional Matk + 10%, increases magical damage against all size enemies by 15%.\nIf refine rate is 13 or higher, increases Fire Bolt, Cold Bolt and Lightning Bolt damage by additional 25%.\n^ffffff_^000000\nClass: ^777777Staff^000000 Attack: ^777777130^000000\nWeight: ^7777770^000000\nWeapon Level: ^7777774^000000\nRequired Level: ^777777100^000000\nJobs: ^777777Novice classes^000000",
+    "description": "Can't be refined by normal means.\nCan't be destroyed.\nMatk + 2%, Matk + 200.\nMatk + 3 per refine rate.\nMatk + 3 per 15 base level (up to level 195).\nIf refine rate is 7 or higher, reduces variable casting time by 1% per each level of Increase SP Recovery user learned.\nIf refine rate is 9 or higher, increases all property magical damage by 10%, increases Fire Bolt, Cold Bolt and Lightening Bolt damage by 15%.\nIf refine rate is 11 or higher, additional Matk + 10%, increases magical damage against all size enemies by 15%.\nIf refine rate is 13 or higher, increases Fire Bolt, Cold Bolt and Lightening Bolt damage by additional 25%.\n^ffffff_^000000\nClass: ^777777Staff^000000 Attack: ^777777130^000000\nWeight: ^7777770^000000\nWeapon Level: ^7777774^000000\nRequired Level: ^777777100^000000\nJobs: ^777777Novice classes^000000",
     "slots": 0,
     "itemTypeId": 1,
     "itemSubTypeId": 265,
@@ -230269,7 +230377,8 @@
     "unidName": "Dragon Knight Stone (Garment)",
     "resName": "Lord_Knight_Figure",
     "unidResName": "Lord_Knight_Figure",
-    "description": "Every 2 levels of Hack and Slasher user learned, increases physical damage against all race monsters (except players) by 1%.\r\nWhen equipped with Rune Knight Stone (Upper), every 2 levels of Two Hand Defending user learned, increases physical damage against all size enemies by 3%.\r\nWhen equipped with Rune Knight Stone (Middle), increases Hack and Slasher damage by 10%.\r\nWhen equipped with Rune Knight Stone (Lower), C.Rate + 3, increases Storm Slash damage by 15%.",
+    "description": "ทุก ๆ การเรียนรู้สกิล Hack and Slasher 2 เลเวล เพิ่ม Damage ทางกายภาพต่อมอนสเตอร์ทุกเผ่า 1% (ยกเว้น Player)\nเมื่อใช้งานร่วมกับ Rune Knight Stone (Upper), ทุก ๆ การเรียนรู้สกิล Two-handed Defense 2 เลเวล เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 3%\nเมื่อใช้งานร่วมกับ Rune Knight Stone (Middle), เพิ่ม Damage สกิล Hack and Slasher 10%\nเมื่อใช้งานร่วมกับ Rune Knight Stone (Lower), C.RATE + 3, เพิ่ม Damage สกิล Storm Slash 15%",
+    "description_en": "Every 2 levels of Hack and Slasher user learned, increases physical damage against all race monsters (except players) by 1%.\r\nWhen equipped with Rune Knight Stone (Upper), every 2 levels of Two Hand Defending user learned, increases physical damage against all size enemies by 3%.\r\nWhen equipped with Rune Knight Stone (Middle), increases Hack and Slasher damage by 10%.\r\nWhen equipped with Rune Knight Stone (Lower), C.Rate + 3, increases Storm Slash damage by 15%.",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 74,
@@ -230306,7 +230415,8 @@
     "unidName": "Imperial Guard Stone (Garment)",
     "resName": "Paladin_Figure",
     "unidResName": "Paladin_Figure",
-    "description": "Every 2 levels of Cross Rain user learned, increases Genesis Ray damage by 10%.\r\nWhen equipped with Royal Guard Stone (Upper), increases Cross Rain damage by 15%.\r\nWhen equipped with Royal Guard Stone (Middle), increases magical damage against all size enemies by 10%.\r\nWhen equipped with Royal Guard Stone (Lower), every 2 levels of Shield Mastery user learned, increases magical damage against all property enemies by 3%.",
+    "description": "ทุก ๆ การเรียนรู้สกิล Cross Rain 2 เลเวล เพิ่ม Damage สกิล Genesis Ray 10%\nเมื่อใช้งานร่วมกับ Royal Guard Stone (Upper), เพิ่ม Damage สกิล Cross Rain 15%\nเมื่อใช้งานร่วมกับ Royal Guard Stone (Middle), เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 10%\nเมื่อใช้งานร่วมกับ Royal Guard Stone (Lower), ทุก ๆ การเรียนรู้สกิล Shield Mastery 2 เลเวล เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 3%",
+    "description_en": "Every 2 levels of Cross Rain user learned, increases Genesis Ray damage by 10%.\r\nWhen equipped with Royal Guard Stone (Upper), increases Cross Rain damage by 15%.\r\nWhen equipped with Royal Guard Stone (Middle), increases magical damage against all size enemies by 10%.\r\nWhen equipped with Royal Guard Stone (Lower), every 2 levels of Shield Mastery user learned, increases magical damage against all property enemies by 3%.",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 74,
@@ -230340,7 +230450,8 @@
     "unidName": "Nightwatch Stone (Garment)",
     "resName": "정화탄",
     "unidResName": "정화탄",
-    "description": "Every 2 levels of Hidden Card user learned, increases physical damage against all property enemies by 1%.\r\nWhen equipped with Rebellion Stone (Upper), increases The Vigilante at Night damage by 10%.\r\nWhen equipped with Rebellion Stone (Middle), increases Spiral Shooting damage by 15%.\r\nWhen equipped with Rebellion Stone (Lower), increases Magazine for One damage by 10%.",
+    "description": "ทุก ๆ การเรียนรู้สกิล Hidden Card 2 เลเวล เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 1%\nเมื่อใช้งานร่วมกับ Rebellion Stone (Upper), เพิ่ม Damage สกิล The Vigilante at Night 10%\nเมื่อใช้งานร่วมกับ Rebellion Stone (Middle), เพิ่ม Damage สกิล Spiral Shooting 15%\nเมื่อใช้งานร่วมกับ Rebellion Stone (Lower), เพิ่ม Damage สกิล Magazine for One 10%",
+    "description_en": "Every 2 levels of Hidden Card user learned, increases physical damage against all property enemies by 1%.\r\nWhen equipped with Rebellion Stone (Upper), increases The Vigilante at Night damage by 10%.\r\nWhen equipped with Rebellion Stone (Middle), increases Spiral Shooting damage by 15%.\r\nWhen equipped with Rebellion Stone (Lower), increases Magazine for One damage by 10%.",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 74,
@@ -231420,7 +231531,7 @@
     "unidName": "Shadow Chaser Stone II (Middle)",
     "resName": "Stalker_Figure",
     "unidResName": "Stalker_Figure",
-    "description": "Every level of Shadow Formation user learned, reduces global cooldown by 1%.\r\nWhen equipped with Shadow Chaser Stone (Garment), increases Feint Bomb damage by 15%.\r\nWhen equipped with Shadow Chaser Stone II (Garment), increases Fatal Menace damage by 15%.",
+    "description": "Every level of Shadow Formation user learned, reduces global cooldown by 1%.\r\nWhen equipped with Shadow Chaser Stone (Garment), increases Feint Bomb damage by 15%.\r\nWhen equipped with Shadow Chaser Stone II (Garment), increases Fatal Manace damage by 15%.",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 72,
@@ -231438,7 +231549,7 @@
       "Feint Bomb": [
         "EQUIP[Shadow Chaser Stone (Garment)]===15"
       ],
-      "Fatal Menace": [
+      "Fatal Manace": [
         "EQUIP[Shadow Chaser Stone II (Garment)]===15"
       ]
     }
@@ -231451,7 +231562,7 @@
     "unidName": "Shadow Chaser Stone II (Lower)",
     "resName": "Stalker_Figure",
     "unidResName": "Stalker_Figure",
-    "description": "Every level of Reproduce user learned, increases attack speed (reduces delay after attack by 1%).\r\nWhen equipped with Shadow Chaser Stone (Garment), increases Triangle Shot damage by 15%.\r\nWhen equipped with Shadow Chaser Stone II (Garment), increases Fatal Menace damage by 15%.",
+    "description": "Every level of Reproduce user learned, increases attack speed (reduces delay after attack by 1%).\r\nWhen equipped with Shadow Chaser Stone (Garment), increases Triangle Shot damage by 15%.\r\nWhen equipped with Shadow Chaser Stone II (Garment), increases Fatal Manace damage by 15%.",
     "slots": 0,
     "itemTypeId": 6,
     "itemSubTypeId": 73,
@@ -231469,7 +231580,7 @@
       "Triangle Shot": [
         "EQUIP[Shadow Chaser Stone (Garment)]===15"
       ],
-      "Fatal Menace": [
+      "Fatal Manace": [
         "EQUIP[Shadow Chaser Stone II (Garment)]===15"
       ]
     }
@@ -231565,7 +231676,7 @@
       "def": [
         "EQUIP[Super Novice Stone (Garment)]===120"
       ],
-      "mDef": [
+      "mdef": [
         "EQUIP[Super Novice Stone (Garment)]===15"
       ]
     }
@@ -231786,6 +231897,9 @@
         "15"
       ],
       "m_size_all": [
+        "15"
+      ],
+      "exp": [
         "15"
       ]
     }
@@ -234035,7 +234149,7 @@
       "aspdPercent": [
         "10===7"
       ],
-      "patk": [
+      "pAtk": [
         "9===3"
       ],
       "vct": [
@@ -234099,7 +234213,7 @@
       "aspdPercent": [
         "EQUIP[Entwined Magical Robe]===7"
       ],
-      "smatk": [
+      "sMatk": [
         "9===3"
       ],
       "m_final": [
@@ -234270,7 +234384,7 @@
       "aspdPercent": [
         "7===10"
       ],
-      "patk": [
+      "pAtk": [
         "9===5",
         "GRADE[me==C]===3",
         "GRADE[me==B]===3",
@@ -234346,7 +234460,7 @@
       "aspdPercent": [
         "7===10"
       ],
-      "patk": [
+      "pAtk": [
         "9===5",
         "GRADE[me==C]===3",
         "GRADE[me==B]===3",
@@ -234615,7 +234729,7 @@
       "aspdPercent": [
         "7===10"
       ],
-      "patk": [
+      "pAtk": [
         "9===5",
         "GRADE[me==B]===4"
       ],
@@ -240973,7 +241087,7 @@
         "EQUIP[Plain Rune Boots]GRADE[boot==A]===10",
         "EQUIP[Plain Rune Manteau]GRADE[garment==A]===10"
       ],
-      "patk": [
+      "pAtk": [
         "GRADE[me==C]===5"
       ],
       "hp": [
@@ -241473,7 +241587,7 @@
     "unidName": null,
     "resName": "Frontier_R_Crown",
     "unidResName": null,
-    "description": "Every 3 refine rate, MATK + 4%.\r\nEvery 4 refine rate, increases Fire Bolt, Cold Bolt, Lightning Bolt damage by 35% and Soul Strike damage by 50%.\r\nIf refine rate is 7 or higher, increases fire, water, wind and ghost property magical damage by 10%.\r\nIf refine rate is 9 or higher, S.MATK + 7, increases magical damage against all race monsters (except players) by 15%.\r\nIf refine rate is 12 or higher, MATK + 50, ASPD + 2, increases fire, water, wind and ghost property magical damage by 15%.\r\n\r\nWhen equipped with Frontier Elemental Book, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher, and Soul Strike is learned at level 10 or higher.\r\nUsing Spell Fist grants an additional effects for 150 seconds.\r\n[additional effects],\r\nIncreases skill cooldown of Soul Strike by 2 seconds.\r\nwhen using Soul Strike, has a 60% chance to auto-cast Soul Vulcan Strike level 5.\r\nevery refine rate of weapon, increases Soul Strike damage by 75% and Soul Vulcan Strike damage by 7%.\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 5.\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.\r\n[Grade B] Increases fire, water, wind and ghost property magical damage by 10%.\r\n[Grade A] Increases magical damage against all size enemies by 15%.\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Elemental Master^000000",
+    "description": "Every 3 refine rate, MATK + 4%.\r\nEvery 4 refine rate, increases Fire Bolt, Cold Bolt, Lightening Bolt damage by 35% and Soul Strike damage by 50%.\r\nIf refine rate is 7 or higher, increases fire, water, wind and ghost property magical damage by 10%.\r\nIf refine rate is 9 or higher, S.MATK + 7, increases magical damage against all race monsters (except players) by 15%.\r\nIf refine rate is 12 or higher, MATK + 50, ASPD + 2, increases fire, water, wind and ghost property magical damage by 15%.\r\n\r\nWhen equipped with Frontier Elemental Book, if the sum of refine rate of Frontier Rune Crown and the weapon is 24 or higher, and grade of each is A or higher, and Soul Strike is learned at level 10 or higher.\r\nUsing Spell Fist grants an additional effects for 150 seconds.\r\n[additional effects],\r\nIncreases skill cooldown of Soul Strike by 2 seconds.\r\nwhen using Soul Strike, has a 60% chance to auto-cast Soul Vulcan Strike level 5.\r\nevery refine rate of weapon, increases Soul Strike damage by 75% and Soul Vulcan Strike damage by 7%.\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 5.\r\n[Grade C] MaxHP + 5%, MaxSP + 5%.\r\n[Grade B] Increases fire, water, wind and ghost property magical damage by 10%.\r\n[Grade A] Increases magical damage against all size enemies by 15%.\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.\r\nClass: ^777777Headgear^000000,\r\nDefense: ^77777760^000000,\r\nLocation: ^777777Upper^000000,\r\nWeight: ^777777100^000000,\r\nArmor Level: ^7777772^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Elemental Master^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 512,
@@ -241498,7 +241612,7 @@
       "Cold Bolt": [
         "4---35"
       ],
-      "Lightning Bolt": [
+      "Lightening Bolt": [
         "4---35"
       ],
       "Soul Strike": [
@@ -242596,7 +242710,7 @@
     "unidName": null,
     "resName": "Frontier_EM_Book",
     "unidResName": null,
-    "description": "MATK + 260.\r\nS.MATK + 5, increases Fire Bolt, Cold Bolt and Lightning Bolt damage by 100%.\r\nIncreases fixed casting time of Fire Bolt, Cold Bolt and Lightning Bolt by 2.5 seconds.\r\nEvery 2 refine rate, MATK + 25, MATK + 1%.\r\nEvery 3 refine rate, increases Fire Bolt, Cold Bolt and Lightning Bolt damage by 35%.\r\nIf refine rate is 9 or higher, S.MATK + 7, increases fire, water, wind and ghost property magical damage by 15%.\r\nIf refine rate is 11 or higher, increases Fire Bolt, Cold Bolt and Lightning Bolt damage by additional 30%.\r\nIf refine rate is 12 or higher, increases Fire Bolt, Cold Bolt and Lightning Bolt damage by additional 35%, increases Soul Strike damage by 45%.\r\n\r\nWhen equipped with Frontier Rune Crown (Elemental Master), increases Soul Strike damage by 45%, increases fire, water, wind and ghost property magical damage by 15%.\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 7, increases fire, water, wind and ghost property magical damage by 10%.\r\n[Grade C] Increases Soul Strike damage by 45%.\r\n[Grade B] ASPD + 2, increases attack speed (reduces delay after attack by 10%).\r\n[Grade A] Every 2 refine rate, S.MATK + 3.\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.\r\nClass: ^777777Book^000000,\r\nAttack: ^777777100^000000,\r\nWeight: ^777777200^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Elemental Master^000000",
+    "description": "MATK + 260.\r\nS.MATK + 5, increases Fire Bolt, Cold Bolt and Lightening Bolt damage by 100%.\r\nIncreases fixed casting time of Fire Bolt, Cold Bolt and Lightening Bolt by 2.5 seconds.\r\nEvery 2 refine rate, MATK + 25, MATK + 1%.\r\nEvery 3 refine rate, increases Fire Bolt, Cold Bolt and Lightening Bolt damage by 35%.\r\nIf refine rate is 9 or higher, S.MATK + 7, increases fire, water, wind and ghost property magical damage by 15%.\r\nIf refine rate is 11 or higher, increases Fire Bolt, Cold Bolt and Lightening Bolt damage by additional 30%.\r\nIf refine rate is 12 or higher, increases Fire Bolt, Cold Bolt and Lightening Bolt damage by additional 35%, increases Soul Strike damage by 45%.\r\n\r\nWhen equipped with Frontier Rune Crown (Elemental Master), increases Soul Strike damage by 45%, increases fire, water, wind and ghost property magical damage by 15%.\r\n\r\n[Bonus by grade],\r\n[Grade D] S.MATK + 7, increases fire, water, wind and ghost property magical damage by 10%.\r\n[Grade C] Increases Soul Strike damage by 45%.\r\n[Grade B] ASPD + 2, increases attack speed (reduces delay after attack by 10%).\r\n[Grade A] Every 2 refine rate, S.MATK + 3.\r\n\r\n^ffffff^4D4DFF[Frontier Equipment]^000000^000000,\r\nRandom options can be granted with Frontier essences.\r\nClass: ^777777Book^000000,\r\nAttack: ^777777100^000000,\r\nWeight: ^777777200^000000,\r\nWeapon Level: ^7777775^000000,\r\nRequired Level: ^777777265^000000,\r\nJobs: ^777777Elemental Master^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 271,
@@ -242637,7 +242751,7 @@
         "11===30",
         "12===35"
       ],
-      "Lightning Bolt": [
+      "Lightening Bolt": [
         "100",
         "3---35",
         "11===30",
@@ -242649,7 +242763,7 @@
       "fct__Cold Bolt": [
         "-2.5"
       ],
-      "fct__Lightning Bolt": [
+      "fct__Lightening Bolt": [
         "-2.5"
       ],
       "m_my_element_fire": [
@@ -244181,6 +244295,11 @@
       ],
       "drop": [
         "10"
+      ],
+      "exp": [
+        "10",
+        "EQUIP[Automatic Engine Wing C-Type-LT]===8",
+        "EQUIP[Automatic Engine Wing C-Type-LT]REFINE[garment==2]---1"
       ]
     }
   },
@@ -244386,6 +244505,9 @@
       ],
       "m_size_all": [
         "10"
+      ],
+      "exp": [
+        "15"
       ]
     }
   },
@@ -245740,7 +245862,7 @@
     "location": null,
     "compositionPos": 65535,
     "script": {
-      "Falling Star": [
+      "Falling Stars": [
         "LEARN_SKILL[Stellar Luminance==1]---4",
         "EQUIP[Star Emperor Stone (Garment)]===15"
       ]
@@ -245844,6 +245966,11 @@
       "drop": [
         "LEVEL[200]===5",
         "[me==A]===5"
+      ],
+      "exp": [
+        "LEVEL[1-99]===50",
+        "LEVEL[100]===30",
+        "GRADE[me==D]===5"
       ]
     }
   },
@@ -246643,6 +246770,9 @@
       "matk": [
         "EQUIP[Eden Group Shoes]level:1(1-200)---1",
         "EQUIP[Eden Group Advanced Shoes]level:1(1-200)---1"
+      ],
+      "exp": [
+        "LEVEL[1-199]===10"
       ]
     }
   },
@@ -248974,6 +249104,9 @@
       ],
       "fct": [
         "13===0.3"
+      ],
+      "exp": [
+        "3---3"
       ]
     }
   },
@@ -249013,6 +249146,9 @@
       ],
       "m_size_all": [
         "11===20"
+      ],
+      "exp": [
+        "3---3"
       ]
     }
   },
@@ -249743,6 +249879,9 @@
       ],
       "matk": [
         "level:10---1"
+      ],
+      "exp": [
+        "3"
       ]
     }
   },
@@ -249775,6 +249914,9 @@
       ],
       "chance__luk": [
         "200"
+      ],
+      "exp": [
+        "6"
       ]
     }
   },
@@ -250068,6 +250210,9 @@
       ],
       "drop": [
         "10===5"
+      ],
+      "exp": [
+        "10===5"
       ]
     }
   },
@@ -250100,6 +250245,9 @@
       ],
       "drop": [
         "10===5"
+      ],
+      "exp": [
+        "10===5"
       ]
     }
   },
@@ -250131,6 +250279,9 @@
         "10===5"
       ],
       "drop": [
+        "10===5"
+      ],
+      "exp": [
         "10===5"
       ]
     }
@@ -251938,6 +252089,11 @@
       ],
       "sMatk": [
         "GRADE[me==A]===15"
+      ],
+      "exp": [
+        "2---1",
+        "11===5",
+        "GRADE[me==B]===5"
       ]
     }
   },
@@ -253212,6 +253368,11 @@
       "m_class_normal": [
         "25",
         "level:10(150-275)----2"
+      ],
+      "exp": [
+        "10",
+        "9===5",
+        "LEVEL[150]level:10(150-275)----1"
       ]
     }
   },
@@ -253252,6 +253413,11 @@
       ],
       "m_race_all": [
         "EQUIP[Limit Break Shadow Earring]===8"
+      ],
+      "exp": [
+        "10",
+        "9===5",
+        "LEVEL[150]level:10(150-275)----1"
       ]
     }
   },
@@ -261312,7 +261478,7 @@
         "7===50",
         "9===30"
       ],
-      "mDef": [
+      "mdef": [
         "20",
         "7===10",
         "9===5"
@@ -261405,7 +261571,7 @@
     "compositionPos": 65535,
     "canGrade": false,
     "script": {
-      "mRes": [
+      "mres": [
         "15",
         "7===10",
         "9===10"
@@ -261443,10 +261609,10 @@
         "GRADE[me==D]===5",
         "GRADE[me==C]===5"
       ],
-      "maxHpPercent": [
+      "hpPercent": [
         "GRADE[me==B]===5"
       ],
-      "maxSpPercent": [
+      "spPercent": [
         "GRADE[me==B]===3"
       ]
     }
@@ -261958,7 +262124,7 @@
     "location": null,
     "compositionPos": 65535,
     "script": {
-      "criticalDamage": [
+      "criDmg": [
         "EQUIP[Dim Glacier Mace||Dim Glacier Sword]===30"
       ],
       "Mayhemic Thorns": [
@@ -261994,7 +262160,7 @@
     "location": null,
     "compositionPos": 65535,
     "script": {
-      "criticalDamage": [
+      "criDmg": [
         "EQUIP[Dim Glacier Revolver]===30"
       ],
       "range": [
@@ -262891,6 +263057,9 @@
       ],
       "m_element_all": [
         "EQUIP[Summer Vacation Pope Card]10"
+      ],
+      "exp": [
+        "15"
       ]
     }
   },
@@ -263857,6 +264026,9 @@
       ],
       "m_pene_class_normal": [
         "EQUIP[Limit Break Shadow Weapon]level:5(100-275)---2"
+      ],
+      "exp": [
+        "4"
       ]
     }
   },
@@ -263868,7 +264040,7 @@
     "unidName": null,
     "resName": "웨폰쉐도우3",
     "unidResName": null,
-    "description": "ถุงมือที่สวมใส่กับมือที่ถืออาวุธ เพื่อดึงศักยภาพของผู้สวมใส่ออกมา\n^000088ไม่สามารถอัพเกรดได้^000000\nATK + 10, MATK + 10\nเมื่อสวมใส่ร่วมกับ Booster Shadow Armor/Shield/Shoes/Earring/Pendant,\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 15%, สามารถใช้สกิล Shield Chain Lv.5, สามารถใช้สกิล Lucky Cast Lv.5, เพิ่ม Damage สกิล Back Stab, Raid, Shield Boomerang, Shield Chain 20%, เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 20%, เพิกเฉยต่อพลังป้องกันทางกายภาพ/เวทมนตร์ของศัตรูทุกเผ่า 70% (ยกเว้น Player)\nเมื่อสวมใส่ร่วมกับ Super Novice Booster Dagger/Booster Shadow Armor/Shield/Shoes/Earring/Pendant,\nสามารถใช้สกิล Fatal Menace Lv.7, เพิ่ม Damage สกิล Fatal Menace 20%\nเมื่อสวมใส่ร่วมกับ Super Novice Booster Wand/Booster Shadow Armor/Shied/Shoes/Earring/Pendant,\nสามารถใช้สกิล Psychic Wave Lv.3, เพิ่ม Damage สกิล Psychic Wave 20%\n^ffffff_^000000\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Weapon^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Novice Classes^000000",
+    "description": "ถุงมือที่สวมใส่กับมือที่ถืออาวุธ เพื่อดึงศักยภาพของผู้สวมใส่ออกมา\n^000088ไม่สามารถอัพเกรดได้^000000\nATK + 10, MATK + 10\nเมื่อสวมใส่ร่วมกับ Booster Shadow Armor/Shield/Shoes/Earring/Pendant,\nเพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 15%, สามารถใช้สกิล Shield Chain Lv.5, สามารถใช้สกิล Lucky Cast Lv.5, เพิ่ม Damage สกิล Back Stab, Raid, Shield Boomerang, Shield Chain 20%, เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt 20%, เพิกเฉยต่อพลังป้องกันทางกายภาพ/เวทมนตร์ของศัตรูทุกเผ่า 70% (ยกเว้น Player)\nเมื่อสวมใส่ร่วมกับ Super Novice Booster Dagger/Booster Shadow Armor/Shield/Shoes/Earring/Pendant,\nสามารถใช้สกิล Fatal Manace Lv.7, เพิ่ม Damage สกิล Fatal Manace 20%\nเมื่อสวมใส่ร่วมกับ Super Novice Booster Wand/Booster Shadow Armor/Shied/Shoes/Earring/Pendant,\nสามารถใช้สกิล Psychic Wave Lv.3, เพิ่ม Damage สกิล Psychic Wave 20%\n^ffffff_^000000\nประเภท : ^777777Shadow Equipment^000000\nตำแหน่ง : ^777777Weapon^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^777777100^000000\nอาชีพที่ใส่ได้ : ^777777Novice Classes^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 280,
@@ -263928,7 +264100,7 @@
       "m_pene_race_all": [
         "EQUIP[Booster Shadow Armor&&Booster Shadow Shield&&Booster Shadow Shoes&&Booster Shadow Earring&&Booster Shadow Pendant]70"
       ],
-      "Fatal Menace": [
+      "Fatal Manace": [
         "EQUIP[Super Novice Booster Dagger&&Booster Shadow Armor&&Booster Shadow Shield&&Booster Shadow Shoes&&Booster Shadow Earring&&Booster Shadow Pendant]20"
       ],
       "Psychic Wave": [
@@ -265673,6 +265845,9 @@
         "GRADE[me==A]1---1"
       ],
       "drop": [
+        "EQUIP[6th Anniversary Ayothaya Ring]GRADE[me==A]===5"
+      ],
+      "exp": [
         "EQUIP[6th Anniversary Ayothaya Ring]GRADE[me==A]===5"
       ]
     }
@@ -268300,7 +268475,7 @@
     "unidName": null,
     "resName": "Jewel_Of_Time_Ore",
     "unidResName": null,
-    "description": "Increases Rolling Cutter, Psychic Wave and Fatal Menace damage by 30%.\nIncreases Cross Impact damage by 40%.\nIncreases Meteor Storm damage by 50%.",
+    "description": "Increases Rolling Cutter, Psychic Wave and Fatal Manace damage by 30%.\nIncreases Cross Impact damage by 40%.\nIncreases Meteor Storm damage by 50%.",
     "slots": 0,
     "itemTypeId": 11,
     "itemSubTypeId": 0,
@@ -268319,7 +268494,7 @@
       "Psychic Wave": [
         "30"
       ],
-      "Fatal Menace": [
+      "Fatal Manace": [
         "30"
       ],
       "Cross Impact": [
@@ -272541,7 +272716,7 @@
     "unidName": null,
     "resName": "SV_Shoes_Shadow",
     "unidResName": null,
-    "description": "Increases Alpha Fang damage by 8%.\nEvery 2 refine rate, CRI + 1, ATK + 4.\nEvery 3 refine rate, increases Alpha Fang damage by additional 2%.\n\nClass: ^777777Shadow Equipment^000000\nLocation: ^777777Shoes^000000 Weight: ^7777770^000000\nRequired Level: ^777777200^000000\nJobs: ^777777Alitea^000000",
+    "description": "Increases Alpha Claw damage by 8%.\nEvery 2 refine rate, CRI + 1, ATK + 4.\nEvery 3 refine rate, increases Alpha Fang damage by additional 2%.\n\nClass: ^777777Shadow Equipment^000000\nLocation: ^777777Shoes^000000 Weight: ^7777770^000000\nRequired Level: ^777777200^000000\nJobs: ^777777Alitea^000000",
     "slots": 0,
     "itemTypeId": 10,
     "itemSubTypeId": 528,
@@ -272557,7 +272732,7 @@
       "Alitea"
     ],
     "script": {
-      "Alpha Fang": [
+      "Alpha Claw": [
         "8",
         "3---2"
       ],
@@ -273106,6 +273281,11 @@
       ],
       "drop": [
         "10"
+      ],
+      "exp": [
+        "10",
+        "EQUIP[Gray Wolf Manteau||Gray Wolf Muffler]===4",
+        "EQUIP[Gray Wolf Manteau||Gray Wolf Muffler]REFINE[garment==2]---1"
       ]
     }
   },
@@ -277898,6 +278078,9 @@
     "script": {
       "drop": [
         "10"
+      ],
+      "exp": [
+        "5"
       ]
     }
   },
@@ -277978,6 +278161,9 @@
         "GRADE[me==B]===30"
       ],
       "drop": [
+        "GRADE[me==A]===10"
+      ],
+      "exp": [
         "GRADE[me==A]===10"
       ]
     }
@@ -278079,6 +278265,9 @@
         "GRADE[me==A]1---2"
       ],
       "drop": [
+        "EQUIP[6th Anniversary Ayothaya Ring-LT]GRADE[me==A]===10"
+      ],
+      "exp": [
         "EQUIP[6th Anniversary Ayothaya Ring-LT]GRADE[me==A]===10"
       ]
     }
@@ -278930,6 +279119,9 @@
       ],
       "sp": [
         "level:1---2"
+      ],
+      "exp": [
+        "10"
       ]
     }
   },
@@ -280375,7 +280567,7 @@
     "unidName": null,
     "resName": "Core_Of_Element",
     "unidResName": null,
-    "description": "A magic book found in the Demon King's Castle containing the essence of elemental magic.\nMATK +230.\nSPL +10, and increases Fire Bolt, Cold Bolt, and Lightning Bolt damage by 30%.\nIncreases the fixed cast time of Fire Bolt, Cold Bolt, and Lightning Bolt by 2.5 sec.\nFor every 2 Refine, increases Fire Bolt, Cold Bolt, and Lightning Bolt damage by 20%.\nFor every 3 Refine, increases attack speed (reduces after-attack delay by 2%), and increases Diamond Storm and Terra Drive damage by 5%.\nAt +7 Refine, additionally increases Fire Bolt, Cold Bolt, and Lightning Bolt damage by 40%.\nAt +9 Refine, additionally increases Fire Bolt, Cold Bolt, and Lightning Bolt damage by 50%.\nAt +11 Refine, increases Water, Wind, Fire, and Earth magic damage by 15%.\nAt +12 Refine, ASPD +1, and increases Diamond Storm and Terra Drive damage by 10%.\n^ffffff_^000000\nWhen equipped with Elementality Robe, MATK +10%, MATK +75, and increases magic damage against all sizes by 15%. If Diamond Storm and Terra Drive are both learned at Level 5 or higher, there is a 7% chance when physically attacking to trigger an additional effect for 10 sec.\n^8041D9[Additional Effect]^000000\nSPL +45, and when performing normal melee physical attacks, a 5% chance to cast Diamond Storm Lv. 5 and Terra Drive Lv. 5.\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] SPL +12, Fire, Water, Wind, and Earth magic damage +10%.\n[C Grade] MATK +7%, Diamond Storm damage +10%.\n[B Grade] ASPD +1, Terra Drive damage +10%.\n[A Grade] For every 3 Refine, S.MATK +4.\nType: ^777777Book^000000 Attack: ^777777100^000000\nWeight: ^777777120^000000\nWeapon Level: ^7777775^000000\nRequired Level: ^777777235^000000\nClass: ^777777Elemental Master^000000",
+    "description": "A magic book found in the Demon King's Castle containing the essence of elemental magic.\nMATK +230.\nSPL +10, and increases Fire Bolt, Cold Bolt, and Lightening Bolt damage by 30%.\nIncreases the fixed cast time of Fire Bolt, Cold Bolt, and Lightening Bolt by 2.5 sec.\nFor every 2 Refine, increases Fire Bolt, Cold Bolt, and Lightening Bolt damage by 20%.\nFor every 3 Refine, increases attack speed (reduces after-attack delay by 2%), and increases Diamond Storm and Terra Drive damage by 5%.\nAt +7 Refine, additionally increases Fire Bolt, Cold Bolt, and Lightening Bolt damage by 40%.\nAt +9 Refine, additionally increases Fire Bolt, Cold Bolt, and Lightening Bolt damage by 50%.\nAt +11 Refine, increases Water, Wind, Fire, and Earth magic damage by 15%.\nAt +12 Refine, ASPD +1, and increases Diamond Storm and Terra Drive damage by 10%.\n^ffffff_^000000\nWhen equipped with Elementality Robe, MATK +10%, MATK +75, and increases magic damage against all sizes by 15%. If Diamond Storm and Terra Drive are both learned at Level 5 or higher, there is a 7% chance when physically attacking to trigger an additional effect for 10 sec.\n^8041D9[Additional Effect]^000000\nSPL +45, and when performing normal melee physical attacks, a 5% chance to cast Diamond Storm Lv. 5 and Terra Drive Lv. 5.\n^ffffff_^000000\n^CC3D3D[Additional Options by Grade]^000000\n[D Grade] SPL +12, Fire, Water, Wind, and Earth magic damage +10%.\n[C Grade] MATK +7%, Diamond Storm damage +10%.\n[B Grade] ASPD +1, Terra Drive damage +10%.\n[A Grade] For every 3 Refine, S.MATK +4.\nType: ^777777Book^000000 Attack: ^777777100^000000\nWeight: ^777777120^000000\nWeapon Level: ^7777775^000000\nRequired Level: ^777777235^000000\nClass: ^777777Elemental Master^000000",
     "slots": 2,
     "itemTypeId": 1,
     "itemSubTypeId": 271,
@@ -280411,7 +280603,7 @@
         "7===40",
         "9===50"
       ],
-      "Lightning Bolt": [
+      "Lightening Bolt": [
         "30",
         "2---20",
         "7===40",
@@ -280744,6 +280936,9 @@
     "canGrade": false,
     "script": {
       "drop": [
+        "10"
+      ],
+      "exp": [
         "10"
       ]
     }
@@ -281538,6 +281733,9 @@
     "script": {
       "allStatus": [
         "level:50---1"
+      ],
+      "exp": [
+        "EQUIP[Ragnarok Stars 2026 Ring (Right)]===5"
       ]
     }
   },
@@ -282150,6 +282348,9 @@
       ],
       "matk": [
         "level:5---2"
+      ],
+      "exp": [
+        "EQUIP[Ragnarok Stars 2025 Ring]===5"
       ]
     }
   },
@@ -282598,6 +282799,11 @@
       ],
       "m_class_all": [
         "GRADE[boot==A]2---3"
+      ],
+      "exp": [
+        "2---2",
+        "11===10",
+        "GRADE[me==B]===10"
       ]
     }
   },
@@ -283231,6 +283437,9 @@
       ],
       "sp": [
         "level:1---2"
+      ],
+      "exp": [
+        "10"
       ]
     }
   },
@@ -284758,7 +284967,7 @@
     "compositionPos": 65535,
     "canGrade": false,
     "script": {
-      "mspPercent": [
+      "spPercent": [
         "SUM[level==240]SUM[wis==10]---1",
         "SUM[wis==110]LEVEL[240]===-1"
       ]
@@ -285092,6 +285301,9 @@
       ],
       "m_class_boss": [
         "15"
+      ],
+      "exp": [
+        "LEVEL[1-199]===10"
       ]
     }
   },
@@ -285173,7 +285385,7 @@
     "unidName": null,
     "resName": "Ring_Of_Brave",
     "unidResName": null,
-    "description": "แหวนที่สั่นพ้องกับ Furious Weapon เพื่อปลุกพลังที่หลับใหลภายใน\nMATK + 100\nลด Global Cooldown 10%\nSPL + 10\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Furious Grimoire,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 40%,\nเพิ่ม Damage สกิล Diamond Storm, Terra Drive 20%\n\nเมื่อ Furious Grimoire มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 40%,\nเพิ่ม Damage สกิล Diamond Storm, Terra Drive 20%\n\nเมื่อ Furious Grimoire มี Grade C ขึ้นไป,\nS.MATK + 10,\nลด Cooldown สกิล Terra Drive, Diamond Storm 0.4 วินาที,\nเพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 40%,\nเพิ่ม Damage สกิล Diamond Storm, Terra Drive 20%\n\nเมื่อ Furious Grimoire มี Grade B ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ธาตุ Fire, Water, Wind, Earth 20%,\nเมื่อโจมตีทางกายภาพ มีโอกาส 15% ที่จะ Auto Spell สกิล Fire Bolt, Cold Bolt, Lightning Bolt, Earth Spike และ Elemental Buster Lv.1 (เอฟเฟกต์นี้จะทำงานเมื่อกำลังอัญเชิญ Advanced Elemental Spirit อยู่ และเมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด)\nเพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 40%,\nเพิ่ม Damage สกิล Diamond Storm, Terra Drive 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Elemental Master^000000",
+    "description": "แหวนที่สั่นพ้องกับ Furious Weapon เพื่อปลุกพลังที่หลับใหลภายใน\nMATK + 100\nลด Global Cooldown 10%\nSPL + 10\nลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%\n\nเมื่อสวมใส่ร่วมกับ Furious Grimoire,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,\nเพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt 40%,\nเพิ่ม Damage สกิล Diamond Storm, Terra Drive 20%\n\nเมื่อ Furious Grimoire มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,\nเพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt 40%,\nเพิ่ม Damage สกิล Diamond Storm, Terra Drive 20%\n\nเมื่อ Furious Grimoire มี Grade C ขึ้นไป,\nS.MATK + 10,\nลด Cooldown สกิล Terra Drive, Diamond Storm 0.4 วินาที,\nเพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt 40%,\nเพิ่ม Damage สกิล Diamond Storm, Terra Drive 20%\n\nเมื่อ Furious Grimoire มี Grade B ขึ้นไป,\nเพิ่ม Damage ทางเวทมนตร์ธาตุ Fire, Water, Wind, Earth 20%,\nเมื่อโจมตีทางกายภาพ มีโอกาส 15% ที่จะ Auto Spell สกิล Fire Bolt, Cold Bolt, Lightening Bolt, Earth Spike และ Elemental Buster Lv.1 (เอฟเฟกต์นี้จะทำงานเมื่อกำลังอัญเชิญ Advanced Elemental Spirit อยู่ และเมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด)\nเพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightening Bolt 40%,\nเพิ่ม Damage สกิล Diamond Storm, Terra Drive 20%\nประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000\nน้ำหนัก : ^77777720^000000\nเลเวลที่ต้องการ : ^777777205^000000\nอาชีพที่ใส่ได้ : ^777777Elemental Master^000000",
     "slots": 1,
     "itemTypeId": 2,
     "itemSubTypeId": 510,
@@ -285219,7 +285431,7 @@
         "EQUIP[Furious Grimoire]GRADE[weapon==C]===40",
         "EQUIP[Furious Grimoire]GRADE[weapon==B]===40"
       ],
-      "Lightning Bolt": [
+      "Lightening Bolt": [
         "EQUIP[Furious Grimoire]===40",
         "EQUIP[Furious Grimoire]REFINE[weapon==10]===40",
         "EQUIP[Furious Grimoire]GRADE[weapon==C]===40",
@@ -291385,6 +291597,9 @@
       ],
       "matkPercent": [
         "EQUIP[Elven Ear||Baby Deviling||Black Devil's Mask||Robo Eye]SUM[luk==13]---1"
+      ],
+      "exp": [
+        "EQUIP[Elven Ear||Baby Deviling||Black Devil's Mask||Robo Eye]===8"
       ]
     }
   },
@@ -293175,6 +293390,12 @@
       ],
       "m_class_boss": [
         "EQUIP[Celine Kimi Card]===30"
+      ],
+      "exp": [
+        "GRADE[me==B]===8"
+      ],
+      "chance__exp": [
+        "13===10"
       ]
     }
   },
@@ -293201,7 +293422,58 @@
     "usableClass": [
       "all"
     ],
-    "script": {}
+    "script": {
+      "exp_race_plant": [
+        "EQUIP[Alnoldi Card]===5",
+        "EQUIP[Alnoldi Card]REFINE[7]===5",
+        "EQUIP[Alnoldi Card]REFINE[9]===5"
+      ],
+      "exp_race_angel": [
+        "EQUIP[Anubis Card]===5",
+        "EQUIP[Anubis Card]REFINE[7]===5",
+        "EQUIP[Anubis Card]REFINE[9]===5"
+      ],
+      "exp_race_brute": [
+        "EQUIP[Orc Warrior Card]===5",
+        "EQUIP[Orc Warrior Card]REFINE[7]===5",
+        "EQUIP[Orc Warrior Card]REFINE[9]===5"
+      ],
+      "exp_race_demon": [
+        "EQUIP[Khalitzburg Card]===5",
+        "EQUIP[Khalitzburg Card]REFINE[7]===5",
+        "EQUIP[Khalitzburg Card]REFINE[9]===5"
+      ],
+      "exp_race_dragon": [
+        "EQUIP[Sky Petite Card]===5",
+        "EQUIP[Sky Petite Card]REFINE[7]===5",
+        "EQUIP[Sky Petite Card]REFINE[9]===5"
+      ],
+      "exp_race_demihuman": [
+        "EQUIP[Thara Frog Card]===5",
+        "EQUIP[Thara Frog Card]REFINE[7]===5",
+        "EQUIP[Thara Frog Card]REFINE[9]===5"
+      ],
+      "exp_race_insect": [
+        "EQUIP[Bigfoot Card]===5",
+        "EQUIP[Bigfoot Card]REFINE[7]===5",
+        "EQUIP[Bigfoot Card]REFINE[9]===5"
+      ],
+      "exp_race_undead": [
+        "EQUIP[Teddy Bear Card]===5",
+        "EQUIP[Teddy Bear Card]REFINE[7]===5",
+        "EQUIP[Teddy Bear Card]REFINE[9]===5"
+      ],
+      "exp_race_formless": [
+        "EQUIP[Penomena Card]===5",
+        "EQUIP[Penomena Card]REFINE[7]===5",
+        "EQUIP[Penomena Card]REFINE[9]===5"
+      ],
+      "exp_race_fish": [
+        "EQUIP[Rafflesia Card]===5",
+        "EQUIP[Rafflesia Card]REFINE[7]===5",
+        "EQUIP[Rafflesia Card]REFINE[9]===5"
+      ]
+    }
   },
   "460076": {
     "id": 460076,
@@ -293238,6 +293510,60 @@
       ],
       "m_size_all": [
         "GRADE[me==C]2---1"
+      ],
+      "exp_race_plant": [
+        "EQUIP[Alnoldi Card]===5",
+        "EQUIP[Alnoldi Card]REFINE[8]===5",
+        "EQUIP[Alnoldi Card]REFINE[11]===5"
+      ],
+      "exp_race_angel": [
+        "EQUIP[Anubis Card]===5",
+        "EQUIP[Anubis Card]REFINE[8]===5",
+        "EQUIP[Anubis Card]REFINE[11]===5"
+      ],
+      "exp_race_brute": [
+        "EQUIP[Orc Warrior Card]===5",
+        "EQUIP[Orc Warrior Card]REFINE[8]===5",
+        "EQUIP[Orc Warrior Card]REFINE[11]===5"
+      ],
+      "exp_race_demon": [
+        "EQUIP[Khalitzburg Card]===5",
+        "EQUIP[Khalitzburg Card]REFINE[8]===5",
+        "EQUIP[Khalitzburg Card]REFINE[11]===5"
+      ],
+      "exp_race_dragon": [
+        "EQUIP[Sky Petite Card]===5",
+        "EQUIP[Sky Petite Card]REFINE[8]===5",
+        "EQUIP[Sky Petite Card]REFINE[11]===5"
+      ],
+      "exp_race_demihuman": [
+        "EQUIP[Thara Frog Card]===5",
+        "EQUIP[Thara Frog Card]REFINE[8]===5",
+        "EQUIP[Thara Frog Card]REFINE[11]===5"
+      ],
+      "exp_race_insect": [
+        "EQUIP[Bigfoot Card]===5",
+        "EQUIP[Bigfoot Card]REFINE[8]===5",
+        "EQUIP[Bigfoot Card]REFINE[11]===5"
+      ],
+      "exp_race_undead": [
+        "EQUIP[Teddy Bear Card]===5",
+        "EQUIP[Teddy Bear Card]REFINE[8]===5",
+        "EQUIP[Teddy Bear Card]REFINE[11]===5"
+      ],
+      "exp_race_formless": [
+        "EQUIP[Penomena Card]===5",
+        "EQUIP[Penomena Card]REFINE[8]===5",
+        "EQUIP[Penomena Card]REFINE[11]===5"
+      ],
+      "exp_race_fish": [
+        "EQUIP[Rafflesia Card]===5",
+        "EQUIP[Rafflesia Card]REFINE[8]===5",
+        "EQUIP[Rafflesia Card]REFINE[11]===5"
+      ],
+      "exp": [
+        "GRADE[me==D]===5",
+        "GRADE[me==B]===5"
       ]
     }
   },
@@ -294031,6 +294357,9 @@
       ],
       "drop": [
         "10"
+      ],
+      "exp": [
+        "10"
       ]
     }
   },
@@ -294307,6 +294636,9 @@
       ],
       "drop": [
         "10"
+      ],
+      "exp": [
+        "10"
       ]
     }
   },
@@ -294415,6 +294747,9 @@
       ],
       "m_size_all": [
         "13===20"
+      ],
+      "exp": [
+        "10"
       ]
     }
   },
@@ -296076,6 +296411,9 @@
       ],
       "m_size_all": [
         "20"
+      ],
+      "exp": [
+        "30"
       ]
     }
   },
@@ -296275,6 +296613,9 @@
       ],
       "m_pene_race_all": [
         "100"
+      ],
+      "exp": [
+        "20"
       ]
     }
   },
@@ -296348,6 +296689,9 @@
       ],
       "m_element_water": [
         "20"
+      ],
+      "exp": [
+        "3"
       ]
     }
   },
@@ -296383,6 +296727,9 @@
       ],
       "m_element_fire": [
         "20"
+      ],
+      "exp": [
+        "3"
       ]
     }
   },
@@ -296418,6 +296765,9 @@
       ],
       "m_element_undead": [
         "20"
+      ],
+      "exp": [
+        "3"
       ]
     }
   },
@@ -296453,6 +296803,9 @@
       ],
       "m_element_earth": [
         "20"
+      ],
+      "exp": [
+        "3"
       ]
     }
   },
@@ -296481,6 +296834,9 @@
     ],
     "script": {
       "drop": [
+        "20"
+      ],
+      "exp": [
         "20"
       ]
     }
@@ -299113,6 +299469,9 @@
       ],
       "matk": [
         "LEARN_SKILL[Overcharge==10]===50"
+      ],
+      "exp": [
+        "15"
       ]
     }
   },
@@ -299570,6 +299929,9 @@
       ],
       "m_my_element_all": [
         "10"
+      ],
+      "exp": [
+        "20"
       ]
     }
   },
@@ -299986,6 +300348,10 @@
         "GRADE[me==B]===10"
       ],
       "drop": [
+        "EQUIP[Exotic Temporal Boots-LT]GRADE[boot==A]===10",
+        "GRADE[me==A]===10"
+      ],
+      "exp": [
         "EQUIP[Exotic Temporal Boots-LT]GRADE[boot==A]===10",
         "GRADE[me==A]===10"
       ]
@@ -300935,6 +301301,9 @@
     "script": {
       "drop": [
         "5"
+      ],
+      "exp": [
+        "5"
       ]
     }
   },
@@ -301587,6 +301956,9 @@
       ],
       "allTrait": [
         "10"
+      ],
+      "exp": [
+        "10"
       ]
     }
   },
@@ -301654,6 +302026,9 @@
     "script": {
       "drop": [
         "EQUIP[Costume Riko Minimi]===10"
+      ],
+      "exp": [
+        "EQUIP[Costume Vera Minimi]===10"
       ]
     }
   },
@@ -301710,7 +302085,7 @@
       ],
       "Hogogong Strike": [
         "9===20",
-        "LEARN_SKILL[Spirit Of Life==1]===30"
+        "LEARN_SKILL[Sprit Of Life==1]===30"
       ],
       "atkPercent": [
         "11===12"
@@ -301726,7 +302101,7 @@
         "LEARN_SKILL[Spirit Of Land==1]===0.1"
       ],
       "cd__Howling of Chulho": [
-        "LEARN_SKILL[Spirit Of Life==1]===0.5"
+        "LEARN_SKILL[Sprit Of Life==1]===0.5"
       ],
       "range": [
         "LEARN_SKILL[Spirit Of Sea==1]===15"
@@ -301795,7 +302170,7 @@
         "11===50",
         "EQUIP[Sweety Card]REFINE[weapon==1]---25"
       ],
-      "Magazine For One": [
+      "Magazine for One": [
         "9===10",
         "11===10",
         "EQUIP[Sweety Card]REFINE[weapon==1]---3"
@@ -301926,6 +302301,9 @@
       ],
       "m_element_all": [
         "GRADE[me==A]===10"
+      ],
+      "exp": [
+        "1---1"
       ]
     }
   },
@@ -302212,6 +302590,457 @@
     "script": {
       "hit": [
         "-10"
+      ]
+    }
+  },
+  "311921": {
+    "id": 311921,
+    "aegisName": "DefenseTop",
+    "flavorText": null,
+    "name": "Defense Stone (Upper)",
+    "unidName": null,
+    "resName": "마력석_검정",
+    "unidResName": null,
+    "description": "DEF + 20, MDEF + 4\nเมื่อใช้กับ Defense Stone (Middle), Defense Stone (Lower), DEF + 100, MDEF + 25, RES + 5, MRES + 5",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 71,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "def": [
+        "20",
+        "EQUIP[Defense Stone (Middle)&&Defense Stone (Lower)]===100"
+      ],
+      "mdef": [
+        "4",
+        "EQUIP[Defense Stone (Middle)&&Defense Stone (Lower)]===25"
+      ],
+      "res": [
+        "EQUIP[Defense Stone (Middle)&&Defense Stone (Lower)]===5"
+      ],
+      "mres": [
+        "EQUIP[Defense Stone (Middle)&&Defense Stone (Lower)]===5"
+      ]
+    }
+  },
+  "311922": {
+    "id": 311922,
+    "aegisName": "DefenseMiddle",
+    "flavorText": null,
+    "name": "Defense Stone (Middle)",
+    "unidName": null,
+    "resName": "마력석_검정",
+    "unidResName": null,
+    "description": "DEF + 20, MDEF + 4",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 72,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "def": [
+        "20"
+      ],
+      "mdef": [
+        "4"
+      ]
+    }
+  },
+  "311923": {
+    "id": 311923,
+    "aegisName": "DefenseBottom",
+    "flavorText": null,
+    "name": "Defense Stone (Lower)",
+    "unidName": null,
+    "resName": "마력석_검정",
+    "unidResName": null,
+    "description": "DEF + 20, MDEF + 4",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 73,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "def": [
+        "20"
+      ],
+      "mdef": [
+        "4"
+      ]
+    }
+  },
+  "311924": {
+    "id": 311924,
+    "aegisName": "ResistDef_Robe",
+    "flavorText": null,
+    "name": "Resist Defense Stone (Garment)",
+    "unidName": null,
+    "resName": "투명한보석",
+    "unidResName": null,
+    "description": "DEF + 100, MDEF + 25, RES + 20, MRES + 20\nเมื่อใช้กับ Defense Stone (Upper), Defense Stone (Middle), Defense Stone (Lower), RES + 10, MRES + 10\nเมื่อใช้กับ Stamina Wisdom Stone (Dual), RES + 15, MRES + 15",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 74,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "def": [
+        "100"
+      ],
+      "mdef": [
+        "25"
+      ],
+      "res": [
+        "20",
+        "EQUIP[Defense Stone (Upper)&&Defense Stone (Middle)&&Defense Stone (Lower)]===10",
+        "EQUIP[Stamina Wisdom Stone (Dual)]===15"
+      ],
+      "mres": [
+        "20",
+        "EQUIP[Defense Stone (Upper)&&Defense Stone (Middle)&&Defense Stone (Lower)]===10",
+        "EQUIP[Stamina Wisdom Stone (Dual)]===15"
+      ]
+    }
+  },
+  "311925": {
+    "id": 311925,
+    "aegisName": "StaminaWIS_Robe_D",
+    "flavorText": null,
+    "name": "Stamina Wisdom Stone (Dual)",
+    "unidName": null,
+    "resName": "초록색보석",
+    "unidResName": null,
+    "description": "STA + 5, WIS + 5",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 76,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 65535,
+    "canGrade": false,
+    "script": {
+      "sta": [
+        "5"
+      ],
+      "wis": [
+        "5"
+      ]
+    }
+  },
+  "4515": {
+    "id": 4515,
+    "aegisName": "Alnoldi_Card",
+    "flavorText": null,
+    "name": "Alnoldi Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ลดพลังโจมตีจากมอนสเตอร์ธาตุ Plant 30%\nประเภท : ^777777Card^000000\nบริเวณที่สวมใส่ : ^777777Shield^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 32,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
+  },
+  "4138": {
+    "id": 4138,
+    "aegisName": "Anubis_Card",
+    "flavorText": null,
+    "name": "Anubis Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ลดพลังโจมตีของ Monster Race Angel 30%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Shield^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 32,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
+  },
+  "4074": {
+    "id": 4074,
+    "aegisName": "BigFoot_Card",
+    "flavorText": null,
+    "name": "Bigfoot Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ลดพลังโจมตีของ Monster Race Insect 30%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Shield^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 32,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
+  },
+  "4136": {
+    "id": 4136,
+    "aegisName": "Khalitzburg_Card",
+    "flavorText": null,
+    "name": "Khalitzburg Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ลดพลังโจมตีของ Monster Race Demon 30%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Shield^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 32,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
+  },
+  "4066": {
+    "id": 4066,
+    "aegisName": "Orc_Warrior_Card",
+    "flavorText": null,
+    "name": "Orc Warrior Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ลดพลังโจมตีของ Monster Race Brute 30%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Shield^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 32,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
+  },
+  "4314": {
+    "id": 4314,
+    "aegisName": "Penomena_Card",
+    "flavorText": null,
+    "name": "Penomena Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ลดพลังโจมตี 30 % จาก Monster Sharpless\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Shield^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 32,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
+  },
+  "4083": {
+    "id": 4083,
+    "aegisName": "Rafflesia_Card",
+    "flavorText": null,
+    "name": "Rafflesia Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ลดพลังโจมตีของ Monster Race Fish 30%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Shield^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 32,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
+  },
+  "4120": {
+    "id": 4120,
+    "aegisName": "Petit__Card",
+    "flavorText": null,
+    "name": "Sky Petite Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ลดพลังโจมตีของ Monster Race Dragon 30%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Shield^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 32,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
+  },
+  "4340": {
+    "id": 4340,
+    "aegisName": "Teddy_Bear_Card",
+    "flavorText": null,
+    "name": "Teddy Bear Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ป้องกันความเสียหายจากมอนสเตอร์\nประเภท Undead 30%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Shield^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 32,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
+  },
+  "4058": {
+    "id": 4058,
+    "aegisName": "Thara_Frog_Card",
+    "flavorText": null,
+    "name": "Thara Frog Card",
+    "unidName": null,
+    "resName": "이름없는카드",
+    "unidResName": null,
+    "description": "ลดพลังโจมตีของ Monster Race Demi-Human 30%\nประเภท : ^777777Card^000000\nใช้กับ : ^777777Shield^000000\nน้ำหนัก : ^7777771^000000",
+    "slots": 0,
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 1,
+    "requiredLevel": null,
+    "location": null,
+    "compositionPos": 32,
+    "canGrade": false,
+    "usableClass": [
+      "all"
+    ],
+    "script": {}
+  },
+  "480177": {
+    "id": 480177,
+    "aegisName": "C_Clutch_Bouquet",
+    "flavorText": null,
+    "name": "Costume Clutch Bouquet",
+    "unidName": null,
+    "resName": "C_Clutch_Bouquet",
+    "unidResName": null,
+    "description": "ช่อทิวลิปสีแดงและสีเหลือง\nประดับด้วยริบบิ้นผืนใหญ่ที่ผูกช่อดอกไม้เอาไว้ เพิ่มความโดดเด่นและเสน่ห์ให้กับช่อดอกไม้นี้\n\n[ความสามารถพิเศษจำกัดเวลา]\nเพิ่มความเร็วในการเคลื่อนที่,\nATK / MATK + 88,\nเพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 15% (ยกเว้น Player),\nเพิ่มค่าประสบการณ์ที่ได้รับเมื่อกำจัดมอนสเตอร์ 15%\nเมื่อกำจัดมอนสเตอร์ มีโอกาส 0.5% ที่จะดรอป KRATHONG\n\n(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 16 ธันวาคม 2569)\n\nประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000\nตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000\nเลเวลที่ต้องการ : ^7777771^000000\nอาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000",
+    "slots": 0,
+    "itemTypeId": 9,
+    "itemSubTypeId": 522,
+    "itemLevel": null,
+    "attack": 0,
+    "defense": 0,
+    "weight": 0,
+    "requiredLevel": 1,
+    "location": null,
+    "compositionPos": null,
+    "canGrade": false,
+    "script": {
+      "atk": [
+        "88"
+      ],
+      "matk": [
+        "88"
+      ],
+      "p_race_all": [
+        "15"
+      ],
+      "m_race_all": [
+        "15"
+      ],
+      "exp": [
+        "15"
       ]
     }
   }
